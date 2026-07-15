@@ -1,0 +1,725 @@
+{
+  "phrases": [
+    {
+      "english": "Little by little, the bird builds its nest.",
+      "FRENCH": "Petit à petit, l'oiseau fait son nid.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002178"
+    },
+    {
+      "english": "Start today, not tomorrow.",
+      "FRENCH": "Commence aujourd'hui, pas demain.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002189"
+    },
+    {
+      "english": "Don't be afraid, try.",
+      "FRENCH": "N'aie pas peur, essaie.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002191"
+    },
+    {
+      "english": "Every day, learn something new.",
+      "FRENCH": "Chaque jour, apprends quelque chose.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002193"
+    },
+    {
+      "english": "Small steps, big progress.",
+      "FRENCH": "Petits pas, grands progrès.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002194"
+    },
+    {
+      "english": "Keep pushing forward, always.",
+      "FRENCH": "Continue d'avancer, toujours.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002195"
+    },
+    {
+      "english": "Believe in yourself, you can.",
+      "FRENCH": "Crois en toi, tu peux.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002197"
+    },
+    {
+      "english": "Mistakes are lessons, embrace them.",
+      "FRENCH": "Les erreurs sont des leçons, accepte-les.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002199"
+    },
+    {
+      "english": "It's never too late to begin.",
+      "FRENCH": "Il n'est jamais trop tard pour commencer.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002201"
+    },
+    {
+      "english": "Practice makes perfect, really.",
+      "FRENCH": "La pratique rend parfait, vraiment.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002202"
+    },
+    {
+      "english": "Your effort counts, a lot.",
+      "FRENCH": "Ton effort compte, beaucoup.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002203"
+    },
+    {
+      "english": "Be patient, results will come.",
+      "FRENCH": "Sois patient, les résultats viendront.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002205"
+    },
+    {
+      "english": "Focus on one thing, then next.",
+      "FRENCH": "Concentre-toi sur une chose, puis la suivante.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002206"
+    },
+    {
+      "english": "Learn from setbacks, grow stronger.",
+      "FRENCH": "Apprends des échecs, deviens plus fort.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002207"
+    },
+    {
+      "english": "Don't give up, keep trying.",
+      "FRENCH": "N'abandonne pas, continue d'essayer.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002208"
+    },
+    {
+      "english": "Every challenge, an opportunity.",
+      "FRENCH": "Chaque défi, une opportunité.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002210"
+    },
+    {
+      "english": "Your progress is visible, even small.",
+      "FRENCH": "Tes progrès sont visibles, même petits.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002211"
+    },
+    {
+      "english": "Work smart, not just hard.",
+      "FRENCH": "Travaille intelligemment, pas seulement dur.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002212"
+    },
+    {
+      "english": "Be consistent, see the difference.",
+      "FRENCH": "Sois constant, vois la différence.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002217"
+    },
+    {
+      "english": "Adapt and overcome, always.",
+      "FRENCH": "Adapte-toi et surmonte, toujours.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002218"
+    },
+    {
+      "english": "Small wins, big momentum.",
+      "FRENCH": "Petites victoires, grand élan.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002219"
+    },
+    {
+      "english": "Embrace the learning curve.",
+      "FRENCH": "Accepte la courbe d'apprentissage.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002220"
+    },
+    {
+      "english": "Focus on improvement, daily.",
+      "FRENCH": "Concentre-toi sur l'amélioration, chaque jour.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002221"
+    },
+    {
+      "english": "You are capable, believe it.",
+      "FRENCH": "Tu es capable, crois-le.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002222"
+    },
+    {
+      "english": "Keep the goal in mind.",
+      "FRENCH": "Garde le but en tête.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002223"
+    },
+    {
+      "english": "Every effort is a step forward.",
+      "FRENCH": "Chaque effort est un pas en avant.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002225"
+    },
+    {
+      "english": "Don't fear the unknown, explore.",
+      "FRENCH": "Ne crains pas l'inconnu, explore.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002226"
+    },
+    {
+      "english": "Build your future, brick by brick.",
+      "FRENCH": "Construis ton avenir, brique par brique.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002227"
+    },
+    {
+      "english": "Persistence pays off, always.",
+      "FRENCH": "La persistance paie, toujours.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002228"
+    },
+    {
+      "english": "Learn from others, then lead.",
+      "FRENCH": "Apprends des autres, puis mène.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002230"
+    },
+    {
+      "english": "Embrace the process, enjoy it.",
+      "FRENCH": "Accepte le processus, savoure-le.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002231"
+    },
+    {
+      "english": "Small changes, big impact.",
+      "FRENCH": "Petits changements, grand impact.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002232"
+    },
+    {
+      "english": "Your journey, your pace.",
+      "FRENCH": "Ton voyage, ton rythme.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002233"
+    },
+    {
+      "english": "Keep learning, stay curious.",
+      "FRENCH": "Continue d'apprendre, reste curieux.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002234"
+    },
+    {
+      "english": "Push your boundaries, gently.",
+      "FRENCH": "Dépasse tes limites, doucement.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002237"
+    },
+    {
+      "english": "Focus on progress, not perfection.",
+      "FRENCH": "Concentre-toi sur le progrès, pas la perfection.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002239"
+    },
+    {
+      "english": "Each day is a new chance.",
+      "FRENCH": "Chaque jour est une nouvelle chance.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002240"
+    },
+    {
+      "english": "Don't be afraid to ask.",
+      "FRENCH": "N'aie pas peur de demander.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002241"
+    },
+    {
+      "english": "You are growing, feel it.",
+      "FRENCH": "Tu grandis, sens-le.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002242"
+    },
+    {
+      "english": "Keep moving, forward.",
+      "FRENCH": "Continue d'avancer, en avant.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002243"
+    },
+    {
+      "english": "Little by little, the bird builds its nest.",
+      "FRENCH": "Petit à petit, l'oiseau fait son nid.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002244"
+    },
+    {
+      "english": "Start today, not tomorrow.",
+      "FRENCH": "Commence aujourd'hui, pas demain.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002245"
+    },
+    {
+      "english": "Don't be afraid, try.",
+      "FRENCH": "N'aie pas peur, essaie.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002246"
+    },
+    {
+      "english": "Every day, learn something new.",
+      "FRENCH": "Chaque jour, apprends quelque chose.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002247"
+    },
+    {
+      "english": "Small steps, big progress.",
+      "FRENCH": "Petits pas, grands progrès.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002248"
+    },
+    {
+      "english": "Keep pushing forward, always.",
+      "FRENCH": "Continue d'avancer, toujours.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002249"
+    },
+    {
+      "english": "Believe in yourself, you can.",
+      "FRENCH": "Crois en toi, tu peux.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002250"
+    },
+    {
+      "english": "Mistakes are lessons, embrace them.",
+      "FRENCH": "Les erreurs sont des leçons, accepte-les.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002251"
+    },
+    {
+      "english": "It's never too late to begin.",
+      "FRENCH": "Il n'est jamais trop tard pour commencer.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002252"
+    },
+    {
+      "english": "Practice makes perfect, really.",
+      "FRENCH": "La pratique rend parfait, vraiment.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002253"
+    },
+    {
+      "english": "Your effort counts, a lot.",
+      "FRENCH": "Ton effort compte, beaucoup.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002254"
+    },
+    {
+      "english": "Be patient, results will come.",
+      "FRENCH": "Sois patient, les résultats viendront.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002255"
+    },
+    {
+      "english": "Focus on one thing, then next.",
+      "FRENCH": "Concentre-toi sur une chose, puis la suivante.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002256"
+    },
+    {
+      "english": "Learn from setbacks, grow stronger.",
+      "FRENCH": "Apprends des échecs, deviens plus fort.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002258"
+    },
+    {
+      "english": "Don't give up, keep trying.",
+      "FRENCH": "N'abandonne pas, continue d'essayer.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002259"
+    },
+    {
+      "english": "Every challenge, an opportunity.",
+      "FRENCH": "Chaque défi, une opportunité.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002260"
+    },
+    {
+      "english": "Your progress is visible, even small.",
+      "FRENCH": "Tes progrès sont visibles, même petits.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002261"
+    },
+    {
+      "english": "Work smart, not just hard.",
+      "FRENCH": "Travaille intelligemment, pas seulement dur.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002262"
+    },
+    {
+      "english": "Be consistent, see the difference.",
+      "FRENCH": "Sois constant, vois la différence.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002263"
+    },
+    {
+      "english": "Adapt and overcome, always.",
+      "FRENCH": "Adapte-toi et surmonte, toujours.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002264"
+    },
+    {
+      "english": "Small wins, big momentum.",
+      "FRENCH": "Petites victoires, grand élan.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002265"
+    },
+    {
+      "english": "Embrace the learning curve.",
+      "FRENCH": "Accepte la courbe d'apprentissage.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002266"
+    },
+    {
+      "english": "Focus on improvement, daily.",
+      "FRENCH": "Concentre-toi sur l'amélioration, chaque jour.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002267"
+    },
+    {
+      "english": "You are capable, believe it.",
+      "FRENCH": "Tu es capable, crois-le.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002268"
+    },
+    {
+      "english": "Keep the goal in mind.",
+      "FRENCH": "Garde le but en tête.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002269"
+    },
+    {
+      "english": "Every effort is a step forward.",
+      "FRENCH": "Chaque effort est un pas en avant.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002271"
+    },
+    {
+      "english": "Don't fear the unknown, explore.",
+      "FRENCH": "Ne crains pas l'inconnu, explore.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002274"
+    },
+    {
+      "english": "Build your future, brick by brick.",
+      "FRENCH": "Construis ton avenir, brique par brique.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002275"
+    },
+    {
+      "english": "Persistence pays off, always.",
+      "FRENCH": "La persistance paie, toujours.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002276"
+    },
+    {
+      "english": "Learn from others, then lead.",
+      "FRENCH": "Apprends des autres, puis mène.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002277"
+    },
+    {
+      "english": "Embrace the process, enjoy it.",
+      "FRENCH": "Accepte le processus, savoure-le.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002280"
+    },
+    {
+      "english": "Small changes, big impact.",
+      "FRENCH": "Petits changements, grand impact.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002282"
+    },
+    {
+      "english": "Your journey, your pace.",
+      "FRENCH": "Ton voyage, ton rythme.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002283"
+    },
+    {
+      "english": "Keep learning, stay curious.",
+      "FRENCH": "Continue d'apprendre, reste curieux.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002284"
+    },
+    {
+      "english": "Push your boundaries, gently.",
+      "FRENCH": "Dépasse tes limites, doucement.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002285"
+    },
+    {
+      "english": "Focus on progress, not perfection.",
+      "FRENCH": "Concentre-toi sur le progrès, pas la perfection.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002286"
+    },
+    {
+      "english": "Each day is a new chance.",
+      "FRENCH": "Chaque jour est une nouvelle chance.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002287"
+    },
+    {
+      "english": "Don't be afraid to ask.",
+      "FRENCH": "N'aie pas peur de demander.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002288"
+    },
+    {
+      "english": "You are growing, feel it.",
+      "FRENCH": "Tu grandis, sens-le.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002289"
+    },
+    {
+      "english": "Keep moving, forward.",
+      "FRENCH": "Continue d'avancer, en avant.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002290"
+    },
+    {
+      "english": "Little by little, the bird builds its nest.",
+      "FRENCH": "Petit à petit, l'oiseau fait son nid.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002291"
+    },
+    {
+      "english": "Start today, not tomorrow.",
+      "FRENCH": "Commence aujourd'hui, pas demain.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002292"
+    },
+    {
+      "english": "Don't be afraid, try.",
+      "FRENCH": "N'aie pas peur, essaie.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002293"
+    },
+    {
+      "english": "Every day, learn something new.",
+      "FRENCH": "Chaque jour, apprends quelque chose.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002294"
+    },
+    {
+      "english": "Small steps, big progress.",
+      "FRENCH": "Petits pas, grands progrès.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002295"
+    },
+    {
+      "english": "Keep pushing forward, always.",
+      "FRENCH": "Continue d'avancer, toujours.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002295"
+    },
+    {
+      "english": "Believe in yourself, you can.",
+      "FRENCH": "Crois en toi, tu peux.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002296"
+    },
+    {
+      "english": "Mistakes are lessons, embrace them.",
+      "FRENCH": "Les erreurs sont des leçons, accepte-les.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002297"
+    },
+    {
+      "english": "It's never too late to begin.",
+      "FRENCH": "Il n'est jamais trop tard pour commencer.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002298"
+    },
+    {
+      "english": "Practice makes perfect, really.",
+      "FRENCH": "La pratique rend parfait, vraiment.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002299"
+    },
+    {
+      "english": "Your effort counts, a lot.",
+      "FRENCH": "Ton effort compte, beaucoup.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002300"
+    },
+    {
+      "english": "Be patient, results will come.",
+      "FRENCH": "Sois patient, les résultats viendront.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002301"
+    },
+    {
+      "english": "Focus on one thing, then next.",
+      "FRENCH": "Concentre-toi sur une chose, puis la suivante.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002302"
+    },
+    {
+      "english": "Learn from setbacks, grow stronger.",
+      "FRENCH": "Apprends des échecs, deviens plus fort.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002303"
+    },
+    {
+      "english": "Don't give up, keep trying.",
+      "FRENCH": "N'abandonne pas, continue d'essayer.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002304"
+    },
+    {
+      "english": "Every challenge, an opportunity.",
+      "FRENCH": "Chaque défi, une opportunité.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002305"
+    },
+    {
+      "english": "Your progress is visible, even small.",
+      "FRENCH": "Tes progrès sont visibles, même petits.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002305"
+    },
+    {
+      "english": "Work smart, not just hard.",
+      "FRENCH": "Travaille intelligemment, pas seulement dur.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002306"
+    },
+    {
+      "english": "Be consistent, see the difference.",
+      "FRENCH": "Sois constant, vois la différence.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002310"
+    },
+    {
+      "english": "Adapt and overcome, always.",
+      "FRENCH": "Adapte-toi et surmonte, toujours.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002311"
+    },
+    {
+      "english": "Small wins, big momentum.",
+      "FRENCH": "Petites victoires, grand élan.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002312"
+    },
+    {
+      "english": "Embrace the learning curve.",
+      "FRENCH": "Accepte la courbe d'apprentissage.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002312"
+    },
+    {
+      "english": "Focus on improvement, daily.",
+      "FRENCH": "Concentre-toi sur l'amélioration, chaque jour.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002313"
+    },
+    {
+      "english": "You are capable, believe it.",
+      "FRENCH": "Tu es capable, crois-le.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002314"
+    },
+    {
+      "english": "Keep the goal in mind.",
+      "FRENCH": "Garde le but en tête.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002315"
+    },
+    {
+      "english": "Every effort is a step forward.",
+      "FRENCH": "Chaque effort est un pas en avant.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002316"
+    },
+    {
+      "english": "Don't fear the unknown, explore.",
+      "FRENCH": "Ne crains pas l'inconnu, explore.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002317"
+    },
+    {
+      "english": "Build your future, brick by brick.",
+      "FRENCH": "Construis ton avenir, brique par brique.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002318"
+    },
+    {
+      "english": "Persistence pays off, always.",
+      "FRENCH": "La persistance paie, toujours.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002319"
+    },
+    {
+      "english": "Learn from others, then lead.",
+      "FRENCH": "Apprends des autres, puis mène.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002320"
+    },
+    {
+      "english": "Embrace the process, enjoy it.",
+      "FRENCH": "Accepte le processus, savoure-le.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002321"
+    },
+    {
+      "english": "Small changes, big impact.",
+      "FRENCH": "Petits changements, grand impact.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002322"
+    },
+    {
+      "english": "Your journey, your pace.",
+      "FRENCH": "Ton voyage, ton rythme.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002323"
+    },
+    {
+      "english": "Keep learning, stay curious.",
+      "FRENCH": "Continue d'apprendre, reste curieux.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002323"
+    },
+    {
+      "english": "Push your boundaries, gently.",
+      "FRENCH": "Dépasse tes limites, doucement.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002324"
+    },
+    {
+      "english": "Focus on progress, not perfection.",
+      "FRENCH": "Concentre-toi sur le progrès, pas la perfection.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002325"
+    },
+    {
+      "english": "Each day is a new chance.",
+      "FRENCH": "Chaque jour est une nouvelle chance.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002326"
+    },
+    {
+      "english": "Don't be afraid to ask.",
+      "FRENCH": "N'aie pas peur de demander.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002327"
+    },
+    {
+      "english": "You are growing, feel it.",
+      "FRENCH": "Tu grandis, sens-le.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002328"
+    },
+    {
+      "english": "Keep moving, forward.",
+      "FRENCH": "Continue d'avancer, en avant.",
+      "category": "Growth",
+      "generated_at": "2026-07-15T21:30:49.002329"
+    }
+  ],
+  "last_updated": "2026-07-15T21:30:49.002333"
+}
