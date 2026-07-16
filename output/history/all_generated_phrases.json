@@ -719,7 +719,727 @@
       "FRENCH": "Continue d'avancer, en avant.",
       "category": "Growth",
       "generated_at": "2026-07-15T21:30:49.002329"
+    },
+    {
+      "english": "Sweet dreams, my dear.",
+      "FRENCH": "Fais de beaux rêves, mon amour.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645124"
+    },
+    {
+      "english": "You make me happy.",
+      "FRENCH": "Tu me rends heureux/heureuse.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645135"
+    },
+    {
+      "english": "I think of you, often.",
+      "FRENCH": "Je pense à toi, souvent.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645136"
+    },
+    {
+      "english": "You are my sunshine.",
+      "FRENCH": "Tu es mon soleil.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645138"
+    },
+    {
+      "english": "My heart beats for you.",
+      "FRENCH": "Mon cœur bat pour toi.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645139"
+    },
+    {
+      "english": "I miss your smile.",
+      "FRENCH": "Ton sourire me manque.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645140"
+    },
+    {
+      "english": "You are my everything.",
+      "FRENCH": "Tu es mon tout.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645141"
+    },
+    {
+      "english": "Kiss me, gently.",
+      "FRENCH": "Embrasse-moi, doucement.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645144"
+    },
+    {
+      "english": "I love being with you.",
+      "FRENCH": "J'aime être avec toi.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645145"
+    },
+    {
+      "english": "You are so charming.",
+      "FRENCH": "Tu es si charmant(e).",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645148"
+    },
+    {
+      "english": "My feelings are strong.",
+      "FRENCH": "Mes sentiments sont forts.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645149"
+    },
+    {
+      "english": "You are in my thoughts.",
+      "FRENCH": "Tu es dans mes pensées.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645150"
+    },
+    {
+      "english": "Can I hold your hand?",
+      "FRENCH": "Puis-je te tenir la main ?",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645152"
+    },
+    {
+      "english": "You complete me.",
+      "FRENCH": "Tu me complètes.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645153"
+    },
+    {
+      "english": "My love for you, grows.",
+      "FRENCH": "Mon amour pour toi, grandit.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645154"
+    },
+    {
+      "english": "You light up my world.",
+      "FRENCH": "Tu illumines ma vie.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645155"
+    },
+    {
+      "english": "I adore your spirit.",
+      "FRENCH": "J'adore ton esprit.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645156"
+    },
+    {
+      "english": "You are my greatest treasure.",
+      "FRENCH": "Tu es mon plus grand trésor.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645158"
+    },
+    {
+      "english": "Stay close to me.",
+      "FRENCH": "Reste près de moi.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645159"
+    },
+    {
+      "english": "Your presence is a gift.",
+      "FRENCH": "Ta présence est un cadeau.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645160"
+    },
+    {
+      "english": "You are so beautiful.",
+      "FRENCH": "Tu es si beau/belle.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645161"
+    },
+    {
+      "english": "I long for your touch.",
+      "FRENCH": "J'ai hâte de ton contact.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645162"
+    },
+    {
+      "english": "You are my true love.",
+      "FRENCH": "Tu es mon vrai amour.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645163"
+    },
+    {
+      "english": "Let's share this moment.",
+      "FRENCH": "Partageons cet instant.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645171"
+    },
+    {
+      "english": "You are a dream come true.",
+      "FRENCH": "Tu es un rêve devenu réalité.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645172"
+    },
+    {
+      "english": "My heart skips a beat.",
+      "FRENCH": "Mon cœur rate un battement.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645173"
+    },
+    {
+      "english": "You are my soulmate.",
+      "FRENCH": "Tu es mon âme sœur.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645174"
+    },
+    {
+      "english": "I feel safe with you.",
+      "FRENCH": "Je me sens en sécurité avec toi.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645176"
+    },
+    {
+      "english": "You have my heart.",
+      "FRENCH": "Tu as mon cœur.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645177"
+    },
+    {
+      "english": "My love for you, is endless.",
+      "FRENCH": "Mon amour pour toi, est infini.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645178"
+    },
+    {
+      "english": "You are my inspiration.",
+      "FRENCH": "Tu es mon inspiration.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645179"
+    },
+    {
+      "english": "We are meant to be.",
+      "FRENCH": "Nous sommes faits l'un pour l'autre.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645180"
+    },
+    {
+      "english": "Your eyes, mesmerize me.",
+      "FRENCH": "Tes yeux, me fascinent.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645182"
+    },
+    {
+      "english": "You make life beautiful.",
+      "FRENCH": "Tu rends la vie belle.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645183"
+    },
+    {
+      "english": "I cherish our moments.",
+      "FRENCH": "Je chéris nos moments.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645184"
+    },
+    {
+      "english": "You are my greatest joy.",
+      "FRENCH": "Tu es ma plus grande joie.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645185"
+    },
+    {
+      "english": "My heart belongs to you.",
+      "FRENCH": "Mon cœur t'appartient.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645186"
+    },
+    {
+      "english": "You are my sweet one.",
+      "FRENCH": "Tu es ma douceur.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645187"
+    },
+    {
+      "english": "Love is in the air.",
+      "FRENCH": "L'amour est dans l'air.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645187"
+    },
+    {
+      "english": "You are my perfect match.",
+      "FRENCH": "Tu es mon âme sœur jumelle.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645189"
+    },
+    {
+      "english": "Sweet dreams, my dear.",
+      "FRENCH": "Fais de beaux rêves, mon amour.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645190"
+    },
+    {
+      "english": "You make me happy.",
+      "FRENCH": "Tu me rends heureux/heureuse.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645191"
+    },
+    {
+      "english": "I think of you, often.",
+      "FRENCH": "Je pense à toi, souvent.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645192"
+    },
+    {
+      "english": "You are my sunshine.",
+      "FRENCH": "Tu es mon soleil.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645193"
+    },
+    {
+      "english": "My heart beats for you.",
+      "FRENCH": "Mon cœur bat pour toi.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645195"
+    },
+    {
+      "english": "I miss your smile.",
+      "FRENCH": "Ton sourire me manque.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645196"
+    },
+    {
+      "english": "You are my everything.",
+      "FRENCH": "Tu es mon tout.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645197"
+    },
+    {
+      "english": "Kiss me, gently.",
+      "FRENCH": "Embrasse-moi, doucement.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645198"
+    },
+    {
+      "english": "I love being with you.",
+      "FRENCH": "J'aime être avec toi.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645199"
+    },
+    {
+      "english": "You are so charming.",
+      "FRENCH": "Tu es si charmant(e).",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645200"
+    },
+    {
+      "english": "My feelings are strong.",
+      "FRENCH": "Mes sentiments sont forts.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645201"
+    },
+    {
+      "english": "You are in my thoughts.",
+      "FRENCH": "Tu es dans mes pensées.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645202"
+    },
+    {
+      "english": "Can I hold your hand?",
+      "FRENCH": "Puis-je te tenir la main ?",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645203"
+    },
+    {
+      "english": "You complete me.",
+      "FRENCH": "Tu me complètes.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645204"
+    },
+    {
+      "english": "My love for you, grows.",
+      "FRENCH": "Mon amour pour toi, grandit.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645206"
+    },
+    {
+      "english": "You light up my world.",
+      "FRENCH": "Tu illumines ma vie.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645207"
+    },
+    {
+      "english": "I adore your spirit.",
+      "FRENCH": "J'adore ton esprit.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645208"
+    },
+    {
+      "english": "You are my greatest treasure.",
+      "FRENCH": "Tu es mon plus grand trésor.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645209"
+    },
+    {
+      "english": "Stay close to me.",
+      "FRENCH": "Reste près de moi.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645210"
+    },
+    {
+      "english": "Your presence is a gift.",
+      "FRENCH": "Ta présence est un cadeau.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645211"
+    },
+    {
+      "english": "You are so beautiful.",
+      "FRENCH": "Tu es si beau/belle.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645212"
+    },
+    {
+      "english": "I long for your touch.",
+      "FRENCH": "J'ai hâte de ton contact.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645213"
+    },
+    {
+      "english": "You are my true love.",
+      "FRENCH": "Tu es mon vrai amour.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645214"
+    },
+    {
+      "english": "Let's share this moment.",
+      "FRENCH": "Partageons cet instant.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645215"
+    },
+    {
+      "english": "You are a dream come true.",
+      "FRENCH": "Tu es un rêve devenu réalité.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645217"
+    },
+    {
+      "english": "My heart skips a beat.",
+      "FRENCH": "Mon cœur rate un battement.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645218"
+    },
+    {
+      "english": "You are my soulmate.",
+      "FRENCH": "Tu es mon âme sœur.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645219"
+    },
+    {
+      "english": "I feel safe with you.",
+      "FRENCH": "Je me sens en sécurité avec toi.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645220"
+    },
+    {
+      "english": "You have my heart.",
+      "FRENCH": "Tu as mon cœur.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645221"
+    },
+    {
+      "english": "My love for you, is endless.",
+      "FRENCH": "Mon amour pour toi, est infini.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645222"
+    },
+    {
+      "english": "You are my inspiration.",
+      "FRENCH": "Tu es mon inspiration.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645223"
+    },
+    {
+      "english": "We are meant to be.",
+      "FRENCH": "Nous sommes faits l'un pour l'autre.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645224"
+    },
+    {
+      "english": "Your eyes, mesmerize me.",
+      "FRENCH": "Tes yeux, me fascinent.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645226"
+    },
+    {
+      "english": "You make life beautiful.",
+      "FRENCH": "Tu rends la vie belle.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645227"
+    },
+    {
+      "english": "I cherish our moments.",
+      "FRENCH": "Je chéris nos moments.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645228"
+    },
+    {
+      "english": "You are my greatest joy.",
+      "FRENCH": "Tu es ma plus grande joie.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645229"
+    },
+    {
+      "english": "My heart belongs to you.",
+      "FRENCH": "Mon cœur t'appartient.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645230"
+    },
+    {
+      "english": "You are my sweet one.",
+      "FRENCH": "Tu es ma douceur.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645231"
+    },
+    {
+      "english": "Love is in the air.",
+      "FRENCH": "L'amour est dans l'air.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645232"
+    },
+    {
+      "english": "You are my perfect match.",
+      "FRENCH": "Tu es mon âme sœur jumelle.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645233"
+    },
+    {
+      "english": "Sweet dreams, my dear.",
+      "FRENCH": "Fais de beaux rêves, mon amour.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645234"
+    },
+    {
+      "english": "You make me happy.",
+      "FRENCH": "Tu me rends heureux/heureuse.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645236"
+    },
+    {
+      "english": "I think of you, often.",
+      "FRENCH": "Je pense à toi, souvent.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645237"
+    },
+    {
+      "english": "You are my sunshine.",
+      "FRENCH": "Tu es mon soleil.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645238"
+    },
+    {
+      "english": "My heart beats for you.",
+      "FRENCH": "Mon cœur bat pour toi.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645239"
+    },
+    {
+      "english": "I miss your smile.",
+      "FRENCH": "Ton sourire me manque.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645240"
+    },
+    {
+      "english": "You are my everything.",
+      "FRENCH": "Tu es mon tout.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645241"
+    },
+    {
+      "english": "Kiss me, gently.",
+      "FRENCH": "Embrasse-moi, doucement.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645246"
+    },
+    {
+      "english": "I love being with you.",
+      "FRENCH": "J'aime être avec toi.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645247"
+    },
+    {
+      "english": "You are so charming.",
+      "FRENCH": "Tu es si charmant(e).",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645248"
+    },
+    {
+      "english": "My feelings are strong.",
+      "FRENCH": "Mes sentiments sont forts.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645249"
+    },
+    {
+      "english": "You are in my thoughts.",
+      "FRENCH": "Tu es dans mes pensées.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645252"
+    },
+    {
+      "english": "Can I hold your hand?",
+      "FRENCH": "Puis-je te tenir la main ?",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645253"
+    },
+    {
+      "english": "You complete me.",
+      "FRENCH": "Tu me complètes.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645254"
+    },
+    {
+      "english": "My love for you, grows.",
+      "FRENCH": "Mon amour pour toi, grandit.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645255"
+    },
+    {
+      "english": "You light up my world.",
+      "FRENCH": "Tu illumines ma vie.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645256"
+    },
+    {
+      "english": "I adore your spirit.",
+      "FRENCH": "J'adore ton esprit.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645257"
+    },
+    {
+      "english": "You are my greatest treasure.",
+      "FRENCH": "Tu es mon plus grand trésor.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645258"
+    },
+    {
+      "english": "Stay close to me.",
+      "FRENCH": "Reste près de moi.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645259"
+    },
+    {
+      "english": "Your presence is a gift.",
+      "FRENCH": "Ta présence est un cadeau.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645260"
+    },
+    {
+      "english": "You are so beautiful.",
+      "FRENCH": "Tu es si beau/belle.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645261"
+    },
+    {
+      "english": "I long for your touch.",
+      "FRENCH": "J'ai hâte de ton contact.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645262"
+    },
+    {
+      "english": "You are my true love.",
+      "FRENCH": "Tu es mon vrai amour.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645263"
+    },
+    {
+      "english": "Let's share this moment.",
+      "FRENCH": "Partageons cet instant.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645264"
+    },
+    {
+      "english": "You are a dream come true.",
+      "FRENCH": "Tu es un rêve devenu réalité.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645265"
+    },
+    {
+      "english": "My heart skips a beat.",
+      "FRENCH": "Mon cœur rate un battement.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645266"
+    },
+    {
+      "english": "You are my soulmate.",
+      "FRENCH": "Tu es mon âme sœur.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645267"
+    },
+    {
+      "english": "I feel safe with you.",
+      "FRENCH": "Je me sens en sécurité avec toi.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645268"
+    },
+    {
+      "english": "You have my heart.",
+      "FRENCH": "Tu as mon cœur.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645269"
+    },
+    {
+      "english": "My love for you, is endless.",
+      "FRENCH": "Mon amour pour toi, est infini.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645270"
+    },
+    {
+      "english": "You are my inspiration.",
+      "FRENCH": "Tu es mon inspiration.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645271"
+    },
+    {
+      "english": "We are meant to be.",
+      "FRENCH": "Nous sommes faits l'un pour l'autre.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645272"
+    },
+    {
+      "english": "Your eyes, mesmerize me.",
+      "FRENCH": "Tes yeux, me fascinent.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645273"
+    },
+    {
+      "english": "You make life beautiful.",
+      "FRENCH": "Tu rends la vie belle.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645275"
+    },
+    {
+      "english": "I cherish our moments.",
+      "FRENCH": "Je chéris nos moments.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645276"
+    },
+    {
+      "english": "You are my greatest joy.",
+      "FRENCH": "Tu es ma plus grande joie.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645277"
+    },
+    {
+      "english": "My heart belongs to you.",
+      "FRENCH": "Mon cœur t'appartient.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645278"
+    },
+    {
+      "english": "You are my sweet one.",
+      "FRENCH": "Tu es ma douceur.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645279"
+    },
+    {
+      "english": "Love is in the air.",
+      "FRENCH": "L'amour est dans l'air.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645280"
+    },
+    {
+      "english": "You are my perfect match.",
+      "FRENCH": "Tu es mon âme sœur jumelle.",
+      "category": "Love",
+      "generated_at": "2026-07-16T04:10:43.645281"
     }
   ],
-  "last_updated": "2026-07-15T21:30:49.002333"
+  "last_updated": "2026-07-16T04:10:43.645282"
 }
