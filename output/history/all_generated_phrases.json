@@ -2159,7 +2159,727 @@
       "FRENCH": "Ma vie se sent complète, avec toi.",
       "category": "Love",
       "generated_at": "2026-07-17T04:12:00.529493"
+    },
+    {
+      "english": "Little by little, the bird flies.",
+      "FRENCH": "Petit à petit, l'oiseau vole.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900752"
+    },
+    {
+      "english": "Keep going, you're doing great!",
+      "FRENCH": "Continue, tu réussis bien !",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900761"
+    },
+    {
+      "english": "Don't give up, try again.",
+      "FRENCH": "N'abandonne pas, essaie encore.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900763"
+    },
+    {
+      "english": "Every effort counts, believe it.",
+      "FRENCH": "Chaque effort compte, crois-y.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900764"
+    },
+    {
+      "english": "You're almost there, hang on!",
+      "FRENCH": "Tu y es presque, tiens bon !",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900766"
+    },
+    {
+      "english": "Slowly but surely, you'll get there.",
+      "FRENCH": "Lentement mais sûrement, tu y arriveras.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900767"
+    },
+    {
+      "english": "Keep pushing forward, don't stop.",
+      "FRENCH": "Continue d'avancer, n'arrête pas.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900768"
+    },
+    {
+      "english": "One step at a time, is fine.",
+      "FRENCH": "Un pas à la fois, c'est bien.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900771"
+    },
+    {
+      "english": "You've got this, just keep trying.",
+      "FRENCH": "Tu peux le faire, continue d'essayer.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900773"
+    },
+    {
+      "english": "Don't quit, stay strong.",
+      "FRENCH": "N'abandonne pas, reste fort.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900774"
+    },
+    {
+      "english": "Persistence wins, every time.",
+      "FRENCH": "La persévérance gagne, toujours.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900776"
+    },
+    {
+      "english": "Keep your chin up, champ.",
+      "FRENCH": "Garde la tête haute, champion.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900777"
+    },
+    {
+      "english": "You're stronger than you think.",
+      "FRENCH": "Tu es plus fort que tu ne le penses.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900778"
+    },
+    {
+      "english": "Keep digging, you'll find gold.",
+      "FRENCH": "Continue de creuser, tu trouveras de l'or.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900779"
+    },
+    {
+      "english": "It's worth it, keep pushing.",
+      "FRENCH": "Ça en vaut la peine, continue.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900780"
+    },
+    {
+      "english": "One day at a time, okay?",
+      "FRENCH": "Un jour à la fois, d'accord ?",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900781"
+    },
+    {
+      "english": "Don't let it get you down.",
+      "FRENCH": "Ne te laisse pas abattre.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900782"
+    },
+    {
+      "english": "You're on the right track.",
+      "FRENCH": "Tu es sur la bonne voie.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900784"
+    },
+    {
+      "english": "Just keep swimming, little fish.",
+      "FRENCH": "Continue de nager, petit poisson.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900785"
+    },
+    {
+      "english": "Almost there, don't give up.",
+      "FRENCH": "Presque arrivé, n'abandonne pas.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900786"
+    },
+    {
+      "english": "The journey is long, keep moving.",
+      "FRENCH": "Le voyage est long, continue d'avancer.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900787"
+    },
+    {
+      "english": "You can do it, believe in you.",
+      "FRENCH": "Tu peux le faire, crois en toi.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900788"
+    },
+    {
+      "english": "Keep learning, grow stronger.",
+      "FRENCH": "Continue d'apprendre, deviens plus fort.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900789"
+    },
+    {
+      "english": "It's a marathon, not a sprint.",
+      "FRENCH": "C'est un marathon, pas un sprint.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900790"
+    },
+    {
+      "english": "Every drop fills the bucket.",
+      "FRENCH": "Chaque goutte remplit le seau.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900791"
+    },
+    {
+      "english": "Don't stop until it's done.",
+      "FRENCH": "N'arrête pas tant que ce n'est pas fini.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900793"
+    },
+    {
+      "english": "You're getting closer, keep going.",
+      "FRENCH": "Tu te rapproches, continue.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900794"
+    },
+    {
+      "english": "Hang in there, almost finished.",
+      "FRENCH": "Tiens bon, presque fini.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900795"
+    },
+    {
+      "english": "You have the strength, don't forget.",
+      "FRENCH": "Tu as la force, n'oublie pas.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900796"
+    },
+    {
+      "english": "It's okay to rest, then restart.",
+      "FRENCH": "C'est bien de se reposer, puis de recommencer.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900797"
+    },
+    {
+      "english": "Keep your eyes on the prize.",
+      "FRENCH": "Garde tes yeux sur le prix.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900798"
+    },
+    {
+      "english": "You're doing your best, that's enough.",
+      "FRENCH": "Tu fais de ton mieux, c'est suffisant.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900799"
+    },
+    {
+      "english": "Just keep trying, you will succeed.",
+      "FRENCH": "Continue d'essayer, tu réussiras.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900800"
+    },
+    {
+      "english": "Don't be afraid, keep moving.",
+      "FRENCH": "N'aie pas peur, continue d'avancer.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900801"
+    },
+    {
+      "english": "The reward is near, hold on.",
+      "FRENCH": "La récompense est proche, tiens bon.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900802"
+    },
+    {
+      "english": "You are capable, truly.",
+      "FRENCH": "Tu es capable, vraiment.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900803"
+    },
+    {
+      "english": "Keep fighting the good fight.",
+      "FRENCH": "Continue de mener le bon combat.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900804"
+    },
+    {
+      "english": "You will overcome this, yes.",
+      "FRENCH": "Tu surmonteras cela, oui.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900805"
+    },
+    {
+      "english": "Stay determined, it pays off.",
+      "FRENCH": "Reste déterminé, ça paie.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900806"
+    },
+    {
+      "english": "Little by little, the bird flies.",
+      "FRENCH": "Petit à petit, l'oiseau vole.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900807"
+    },
+    {
+      "english": "Keep going, you're doing great!",
+      "FRENCH": "Continue, tu réussis bien !",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900809"
+    },
+    {
+      "english": "Don't give up, try again.",
+      "FRENCH": "N'abandonne pas, essaie encore.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900811"
+    },
+    {
+      "english": "Every effort counts, believe it.",
+      "FRENCH": "Chaque effort compte, crois-y.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900812"
+    },
+    {
+      "english": "You're almost there, hang on!",
+      "FRENCH": "Tu y es presque, tiens bon !",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900814"
+    },
+    {
+      "english": "Slowly but surely, you'll get there.",
+      "FRENCH": "Lentement mais sûrement, tu y arriveras.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900815"
+    },
+    {
+      "english": "Keep pushing forward, don't stop.",
+      "FRENCH": "Continue d'avancer, n'arrête pas.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900816"
+    },
+    {
+      "english": "One step at a time, is fine.",
+      "FRENCH": "Un pas à la fois, c'est bien.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900817"
+    },
+    {
+      "english": "You've got this, just keep trying.",
+      "FRENCH": "Tu peux le faire, continue d'essayer.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900818"
+    },
+    {
+      "english": "Don't quit, stay strong.",
+      "FRENCH": "N'abandonne pas, reste fort.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900819"
+    },
+    {
+      "english": "Persistence wins, every time.",
+      "FRENCH": "La persévérance gagne, toujours.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900820"
+    },
+    {
+      "english": "Keep your chin up, champ.",
+      "FRENCH": "Garde la tête haute, champion.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900822"
+    },
+    {
+      "english": "You're stronger than you think.",
+      "FRENCH": "Tu es plus fort que tu ne le penses.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900823"
+    },
+    {
+      "english": "Keep digging, you'll find gold.",
+      "FRENCH": "Continue de creuser, tu trouveras de l'or.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900824"
+    },
+    {
+      "english": "It's worth it, keep pushing.",
+      "FRENCH": "Ça en vaut la peine, continue.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900825"
+    },
+    {
+      "english": "One day at a time, okay?",
+      "FRENCH": "Un jour à la fois, d'accord ?",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900826"
+    },
+    {
+      "english": "Don't let it get you down.",
+      "FRENCH": "Ne te laisse pas abattre.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900827"
+    },
+    {
+      "english": "You're on the right track.",
+      "FRENCH": "Tu es sur la bonne voie.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900828"
+    },
+    {
+      "english": "Just keep swimming, little fish.",
+      "FRENCH": "Continue de nager, petit poisson.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900829"
+    },
+    {
+      "english": "Almost there, don't give up.",
+      "FRENCH": "Presque arrivé, n'abandonne pas.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900831"
+    },
+    {
+      "english": "The journey is long, keep moving.",
+      "FRENCH": "Le voyage est long, continue d'avancer.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900832"
+    },
+    {
+      "english": "You can do it, believe in you.",
+      "FRENCH": "Tu peux le faire, crois en toi.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900833"
+    },
+    {
+      "english": "Keep learning, grow stronger.",
+      "FRENCH": "Continue d'apprendre, deviens plus fort.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900846"
+    },
+    {
+      "english": "It's a marathon, not a sprint.",
+      "FRENCH": "C'est un marathon, pas un sprint.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900847"
+    },
+    {
+      "english": "Every drop fills the bucket.",
+      "FRENCH": "Chaque goutte remplit le seau.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900848"
+    },
+    {
+      "english": "Don't stop until it's done.",
+      "FRENCH": "N'arrête pas tant que ce n'est pas fini.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900849"
+    },
+    {
+      "english": "You're getting closer, keep going.",
+      "FRENCH": "Tu te rapproches, continue.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900850"
+    },
+    {
+      "english": "Hang in there, almost finished.",
+      "FRENCH": "Tiens bon, presque fini.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900852"
+    },
+    {
+      "english": "You have the strength, don't forget.",
+      "FRENCH": "Tu as la force, n'oublie pas.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900853"
+    },
+    {
+      "english": "It's okay to rest, then restart.",
+      "FRENCH": "C'est bien de se reposer, puis de recommencer.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900854"
+    },
+    {
+      "english": "Keep your eyes on the prize.",
+      "FRENCH": "Garde tes yeux sur le prix.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900855"
+    },
+    {
+      "english": "You're doing your best, that's enough.",
+      "FRENCH": "Tu fais de ton mieux, c'est suffisant.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900856"
+    },
+    {
+      "english": "Just keep trying, you will succeed.",
+      "FRENCH": "Continue d'essayer, tu réussiras.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900857"
+    },
+    {
+      "english": "Don't be afraid, keep moving.",
+      "FRENCH": "N'aie pas peur, continue d'avancer.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900858"
+    },
+    {
+      "english": "The reward is near, hold on.",
+      "FRENCH": "La récompense est proche, tiens bon.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900859"
+    },
+    {
+      "english": "You are capable, truly.",
+      "FRENCH": "Tu es capable, vraiment.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900860"
+    },
+    {
+      "english": "Keep fighting the good fight.",
+      "FRENCH": "Continue de mener le bon combat.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900862"
+    },
+    {
+      "english": "You will overcome this, yes.",
+      "FRENCH": "Tu surmonteras cela, oui.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900863"
+    },
+    {
+      "english": "Stay determined, it pays off.",
+      "FRENCH": "Reste déterminé, ça paie.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900864"
+    },
+    {
+      "english": "Little by little, the bird flies.",
+      "FRENCH": "Petit à petit, l'oiseau vole.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900865"
+    },
+    {
+      "english": "Keep going, you're doing great!",
+      "FRENCH": "Continue, tu réussis bien !",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900866"
+    },
+    {
+      "english": "Don't give up, try again.",
+      "FRENCH": "N'abandonne pas, essaie encore.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900867"
+    },
+    {
+      "english": "Every effort counts, believe it.",
+      "FRENCH": "Chaque effort compte, crois-y.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900868"
+    },
+    {
+      "english": "You're almost there, hang on!",
+      "FRENCH": "Tu y es presque, tiens bon !",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900869"
+    },
+    {
+      "english": "Slowly but surely, you'll get there.",
+      "FRENCH": "Lentement mais sûrement, tu y arriveras.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900870"
+    },
+    {
+      "english": "Keep pushing forward, don't stop.",
+      "FRENCH": "Continue d'avancer, n'arrête pas.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900871"
+    },
+    {
+      "english": "One step at a time, is fine.",
+      "FRENCH": "Un pas à la fois, c'est bien.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900872"
+    },
+    {
+      "english": "You've got this, just keep trying.",
+      "FRENCH": "Tu peux le faire, continue d'essayer.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900873"
+    },
+    {
+      "english": "Don't quit, stay strong.",
+      "FRENCH": "N'abandonne pas, reste fort.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900874"
+    },
+    {
+      "english": "Persistence wins, every time.",
+      "FRENCH": "La persévérance gagne, toujours.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900875"
+    },
+    {
+      "english": "Keep your chin up, champ.",
+      "FRENCH": "Garde la tête haute, champion.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900876"
+    },
+    {
+      "english": "You're stronger than you think.",
+      "FRENCH": "Tu es plus fort que tu ne le penses.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900878"
+    },
+    {
+      "english": "Keep digging, you'll find gold.",
+      "FRENCH": "Continue de creuser, tu trouveras de l'or.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900879"
+    },
+    {
+      "english": "It's worth it, keep pushing.",
+      "FRENCH": "Ça en vaut la peine, continue.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900882"
+    },
+    {
+      "english": "One day at a time, okay?",
+      "FRENCH": "Un jour à la fois, d'accord ?",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900883"
+    },
+    {
+      "english": "Don't let it get you down.",
+      "FRENCH": "Ne te laisse pas abattre.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900884"
+    },
+    {
+      "english": "You're on the right track.",
+      "FRENCH": "Tu es sur la bonne voie.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900885"
+    },
+    {
+      "english": "Just keep swimming, little fish.",
+      "FRENCH": "Continue de nager, petit poisson.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900887"
+    },
+    {
+      "english": "Almost there, don't give up.",
+      "FRENCH": "Presque arrivé, n'abandonne pas.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900889"
+    },
+    {
+      "english": "The journey is long, keep moving.",
+      "FRENCH": "Le voyage est long, continue d'avancer.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900891"
+    },
+    {
+      "english": "You can do it, believe in you.",
+      "FRENCH": "Tu peux le faire, crois en toi.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900892"
+    },
+    {
+      "english": "Keep learning, grow stronger.",
+      "FRENCH": "Continue d'apprendre, deviens plus fort.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900893"
+    },
+    {
+      "english": "It's a marathon, not a sprint.",
+      "FRENCH": "C'est un marathon, pas un sprint.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900894"
+    },
+    {
+      "english": "Every drop fills the bucket.",
+      "FRENCH": "Chaque goutte remplit le seau.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900895"
+    },
+    {
+      "english": "Don't stop until it's done.",
+      "FRENCH": "N'arrête pas tant que ce n'est pas fini.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900896"
+    },
+    {
+      "english": "You're getting closer, keep going.",
+      "FRENCH": "Tu te rapproches, continue.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900897"
+    },
+    {
+      "english": "Hang in there, almost finished.",
+      "FRENCH": "Tiens bon, presque fini.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900898"
+    },
+    {
+      "english": "You have the strength, don't forget.",
+      "FRENCH": "Tu as la force, n'oublie pas.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900899"
+    },
+    {
+      "english": "It's okay to rest, then restart.",
+      "FRENCH": "C'est bien de se reposer, puis de recommencer.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900900"
+    },
+    {
+      "english": "Keep your eyes on the prize.",
+      "FRENCH": "Garde tes yeux sur le prix.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900901"
+    },
+    {
+      "english": "You're doing your best, that's enough.",
+      "FRENCH": "Tu fais de ton mieux, c'est suffisant.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900902"
+    },
+    {
+      "english": "Just keep trying, you will succeed.",
+      "FRENCH": "Continue d'essayer, tu réussiras.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900903"
+    },
+    {
+      "english": "Don't be afraid, keep moving.",
+      "FRENCH": "N'aie pas peur, continue d'avancer.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900904"
+    },
+    {
+      "english": "The reward is near, hold on.",
+      "FRENCH": "La récompense est proche, tiens bon.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900905"
+    },
+    {
+      "english": "You are capable, truly.",
+      "FRENCH": "Tu es capable, vraiment.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900906"
+    },
+    {
+      "english": "Keep fighting the good fight.",
+      "FRENCH": "Continue de mener le bon combat.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900907"
+    },
+    {
+      "english": "You will overcome this, yes.",
+      "FRENCH": "Tu surmonteras cela, oui.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900908"
+    },
+    {
+      "english": "Stay determined, it pays off.",
+      "FRENCH": "Reste déterminé, ça paie.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900910"
+    },
+    {
+      "english": "Little by little, the bird flies.",
+      "FRENCH": "Petit à petit, l'oiseau vole.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900911"
+    },
+    {
+      "english": "Keep going, you're doing great!",
+      "FRENCH": "Continue, tu réussis bien !",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900912"
+    },
+    {
+      "english": "Don't give up, try again.",
+      "FRENCH": "N'abandonne pas, essaie encore.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:30.900913"
     }
   ],
-  "last_updated": "2026-07-17T04:12:00.529495"
+  "last_updated": "2026-07-18T03:57:30.900914"
 }
