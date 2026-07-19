@@ -2879,7 +2879,727 @@
       "FRENCH": "N'abandonne pas, essaie encore.",
       "category": "Perseverance",
       "generated_at": "2026-07-18T03:57:30.900913"
+    },
+    {
+      "english": "Dare to dream, then act.",
+      "FRENCH": "Ose rêver, puis agis.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504800"
+    },
+    {
+      "english": "Face the fear, grow bolder.",
+      "FRENCH": "Affronte la peur, deviens plus audacieux.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504809"
+    },
+    {
+      "english": "Speak your truth, softly.",
+      "FRENCH": "Dis ta vérité, doucement.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504811"
+    },
+    {
+      "english": "Embrace the unknown, with heart.",
+      "FRENCH": "Accueille l'inconnu, avec cœur.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504813"
+    },
+    {
+      "english": "Start where you are, bravely.",
+      "FRENCH": "Commence où tu es, courageusement.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504814"
+    },
+    {
+      "english": "Take the leap, trust yourself.",
+      "FRENCH": "Fais le saut, fais-toi confiance.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504815"
+    },
+    {
+      "english": "Find your voice, sing it out.",
+      "FRENCH": "Trouve ta voix, chante-la.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504817"
+    },
+    {
+      "english": "Challenge limits, expand horizons.",
+      "FRENCH": "Défie les limites, élargis les horizons.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504819"
+    },
+    {
+      "english": "Step forward, with conviction.",
+      "FRENCH": "Avance, avec conviction.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504821"
+    },
+    {
+      "english": "Believe in the impossible, truly.",
+      "FRENCH": "Crois à l'impossible, vraiment.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504822"
+    },
+    {
+      "english": "Push boundaries, discover more.",
+      "FRENCH": "Pousse les frontières, découvre plus.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504828"
+    },
+    {
+      "english": "Stand tall, when challenged.",
+      "FRENCH": "Tiens-toi droit, quand on te défie.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504829"
+    },
+    {
+      "english": "Be bold, be bright, be you.",
+      "FRENCH": "Sois audacieux, sois lumineux, sois toi.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504830"
+    },
+    {
+      "english": "Embrace risks, gain wisdom.",
+      "FRENCH": "Prends des risques, gagne en sagesse.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504831"
+    },
+    {
+      "english": "Act with purpose, live fully.",
+      "FRENCH": "Agis avec but, vis pleinement.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504833"
+    },
+    {
+      "english": "Spark change, with courage.",
+      "FRENCH": "Suscite le changement, avec courage.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504834"
+    },
+    {
+      "english": "Follow your intuition, always.",
+      "FRENCH": "Suis ton intuition, toujours.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504835"
+    },
+    {
+      "english": "Forge your own path, bravely.",
+      "FRENCH": "Forge ton propre chemin, bravement.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504836"
+    },
+    {
+      "english": "Conquer doubts, with resilience.",
+      "FRENCH": "Conquiers les doutes, avec résilience.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504838"
+    },
+    {
+      "english": "Let your spirit soar, freely.",
+      "FRENCH": "Laisse ton esprit s'envoler, librement.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504839"
+    },
+    {
+      "english": "Dare to begin, the adventure.",
+      "FRENCH": "Ose commencer, l'aventure.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504840"
+    },
+    {
+      "english": "Inspire action, with your will.",
+      "FRENCH": "Inspire l'action, par ta volonté.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504841"
+    },
+    {
+      "english": "Rise above, the challenges.",
+      "FRENCH": "Élève-toi au-dessus, des défis.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504842"
+    },
+    {
+      "english": "Chase your passions, fearlessly.",
+      "FRENCH": "Poursuis tes passions, sans peur.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504843"
+    },
+    {
+      "english": "Break molds, create beauty.",
+      "FRENCH": "Casse les moules, crée la beauté.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504845"
+    },
+    {
+      "english": "Seize the moment, with spirit.",
+      "FRENCH": "Saisis l'instant, avec esprit.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504846"
+    },
+    {
+      "english": "Unleash your potential, gently.",
+      "FRENCH": "Libère ton potentiel, doucement.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504847"
+    },
+    {
+      "english": "Face headwinds, keep sailing.",
+      "FRENCH": "Affronte le vent contraire, continue de naviguer.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504848"
+    },
+    {
+      "english": "Be audacious, be vibrant.",
+      "FRENCH": "Sois audacieux, sois vibrant.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504849"
+    },
+    {
+      "english": "Stand for something, always.",
+      "FRENCH": "Défends quelque chose, toujours.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504850"
+    },
+    {
+      "english": "Ignite your inner fire.",
+      "FRENCH": "Allume ton feu intérieur.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504851"
+    },
+    {
+      "english": "Trust the process, with heart.",
+      "FRENCH": "Fais confiance au processus, avec cœur.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504852"
+    },
+    {
+      "english": "Embrace the struggle, it shapes.",
+      "FRENCH": "Accueille la lutte, elle façonne.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504854"
+    },
+    {
+      "english": "Advance with conviction, gently.",
+      "FRENCH": "Avance avec conviction, doucement.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504855"
+    },
+    {
+      "english": "Dare to explore, the world.",
+      "FRENCH": "Ose explorer, le monde.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504856"
+    },
+    {
+      "english": "Find courage, in small steps.",
+      "FRENCH": "Trouve du courage, dans les petits pas.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504857"
+    },
+    {
+      "english": "Lead with kindness, then strength.",
+      "FRENCH": "Mène avec gentillesse, puis la force.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504858"
+    },
+    {
+      "english": "Be the spark, in darkness.",
+      "FRENCH": "Sois l'étincelle, dans le noir.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504859"
+    },
+    {
+      "english": "Rise to the occasion, always.",
+      "FRENCH": "Saisis l'occasion, toujours.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504860"
+    },
+    {
+      "english": "Unfold your wings, and fly.",
+      "FRENCH": "Déplie tes ailes, et vole.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504861"
+    },
+    {
+      "english": "Dare to dream, then act.",
+      "FRENCH": "Ose rêver, puis agis.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504862"
+    },
+    {
+      "english": "Face the fear, grow bolder.",
+      "FRENCH": "Affronte la peur, deviens plus audacieux.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504864"
+    },
+    {
+      "english": "Speak your truth, softly.",
+      "FRENCH": "Dis ta vérité, doucement.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504867"
+    },
+    {
+      "english": "Embrace the unknown, with heart.",
+      "FRENCH": "Accueille l'inconnu, avec cœur.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504868"
+    },
+    {
+      "english": "Start where you are, bravely.",
+      "FRENCH": "Commence où tu es, courageusement.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504870"
+    },
+    {
+      "english": "Take the leap, trust yourself.",
+      "FRENCH": "Fais le saut, fais-toi confiance.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504871"
+    },
+    {
+      "english": "Find your voice, sing it out.",
+      "FRENCH": "Trouve ta voix, chante-la.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504872"
+    },
+    {
+      "english": "Challenge limits, expand horizons.",
+      "FRENCH": "Défie les limites, élargis les horizons.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504873"
+    },
+    {
+      "english": "Step forward, with conviction.",
+      "FRENCH": "Avance, avec conviction.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504874"
+    },
+    {
+      "english": "Believe in the impossible, truly.",
+      "FRENCH": "Crois à l'impossible, vraiment.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504875"
+    },
+    {
+      "english": "Push boundaries, discover more.",
+      "FRENCH": "Pousse les frontières, découvre plus.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504876"
+    },
+    {
+      "english": "Stand tall, when challenged.",
+      "FRENCH": "Tiens-toi droit, quand on te défie.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504877"
+    },
+    {
+      "english": "Be bold, be bright, be you.",
+      "FRENCH": "Sois audacieux, sois lumineux, sois toi.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504878"
+    },
+    {
+      "english": "Embrace risks, gain wisdom.",
+      "FRENCH": "Prends des risques, gagne en sagesse.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504880"
+    },
+    {
+      "english": "Act with purpose, live fully.",
+      "FRENCH": "Agis avec but, vis pleinement.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504881"
+    },
+    {
+      "english": "Spark change, with courage.",
+      "FRENCH": "Suscite le changement, avec courage.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504882"
+    },
+    {
+      "english": "Follow your intuition, always.",
+      "FRENCH": "Suis ton intuition, toujours.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504883"
+    },
+    {
+      "english": "Forge your own path, bravely.",
+      "FRENCH": "Forge ton propre chemin, bravement.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504884"
+    },
+    {
+      "english": "Conquer doubts, with resilience.",
+      "FRENCH": "Conquiers les doutes, avec résilience.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504885"
+    },
+    {
+      "english": "Let your spirit soar, freely.",
+      "FRENCH": "Laisse ton esprit s'envoler, librement.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504886"
+    },
+    {
+      "english": "Dare to begin, the adventure.",
+      "FRENCH": "Ose commencer, l'aventure.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504887"
+    },
+    {
+      "english": "Inspire action, with your will.",
+      "FRENCH": "Inspire l'action, par ta volonté.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504888"
+    },
+    {
+      "english": "Rise above, the challenges.",
+      "FRENCH": "Élève-toi au-dessus, des défis.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504889"
+    },
+    {
+      "english": "Chase your passions, fearlessly.",
+      "FRENCH": "Poursuis tes passions, sans peur.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504891"
+    },
+    {
+      "english": "Break molds, create beauty.",
+      "FRENCH": "Casse les moules, crée la beauté.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504892"
+    },
+    {
+      "english": "Seize the moment, with spirit.",
+      "FRENCH": "Saisis l'instant, avec esprit.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504893"
+    },
+    {
+      "english": "Unleash your potential, gently.",
+      "FRENCH": "Libère ton potentiel, doucement.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504894"
+    },
+    {
+      "english": "Face headwinds, keep sailing.",
+      "FRENCH": "Affronte le vent contraire, continue de naviguer.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504895"
+    },
+    {
+      "english": "Be audacious, be vibrant.",
+      "FRENCH": "Sois audacieux, sois vibrant.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504896"
+    },
+    {
+      "english": "Stand for something, always.",
+      "FRENCH": "Défends quelque chose, toujours.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504897"
+    },
+    {
+      "english": "Ignite your inner fire.",
+      "FRENCH": "Allume ton feu intérieur.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504898"
+    },
+    {
+      "english": "Trust the process, with heart.",
+      "FRENCH": "Fais confiance au processus, avec cœur.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504899"
+    },
+    {
+      "english": "Embrace the struggle, it shapes.",
+      "FRENCH": "Accueille la lutte, elle façonne.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504901"
+    },
+    {
+      "english": "Advance with conviction, gently.",
+      "FRENCH": "Avance avec conviction, doucement.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504902"
+    },
+    {
+      "english": "Dare to explore, the world.",
+      "FRENCH": "Ose explorer, le monde.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504905"
+    },
+    {
+      "english": "Find courage, in small steps.",
+      "FRENCH": "Trouve du courage, dans les petits pas.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504906"
+    },
+    {
+      "english": "Lead with kindness, then strength.",
+      "FRENCH": "Mène avec gentillesse, puis la force.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504907"
+    },
+    {
+      "english": "Be the spark, in darkness.",
+      "FRENCH": "Sois l'étincelle, dans le noir.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504908"
+    },
+    {
+      "english": "Rise to the occasion, always.",
+      "FRENCH": "Saisis l'occasion, toujours.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504909"
+    },
+    {
+      "english": "Unfold your wings, and fly.",
+      "FRENCH": "Déplie tes ailes, et vole.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504910"
+    },
+    {
+      "english": "Dare to dream, then act.",
+      "FRENCH": "Ose rêver, puis agis.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504911"
+    },
+    {
+      "english": "Face the fear, grow bolder.",
+      "FRENCH": "Affronte la peur, deviens plus audacieux.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504912"
+    },
+    {
+      "english": "Speak your truth, softly.",
+      "FRENCH": "Dis ta vérité, doucement.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504913"
+    },
+    {
+      "english": "Embrace the unknown, with heart.",
+      "FRENCH": "Accueille l'inconnu, avec cœur.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504914"
+    },
+    {
+      "english": "Start where you are, bravely.",
+      "FRENCH": "Commence où tu es, courageusement.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504915"
+    },
+    {
+      "english": "Take the leap, trust yourself.",
+      "FRENCH": "Fais le saut, fais-toi confiance.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504916"
+    },
+    {
+      "english": "Find your voice, sing it out.",
+      "FRENCH": "Trouve ta voix, chante-la.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504917"
+    },
+    {
+      "english": "Challenge limits, expand horizons.",
+      "FRENCH": "Défie les limites, élargis les horizons.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504918"
+    },
+    {
+      "english": "Step forward, with conviction.",
+      "FRENCH": "Avance, avec conviction.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504919"
+    },
+    {
+      "english": "Believe in the impossible, truly.",
+      "FRENCH": "Crois à l'impossible, vraiment.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504920"
+    },
+    {
+      "english": "Push boundaries, discover more.",
+      "FRENCH": "Pousse les frontières, découvre plus.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504921"
+    },
+    {
+      "english": "Stand tall, when challenged.",
+      "FRENCH": "Tiens-toi droit, quand on te défie.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504922"
+    },
+    {
+      "english": "Be bold, be bright, be you.",
+      "FRENCH": "Sois audacieux, sois lumineux, sois toi.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504923"
+    },
+    {
+      "english": "Embrace risks, gain wisdom.",
+      "FRENCH": "Prends des risques, gagne en sagesse.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504924"
+    },
+    {
+      "english": "Act with purpose, live fully.",
+      "FRENCH": "Agis avec but, vis pleinement.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504925"
+    },
+    {
+      "english": "Spark change, with courage.",
+      "FRENCH": "Suscite le changement, avec courage.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504926"
+    },
+    {
+      "english": "Follow your intuition, always.",
+      "FRENCH": "Suis ton intuition, toujours.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504927"
+    },
+    {
+      "english": "Forge your own path, bravely.",
+      "FRENCH": "Forge ton propre chemin, bravement.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504928"
+    },
+    {
+      "english": "Conquer doubts, with resilience.",
+      "FRENCH": "Conquiers les doutes, avec résilience.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504929"
+    },
+    {
+      "english": "Let your spirit soar, freely.",
+      "FRENCH": "Laisse ton esprit s'envoler, librement.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504930"
+    },
+    {
+      "english": "Dare to begin, the adventure.",
+      "FRENCH": "Ose commencer, l'aventure.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504931"
+    },
+    {
+      "english": "Inspire action, with your will.",
+      "FRENCH": "Inspire l'action, par ta volonté.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504932"
+    },
+    {
+      "english": "Rise above, the challenges.",
+      "FRENCH": "Élève-toi au-dessus, des défis.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504933"
+    },
+    {
+      "english": "Chase your passions, fearlessly.",
+      "FRENCH": "Poursuis tes passions, sans peur.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504934"
+    },
+    {
+      "english": "Break molds, create beauty.",
+      "FRENCH": "Casse les moules, crée la beauté.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504935"
+    },
+    {
+      "english": "Seize the moment, with spirit.",
+      "FRENCH": "Saisis l'instant, avec esprit.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504936"
+    },
+    {
+      "english": "Unleash your potential, gently.",
+      "FRENCH": "Libère ton potentiel, doucement.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504945"
+    },
+    {
+      "english": "Face headwinds, keep sailing.",
+      "FRENCH": "Affronte le vent contraire, continue de naviguer.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504946"
+    },
+    {
+      "english": "Be audacious, be vibrant.",
+      "FRENCH": "Sois audacieux, sois vibrant.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504947"
+    },
+    {
+      "english": "Stand for something, always.",
+      "FRENCH": "Défends quelque chose, toujours.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504948"
+    },
+    {
+      "english": "Ignite your inner fire.",
+      "FRENCH": "Allume ton feu intérieur.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504949"
+    },
+    {
+      "english": "Trust the process, with heart.",
+      "FRENCH": "Fais confiance au processus, avec cœur.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504950"
+    },
+    {
+      "english": "Embrace the struggle, it shapes.",
+      "FRENCH": "Accueille la lutte, elle façonne.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504951"
+    },
+    {
+      "english": "Advance with conviction, gently.",
+      "FRENCH": "Avance avec conviction, doucement.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504953"
+    },
+    {
+      "english": "Dare to explore, the world.",
+      "FRENCH": "Ose explorer, le monde.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504954"
+    },
+    {
+      "english": "Find courage, in small steps.",
+      "FRENCH": "Trouve du courage, dans les petits pas.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504955"
+    },
+    {
+      "english": "Lead with kindness, then strength.",
+      "FRENCH": "Mène avec gentillesse, puis la force.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504956"
+    },
+    {
+      "english": "Be the spark, in darkness.",
+      "FRENCH": "Sois l'étincelle, dans le noir.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504957"
+    },
+    {
+      "english": "Rise to the occasion, always.",
+      "FRENCH": "Saisis l'occasion, toujours.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504958"
+    },
+    {
+      "english": "Unfold your wings, and fly.",
+      "FRENCH": "Déplie tes ailes, et vole.",
+      "category": "Courage",
+      "generated_at": "2026-07-19T04:22:55.504959"
     }
   ],
-  "last_updated": "2026-07-18T03:57:30.900914"
+  "last_updated": "2026-07-19T04:22:55.504961"
 }
