@@ -4319,7 +4319,727 @@
       "FRENCH": "Sois patient, les bonnes choses, arrivent.",
       "category": "Patience",
       "generated_at": "2026-07-20T04:37:42.402641"
+    },
+    {
+      "english": "This little gem, I share with you.",
+      "FRENCH": "Ce petit bijou, je le partage.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.822869"
+    },
+    {
+      "english": "A simple pleasure, found today.",
+      "FRENCH": "Un plaisir simple, trouvé aujourd'hui.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.822880"
+    },
+    {
+      "english": "This kindness, truly touched me.",
+      "FRENCH": "Cette gentillesse, m'a vraiment touché.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.822881"
+    },
+    {
+      "english": "I'm grateful, for this light.",
+      "FRENCH": "Je suis reconnaissant, pour cette lumière.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.822883"
+    },
+    {
+      "english": "A moment, of quiet joy.",
+      "FRENCH": "Un moment, de joie tranquille.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.822884"
+    },
+    {
+      "english": "This is, a precious gift.",
+      "FRENCH": "Ceci est, un cadeau précieux.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.822885"
+    },
+    {
+      "english": "The small things, matter most.",
+      "FRENCH": "Les petites choses, comptent le plus.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.822887"
+    },
+    {
+      "english": "My heart, is full, today.",
+      "FRENCH": "Mon cœur, est plein, aujourd'hui.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.822890"
+    },
+    {
+      "english": "This unexpected, treat, delights.",
+      "FRENCH": "Cette surprise, me ravit.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.822892"
+    },
+    {
+      "english": "I appreciate, your support.",
+      "FRENCH": "J'apprécie, votre soutien.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.822894"
+    },
+    {
+      "english": "This shared smile, warms me.",
+      "FRENCH": "Ce sourire partagé, me réchauffe.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.822895"
+    },
+    {
+      "english": "A gentle reminder, to breathe.",
+      "FRENCH": "Un doux rappel, de respirer.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.822896"
+    },
+    {
+      "english": "This peace, I cherish now.",
+      "FRENCH": "Cette paix, je chéris maintenant.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.822897"
+    },
+    {
+      "english": "Thank you, for this moment.",
+      "FRENCH": "Merci, pour ce moment.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.822899"
+    },
+    {
+      "english": "The beauty, in the ordinary.",
+      "FRENCH": "La beauté, dans l'ordinaire.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.822900"
+    },
+    {
+      "english": "This inspiration, I hold dear.",
+      "FRENCH": "Cette inspiration, je la garde.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.822901"
+    },
+    {
+      "english": "A little grace, for me.",
+      "FRENCH": "Une petite grâce, pour moi.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.822902"
+    },
+    {
+      "english": "This feeling, so good.",
+      "FRENCH": "Ce sentiment, si bon.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.822903"
+    },
+    {
+      "english": "I'm thankful, for this chance.",
+      "FRENCH": "Je suis reconnaissant, pour cette chance.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.822945"
+    },
+    {
+      "english": "This connection, feels right.",
+      "FRENCH": "Cette connexion, me semble juste.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.822947"
+    },
+    {
+      "english": "A moment, of pure delight.",
+      "FRENCH": "Un moment, de pur bonheur.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.822948"
+    },
+    {
+      "english": "This little spark, ignites.",
+      "FRENCH": "Cette petite étincelle, s'allume.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.822949"
+    },
+    {
+      "english": "I'm grateful, for your help.",
+      "FRENCH": "Je suis reconnaissant, pour votre aide.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.822950"
+    },
+    {
+      "english": "This gentle breeze, so calming.",
+      "FRENCH": "Cette brise douce, si apaisante.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.822952"
+    },
+    {
+      "english": "A surprise, that makes me smile.",
+      "FRENCH": "Une surprise, qui me fait sourire.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.822953"
+    },
+    {
+      "english": "This new perspective, I embrace.",
+      "FRENCH": "Cette nouvelle perspective, je l'adopte.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.822954"
+    },
+    {
+      "english": "I value, this experience.",
+      "FRENCH": "Je valorise, cette expérience.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.822955"
+    },
+    {
+      "english": "This quiet moment, so precious.",
+      "FRENCH": "Ce moment calme, si précieux.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.822956"
+    },
+    {
+      "english": "A small act, of pure kindness.",
+      "FRENCH": "Un petit geste, de pure bonté.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.822957"
+    },
+    {
+      "english": "This feeling, lifts me up.",
+      "FRENCH": "Ce sentiment, me transporte.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.822958"
+    },
+    {
+      "english": "I'm thankful, for this peace.",
+      "FRENCH": "Je suis reconnaissant, pour cette paix.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.822960"
+    },
+    {
+      "english": "This simple joy, I celebrate.",
+      "FRENCH": "Cette joie simple, je la célèbre.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.822961"
+    },
+    {
+      "english": "A kind word, always helps.",
+      "FRENCH": "Un mot gentil, aide toujours.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.822962"
+    },
+    {
+      "english": "This beauty, I observe.",
+      "FRENCH": "Cette beauté, j'observe.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.822963"
+    },
+    {
+      "english": "I appreciate, your presence.",
+      "FRENCH": "J'apprécie, votre présence.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.822964"
+    },
+    {
+      "english": "This little warmth, from you.",
+      "FRENCH": "Cette petite chaleur, de vous.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.822965"
+    },
+    {
+      "english": "A moment, of sweet content.",
+      "FRENCH": "Un moment, de doux contentement.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.822966"
+    },
+    {
+      "english": "This is, truly special.",
+      "FRENCH": "Ceci est, vraiment spécial.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.822967"
+    },
+    {
+      "english": "My gratitude, flows freely.",
+      "FRENCH": "Ma gratitude, coule librement.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.822968"
+    },
+    {
+      "english": "This feeling, resonates deeply.",
+      "FRENCH": "Ce sentiment, résonne profondément.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.822969"
+    },
+    {
+      "english": "This little gem, I share with you.",
+      "FRENCH": "Ce petit bijou, je le partage.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.822970"
+    },
+    {
+      "english": "A simple pleasure, found today.",
+      "FRENCH": "Un plaisir simple, trouvé aujourd'hui.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.822973"
+    },
+    {
+      "english": "This kindness, truly touched me.",
+      "FRENCH": "Cette gentillesse, m'a vraiment touché.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.822974"
+    },
+    {
+      "english": "I'm grateful, for this light.",
+      "FRENCH": "Je suis reconnaissant, pour cette lumière.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.822976"
+    },
+    {
+      "english": "A moment, of quiet joy.",
+      "FRENCH": "Un moment, de joie tranquille.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.822977"
+    },
+    {
+      "english": "This is, a precious gift.",
+      "FRENCH": "Ceci est, un cadeau précieux.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.822978"
+    },
+    {
+      "english": "The small things, matter most.",
+      "FRENCH": "Les petites choses, comptent le plus.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.822979"
+    },
+    {
+      "english": "My heart, is full, today.",
+      "FRENCH": "Mon cœur, est plein, aujourd'hui.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.822980"
+    },
+    {
+      "english": "This unexpected, treat, delights.",
+      "FRENCH": "Cette surprise, me ravit.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.822982"
+    },
+    {
+      "english": "I appreciate, your support.",
+      "FRENCH": "J'apprécie, votre soutien.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.822983"
+    },
+    {
+      "english": "This shared smile, warms me.",
+      "FRENCH": "Ce sourire partagé, me réchauffe.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.822984"
+    },
+    {
+      "english": "A gentle reminder, to breathe.",
+      "FRENCH": "Un doux rappel, de respirer.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.822985"
+    },
+    {
+      "english": "This peace, I cherish now.",
+      "FRENCH": "Cette paix, je chéris maintenant.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.822986"
+    },
+    {
+      "english": "Thank you, for this moment.",
+      "FRENCH": "Merci, pour ce moment.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.822987"
+    },
+    {
+      "english": "The beauty, in the ordinary.",
+      "FRENCH": "La beauté, dans l'ordinaire.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.822988"
+    },
+    {
+      "english": "This inspiration, I hold dear.",
+      "FRENCH": "Cette inspiration, je la garde.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.822989"
+    },
+    {
+      "english": "A little grace, for me.",
+      "FRENCH": "Une petite grâce, pour moi.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.822990"
+    },
+    {
+      "english": "This feeling, so good.",
+      "FRENCH": "Ce sentiment, si bon.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.822991"
+    },
+    {
+      "english": "I'm thankful, for this chance.",
+      "FRENCH": "Je suis reconnaissant, pour cette chance.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.822992"
+    },
+    {
+      "english": "This connection, feels right.",
+      "FRENCH": "Cette connexion, me semble juste.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.822993"
+    },
+    {
+      "english": "A moment, of pure delight.",
+      "FRENCH": "Un moment, de pur bonheur.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.822994"
+    },
+    {
+      "english": "This little spark, ignites.",
+      "FRENCH": "Cette petite étincelle, s'allume.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.822995"
+    },
+    {
+      "english": "I'm grateful, for your help.",
+      "FRENCH": "Je suis reconnaissant, pour votre aide.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.822996"
+    },
+    {
+      "english": "This gentle breeze, so calming.",
+      "FRENCH": "Cette brise douce, si apaisante.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.822998"
+    },
+    {
+      "english": "A surprise, that makes me smile.",
+      "FRENCH": "Une surprise, qui me fait sourire.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.822999"
+    },
+    {
+      "english": "This new perspective, I embrace.",
+      "FRENCH": "Cette nouvelle perspective, je l'adopte.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.823000"
+    },
+    {
+      "english": "I value, this experience.",
+      "FRENCH": "Je valorise, cette expérience.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.823001"
+    },
+    {
+      "english": "This quiet moment, so precious.",
+      "FRENCH": "Ce moment calme, si précieux.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.823002"
+    },
+    {
+      "english": "A small act, of pure kindness.",
+      "FRENCH": "Un petit geste, de pure bonté.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.823003"
+    },
+    {
+      "english": "This feeling, lifts me up.",
+      "FRENCH": "Ce sentiment, me transporte.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.823004"
+    },
+    {
+      "english": "I'm thankful, for this peace.",
+      "FRENCH": "Je suis reconnaissant, pour cette paix.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.823006"
+    },
+    {
+      "english": "This simple joy, I celebrate.",
+      "FRENCH": "Cette joie simple, je la célèbre.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.823007"
+    },
+    {
+      "english": "A kind word, always helps.",
+      "FRENCH": "Un mot gentil, aide toujours.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.823008"
+    },
+    {
+      "english": "This beauty, I observe.",
+      "FRENCH": "Cette beauté, j'observe.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.823009"
+    },
+    {
+      "english": "I appreciate, your presence.",
+      "FRENCH": "J'apprécie, votre présence.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.823010"
+    },
+    {
+      "english": "This little warmth, from you.",
+      "FRENCH": "Cette petite chaleur, de vous.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.823011"
+    },
+    {
+      "english": "A moment, of sweet content.",
+      "FRENCH": "Un moment, de doux contentement.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.823012"
+    },
+    {
+      "english": "This is, truly special.",
+      "FRENCH": "Ceci est, vraiment spécial.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.823013"
+    },
+    {
+      "english": "My gratitude, flows freely.",
+      "FRENCH": "Ma gratitude, coule librement.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.823014"
+    },
+    {
+      "english": "This feeling, resonates deeply.",
+      "FRENCH": "Ce sentiment, résonne profondément.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.823015"
+    },
+    {
+      "english": "This little gem, I share with you.",
+      "FRENCH": "Ce petit bijou, je le partage.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.823016"
+    },
+    {
+      "english": "A simple pleasure, found today.",
+      "FRENCH": "Un plaisir simple, trouvé aujourd'hui.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.823017"
+    },
+    {
+      "english": "This kindness, truly touched me.",
+      "FRENCH": "Cette gentillesse, m'a vraiment touché.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.823018"
+    },
+    {
+      "english": "I'm grateful, for this light.",
+      "FRENCH": "Je suis reconnaissant, pour cette lumière.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.823019"
+    },
+    {
+      "english": "A moment, of quiet joy.",
+      "FRENCH": "Un moment, de joie tranquille.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.823020"
+    },
+    {
+      "english": "This is, a precious gift.",
+      "FRENCH": "Ceci est, un cadeau précieux.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.823022"
+    },
+    {
+      "english": "The small things, matter most.",
+      "FRENCH": "Les petites choses, comptent le plus.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.823023"
+    },
+    {
+      "english": "My heart, is full, today.",
+      "FRENCH": "Mon cœur, est plein, aujourd'hui.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.823024"
+    },
+    {
+      "english": "This unexpected, treat, delights.",
+      "FRENCH": "Cette surprise, me ravit.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.823025"
+    },
+    {
+      "english": "I appreciate, your support.",
+      "FRENCH": "J'apprécie, votre soutien.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.823026"
+    },
+    {
+      "english": "This shared smile, warms me.",
+      "FRENCH": "Ce sourire partagé, me réchauffe.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.823027"
+    },
+    {
+      "english": "A gentle reminder, to breathe.",
+      "FRENCH": "Un doux rappel, de respirer.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.823028"
+    },
+    {
+      "english": "This peace, I cherish now.",
+      "FRENCH": "Cette paix, je chéris maintenant.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.823029"
+    },
+    {
+      "english": "Thank you, for this moment.",
+      "FRENCH": "Merci, pour ce moment.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.823030"
+    },
+    {
+      "english": "The beauty, in the ordinary.",
+      "FRENCH": "La beauté, dans l'ordinaire.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.823031"
+    },
+    {
+      "english": "This inspiration, I hold dear.",
+      "FRENCH": "Cette inspiration, je la garde.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.823032"
+    },
+    {
+      "english": "A little grace, for me.",
+      "FRENCH": "Une petite grâce, pour moi.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.823033"
+    },
+    {
+      "english": "This feeling, so good.",
+      "FRENCH": "Ce sentiment, si bon.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.823035"
+    },
+    {
+      "english": "I'm thankful, for this chance.",
+      "FRENCH": "Je suis reconnaissant, pour cette chance.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.823036"
+    },
+    {
+      "english": "This connection, feels right.",
+      "FRENCH": "Cette connexion, me semble juste.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.823037"
+    },
+    {
+      "english": "A moment, of pure delight.",
+      "FRENCH": "Un moment, de pur bonheur.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.823038"
+    },
+    {
+      "english": "This little spark, ignites.",
+      "FRENCH": "Cette petite étincelle, s'allume.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.823039"
+    },
+    {
+      "english": "I'm grateful, for your help.",
+      "FRENCH": "Je suis reconnaissant, pour votre aide.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.823040"
+    },
+    {
+      "english": "This gentle breeze, so calming.",
+      "FRENCH": "Cette brise douce, si apaisante.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.823041"
+    },
+    {
+      "english": "A surprise, that makes me smile.",
+      "FRENCH": "Une surprise, qui me fait sourire.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.823042"
+    },
+    {
+      "english": "This new perspective, I embrace.",
+      "FRENCH": "Cette nouvelle perspective, je l'adopte.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.823043"
+    },
+    {
+      "english": "I value, this experience.",
+      "FRENCH": "Je valorise, cette expérience.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.823044"
+    },
+    {
+      "english": "This quiet moment, so precious.",
+      "FRENCH": "Ce moment calme, si précieux.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.823045"
+    },
+    {
+      "english": "A small act, of pure kindness.",
+      "FRENCH": "Un petit geste, de pure bonté.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.823046"
+    },
+    {
+      "english": "This feeling, lifts me up.",
+      "FRENCH": "Ce sentiment, me transporte.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.823047"
+    },
+    {
+      "english": "I'm thankful, for this peace.",
+      "FRENCH": "Je suis reconnaissant, pour cette paix.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.823048"
+    },
+    {
+      "english": "This simple joy, I celebrate.",
+      "FRENCH": "Cette joie simple, je la célèbre.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.823049"
+    },
+    {
+      "english": "A kind word, always helps.",
+      "FRENCH": "Un mot gentil, aide toujours.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.823050"
+    },
+    {
+      "english": "This beauty, I observe.",
+      "FRENCH": "Cette beauté, j'observe.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.823051"
+    },
+    {
+      "english": "I appreciate, your presence.",
+      "FRENCH": "J'apprécie, votre présence.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.823052"
+    },
+    {
+      "english": "This little warmth, from you.",
+      "FRENCH": "Cette petite chaleur, de vous.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.823053"
+    },
+    {
+      "english": "A moment, of sweet content.",
+      "FRENCH": "Un moment, de doux contentement.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.823060"
+    },
+    {
+      "english": "This is, truly special.",
+      "FRENCH": "Ceci est, vraiment spécial.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.823061"
+    },
+    {
+      "english": "My gratitude, flows freely.",
+      "FRENCH": "Ma gratitude, coule librement.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.823062"
+    },
+    {
+      "english": "This feeling, resonates deeply.",
+      "FRENCH": "Ce sentiment, résonne profondément.",
+      "category": "Gratitudee",
+      "generated_at": "2026-07-21T04:17:29.823063"
     }
   ],
-  "last_updated": "2026-07-20T04:37:42.402643"
+  "last_updated": "2026-07-21T04:17:29.823064"
 }
