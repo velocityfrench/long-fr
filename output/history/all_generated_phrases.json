@@ -5759,7 +5759,727 @@
       "FRENCH": "Avec toi, tout est mieux.",
       "category": "Friendship",
       "generated_at": "2026-07-22T04:21:11.054214"
+    },
+    {
+      "english": "Too much of a good thing, is bad.",
+      "FRENCH": "Trop de bonnes choses, c'est nul.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557093"
+    },
+    {
+      "english": "Work hard, play harder, right?",
+      "FRENCH": "Travaillez dur, jouez plus fort, n'est-ce pas?",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557105"
+    },
+    {
+      "english": "Balance your plate, before your meal.",
+      "FRENCH": "Équilibrez votre assiette, avant de manger.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557107"
+    },
+    {
+      "english": "Don't go all in, or all out.",
+      "FRENCH": "Ne faites pas tout, ou rien du tout.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557108"
+    },
+    {
+      "english": "Find your peace, in the chaos.",
+      "FRENCH": "Trouvez votre paix, dans le chaos.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557109"
+    },
+    {
+      "english": "A little bit of everything, please.",
+      "FRENCH": "Un peu de tout, s'il vous plaît.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557110"
+    },
+    {
+      "english": "Steady wins, the race, actually.",
+      "FRENCH": "Le stable gagne, la course, en fait.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557111"
+    },
+    {
+      "english": "Too much sugar, makes you sick.",
+      "FRENCH": "Trop de sucre, rend malade.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557114"
+    },
+    {
+      "english": "Don't spill the beans, or the coffee.",
+      "FRENCH": "Ne renversez pas les haricots, ni le café.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557116"
+    },
+    {
+      "english": "One step forward, one step back.",
+      "FRENCH": "Un pas en avant, un pas en arrière.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557117"
+    },
+    {
+      "english": "Keep your cool, and your head.",
+      "FRENCH": "Restez calme, et gardez la tête.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557119"
+    },
+    {
+      "english": "Not too hot, not too cold.",
+      "FRENCH": "Ni trop chaud, ni trop froid.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557120"
+    },
+    {
+      "english": "A little spice, makes it lively.",
+      "FRENCH": "Un peu d'épices, ça anime.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557121"
+    },
+    {
+      "english": "Find your rhythm, and groove.",
+      "FRENCH": "Trouvez votre rythme, et votre flow.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557123"
+    },
+    {
+      "english": "Too much of a good thing, is overload.",
+      "FRENCH": "Trop de bonnes choses, c'est trop.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557125"
+    },
+    {
+      "english": "Don't lean too far, or you'll fall.",
+      "FRENCH": "Ne penchez pas trop, sinon vous tombez.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557126"
+    },
+    {
+      "english": "A moment to breathe, then go.",
+      "FRENCH": "Un moment pour respirer, puis partez.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557127"
+    },
+    {
+      "english": "Mix it up, for fun.",
+      "FRENCH": "Mélangez un peu, pour le plaisir.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557128"
+    },
+    {
+      "english": "Too much salt, ruins the soup.",
+      "FRENCH": "Trop de sel, gâche la soupe.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557130"
+    },
+    {
+      "english": "Find the middle ground, always.",
+      "FRENCH": "Trouvez le juste milieu, toujours.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557131"
+    },
+    {
+      "english": "A little bit of lazy, is okay.",
+      "FRENCH": "Un peu de paresse, c'est permis.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557132"
+    },
+    {
+      "english": "Don't break your back, or your spirit.",
+      "FRENCH": "Ne vous cassez pas le dos, ni l'esprit.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557133"
+    },
+    {
+      "english": "Keep it light, and breezy.",
+      "FRENCH": "Gardez ça léger, et aérien.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557134"
+    },
+    {
+      "english": "Too much of a good thing, is messy.",
+      "FRENCH": "Trop de bonnes choses, c'est le désordre.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557135"
+    },
+    {
+      "english": "A careful balance, keeps you moving.",
+      "FRENCH": "Un équilibre prudent, vous fait avancer.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557136"
+    },
+    {
+      "english": "Don't rock the boat, too much.",
+      "FRENCH": "Ne faites pas trop tanguer le bateau.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557137"
+    },
+    {
+      "english": "A little give, and take.",
+      "FRENCH": "Un peu de donner, et recevoir.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557138"
+    },
+    {
+      "english": "Too much noise, hurts the ears.",
+      "FRENCH": "Trop de bruit, fait mal aux oreilles.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557139"
+    },
+    {
+      "english": "Find your footing, then step.",
+      "FRENCH": "Trouvez votre appui, puis marchez.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557139"
+    },
+    {
+      "english": "Don't overdo it, with the sauce.",
+      "FRENCH": "N'en mettez pas trop, de la sauce.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557140"
+    },
+    {
+      "english": "A steady hand, makes crafts.",
+      "FRENCH": "Une main stable, fait des arts.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557141"
+    },
+    {
+      "english": "Too much pressure, makes you crack.",
+      "FRENCH": "Trop de pression, vous fait craquer.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557142"
+    },
+    {
+      "english": "Just enough, is perfect.",
+      "FRENCH": "Juste assez, c'est parfait.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557143"
+    },
+    {
+      "english": "Don't run on empty, ever.",
+      "FRENCH": "Ne marchez jamais, à vide.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557144"
+    },
+    {
+      "english": "A little bit of distance, helps.",
+      "FRENCH": "Un peu de distance, aide.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557145"
+    },
+    {
+      "english": "Too much of a good thing, is a bore.",
+      "FRENCH": "Trop de bonnes choses, c'est ennuyeux.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557146"
+    },
+    {
+      "english": "Find your center, and breathe.",
+      "FRENCH": "Trouvez votre centre, et respirez.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557147"
+    },
+    {
+      "english": "Don't lean left, or right.",
+      "FRENCH": "Ne penchez ni à gauche, ni à droite.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557148"
+    },
+    {
+      "english": "A little bit of zest, is key.",
+      "FRENCH": "Un peu de peps, c'est la clé.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557149"
+    },
+    {
+      "english": "Too much of a good thing, is bad.",
+      "FRENCH": "Trop de bonnes choses, c'est nul.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557150"
+    },
+    {
+      "english": "Work hard, play harder, right?",
+      "FRENCH": "Travaillez dur, jouez plus fort, n'est-ce pas?",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557151"
+    },
+    {
+      "english": "Balance your plate, before your meal.",
+      "FRENCH": "Équilibrez votre assiette, avant de manger.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557152"
+    },
+    {
+      "english": "Don't go all in, or all out.",
+      "FRENCH": "Ne faites pas tout, ou rien du tout.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557153"
+    },
+    {
+      "english": "Find your peace, in the chaos.",
+      "FRENCH": "Trouvez votre paix, dans le chaos.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557154"
+    },
+    {
+      "english": "A little bit of everything, please.",
+      "FRENCH": "Un peu de tout, s'il vous plaît.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557155"
+    },
+    {
+      "english": "Steady wins, the race, actually.",
+      "FRENCH": "Le stable gagne, la course, en fait.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557156"
+    },
+    {
+      "english": "Too much sugar, makes you sick.",
+      "FRENCH": "Trop de sucre, rend malade.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557157"
+    },
+    {
+      "english": "Don't spill the beans, or the coffee.",
+      "FRENCH": "Ne renversez pas les haricots, ni le café.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557158"
+    },
+    {
+      "english": "One step forward, one step back.",
+      "FRENCH": "Un pas en avant, un pas en arrière.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557159"
+    },
+    {
+      "english": "Keep your cool, and your head.",
+      "FRENCH": "Restez calme, et gardez la tête.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557160"
+    },
+    {
+      "english": "Not too hot, not too cold.",
+      "FRENCH": "Ni trop chaud, ni trop froid.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557161"
+    },
+    {
+      "english": "A little spice, makes it lively.",
+      "FRENCH": "Un peu d'épices, ça anime.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557162"
+    },
+    {
+      "english": "Find your rhythm, and groove.",
+      "FRENCH": "Trouvez votre rythme, et votre flow.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557163"
+    },
+    {
+      "english": "Too much of a good thing, is overload.",
+      "FRENCH": "Trop de bonnes choses, c'est trop.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557164"
+    },
+    {
+      "english": "Don't lean too far, or you'll fall.",
+      "FRENCH": "Ne penchez pas trop, sinon vous tombez.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557165"
+    },
+    {
+      "english": "A moment to breathe, then go.",
+      "FRENCH": "Un moment pour respirer, puis partez.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557166"
+    },
+    {
+      "english": "Mix it up, for fun.",
+      "FRENCH": "Mélangez un peu, pour le plaisir.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557167"
+    },
+    {
+      "english": "Too much salt, ruins the soup.",
+      "FRENCH": "Trop de sel, gâche la soupe.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557168"
+    },
+    {
+      "english": "Find the middle ground, always.",
+      "FRENCH": "Trouvez le juste milieu, toujours.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557169"
+    },
+    {
+      "english": "A little bit of lazy, is okay.",
+      "FRENCH": "Un peu de paresse, c'est permis.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557170"
+    },
+    {
+      "english": "Don't break your back, or your spirit.",
+      "FRENCH": "Ne vous cassez pas le dos, ni l'esprit.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557171"
+    },
+    {
+      "english": "Keep it light, and breezy.",
+      "FRENCH": "Gardez ça léger, et aérien.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557172"
+    },
+    {
+      "english": "Too much of a good thing, is messy.",
+      "FRENCH": "Trop de bonnes choses, c'est le désordre.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557173"
+    },
+    {
+      "english": "A careful balance, keeps you moving.",
+      "FRENCH": "Un équilibre prudent, vous fait avancer.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557174"
+    },
+    {
+      "english": "Don't rock the boat, too much.",
+      "FRENCH": "Ne faites pas trop tanguer le bateau.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557175"
+    },
+    {
+      "english": "A little give, and take.",
+      "FRENCH": "Un peu de donner, et recevoir.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557175"
+    },
+    {
+      "english": "Too much noise, hurts the ears.",
+      "FRENCH": "Trop de bruit, fait mal aux oreilles.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557176"
+    },
+    {
+      "english": "Find your footing, then step.",
+      "FRENCH": "Trouvez votre appui, puis marchez.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557177"
+    },
+    {
+      "english": "Don't overdo it, with the sauce.",
+      "FRENCH": "N'en mettez pas trop, de la sauce.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557178"
+    },
+    {
+      "english": "A steady hand, makes crafts.",
+      "FRENCH": "Une main stable, fait des arts.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557179"
+    },
+    {
+      "english": "Too much pressure, makes you crack.",
+      "FRENCH": "Trop de pression, vous fait craquer.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557180"
+    },
+    {
+      "english": "Just enough, is perfect.",
+      "FRENCH": "Juste assez, c'est parfait.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557181"
+    },
+    {
+      "english": "Don't run on empty, ever.",
+      "FRENCH": "Ne marchez jamais, à vide.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557182"
+    },
+    {
+      "english": "A little bit of distance, helps.",
+      "FRENCH": "Un peu de distance, aide.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557183"
+    },
+    {
+      "english": "Too much of a good thing, is a bore.",
+      "FRENCH": "Trop de bonnes choses, c'est ennuyeux.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557184"
+    },
+    {
+      "english": "Find your center, and breathe.",
+      "FRENCH": "Trouvez votre centre, et respirez.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557185"
+    },
+    {
+      "english": "Don't lean left, or right.",
+      "FRENCH": "Ne penchez ni à gauche, ni à droite.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557186"
+    },
+    {
+      "english": "A little bit of zest, is key.",
+      "FRENCH": "Un peu de peps, c'est la clé.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557187"
+    },
+    {
+      "english": "Too much of a good thing, is bad.",
+      "FRENCH": "Trop de bonnes choses, c'est nul.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557188"
+    },
+    {
+      "english": "Work hard, play harder, right?",
+      "FRENCH": "Travaillez dur, jouez plus fort, n'est-ce pas?",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557189"
+    },
+    {
+      "english": "Balance your plate, before your meal.",
+      "FRENCH": "Équilibrez votre assiette, avant de manger.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557190"
+    },
+    {
+      "english": "Don't go all in, or all out.",
+      "FRENCH": "Ne faites pas tout, ou rien du tout.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557192"
+    },
+    {
+      "english": "Find your peace, in the chaos.",
+      "FRENCH": "Trouvez votre paix, dans le chaos.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557193"
+    },
+    {
+      "english": "A little bit of everything, please.",
+      "FRENCH": "Un peu de tout, s'il vous plaît.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557194"
+    },
+    {
+      "english": "Steady wins, the race, actually.",
+      "FRENCH": "Le stable gagne, la course, en fait.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557195"
+    },
+    {
+      "english": "Too much sugar, makes you sick.",
+      "FRENCH": "Trop de sucre, rend malade.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557201"
+    },
+    {
+      "english": "Don't spill the beans, or the coffee.",
+      "FRENCH": "Ne renversez pas les haricots, ni le café.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557202"
+    },
+    {
+      "english": "One step forward, one step back.",
+      "FRENCH": "Un pas en avant, un pas en arrière.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557203"
+    },
+    {
+      "english": "Keep your cool, and your head.",
+      "FRENCH": "Restez calme, et gardez la tête.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557204"
+    },
+    {
+      "english": "Not too hot, not too cold.",
+      "FRENCH": "Ni trop chaud, ni trop froid.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557205"
+    },
+    {
+      "english": "A little spice, makes it lively.",
+      "FRENCH": "Un peu d'épices, ça anime.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557206"
+    },
+    {
+      "english": "Find your rhythm, and groove.",
+      "FRENCH": "Trouvez votre rythme, et votre flow.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557207"
+    },
+    {
+      "english": "Too much of a good thing, is overload.",
+      "FRENCH": "Trop de bonnes choses, c'est trop.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557208"
+    },
+    {
+      "english": "Don't lean too far, or you'll fall.",
+      "FRENCH": "Ne penchez pas trop, sinon vous tombez.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557209"
+    },
+    {
+      "english": "A moment to breathe, then go.",
+      "FRENCH": "Un moment pour respirer, puis partez.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557210"
+    },
+    {
+      "english": "Mix it up, for fun.",
+      "FRENCH": "Mélangez un peu, pour le plaisir.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557211"
+    },
+    {
+      "english": "Too much salt, ruins the soup.",
+      "FRENCH": "Trop de sel, gâche la soupe.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557212"
+    },
+    {
+      "english": "Find the middle ground, always.",
+      "FRENCH": "Trouvez le juste milieu, toujours.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557213"
+    },
+    {
+      "english": "A little bit of lazy, is okay.",
+      "FRENCH": "Un peu de paresse, c'est permis.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557226"
+    },
+    {
+      "english": "Don't break your back, or your spirit.",
+      "FRENCH": "Ne vous cassez pas le dos, ni l'esprit.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557227"
+    },
+    {
+      "english": "Keep it light, and breezy.",
+      "FRENCH": "Gardez ça léger, et aérien.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557228"
+    },
+    {
+      "english": "Too much of a good thing, is messy.",
+      "FRENCH": "Trop de bonnes choses, c'est le désordre.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557229"
+    },
+    {
+      "english": "A careful balance, keeps you moving.",
+      "FRENCH": "Un équilibre prudent, vous fait avancer.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557230"
+    },
+    {
+      "english": "Don't rock the boat, too much.",
+      "FRENCH": "Ne faites pas trop tanguer le bateau.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557231"
+    },
+    {
+      "english": "A little give, and take.",
+      "FRENCH": "Un peu de donner, et recevoir.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557232"
+    },
+    {
+      "english": "Too much noise, hurts the ears.",
+      "FRENCH": "Trop de bruit, fait mal aux oreilles.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557233"
+    },
+    {
+      "english": "Find your footing, then step.",
+      "FRENCH": "Trouvez votre appui, puis marchez.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557234"
+    },
+    {
+      "english": "Don't overdo it, with the sauce.",
+      "FRENCH": "N'en mettez pas trop, de la sauce.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557235"
+    },
+    {
+      "english": "A steady hand, makes crafts.",
+      "FRENCH": "Une main stable, fait des arts.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557236"
+    },
+    {
+      "english": "Too much pressure, makes you crack.",
+      "FRENCH": "Trop de pression, vous fait craquer.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557237"
+    },
+    {
+      "english": "Just enough, is perfect.",
+      "FRENCH": "Juste assez, c'est parfait.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557238"
+    },
+    {
+      "english": "Don't run on empty, ever.",
+      "FRENCH": "Ne marchez jamais, à vide.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557239"
+    },
+    {
+      "english": "A little bit of distance, helps.",
+      "FRENCH": "Un peu de distance, aide.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557240"
+    },
+    {
+      "english": "Too much of a good thing, is a bore.",
+      "FRENCH": "Trop de bonnes choses, c'est ennuyeux.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557241"
+    },
+    {
+      "english": "Find your center, and breathe.",
+      "FRENCH": "Trouvez votre centre, et respirez.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557242"
+    },
+    {
+      "english": "Don't lean left, or right.",
+      "FRENCH": "Ne penchez ni à gauche, ni à droite.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557244"
+    },
+    {
+      "english": "A little bit of zest, is key.",
+      "FRENCH": "Un peu de peps, c'est la clé.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557247"
+    },
+    {
+      "english": "Too much of a good thing, is bad.",
+      "FRENCH": "Trop de bonnes choses, c'est nul.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557249"
+    },
+    {
+      "english": "Work hard, play harder, right?",
+      "FRENCH": "Travaillez dur, jouez plus fort, n'est-ce pas?",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557251"
+    },
+    {
+      "english": "Balance your plate, before your meal.",
+      "FRENCH": "Équilibrez votre assiette, avant de manger.",
+      "category": "Balance",
+      "generated_at": "2026-07-23T04:17:17.557252"
     }
   ],
-  "last_updated": "2026-07-22T04:21:11.054216"
+  "last_updated": "2026-07-23T04:17:17.557254"
 }
