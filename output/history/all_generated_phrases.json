@@ -6479,7 +6479,727 @@
       "FRENCH": "Équilibrez votre assiette, avant de manger.",
       "category": "Balance",
       "generated_at": "2026-07-23T04:17:17.557252"
+    },
+    {
+      "english": "Listen first, then speak.",
+      "FRENCH": "Écoute d'abord, puis parle.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.720988"
+    },
+    {
+      "english": "Curiosity fuels learning.",
+      "FRENCH": "La curiosité, nourrit l'esprit.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.720998"
+    },
+    {
+      "english": "Every day, a new chance.",
+      "FRENCH": "Chaque jour, une nouvelle chance.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721000"
+    },
+    {
+      "english": "Be kind, always.",
+      "FRENCH": "Sois gentil, toujours.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721001"
+    },
+    {
+      "english": "Mistakes teach lessons.",
+      "FRENCH": "Les erreurs, enseignent des leçons.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721003"
+    },
+    {
+      "english": "Patience brings rewards.",
+      "FRENCH": "La patience, apporte des récompenses.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721004"
+    },
+    {
+      "english": "Simple is often best.",
+      "FRENCH": "Simple, est souvent le meilleur.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721005"
+    },
+    {
+      "english": "Share your light, brightly.",
+      "FRENCH": "Partage ta lumière, brillamment.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721008"
+    },
+    {
+      "english": "Joy comes, from within.",
+      "FRENCH": "La joie vient, de l'intérieur.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721009"
+    },
+    {
+      "english": "A small act, makes a difference.",
+      "FRENCH": "Un petit geste, fait une différence.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721010"
+    },
+    {
+      "english": "Embrace the unknown, bravely.",
+      "FRENCH": "Accueille l'inconnu, courageusement.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721012"
+    },
+    {
+      "english": "Learn from yesterday, live today.",
+      "FRENCH": "Apprends d'hier, vis aujourd'hui.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721013"
+    },
+    {
+      "english": "Open mind, open heart.",
+      "FRENCH": "Esprit ouvert, cœur ouvert.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721014"
+    },
+    {
+      "english": "Do good, feel good.",
+      "FRENCH": "Fais le bien, ressens le bien.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721016"
+    },
+    {
+      "english": "Gratitude changes everything.",
+      "FRENCH": "La gratitude, change tout.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721017"
+    },
+    {
+      "english": "Listen to your gut, often.",
+      "FRENCH": "Écoute ton instinct, souvent.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721018"
+    },
+    {
+      "english": "Grow where you're planted.",
+      "FRENCH": "Pousse où tu es planté.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721019"
+    },
+    {
+      "english": "Kind words, heal wounds.",
+      "FRENCH": "Les mots gentils, guérissent les blessures.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721020"
+    },
+    {
+      "english": "Be present, truly.",
+      "FRENCH": "Sois présent, vraiment.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721021"
+    },
+    {
+      "english": "Laughter is the best medicine.",
+      "FRENCH": "Le rire, est le meilleur remède.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721022"
+    },
+    {
+      "english": "Seek understanding first.",
+      "FRENCH": "Cherche la compréhension d'abord.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721023"
+    },
+    {
+      "english": "Honesty paves the way.",
+      "FRENCH": "L'honnêteté, ouvre la voie.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721026"
+    },
+    {
+      "english": "Listen to your heart's song.",
+      "FRENCH": "Écoute la chanson, de ton cœur.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721027"
+    },
+    {
+      "english": "Small joys, fill life.",
+      "FRENCH": "Les petites joies, remplissent la vie.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721028"
+    },
+    {
+      "english": "Forgiveness sets you free.",
+      "FRENCH": "Le pardon, te libère.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721029"
+    },
+    {
+      "english": "Empathy connects us all.",
+      "FRENCH": "L'empathie, nous relie tous.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721030"
+    },
+    {
+      "english": "Be the change, you seek.",
+      "FRENCH": "Sois le changement, que tu cherches.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721031"
+    },
+    {
+      "english": "Believe in your power.",
+      "FRENCH": "Crois en ton pouvoir.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721032"
+    },
+    {
+      "english": "Silence can speak volumes.",
+      "FRENCH": "Le silence, peut parler fort.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721033"
+    },
+    {
+      "english": "Wisdom whispers, softly.",
+      "FRENCH": "La sagesse, murmure doucement.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721034"
+    },
+    {
+      "english": "Cherish moments, big and small.",
+      "FRENCH": "Chéris les moments, grands et petits.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721035"
+    },
+    {
+      "english": "A gentle word, can change minds.",
+      "FRENCH": "Un mot doux, peut changer les esprits.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721036"
+    },
+    {
+      "english": "Embrace discomfort, for growth.",
+      "FRENCH": "Accueille l'inconfort, pour grandir.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721037"
+    },
+    {
+      "english": "Find beauty, everywhere.",
+      "FRENCH": "Trouve la beauté, partout.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721038"
+    },
+    {
+      "english": "Let go, and trust the process.",
+      "FRENCH": "Lâche prise, et fais confiance au processus.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721039"
+    },
+    {
+      "english": "Action speaks louder, than words.",
+      "FRENCH": "L'action parle plus fort, que les mots.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721040"
+    },
+    {
+      "english": "Be grateful, for life.",
+      "FRENCH": "Sois reconnaissant, pour la vie.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721042"
+    },
+    {
+      "english": "Kindness costs nothing, means everything.",
+      "FRENCH": "La gentillesse, ne coûte rien, vaut tout.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721043"
+    },
+    {
+      "english": "Listen first, then speak.",
+      "FRENCH": "Écoute d'abord, puis parle.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721044"
+    },
+    {
+      "english": "Curiosity fuels learning.",
+      "FRENCH": "La curiosité, nourrit l'esprit.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721045"
+    },
+    {
+      "english": "Every day, a new chance.",
+      "FRENCH": "Chaque jour, une nouvelle chance.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721047"
+    },
+    {
+      "english": "Be kind, always.",
+      "FRENCH": "Sois gentil, toujours.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721051"
+    },
+    {
+      "english": "Mistakes teach lessons.",
+      "FRENCH": "Les erreurs, enseignent des leçons.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721052"
+    },
+    {
+      "english": "Patience brings rewards.",
+      "FRENCH": "La patience, apporte des récompenses.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721053"
+    },
+    {
+      "english": "Simple is often best.",
+      "FRENCH": "Simple, est souvent le meilleur.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721054"
+    },
+    {
+      "english": "Share your light, brightly.",
+      "FRENCH": "Partage ta lumière, brillamment.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721055"
+    },
+    {
+      "english": "Joy comes, from within.",
+      "FRENCH": "La joie vient, de l'intérieur.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721056"
+    },
+    {
+      "english": "A small act, makes a difference.",
+      "FRENCH": "Un petit geste, fait une différence.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721058"
+    },
+    {
+      "english": "Embrace the unknown, bravely.",
+      "FRENCH": "Accueille l'inconnu, courageusement.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721059"
+    },
+    {
+      "english": "Learn from yesterday, live today.",
+      "FRENCH": "Apprends d'hier, vis aujourd'hui.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721060"
+    },
+    {
+      "english": "Open mind, open heart.",
+      "FRENCH": "Esprit ouvert, cœur ouvert.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721061"
+    },
+    {
+      "english": "Do good, feel good.",
+      "FRENCH": "Fais le bien, ressens le bien.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721062"
+    },
+    {
+      "english": "Gratitude changes everything.",
+      "FRENCH": "La gratitude, change tout.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721063"
+    },
+    {
+      "english": "Listen to your gut, often.",
+      "FRENCH": "Écoute ton instinct, souvent.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721064"
+    },
+    {
+      "english": "Grow where you're planted.",
+      "FRENCH": "Pousse où tu es planté.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721065"
+    },
+    {
+      "english": "Kind words, heal wounds.",
+      "FRENCH": "Les mots gentils, guérissent les blessures.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721066"
+    },
+    {
+      "english": "Be present, truly.",
+      "FRENCH": "Sois présent, vraiment.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721068"
+    },
+    {
+      "english": "Laughter is the best medicine.",
+      "FRENCH": "Le rire, est le meilleur remède.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721069"
+    },
+    {
+      "english": "Seek understanding first.",
+      "FRENCH": "Cherche la compréhension d'abord.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721070"
+    },
+    {
+      "english": "Honesty paves the way.",
+      "FRENCH": "L'honnêteté, ouvre la voie.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721071"
+    },
+    {
+      "english": "Listen to your heart's song.",
+      "FRENCH": "Écoute la chanson, de ton cœur.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721072"
+    },
+    {
+      "english": "Small joys, fill life.",
+      "FRENCH": "Les petites joies, remplissent la vie.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721073"
+    },
+    {
+      "english": "Forgiveness sets you free.",
+      "FRENCH": "Le pardon, te libère.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721074"
+    },
+    {
+      "english": "Empathy connects us all.",
+      "FRENCH": "L'empathie, nous relie tous.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721076"
+    },
+    {
+      "english": "Be the change, you seek.",
+      "FRENCH": "Sois le changement, que tu cherches.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721077"
+    },
+    {
+      "english": "Believe in your power.",
+      "FRENCH": "Crois en ton pouvoir.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721078"
+    },
+    {
+      "english": "Silence can speak volumes.",
+      "FRENCH": "Le silence, peut parler fort.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721079"
+    },
+    {
+      "english": "Wisdom whispers, softly.",
+      "FRENCH": "La sagesse, murmure doucement.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721080"
+    },
+    {
+      "english": "Cherish moments, big and small.",
+      "FRENCH": "Chéris les moments, grands et petits.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721081"
+    },
+    {
+      "english": "A gentle word, can change minds.",
+      "FRENCH": "Un mot doux, peut changer les esprits.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721082"
+    },
+    {
+      "english": "Embrace discomfort, for growth.",
+      "FRENCH": "Accueille l'inconfort, pour grandir.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721083"
+    },
+    {
+      "english": "Find beauty, everywhere.",
+      "FRENCH": "Trouve la beauté, partout.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721084"
+    },
+    {
+      "english": "Let go, and trust the process.",
+      "FRENCH": "Lâche prise, et fais confiance au processus.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721085"
+    },
+    {
+      "english": "Action speaks louder, than words.",
+      "FRENCH": "L'action parle plus fort, que les mots.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721086"
+    },
+    {
+      "english": "Be grateful, for life.",
+      "FRENCH": "Sois reconnaissant, pour la vie.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721087"
+    },
+    {
+      "english": "Kindness costs nothing, means everything.",
+      "FRENCH": "La gentillesse, ne coûte rien, vaut tout.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721088"
+    },
+    {
+      "english": "Listen first, then speak.",
+      "FRENCH": "Écoute d'abord, puis parle.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721091"
+    },
+    {
+      "english": "Curiosity fuels learning.",
+      "FRENCH": "La curiosité, nourrit l'esprit.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721092"
+    },
+    {
+      "english": "Every day, a new chance.",
+      "FRENCH": "Chaque jour, une nouvelle chance.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721093"
+    },
+    {
+      "english": "Be kind, always.",
+      "FRENCH": "Sois gentil, toujours.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721094"
+    },
+    {
+      "english": "Mistakes teach lessons.",
+      "FRENCH": "Les erreurs, enseignent des leçons.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721095"
+    },
+    {
+      "english": "Patience brings rewards.",
+      "FRENCH": "La patience, apporte des récompenses.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721096"
+    },
+    {
+      "english": "Simple is often best.",
+      "FRENCH": "Simple, est souvent le meilleur.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721097"
+    },
+    {
+      "english": "Share your light, brightly.",
+      "FRENCH": "Partage ta lumière, brillamment.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721098"
+    },
+    {
+      "english": "Joy comes, from within.",
+      "FRENCH": "La joie vient, de l'intérieur.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721099"
+    },
+    {
+      "english": "A small act, makes a difference.",
+      "FRENCH": "Un petit geste, fait une différence.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721100"
+    },
+    {
+      "english": "Embrace the unknown, bravely.",
+      "FRENCH": "Accueille l'inconnu, courageusement.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721102"
+    },
+    {
+      "english": "Learn from yesterday, live today.",
+      "FRENCH": "Apprends d'hier, vis aujourd'hui.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721103"
+    },
+    {
+      "english": "Open mind, open heart.",
+      "FRENCH": "Esprit ouvert, cœur ouvert.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721104"
+    },
+    {
+      "english": "Do good, feel good.",
+      "FRENCH": "Fais le bien, ressens le bien.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721105"
+    },
+    {
+      "english": "Gratitude changes everything.",
+      "FRENCH": "La gratitude, change tout.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721106"
+    },
+    {
+      "english": "Listen to your gut, often.",
+      "FRENCH": "Écoute ton instinct, souvent.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721107"
+    },
+    {
+      "english": "Grow where you're planted.",
+      "FRENCH": "Pousse où tu es planté.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721108"
+    },
+    {
+      "english": "Kind words, heal wounds.",
+      "FRENCH": "Les mots gentils, guérissent les blessures.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721109"
+    },
+    {
+      "english": "Be present, truly.",
+      "FRENCH": "Sois présent, vraiment.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721110"
+    },
+    {
+      "english": "Laughter is the best medicine.",
+      "FRENCH": "Le rire, est le meilleur remède.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721111"
+    },
+    {
+      "english": "Seek understanding first.",
+      "FRENCH": "Cherche la compréhension d'abord.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721112"
+    },
+    {
+      "english": "Honesty paves the way.",
+      "FRENCH": "L'honnêteté, ouvre la voie.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721113"
+    },
+    {
+      "english": "Listen to your heart's song.",
+      "FRENCH": "Écoute la chanson, de ton cœur.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721114"
+    },
+    {
+      "english": "Small joys, fill life.",
+      "FRENCH": "Les petites joies, remplissent la vie.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721115"
+    },
+    {
+      "english": "Forgiveness sets you free.",
+      "FRENCH": "Le pardon, te libère.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721116"
+    },
+    {
+      "english": "Empathy connects us all.",
+      "FRENCH": "L'empathie, nous relie tous.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721117"
+    },
+    {
+      "english": "Be the change, you seek.",
+      "FRENCH": "Sois le changement, que tu cherches.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721118"
+    },
+    {
+      "english": "Believe in your power.",
+      "FRENCH": "Crois en ton pouvoir.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721119"
+    },
+    {
+      "english": "Silence can speak volumes.",
+      "FRENCH": "Le silence, peut parler fort.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721122"
+    },
+    {
+      "english": "Wisdom whispers, softly.",
+      "FRENCH": "La sagesse, murmure doucement.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721123"
+    },
+    {
+      "english": "Cherish moments, big and small.",
+      "FRENCH": "Chéris les moments, grands et petits.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721124"
+    },
+    {
+      "english": "A gentle word, can change minds.",
+      "FRENCH": "Un mot doux, peut changer les esprits.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721126"
+    },
+    {
+      "english": "Embrace discomfort, for growth.",
+      "FRENCH": "Accueille l'inconfort, pour grandir.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721128"
+    },
+    {
+      "english": "Find beauty, everywhere.",
+      "FRENCH": "Trouve la beauté, partout.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721129"
+    },
+    {
+      "english": "Let go, and trust the process.",
+      "FRENCH": "Lâche prise, et fais confiance au processus.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721130"
+    },
+    {
+      "english": "Action speaks louder, than words.",
+      "FRENCH": "L'action parle plus fort, que les mots.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721131"
+    },
+    {
+      "english": "Be grateful, for life.",
+      "FRENCH": "Sois reconnaissant, pour la vie.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721132"
+    },
+    {
+      "english": "Kindness costs nothing, means everything.",
+      "FRENCH": "La gentillesse, ne coûte rien, vaut tout.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721133"
+    },
+    {
+      "english": "Listen first, then speak.",
+      "FRENCH": "Écoute d'abord, puis parle.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721134"
+    },
+    {
+      "english": "Curiosity fuels learning.",
+      "FRENCH": "La curiosité, nourrit l'esprit.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721135"
+    },
+    {
+      "english": "Every day, a new chance.",
+      "FRENCH": "Chaque jour, une nouvelle chance.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721136"
+    },
+    {
+      "english": "Be kind, always.",
+      "FRENCH": "Sois gentil, toujours.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721137"
+    },
+    {
+      "english": "Mistakes teach lessons.",
+      "FRENCH": "Les erreurs, enseignent des leçons.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721138"
+    },
+    {
+      "english": "Patience brings rewards.",
+      "FRENCH": "La patience, apporte des récompenses.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T04:18:35.721139"
     }
   ],
-  "last_updated": "2026-07-23T04:17:17.557254"
+  "last_updated": "2026-07-24T04:18:35.721141"
 }
