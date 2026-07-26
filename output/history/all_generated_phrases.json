@@ -7199,7 +7199,727 @@
       "FRENCH": "La patience, apporte des récompenses.",
       "category": "Wisdom",
       "generated_at": "2026-07-24T04:18:35.721139"
+    },
+    {
+      "english": "Your smile, brightens rooms.",
+      "FRENCH": "Ton sourire, éclaire les pièces.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829103"
+    },
+    {
+      "english": "Small steps, build mountains.",
+      "FRENCH": "Petits pas, bâtissent des montagnes.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829111"
+    },
+    {
+      "english": "Curiosity, unlocks doors.",
+      "FRENCH": "La curiosité, ouvre des portes.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829113"
+    },
+    {
+      "english": "Dreams, take flight slowly.",
+      "FRENCH": "Les rêves, prennent leur envol doucement.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829114"
+    },
+    {
+      "english": "Courage, starts with doubt.",
+      "FRENCH": "Le courage, commence avec le doute.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829116"
+    },
+    {
+      "english": "Kindness, ripples outward.",
+      "FRENCH": "La gentillesse, a des ondes.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829117"
+    },
+    {
+      "english": "Listen, to learn more.",
+      "FRENCH": "Écoute, pour apprendre davantage.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829118"
+    },
+    {
+      "english": "Hope, lights the path.",
+      "FRENCH": "L'espoir, éclaire le chemin.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829120"
+    },
+    {
+      "english": "Be generous, with your time.",
+      "FRENCH": "Sois généreux, avec ton temps.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829122"
+    },
+    {
+      "english": "Mistakes, are teaching moments.",
+      "FRENCH": "Les erreurs, sont des moments d'apprentissage.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829123"
+    },
+    {
+      "english": "Challenges, make you strong.",
+      "FRENCH": "Les défis, te rendent fort.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829125"
+    },
+    {
+      "english": "Learn, from every experience.",
+      "FRENCH": "Apprends, de chaque expérience.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829126"
+    },
+    {
+      "english": "Believe, in your ideas.",
+      "FRENCH": "Crois, en tes idées.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829127"
+    },
+    {
+      "english": "Share, your unique gifts.",
+      "FRENCH": "Partage, tes dons uniques.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829128"
+    },
+    {
+      "english": "Love, conquers all.",
+      "FRENCH": "L'amour, triomphe de tout.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829129"
+    },
+    {
+      "english": "Forgive, yourself too.",
+      "FRENCH": "Pardonne,-toi aussi.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829130"
+    },
+    {
+      "english": "Be humble, always.",
+      "FRENCH": "Sois humble, toujours.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829132"
+    },
+    {
+      "english": "Create, your own path.",
+      "FRENCH": "Crée, ton propre chemin.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829133"
+    },
+    {
+      "english": "Peace, starts within.",
+      "FRENCH": "La paix, commence en soi.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829134"
+    },
+    {
+      "english": "Give, without expecting.",
+      "FRENCH": "Donne, sans attendre.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829135"
+    },
+    {
+      "english": "Wisdom, grows with age.",
+      "FRENCH": "La sagesse, grandit avec l'âge.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829136"
+    },
+    {
+      "english": "Accept, what you can't change.",
+      "FRENCH": "Accepte, ce que tu ne peux changer.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829137"
+    },
+    {
+      "english": "Your voice, matters greatly.",
+      "FRENCH": "Ta voix, compte énormément.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829138"
+    },
+    {
+      "english": "Be gentle, with yourself.",
+      "FRENCH": "Sois doux, avec toi-même.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829139"
+    },
+    {
+      "english": "Joy, is a choice.",
+      "FRENCH": "La joie, est un choix.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829140"
+    },
+    {
+      "english": "Inspire, others daily.",
+      "FRENCH": "Inspire, les autres chaque jour.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829141"
+    },
+    {
+      "english": "Listen, to your intuition.",
+      "FRENCH": "Écoute, ton intuition.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829142"
+    },
+    {
+      "english": "Embrace, the unknown.",
+      "FRENCH": "Embrasse, l'inconnu.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829144"
+    },
+    {
+      "english": "Effort, brings results.",
+      "FRENCH": "L'effort, apporte des résultats.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829145"
+    },
+    {
+      "english": "Perseverance, pays off.",
+      "FRENCH": "La persévérance, est récompensée.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829146"
+    },
+    {
+      "english": "Truth, is powerful.",
+      "FRENCH": "La vérité, est puissante.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829147"
+    },
+    {
+      "english": "Humor, eases pain.",
+      "FRENCH": "L'humour, soulage la douleur.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829148"
+    },
+    {
+      "english": "Connect, with nature.",
+      "FRENCH": "Connecte-toi, à la nature.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829149"
+    },
+    {
+      "english": "Your actions, define you.",
+      "FRENCH": "Tes actions, te définissent.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829150"
+    },
+    {
+      "english": "Growth, is a journey.",
+      "FRENCH": "Le croissance, est un voyage.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829151"
+    },
+    {
+      "english": "Celebrate, small wins.",
+      "FRENCH": "Célèbre, les petites victoires.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829152"
+    },
+    {
+      "english": "Kindness, is contagious.",
+      "FRENCH": "La gentillesse, est contagieuse.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829153"
+    },
+    {
+      "english": "Your smile, brightens rooms.",
+      "FRENCH": "Ton sourire, éclaire les pièces.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829154"
+    },
+    {
+      "english": "Small steps, build mountains.",
+      "FRENCH": "Petits pas, bâtissent des montagnes.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829155"
+    },
+    {
+      "english": "Curiosity, unlocks doors.",
+      "FRENCH": "La curiosité, ouvre des portes.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829156"
+    },
+    {
+      "english": "Dreams, take flight slowly.",
+      "FRENCH": "Les rêves, prennent leur envol doucement.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829157"
+    },
+    {
+      "english": "Courage, starts with doubt.",
+      "FRENCH": "Le courage, commence avec le doute.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829159"
+    },
+    {
+      "english": "Kindness, ripples outward.",
+      "FRENCH": "La gentillesse, a des ondes.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829160"
+    },
+    {
+      "english": "Listen, to learn more.",
+      "FRENCH": "Écoute, pour apprendre davantage.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829161"
+    },
+    {
+      "english": "Hope, lights the path.",
+      "FRENCH": "L'espoir, éclaire le chemin.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829162"
+    },
+    {
+      "english": "Be generous, with your time.",
+      "FRENCH": "Sois généreux, avec ton temps.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829164"
+    },
+    {
+      "english": "Mistakes, are teaching moments.",
+      "FRENCH": "Les erreurs, sont des moments d'apprentissage.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829165"
+    },
+    {
+      "english": "Challenges, make you strong.",
+      "FRENCH": "Les défis, te rendent fort.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829166"
+    },
+    {
+      "english": "Learn, from every experience.",
+      "FRENCH": "Apprends, de chaque expérience.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829168"
+    },
+    {
+      "english": "Believe, in your ideas.",
+      "FRENCH": "Crois, en tes idées.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829169"
+    },
+    {
+      "english": "Share, your unique gifts.",
+      "FRENCH": "Partage, tes dons uniques.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829170"
+    },
+    {
+      "english": "Love, conquers all.",
+      "FRENCH": "L'amour, triomphe de tout.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829171"
+    },
+    {
+      "english": "Forgive, yourself too.",
+      "FRENCH": "Pardonne,-toi aussi.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829172"
+    },
+    {
+      "english": "Be humble, always.",
+      "FRENCH": "Sois humble, toujours.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829173"
+    },
+    {
+      "english": "Create, your own path.",
+      "FRENCH": "Crée, ton propre chemin.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829174"
+    },
+    {
+      "english": "Peace, starts within.",
+      "FRENCH": "La paix, commence en soi.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829175"
+    },
+    {
+      "english": "Give, without expecting.",
+      "FRENCH": "Donne, sans attendre.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829176"
+    },
+    {
+      "english": "Wisdom, grows with age.",
+      "FRENCH": "La sagesse, grandit avec l'âge.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829180"
+    },
+    {
+      "english": "Accept, what you can't change.",
+      "FRENCH": "Accepte, ce que tu ne peux changer.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829182"
+    },
+    {
+      "english": "Your voice, matters greatly.",
+      "FRENCH": "Ta voix, compte énormément.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829183"
+    },
+    {
+      "english": "Be gentle, with yourself.",
+      "FRENCH": "Sois doux, avec toi-même.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829184"
+    },
+    {
+      "english": "Joy, is a choice.",
+      "FRENCH": "La joie, est un choix.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829185"
+    },
+    {
+      "english": "Inspire, others daily.",
+      "FRENCH": "Inspire, les autres chaque jour.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829186"
+    },
+    {
+      "english": "Listen, to your intuition.",
+      "FRENCH": "Écoute, ton intuition.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829187"
+    },
+    {
+      "english": "Embrace, the unknown.",
+      "FRENCH": "Embrasse, l'inconnu.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829188"
+    },
+    {
+      "english": "Effort, brings results.",
+      "FRENCH": "L'effort, apporte des résultats.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829189"
+    },
+    {
+      "english": "Perseverance, pays off.",
+      "FRENCH": "La persévérance, est récompensée.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829190"
+    },
+    {
+      "english": "Truth, is powerful.",
+      "FRENCH": "La vérité, est puissante.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829191"
+    },
+    {
+      "english": "Humor, eases pain.",
+      "FRENCH": "L'humour, soulage la douleur.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829192"
+    },
+    {
+      "english": "Connect, with nature.",
+      "FRENCH": "Connecte-toi, à la nature.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829193"
+    },
+    {
+      "english": "Your actions, define you.",
+      "FRENCH": "Tes actions, te définissent.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829194"
+    },
+    {
+      "english": "Growth, is a journey.",
+      "FRENCH": "Le croissance, est un voyage.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829195"
+    },
+    {
+      "english": "Celebrate, small wins.",
+      "FRENCH": "Célèbre, les petites victoires.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829196"
+    },
+    {
+      "english": "Kindness, is contagious.",
+      "FRENCH": "La gentillesse, est contagieuse.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829198"
+    },
+    {
+      "english": "Your smile, brightens rooms.",
+      "FRENCH": "Ton sourire, éclaire les pièces.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829199"
+    },
+    {
+      "english": "Small steps, build mountains.",
+      "FRENCH": "Petits pas, bâtissent des montagnes.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829200"
+    },
+    {
+      "english": "Curiosity, unlocks doors.",
+      "FRENCH": "La curiosité, ouvre des portes.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829201"
+    },
+    {
+      "english": "Dreams, take flight slowly.",
+      "FRENCH": "Les rêves, prennent leur envol doucement.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829205"
+    },
+    {
+      "english": "Courage, starts with doubt.",
+      "FRENCH": "Le courage, commence avec le doute.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829207"
+    },
+    {
+      "english": "Kindness, ripples outward.",
+      "FRENCH": "La gentillesse, a des ondes.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829208"
+    },
+    {
+      "english": "Listen, to learn more.",
+      "FRENCH": "Écoute, pour apprendre davantage.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829210"
+    },
+    {
+      "english": "Hope, lights the path.",
+      "FRENCH": "L'espoir, éclaire le chemin.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829212"
+    },
+    {
+      "english": "Be generous, with your time.",
+      "FRENCH": "Sois généreux, avec ton temps.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829213"
+    },
+    {
+      "english": "Mistakes, are teaching moments.",
+      "FRENCH": "Les erreurs, sont des moments d'apprentissage.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829214"
+    },
+    {
+      "english": "Challenges, make you strong.",
+      "FRENCH": "Les défis, te rendent fort.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829215"
+    },
+    {
+      "english": "Learn, from every experience.",
+      "FRENCH": "Apprends, de chaque expérience.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829216"
+    },
+    {
+      "english": "Believe, in your ideas.",
+      "FRENCH": "Crois, en tes idées.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829217"
+    },
+    {
+      "english": "Share, your unique gifts.",
+      "FRENCH": "Partage, tes dons uniques.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829218"
+    },
+    {
+      "english": "Love, conquers all.",
+      "FRENCH": "L'amour, triomphe de tout.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829219"
+    },
+    {
+      "english": "Forgive, yourself too.",
+      "FRENCH": "Pardonne,-toi aussi.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829220"
+    },
+    {
+      "english": "Be humble, always.",
+      "FRENCH": "Sois humble, toujours.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829221"
+    },
+    {
+      "english": "Create, your own path.",
+      "FRENCH": "Crée, ton propre chemin.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829222"
+    },
+    {
+      "english": "Peace, starts within.",
+      "FRENCH": "La paix, commence en soi.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829223"
+    },
+    {
+      "english": "Give, without expecting.",
+      "FRENCH": "Donne, sans attendre.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829224"
+    },
+    {
+      "english": "Wisdom, grows with age.",
+      "FRENCH": "La sagesse, grandit avec l'âge.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829225"
+    },
+    {
+      "english": "Accept, what you can't change.",
+      "FRENCH": "Accepte, ce que tu ne peux changer.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829227"
+    },
+    {
+      "english": "Your voice, matters greatly.",
+      "FRENCH": "Ta voix, compte énormément.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829228"
+    },
+    {
+      "english": "Be gentle, with yourself.",
+      "FRENCH": "Sois doux, avec toi-même.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829229"
+    },
+    {
+      "english": "Joy, is a choice.",
+      "FRENCH": "La joie, est un choix.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829230"
+    },
+    {
+      "english": "Inspire, others daily.",
+      "FRENCH": "Inspire, les autres chaque jour.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829231"
+    },
+    {
+      "english": "Listen, to your intuition.",
+      "FRENCH": "Écoute, ton intuition.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829232"
+    },
+    {
+      "english": "Embrace, the unknown.",
+      "FRENCH": "Embrasse, l'inconnu.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829233"
+    },
+    {
+      "english": "Effort, brings results.",
+      "FRENCH": "L'effort, apporte des résultats.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829234"
+    },
+    {
+      "english": "Perseverance, pays off.",
+      "FRENCH": "La persévérance, est récompensée.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829235"
+    },
+    {
+      "english": "Truth, is powerful.",
+      "FRENCH": "La vérité, est puissante.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829236"
+    },
+    {
+      "english": "Humor, eases pain.",
+      "FRENCH": "L'humour, soulage la douleur.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829237"
+    },
+    {
+      "english": "Connect, with nature.",
+      "FRENCH": "Connecte-toi, à la nature.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829238"
+    },
+    {
+      "english": "Your actions, define you.",
+      "FRENCH": "Tes actions, te définissent.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829239"
+    },
+    {
+      "english": "Growth, is a journey.",
+      "FRENCH": "Le croissance, est un voyage.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829240"
+    },
+    {
+      "english": "Celebrate, small wins.",
+      "FRENCH": "Célèbre, les petites victoires.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829241"
+    },
+    {
+      "english": "Kindness, is contagious.",
+      "FRENCH": "La gentillesse, est contagieuse.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829242"
+    },
+    {
+      "english": "Your smile, brightens rooms.",
+      "FRENCH": "Ton sourire, éclaire les pièces.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829245"
+    },
+    {
+      "english": "Small steps, build mountains.",
+      "FRENCH": "Petits pas, bâtissent des montagnes.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829246"
+    },
+    {
+      "english": "Curiosity, unlocks doors.",
+      "FRENCH": "La curiosité, ouvre des portes.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829247"
+    },
+    {
+      "english": "Dreams, take flight slowly.",
+      "FRENCH": "Les rêves, prennent leur envol doucement.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829248"
+    },
+    {
+      "english": "Courage, starts with doubt.",
+      "FRENCH": "Le courage, commence avec le doute.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829249"
+    },
+    {
+      "english": "Kindness, ripples outward.",
+      "FRENCH": "La gentillesse, a des ondes.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829250"
+    },
+    {
+      "english": "Listen, to learn more.",
+      "FRENCH": "Écoute, pour apprendre davantage.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829251"
+    },
+    {
+      "english": "Hope, lights the path.",
+      "FRENCH": "L'espoir, éclaire le chemin.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829252"
+    },
+    {
+      "english": "Be generous, with your time.",
+      "FRENCH": "Sois généreux, avec ton temps.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:28:42.829253"
     }
   ],
-  "last_updated": "2026-07-24T04:18:35.721141"
+  "last_updated": "2026-07-26T04:28:42.829255"
 }
