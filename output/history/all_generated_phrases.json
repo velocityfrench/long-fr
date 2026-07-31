@@ -8639,7 +8639,367 @@
       "FRENCH": "Sois ton, plus grand fan.",
       "category": "Confidence",
       "generated_at": "2026-07-27T04:39:49.577128"
+    },
+    {
+      "english": "Your French is getting better, oui?",
+      "french": "Ton français s'améliore, oui ?",
+      "category": "Motivation",
+      "generated_at": "2026-07-31T09:13:32.645383"
+    },
+    {
+      "english": "You're charming, when you speak French.",
+      "french": "Tu es charmant(e), quand tu parles français.",
+      "category": "Motivation",
+      "generated_at": "2026-07-31T09:13:32.645393"
+    },
+    {
+      "english": "Keep going, you're almost there.",
+      "french": "Continue, tu es presque là.",
+      "category": "Motivation",
+      "generated_at": "2026-07-31T09:13:32.645394"
+    },
+    {
+      "english": "Your accent, it's so cute.",
+      "french": "Ton accent, il est si mignon.",
+      "category": "Motivation",
+      "generated_at": "2026-07-31T09:13:32.645396"
+    },
+    {
+      "english": "I like your effort, a lot.",
+      "french": "J'aime beaucoup tes efforts.",
+      "category": "Motivation",
+      "generated_at": "2026-07-31T09:13:32.645397"
+    },
+    {
+      "english": "One more word, then we're done.",
+      "french": "Un mot de plus, et on a fini.",
+      "category": "Motivation",
+      "generated_at": "2026-07-31T09:13:32.645398"
+    },
+    {
+      "english": "Your eyes sparkle, when you learn.",
+      "french": "Tes yeux pétillent, quand tu apprends.",
+      "category": "Motivation",
+      "generated_at": "2026-07-31T09:13:32.645399"
+    },
+    {
+      "english": "Slowly, but surely, you'll get it.",
+      "french": "Lentement, mais sûrement, tu vas y arriver.",
+      "category": "Motivation",
+      "generated_at": "2026-07-31T09:13:32.645402"
+    },
+    {
+      "english": "You make French sound beautiful.",
+      "french": "Tu rends le français magnifique.",
+      "category": "Motivation",
+      "generated_at": "2026-07-31T09:13:32.645404"
+    },
+    {
+      "english": "Don't give up, I'm watching you.",
+      "french": "N'abandonne pas, je te regarde.",
+      "category": "Motivation",
+      "generated_at": "2026-07-31T09:13:32.645405"
+    },
+    {
+      "english": "Your progress, it makes me smile.",
+      "french": "Tes progrès, ça me fait sourire.",
+      "category": "Motivation",
+      "generated_at": "2026-07-31T09:13:32.645406"
+    },
+    {
+      "english": "You're doing great, truly.",
+      "french": "Tu t'en sors très bien, vraiment.",
+      "category": "Motivation",
+      "generated_at": "2026-07-31T09:13:32.645407"
+    },
+    {
+      "english": "Just a little more, come on.",
+      "french": "Juste un peu plus, allez.",
+      "category": "Motivation",
+      "generated_at": "2026-07-31T09:13:32.645408"
+    },
+    {
+      "english": "Your voice, it's music to my ears.",
+      "french": "Ta voix, c'est de la musique.",
+      "category": "Motivation",
+      "generated_at": "2026-07-31T09:13:32.645409"
+    },
+    {
+      "english": "You're a natural, at this.",
+      "french": "Tu as un don naturel, pour ça.",
+      "category": "Motivation",
+      "generated_at": "2026-07-31T09:13:32.645410"
+    },
+    {
+      "english": "Soon, you'll be fluent, my dear.",
+      "french": "Bientôt, tu seras bilingue, ma chérie.",
+      "category": "Motivation",
+      "generated_at": "2026-07-31T09:13:32.645411"
+    },
+    {
+      "english": "This challenge, you'll conquer it.",
+      "french": "Ce défi, tu vas le réussir.",
+      "category": "Motivation",
+      "generated_at": "2026-07-31T09:13:32.645413"
+    },
+    {
+      "english": "You're learning so fast, wow.",
+      "french": "Tu apprends si vite, wow.",
+      "category": "Motivation",
+      "generated_at": "2026-07-31T09:13:32.645414"
+    },
+    {
+      "english": "I'm proud of you, really.",
+      "french": "Je suis fière de toi, vraiment.",
+      "category": "Motivation",
+      "generated_at": "2026-07-31T09:13:32.645415"
+    },
+    {
+      "english": "Your French is, a pleasure.",
+      "french": "Ton français est, un plaisir.",
+      "category": "Motivation",
+      "generated_at": "2026-07-31T09:13:32.645415"
+    },
+    {
+      "english": "Let's practice, just us two.",
+      "french": "Pratiquons, juste nous deux.",
+      "category": "Motivation",
+      "generated_at": "2026-07-31T09:13:32.645416"
+    },
+    {
+      "english": "You have a gift, for languages.",
+      "french": "Tu as un don, pour les langues.",
+      "category": "Motivation",
+      "generated_at": "2026-07-31T09:13:32.645417"
+    },
+    {
+      "english": "Keep that spirit, alive.",
+      "french": "Garde cet esprit, vivant.",
+      "category": "Motivation",
+      "generated_at": "2026-07-31T09:13:32.645418"
+    },
+    {
+      "english": "Your dedication, is inspiring.",
+      "french": "Ta dévotion, est inspirante.",
+      "category": "Motivation",
+      "generated_at": "2026-07-31T09:13:32.645419"
+    },
+    {
+      "english": "You're a quick study, aren't you?",
+      "french": "Tu apprends vite, n'est-ce pas ?",
+      "category": "Motivation",
+      "generated_at": "2026-07-31T09:13:32.645420"
+    },
+    {
+      "english": "Your sentences, they flow so well.",
+      "french": "Tes phrases, elles coulent si bien.",
+      "category": "Motivation",
+      "generated_at": "2026-07-31T09:13:32.645421"
+    },
+    {
+      "english": "You're so close, to mastering it.",
+      "french": "Tu es si près, de le maîtriser.",
+      "category": "Motivation",
+      "generated_at": "2026-07-31T09:13:32.645422"
+    },
+    {
+      "english": "This is your moment, shine.",
+      "french": "C'est ton moment, brille.",
+      "category": "Motivation",
+      "generated_at": "2026-07-31T09:13:32.645423"
+    },
+    {
+      "english": "Your pronunciation, is improving.",
+      "french": "Ta prononciation, s'améliore.",
+      "category": "Motivation",
+      "generated_at": "2026-07-31T09:13:32.645424"
+    },
+    {
+      "english": "You have a great ear, for French.",
+      "french": "Tu as une bonne oreille, pour le français.",
+      "category": "Motivation",
+      "generated_at": "2026-07-31T09:13:32.645425"
+    },
+    {
+      "english": "Don't doubt yourself, at all.",
+      "french": "Ne doute pas de toi, du tout.",
+      "category": "Motivation",
+      "generated_at": "2026-07-31T09:13:32.645426"
+    },
+    {
+      "english": "You're making good, headway.",
+      "french": "Tu fais de bons progrès.",
+      "category": "Motivation",
+      "generated_at": "2026-07-31T09:13:32.645427"
+    },
+    {
+      "english": "Your enthusiasm, is contagious.",
+      "french": "Ton enthousiasme, est contagieux.",
+      "category": "Motivation",
+      "generated_at": "2026-07-31T09:13:32.645428"
+    },
+    {
+      "english": "You're a star, in French class.",
+      "french": "Tu es une star, en cours de français.",
+      "category": "Motivation",
+      "generated_at": "2026-07-31T09:13:32.645429"
+    },
+    {
+      "english": "Keep that passion, burning.",
+      "french": "Garde cette passion, brûlante.",
+      "category": "Motivation",
+      "generated_at": "2026-07-31T09:13:32.645430"
+    },
+    {
+      "english": "You're so talented, really.",
+      "french": "Tu es si talentueux(se), vraiment.",
+      "category": "Motivation",
+      "generated_at": "2026-07-31T09:13:32.645432"
+    },
+    {
+      "english": "That sentence, was perfect.",
+      "french": "Cette phrase, était parfaite.",
+      "category": "Motivation",
+      "generated_at": "2026-07-31T09:13:32.645433"
+    },
+    {
+      "english": "You'll master this, I know it.",
+      "french": "Tu vas maîtriser ça, je le sais.",
+      "category": "Motivation",
+      "generated_at": "2026-07-31T09:13:32.645433"
+    },
+    {
+      "english": "Your smile, brightens my day.",
+      "french": "Ton sourire, illumine ma journée.",
+      "category": "Motivation",
+      "generated_at": "2026-07-31T09:13:32.645434"
+    },
+    {
+      "english": "You're meant to speak French.",
+      "french": "Tu es fait(e) pour parler français.",
+      "category": "Motivation",
+      "generated_at": "2026-07-31T09:13:32.645436"
+    },
+    {
+      "english": "Your French is getting better, oui?",
+      "french": "Ton français s'améliore, oui ?",
+      "category": "Motivation",
+      "generated_at": "2026-07-31T09:13:32.645437"
+    },
+    {
+      "english": "You're charming, when you speak French.",
+      "french": "Tu es charmant(e), quand tu parles français.",
+      "category": "Motivation",
+      "generated_at": "2026-07-31T09:13:32.645438"
+    },
+    {
+      "english": "Keep going, you're almost there.",
+      "french": "Continue, tu es presque là.",
+      "category": "Motivation",
+      "generated_at": "2026-07-31T09:13:32.645439"
+    },
+    {
+      "english": "Your accent, it's so cute.",
+      "french": "Ton accent, il est si mignon.",
+      "category": "Motivation",
+      "generated_at": "2026-07-31T09:13:32.645440"
+    },
+    {
+      "english": "I like your effort, a lot.",
+      "french": "J'aime beaucoup tes efforts.",
+      "category": "Motivation",
+      "generated_at": "2026-07-31T09:13:32.645441"
+    },
+    {
+      "english": "One more word, then we're done.",
+      "french": "Un mot de plus, et on a fini.",
+      "category": "Motivation",
+      "generated_at": "2026-07-31T09:13:32.645442"
+    },
+    {
+      "english": "Your eyes sparkle, when you learn.",
+      "french": "Tes yeux pétillent, quand tu apprends.",
+      "category": "Motivation",
+      "generated_at": "2026-07-31T09:13:32.645443"
+    },
+    {
+      "english": "Slowly, but surely, you'll get it.",
+      "french": "Lentement, mais sûrement, tu vas y arriver.",
+      "category": "Motivation",
+      "generated_at": "2026-07-31T09:13:32.645444"
+    },
+    {
+      "english": "You make French sound beautiful.",
+      "french": "Tu rends le français magnifique.",
+      "category": "Motivation",
+      "generated_at": "2026-07-31T09:13:32.645445"
+    },
+    {
+      "english": "Don't give up, I'm watching you.",
+      "french": "N'abandonne pas, je te regarde.",
+      "category": "Motivation",
+      "generated_at": "2026-07-31T09:13:32.645446"
+    },
+    {
+      "english": "Your progress, it makes me smile.",
+      "french": "Tes progrès, ça me fait sourire.",
+      "category": "Motivation",
+      "generated_at": "2026-07-31T09:13:32.645450"
+    },
+    {
+      "english": "You're doing great, truly.",
+      "french": "Tu t'en sors très bien, vraiment.",
+      "category": "Motivation",
+      "generated_at": "2026-07-31T09:13:32.645452"
+    },
+    {
+      "english": "Just a little more, come on.",
+      "french": "Juste un peu plus, allez.",
+      "category": "Motivation",
+      "generated_at": "2026-07-31T09:13:32.645453"
+    },
+    {
+      "english": "Your voice, it's music to my ears.",
+      "french": "Ta voix, c'est de la musique.",
+      "category": "Motivation",
+      "generated_at": "2026-07-31T09:13:32.645454"
+    },
+    {
+      "english": "You're a natural, at this.",
+      "french": "Tu as un don naturel, pour ça.",
+      "category": "Motivation",
+      "generated_at": "2026-07-31T09:13:32.645455"
+    },
+    {
+      "english": "Soon, you'll be fluent, my dear.",
+      "french": "Bientôt, tu seras bilingue, ma chérie.",
+      "category": "Motivation",
+      "generated_at": "2026-07-31T09:13:32.645456"
+    },
+    {
+      "english": "This challenge, you'll conquer it.",
+      "french": "Ce défi, tu vas le réussir.",
+      "category": "Motivation",
+      "generated_at": "2026-07-31T09:13:32.645457"
+    },
+    {
+      "english": "You're learning so fast, wow.",
+      "french": "Tu apprends si vite, wow.",
+      "category": "Motivation",
+      "generated_at": "2026-07-31T09:13:32.645458"
+    },
+    {
+      "english": "I'm proud of you, really.",
+      "french": "Je suis fière de toi, vraiment.",
+      "category": "Motivation",
+      "generated_at": "2026-07-31T09:13:32.645459"
+    },
+    {
+      "english": "Your French is, a pleasure.",
+      "french": "Ton français est, un plaisir.",
+      "category": "Motivation",
+      "generated_at": "2026-07-31T09:13:32.645460"
     }
   ],
-  "last_updated": "2026-07-27T04:39:49.577130"
+  "last_updated": "2026-07-31T09:13:32.645463"
 }
