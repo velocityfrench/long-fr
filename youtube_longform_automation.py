@@ -1,5 +1,5 @@
 """
-YouTube Long-Form Video Automation - Bilingual English/FRENCH Content Generator
+YouTube Long-Form Video Automation - Bilingual English/French Content Generator
 GENERATES 10-MINUTE VIDEOS with improved backgrounds for YouTube
 """
 
@@ -37,26 +37,26 @@ VIDEO_WIDTH = 1920
 VIDEO_HEIGHT = 1080
 FPS = 30
 TARGET_DURATION_MINUTES = 5  # Target 5-minute videos (60 phrases)
-TARGET_PHRASES = 120
+TARGET_PHRASES = 60  # Number of phrases to generate
 
 # English category names (for American/European learners)
 CATEGORIES_ENGLISH = [
     "Motivation", "Love", "Success", "Wisdom", "Happiness",
-    "Self Improvement", "Gratitudee", "Friendship", "Hope", "Creativity",
+    "Self Improvement", "Gratitude", "Friendship", "Hope", "Creativity",
     "Inner Peace", "Confidence", "Perseverance", "Inspiration", "Positive Life",
     "Courage", "Kindness", "Patience", "Forgiveness", "Strength",
     "Joy", "Balance", "Growth", "Purpose", "Mindfulness",
 ]
 
-# FRENCH translations for display
+# French translations for display
 CATEGORIES_FRENCH = {
     "Motivation": "Motivation",
     "Love": "Amour",
     "Success": "Succès",
     "Wisdom": "Sagesse",
     "Happiness": "Bonheur",
-    "Self Improvement": "Développement",
-    "Gratitudee": "Gratitude",
+    "Self Improvement": "Amélioration de soi",
+    "Gratitude": "Gratitude",
     "Friendship": "Amitié",
     "Hope": "Espoir",
     "Creativity": "Créativité",
@@ -73,7 +73,7 @@ CATEGORIES_FRENCH = {
     "Joy": "Joie",
     "Balance": "Équilibre",
     "Growth": "Croissance",
-    "Purpose": "But",
+    "Purpose": "Objectif",
     "Mindfulness": "Pleine conscience",
 }
 
@@ -182,7 +182,7 @@ def add_phrases_to_history(phrases, category):
     for phrase in phrases:
         history["phrases"].append({
             "english": phrase["english"],
-            "FRENCH": phrase["FRENCH"],
+            "french": phrase["french"],
             "category": category,
             "generated_at": datetime.now().isoformat()
         })
@@ -195,7 +195,7 @@ def add_phrases_to_history(phrases, category):
 def calculate_phrases_needed(target_minutes: int) -> int:
     """
     Calculate how many phrases needed for target video duration.
-    Average phrase takes ~5 seconds (English ~2s + pause 0.5s + FRENCH ~2.5s)
+    Average phrase takes ~5 seconds (English ~2s + pause 0.5s + French ~2.5s)
     For 10 minutes (600 seconds): 600 / 5 = ~120 phrases
     """
     avg_phrase_duration = 5.0  # seconds
@@ -206,7 +206,7 @@ def calculate_phrases_needed(target_minutes: int) -> int:
 def generate_phrases_for_longform(category_english: str, num_phrases: int) -> list:
     """Generate unique bilingual phrases for long-form video"""
 
-    category_FRENCH = CATEGORIES_FRENCH[category_english]
+    category_french = CATEGORIES_FRENCH[category_english]
 
     history = load_phrase_history()
     used_phrases = [p.get("english", "") for p in history.get("phrases", [])]
@@ -239,7 +239,7 @@ def generate_phrases_for_longform(category_english: str, num_phrases: int) -> li
                     recent = used_phrases[-30:] if len(used_phrases) > 30 else used_phrases
                     exclusion_note = f"\n\nAVOID these phrases (already used): {recent}"
 
-                prompt = f"""Create {current_batch_size * 2} unique {category_english} phrases for English speakers learning FRENCH.
+                prompt = f"""Create {current_batch_size * 2} unique {category_english} phrases for English speakers learning French.
 
 Style: Make each phrase feel like a {viral_style} - something people would want to share!
 
@@ -255,18 +255,18 @@ IMPORTANT RULES FOR NATURAL SPEECH:
 
 For each phrase:
 1. English phrase (with commas for natural pauses)
-2. FRENCH translation
-3. Pronunciation guide (phonetic spelling for English speakers)
+2. French translation
+3. Phonetic pronunciation guide (e.g., "kroh-wa voo")
 
 Return as JSON array:
-[{{"english": "...", "FRENCH": "...", "pronunciation": "..."}}]
+[{{"english": "...", "french": "...", "phonetic": ""}}]
 
 IMPORTANT: Create FRESH, UNIQUE phrases that haven't been used before.{exclusion_note}"""
 
                 payload = {
                     "model": AI_MODEL,
                     "messages": [
-                        {"role": "system", "content": "You are a viral FRENCH teacher creating engaging educational content for YouTube. Create short, natural phrases with pauses."},
+                        {"role": "system", "content": "You are a viral French teacher creating engaging educational content for YouTube. Create short, natural phrases with pauses."},
                         {"role": "user", "content": prompt}
                     ],
                     "temperature": 1.0
@@ -327,140 +327,140 @@ def get_fresh_fallback_phrases(category: str, num_phrases: int) -> list:
 
     all_fallbacks = {
         "Motivation": [
-            {"english": "Believe in yourself.", "FRENCH": "Cree en ti mismo.", "pronunciation": "cre-e en ti mis-mo."},
-            {"english": "You are capable of amazing things.", "FRENCH": "Eres capaz de cosas asombrosas.", "pronunciation": "e-res ca-paz de co-sas a-som-bro-sas."},
-            {"english": "Dream big, start small.", "FRENCH": "Sueña en grande, empieza pequeño.", "pronunciation": "swe-nya en gran-de, em-pje-za pe-ke-nyo."},
-            {"english": "Your future is created by your actions.", "FRENCH": "Tu futuro es creado por tus acciones.", "pronunciation": "tu fu-tu-ro es cre-a-do por tus ak-syo-nes."},
-            {"english": "Never give up on your dreams.", "FRENCH": "Nunca te rindas en tus sueños.", "pronunciation": "nun-ka te rin-das en tus swe-nyos."},
-            {"english": "Small steps lead to big changes.", "FRENCH": "Pequeños pasos llevan a grandes cambios.", "pronunciation": "pe-ke-nyos pa-sos ye-van a gran-des cam-byos."},
-            {"english": "You are stronger than you think.", "FRENCH": "Eres más fuerte de lo que crees.", "pronunciation": "e-res mas fwer-te de lo ke cre-es."},
+            {"english": "Believe in yourself.", "french": "Crois en toi.", "phonetic": ""},
+            {"english": "You are capable of amazing things.", "french": "Tu es capable de choses incroyables.", "phonetic": ""},
+            {"english": "Dream big, start small.", "french": "Rêve grand, commence petit.", "phonetic": ""},
+            {"english": "Your future is created by your actions.", "french": "Ton avenir est créé par tes actions.", "phonetic": ""},
+            {"english": "Never give up on your dreams.", "french": "N'abandonne jamais tes rêves.", "phonetic": ""},
+            {"english": "Small steps lead to big changes.", "french": "Les petits pas mènent aux grands changements.", "phonetic": ""},
+            {"english": "You are stronger than you think.", "french": "Tu es plus fort que tu ne le penses.", "phonetic": ""},
         ],
         "Love": [
-            {"english": "Love yourself first.", "FRENCH": "Ámate a ti mismo primero.", "pronunciation": "a-ma-te a ti mis-mo pri-me-ro."},
-            {"english": "Love makes everything possible.", "FRENCH": "El amor hace que todo sea posible.", "pronunciation": "el a-mor a-se ke to-do se-a po-si-ble."},
-            {"english": "My heart beats for you.", "FRENCH": "Mi corazón late por ti.", "pronunciation": "mi co-ra-zon la-te por ti."},
-            {"english": "You are my everything.", "FRENCH": "Eres mi todo.", "pronunciation": "e-res mi to-do."},
-            {"english": "Together forever, hand in hand.", "FRENCH": "Juntos por siempre, mano a mano.", "pronunciation": "jun-tos por syem-pre, ma-no a ma-no."},
+            {"english": "Love yourself first.", "french": "Aime-toi d'abord.", "phonetic": ""},
+            {"english": "Love makes everything possible.", "french": "L'amour rend tout possible.", "phonetic": ""},
+            {"english": "My heart beats for you.", "french": "Mon cœur bat pour toi.", "phonetic": ""},
+            {"english": "You are my everything.", "french": "Tu es mon tout.", "phonetic": ""},
+            {"english": "Together forever, hand in hand.", "french": "Ensemble pour toujours, main dans la main.", "phonetic": ""},
         ],
         "Success": [
-            {"english": "Success comes from hard work.", "FRENCH": "El éxito viene del trabajo duro.", "pronunciation": "el ek-si-to vye-ne del tra-ba-jo du-ro."},
-            {"english": "Keep going, you're getting there.", "FRENCH": "Sigue adelante, ya casi llegas.", "pronunciation": "si-ge a-de-lan-te, ya ca-si ye-gas."},
-            {"english": "Winners never quit.", "FRENCH": "Los ganadores nunca se rinden.", "pronunciation": "los ga-na-do-res nun-ka se rin-den."},
-            {"english": "Your effort will pay off.", "FRENCH": "Tu esfuerzo valdrá la pena.", "pronunciation": "tu es-fwer-zo val-dra la pe-na."},
+            {"english": "Success comes from hard work.", "french": "Le succès vient du travail acharné.", "phonetic": ""},
+            {"english": "Keep going, you're getting there.", "french": "Continue, tu y es presque.", "phonetic": ""},
+            {"english": "Winners never quit.", "french": "Les gagnants n'abandonnent jamais.", "phonetic": ""},
+            {"english": "Your effort will pay off.", "french": "Tes efforts porteront leurs fruits.", "phonetic": ""},
         ],
         "Wisdom": [
-            {"english": "Knowledge is power.", "FRENCH": "El conocimiento es poder.", "pronunciation": "el co-no-si-myen-to es po-der."},
-            {"english": "Learn from yesterday, live for today.", "FRENCH": "Aprende del ayer, vive por el hoy.", "pronunciation": "a-pren-de del a-yer, vi-ve por el oy."},
-            {"english": "Think before you act.", "FRENCH": "Piensa antes de actuar.", "pronunciation": "pyen-sa an-tes de ak-twar."},
-            {"english": "Experience is the best teacher.", "FRENCH": "La experiencia es la mejor maestra.", "pronunciation": "la ex-pe-ryen-sya es la me-jor ma-es-tra."},
+            {"english": "Knowledge is power.", "french": "Le savoir est le pouvoir.", "phonetic": ""},
+            {"english": "Learn from yesterday, live for today.", "french": "Apprends d'hier, vis pour aujourd'hui.", "phonetic": ""},
+            {"english": "Think before you act.", "french": "Réfléchis avant d'agir.", "phonetic": ""},
+            {"english": "Experience is the best teacher.", "french": "L'expérience est le meilleur professeur.", "phonetic": ""},
         ],
         "Happiness": [
-            {"english": "Happiness is a choice.", "FRENCH": "La felicidad es una elección.", "pronunciation": "la fe-li-si-dad es u-na e-lek-syon."},
-            {"english": "Find joy in the little things.", "FRENCH": "Encuentra alegría en las pequeñas cosas.", "pronunciation": "en-kwen-tra a-le-gri-a en las pe-ke-nyas co-sas."},
-            {"english": "Smile, it makes others happy.", "FRENCH": "Sonríe, hace felices a los demás.", "pronunciation": "son-ri-e, a-se fe-li-ses a los de-mas."},
-            {"english": "Today is a gift.", "FRENCH": "Hoy es un regalo.", "pronunciation": "oy es un re-ga-lo."},
+            {"english": "Happiness is a choice.", "french": "Le bonheur est un choix.", "phonetic": ""},
+            {"english": "Find joy in the little things.", "french": "Trouve la joie dans les petites choses.", "phonetic": ""},
+            {"english": "Smile, it makes others happy.", "french": "Souris, ça rend les autres heureux.", "phonetic": ""},
+            {"english": "Today is a gift.", "french": "Aujourd'hui est un cadeau.", "phonetic": ""},
         ],
         "Self Improvement": [
-            {"english": "Be better than yesterday.", "FRENCH": "Sé mejor que ayer.", "pronunciation": "se me-jor ke a-yer."},
-            {"english": "Grow through what you go through.", "FRENCH": "Crece a través de lo que pasas.", "pronunciation": "cre-se a tra-ves de lo ke pa-sas."},
-            {"english": "Invest in yourself daily.", "FRENCH": "Invierte en ti mismo a diario.", "pronunciation": "in-vyer-te en ti mis-mo a dya-ryo."},
+            {"english": "Be better than yesterday.", "french": "Sois meilleur qu'hier.", "phonetic": ""},
+            {"english": "Grow through what you go through.", "french": "Grandis à travers ce que tu traverses.", "phonetic": ""},
+            {"english": "Invest in yourself daily.", "french": "Investis en toi chaque jour.", "phonetic": ""},
         ],
-        "Gratitudee": [
-            {"english": "Thank you for everything.", "FRENCH": "Gracias por todo.", "pronunciation": "gra-syas por to-do."},
-            {"english": "I appreciate your help.", "FRENCH": "Agradezco tu ayuda.", "pronunciation": "a-gra-dez-co tu a-yu-da."},
-            {"english": "Grateful for this moment.", "FRENCH": "Agradecido por este momento.", "pronunciation": "a-gra-de-si-do por es-te mo-men-to."},
+        "Gratitude": [
+            {"english": "Thank you for everything.", "french": "Merci pour tout.", "phonetic": ""},
+            {"english": "I appreciate your help.", "french": "J'apprécie ton aide.", "phonetic": ""},
+            {"english": "Grateful for this moment.", "french": "Reconnaissant pour ce moment.", "phonetic": ""},
         ],
         "Friendship": [
-            {"english": "Friends forever, no matter what.", "FRENCH": "Amigos por siempre, pase lo que pase.", "pronunciation": "a-mi-gos por syem-pre, pa-se lo ke pa-se."},
-            {"english": "You are my best friend.", "FRENCH": "Eres mi mejor amigo.", "pronunciation": "e-res mi me-jor a-mi-go."},
-            {"english": "True friends stick together.", "FRENCH": "Los verdaderos amigos se mantienen unidos.", "pronunciation": "los ver-da-de-ros a-mi-gos se man-tye-nen u-ni-dos."},
+            {"english": "Friends forever, no matter what.", "french": "Amis pour toujours, quoi qu'il arrive.", "phonetic": ""},
+            {"english": "You are my best friend.", "french": "Tu es mon meilleur ami.", "phonetic": ""},
+            {"english": "True friends stick together.", "french": "Les vrais amis restent ensemble.", "phonetic": ""},
         ],
         "Hope": [
-            {"english": "There is always hope.", "FRENCH": "Siempre hay esperanza.", "pronunciation": "syem-pre ay es-pe-ran-za."},
-            {"english": "Better days are coming.", "FRENCH": "Vienen días mejores.", "pronunciation": "vye-nen di-as me-jo-res."},
-            {"english": "Keep faith, keep going.", "FRENCH": "Mantén la fe, sigue adelante.", "pronunciation": "man-ten la fe, si-ge a-de-lan-te."},
+            {"english": "There is always hope.", "french": "Il y a toujours de l'espoir.", "phonetic": ""},
+            {"english": "Better days are coming.", "french": "De meilleurs jours arrivent.", "phonetic": ""},
+            {"english": "Keep faith, keep going.", "french": "Garde la foi, continue.", "phonetic": ""},
         ],
         "Creativity": [
-            {"english": "Create something beautiful today.", "FRENCH": "Crea algo hermoso hoy.", "pronunciation": "cre-a al-go er-mo-so oy."},
-            {"english": "Your imagination is unlimited.", "FRENCH": "Tu imaginación es ilimitada.", "pronunciation": "tu i-ma-ji-na-syon es i-li-mi-ta-da."},
-            {"english": "Art comes from the heart.", "FRENCH": "El arte viene del corazón.", "pronunciation": "el ar-te vye-ne del co-ra-zon."},
-            {"english": "Express yourself freely.", "FRENCH": "Exprésate libremente.", "pronunciation": "ex-pre-sa-te li-bre-men-te."},
-            {"english": "Innovation starts with curiosity.", "FRENCH": "La innovación comienza con la curiosidad.", "pronunciation": "la i-no-va-syon co-myen-za con la cu-ryo-si-dad."},
+            {"english": "Create something beautiful today.", "french": "Crée quelque chose de beau aujourd'hui.", "phonetic": ""},
+            {"english": "Your imagination is unlimited.", "french": "Ton imagination est illimitée.", "phonetic": ""},
+            {"english": "Art comes from the heart.", "french": "L'art vient du cœur.", "phonetic": ""},
+            {"english": "Express yourself freely.", "french": "Exprime-toi librement.", "phonetic": ""},
+            {"english": "Innovation starts with curiosity.", "french": "L'innovation commence par la curiosité.", "phonetic": ""},
         ],
         "Inner Peace": [
-            {"english": "Find peace within yourself.", "FRENCH": "Encuentra la paz dentro de ti.", "pronunciation": "en-kwen-tra la paz den-tro de ti."},
-            {"english": "Breathe, relax, let go.", "FRENCH": "Respira, relájate, suelta.", "pronunciation": "res-pi-ra, re-la-ja-te, swel-ta."},
-            {"english": "Calm mind, happy heart.", "FRENCH": "Mente tranquila, corazón feliz.", "pronunciation": "men-te tran-ki-la, co-ra-zon fe-liz."},
+            {"english": "Find peace within yourself.", "french": "Trouve la paix en toi.", "phonetic": ""},
+            {"english": "Breathe, relax, let go.", "french": "Respire, relaxe-toi, laisse aller.", "phonetic": ""},
+            {"english": "Calm mind, happy heart.", "french": "Esprit calme, cœur heureux.", "phonetic": ""},
         ],
         "Confidence": [
-            {"english": "You are enough, just as you are.", "FRENCH": "Eres suficiente, tal como eres.", "pronunciation": "e-res su-fi-syen-te, tal co-mo e-res."},
-            {"english": "Stand tall, speak up.", "FRENCH": "Mantente erguido, habla.", "pronunciation": "man-ten-te er-gi-do, a-bla."},
-            {"english": "Believe in your abilities.", "FRENCH": "Cree en tus habilidades.", "pronunciation": "cre-e en tus a-bi-li-da-des."},
+            {"english": "You are enough, just as you are.", "french": "Tu es suffisant, tel que tu es.", "phonetic": ""},
+            {"english": "Stand tall, speak up.", "french": "Tiens-toi droit, parle haut et fort.", "phonetic": ""},
+            {"english": "Believe in your abilities.", "french": "Crois en tes capacités.", "phonetic": ""},
         ],
         "Perseverance": [
-            {"english": "Never give up, keep pushing.", "FRENCH": "Nunca te rindas, sigue presionando.", "pronunciation": "nun-ka te rin-das, si-ge pre-syo-nan-do."},
-            {"english": "Storms make trees take deeper roots.", "FRENCH": "Las tormentas hacen que los árboles echen raíces más profundas.", "pronunciation": "las tor-men-tas a-sen ke los ar-bo-les e-chen ra-i-ses mas pro-fun-das."},
-            {"english": "Patience and persistence win.", "FRENCH": "La paciencia y la persistencia ganan.", "pronunciation": "la pa-syen-sya i la per-sis-ten-sya ga-nan."},
+            {"english": "Never give up, keep pushing.", "french": "N'abandonne jamais, continue.", "phonetic": ""},
+            {"english": "Storms make trees take deeper roots.", "french": "Les tempêtes font prendre des racines plus profondes aux arbres.", "phonetic": ""},
+            {"english": "Patience and persistence win.", "french": "La patience et la persévérance gagnent.", "phonetic": ""},
         ],
         "Inspiration": [
-            {"english": "Let your light shine bright.", "FRENCH": "Deja que tu luz brille con fuerza.", "pronunciation": "de-ja ke tu luz bri-ye con fwer-za."},
-            {"english": "Inspire others by your actions.", "FRENCH": "Inspira a otros con tus acciones.", "pronunciation": "ins-pi-ra a o-tros con tus ak-syo-nes."},
-            {"english": "Be the change you want to see.", "FRENCH": "Sé el cambio que quieres ver.", "pronunciation": "se el cam-byo ke kye-res ver."},
+            {"english": "Let your light shine bright.", "french": "Laisse ta lumière briller.", "phonetic": ""},
+            {"english": "Inspire others by your actions.", "french": "Inspire les autres par tes actions.", "phonetic": ""},
+            {"english": "Be the change you want to see.", "french": "Sois le changement que tu veux voir.", "phonetic": ""},
         ],
         "Positive Life": [
-            {"english": "Choose positivity every day.", "FRENCH": "Elige la positividad cada día.", "pronunciation": "e-li-je la po-si-ti-vi-dad ca-da di-a."},
-            {"english": "Good vibes only.", "FRENCH": "Solo buenas vibras.", "pronunciation": "so-lo bwe-nas vi-bras."},
-            {"english": "Life is what you make it.", "FRENCH": "La vida es lo que tú haces de ella.", "pronunciation": "la vi-da es lo ke tu a-ses de e-ya."},
+            {"english": "Choose positivity every day.", "french": "Choisis la positivité chaque jour.", "phonetic": ""},
+            {"english": "Good vibes only.", "french": "Bonnes vibrations uniquement.", "phonetic": ""},
+            {"english": "Life is what you make it.", "french": "La vie est ce que tu en fais.", "phonetic": ""},
         ],
         "Courage": [
-            {"english": "Be brave, take the first step.", "FRENCH": "Sé valiente, da el primer paso.", "pronunciation": "se va-lyen-te, da el pri-mer pa-so."},
-            {"english": "Courage is not the absence of fear.", "FRENCH": "El coraje no es la ausencia de miedo.", "pronunciation": "el co-ra-je no es la au-sen-sya de mye-do."},
-            {"english": "Face your fears head on.", "FRENCH": "Enfrenta tus miedos de frente.", "pronunciation": "en-fren-ta tus mye-dos de fren-te."},
+            {"english": "Be brave, take the first step.", "french": "Sois courageux, fais le premier pas.", "phonetic": ""},
+            {"english": "Courage is not the absence of fear.", "french": "Le courage n'est pas l'absence de peur.", "phonetic": ""},
+            {"english": "Face your fears head on.", "french": "Affronte tes peurs de front.", "phonetic": ""},
         ],
         "Kindness": [
-            {"english": "Be kind to everyone you meet.", "FRENCH": "Sé amable con todos los que conozcas.", "pronunciation": "se a-ma-ble con to-dos los ke co-noz-cas."},
-            {"english": "Kindness costs nothing, means everything.", "FRENCH": "La amabilidad no cuesta nada, lo significa todo.", "pronunciation": "la a-ma-bi-li-dad no kwes-ta na-da, lo sig-ni-fi-ca to-do."},
-            {"english": "Spread kindness wherever you go.", "FRENCH": "Difunde amabilidad dondequiera que vayas.", "pronunciation": "di-fun-de a-ma-bi-li-dad don-de-kye-ra va-yas."},
+            {"english": "Be kind to everyone you meet.", "french": "Sois gentil avec tous ceux que tu rencontres.", "phonetic": ""},
+            {"english": "Kindness costs nothing, means everything.", "french": "La gentillesse ne coûte rien, signifie tout.", "phonetic": ""},
+            {"english": "Spread kindness wherever you go.", "french": "Répands la gentillesse partout où tu vas.", "phonetic": ""},
         ],
         "Patience": [
-            {"english": "Good things take time.", "FRENCH": "Las cosas buenas toman tiempo.", "pronunciation": "las co-sas bwe-nas to-man tyem-po."},
-            {"english": "Wait patiently, trust the process.", "FRENCH": "Espera pacientemente, confía en el proceso.", "pronunciation": "es-pe-ra pa-syen-te-men-te, con-fi-a en el pro-se-so."},
-            {"english": "Rome wasn't built in a day.", "FRENCH": "Roma no se construyó en un día.", "pronunciation": "ro-ma no se cons-tru-yo en un di-a."},
+            {"english": "Good things take time.", "french": "Les bonnes choses prennent du temps.", "phonetic": ""},
+            {"english": "Wait patiently, trust the process.", "french": "Attends patiemment, fais confiance au processus.", "phonetic": ""},
+            {"english": "Rome wasn't built in a day.", "french": "Rome ne s'est pas faite en un jour.", "phonetic": ""},
         ],
         "Forgiveness": [
-            {"english": "Forgive and set yourself free.", "FRENCH": "Perdona y libérate.", "pronunciation": "per-do-na i li-be-ra-te."},
-            {"english": "Let go of grudges, find peace.", "FRENCH": "Suelta los rencores, encuentra la paz.", "pronunciation": "swel-ta los ren-co-res, en-kwen-tra la paz."},
-            {"english": "Forgiveness is a gift to yourself.", "FRENCH": "El perdón es un regalo para ti mismo.", "pronunciation": "el per-don es un re-ga-lo pa-ra ti mis-mo."},
+            {"english": "Forgive and set yourself free.", "french": "Pardonne et libère-toi.", "phonetic": ""},
+            {"english": "Let go of grudges, find peace.", "french": "Laisse tomber les rancunes, trouve la paix.", "phonetic": ""},
+            {"english": "Forgiveness is a gift to yourself.", "french": "Le pardon est un cadeau que tu te fais.", "phonetic": ""},
         ],
         "Strength": [
-            {"english": "You are stronger than you know.", "FRENCH": "Eres más fuerte de lo que sabes.", "pronunciation": "e-res mas fwer-te de lo ke sa-bes."},
-            {"english": "Inner strength comes from within.", "FRENCH": "La fuerza interior viene de dentro.", "pronunciation": "la fwer-za in-te-ryor vye-ne de den-tro."},
-            {"english": "Challenges make you stronger.", "FRENCH": "Los desafíos te hacen más fuerte.", "pronunciation": "los de-sa-fi-os te a-sen mas fwer-te."},
+            {"english": "You are stronger than you know.", "french": "Tu es plus fort que tu ne le sais.", "phonetic": ""},
+            {"english": "Inner strength comes from within.", "french": "La force intérieure vient de l'intérieur.", "phonetic": ""},
+            {"english": "Challenges make you stronger.", "french": "Les défis te rendent plus fort.", "phonetic": ""},
         ],
         "Joy": [
-            {"english": "Find joy in every moment.", "FRENCH": "Encuentra alegría en cada momento.", "pronunciation": "en-kwen-tra a-le-gri-a en ca-da mo-men-to."},
-            {"english": "Joy is contagious, spread it.", "FRENCH": "La alegría es contagiosa, difúndela.", "pronunciation": "la a-le-gri-a es con-ta-jo-sa, di-fun-de-la."},
-            {"english": "Dance like nobody's watching.", "FRENCH": "Baila como si nadie estuviera mirando.", "pronunciation": "ba-i-la co-mo si na-dye es-tu-vye-ra mi-ran-do."},
+            {"english": "Find joy in every moment.", "french": "Trouve la joie dans chaque moment.", "phonetic": ""},
+            {"english": "Joy is contagious, spread it.", "french": "La joie est contagieuse, répands-la.", "phonetic": ""},
+            {"english": "Dance like nobody's watching.", "french": "Danse comme si personne ne regardait.", "phonetic": ""},
         ],
         "Balance": [
-            {"english": "Find balance in your life.", "FRENCH": "Encuentra el equilibrio en tu vida.", "pronunciation": "en-kwen-tra el e-ki-li-bryo en tu vi-da."},
-            {"english": "Work hard, rest well.", "FRENCH": "Trabaja duro, descansa bien.", "pronunciation": "tra-ba-ja du-ro, des-can-sa byen."},
-            {"english": "Too much of anything is not good.", "FRENCH": "Demasiado de cualquier cosa no es bueno.", "pronunciation": "de-ma-sya-do de cwal-kyer co-sa no es bwe-no."},
+            {"english": "Find balance in your life.", "french": "Trouve l'équilibre dans ta vie.", "phonetic": ""},
+            {"english": "Work hard, rest well.", "french": "Travaille dur, repose-toi bien.", "phonetic": ""},
+            {"english": "Too much of anything is not good.", "french": "Trop de tout n'est pas bon.", "phonetic": ""},
         ],
         "Growth": [
-            {"english": "Growth happens outside your comfort zone.", "FRENCH": "El crecimiento ocurre fuera de tu zona de confort.", "pronunciation": "el cre-si-myen-to o-cu-re fwer-a de tu zo-na de con-fort."},
-            {"english": "Embrace change, grow stronger.", "FRENCH": "Acepta el cambio, hazte más fuerte.", "pronunciation": "a-sep-ta el cam-byo, a-se-te mas fwer-te."},
-            {"english": "Every challenge is a chance to grow.", "FRENCH": "Cada desafío es una oportunidad para crecer.", "pronunciation": "ca-da de-sa-fi-o es u-na o-por-tu-ni-dad pa-ra cre-ser."},
+            {"english": "Growth happens outside your comfort zone.", "french": "La croissance se passe hors de ta zone de confort.", "phonetic": ""},
+            {"english": "Embrace change, grow stronger.", "french": "Accepte le changement, deviens plus fort.", "phonetic": ""},
+            {"english": "Every challenge is a chance to grow.", "french": "Chaque défi est une chance de grandir.", "phonetic": ""},
         ],
         "Purpose": [
-            {"english": "Find your purpose, follow it.", "FRENCH": "Encuentra tu propósito, síguelo.", "pronunciation": "en-kwen-tra tu pro-po-si-to, si-ge-lo."},
-            {"english": "Your life has meaning.", "FRENCH": "Tu vida tiene sentido.", "pronunciation": "tu vi-da tye-ne sen-ti-do."},
-            {"english": "Live with intention, not accident.", "FRENCH": "Vive con intención, no por accidente.", "pronunciation": "vi-ve con in-ten-syon, no por ak-si-den-te."},
+            {"english": "Find your purpose, follow it.", "french": "Trouve ton objectif, suis-le.", "phonetic": ""},
+            {"english": "Your life has meaning.", "french": "Ta vie a un sens.", "phonetic": ""},
+            {"english": "Live with intention, not accident.", "french": "Vis avec intention, pas par accident.", "phonetic": ""},
         ],
         "Mindfulness": [
-            {"english": "Be present in this moment.", "FRENCH": "Mantente presente en este momento.", "pronunciation": "man-ten-te pre-sen-te en es-te mo-men-to."},
-            {"english": "Breathe deeply, stay grounded.", "FRENCH": "Respira profundo, mantente centrado.", "pronunciation": "res-pi-ra pro-fun-do, man-ten-te sen-tra-do."},
-            {"english": "Notice the little things around you.", "FRENCH": "Fíjate en las pequeñas cosas a tu alrededor.", "pronunciation": "fi-ja-te en las pe-ke-nyas co-sas a tu al-re-de-dor."},
+            {"english": "Be present in this moment.", "french": "Sois présent dans ce moment.", "phonetic": ""},
+            {"english": "Breathe deeply, stay grounded.", "french": "Respire profondément, reste ancré.", "phonetic": ""},
+            {"english": "Notice the little things around you.", "french": "Remarque les petites choses autour de toi.", "phonetic": ""},
         ],
     }
 
@@ -500,84 +500,102 @@ async def generate_single_audio(text: str, voice: str, output_path: str):
         return False
 
 
-def generate_all_audio(phrases: list, output_dir: str):
-    """Generate audio for all phrases with proper timing"""
+async def generate_all_audio_async(phrases: list, output_dir: str):
+    """Generate audio for all phrases with fully parallel TTS + combining"""
 
     output_dir = Path(output_dir)
     output_dir.mkdir(parents=True, exist_ok=True)
     audio_files = []
+    batch_size = 20
+    loop = asyncio.get_event_loop()
 
-    for i, phrase in enumerate(phrases):
-        english_file = output_dir / f"english_{i}.mp3"
-        FRENCH_file = output_dir / f"FRENCH_{i}.mp3"
-        combined_file = output_dir / f"combined_{i}.mp3"
+    for batch_start in range(0, len(phrases), batch_size):
+        batch = phrases[batch_start:batch_start + batch_size]
+        tts_tasks = []
 
-        if (i + 1) % 20 == 0:
-            print(f"  Generating audio {i+1}/{len(phrases)}...")
+        for j, phrase in enumerate(batch):
+            i = batch_start + j
+            english_file = output_dir / f"english_{i}.mp3"
+            french_file = output_dir / f"french_{i}.mp3"
+            tts_tasks.append(generate_single_audio(phrase["english"], ENGLISH_VOICE, str(english_file)))
+            tts_tasks.append(generate_single_audio(phrase["french"], FRENCH_VOICE, str(french_file)))
 
-        # Generate English audio
-        en_success = asyncio.run(generate_single_audio(phrase["english"], ENGLISH_VOICE, str(english_file)))
-        if not en_success:
-            cmd = ["ffmpeg", "-y", "-f", "lavfi", "-i", "anullsrc=r=24000:cl=mono", "-t", "2", str(english_file)]
-            subprocess.run(cmd, capture_output=True)
+        await asyncio.gather(*tts_tasks)
 
-        # Generate FRENCH audio
-        es_success = asyncio.run(generate_single_audio(phrase["FRENCH"], FRENCH_VOICE, str(FRENCH_file)))
-        if not es_success:
-            cmd = ["ffmpeg", "-y", "-f", "lavfi", "-i", "anullsrc=r=24000:cl=mono", "-t", "2", str(FRENCH_file)]
-            subprocess.run(cmd, capture_output=True)
+        combine_tasks = []
+        for j, phrase in enumerate(batch):
+            i = batch_start + j
+            english_file = output_dir / f"english_{i}.mp3"
+            french_file = output_dir / f"french_{i}.mp3"
+            combined_file = output_dir / f"combined_{i}.mp3"
+            combine_tasks.append(
+                loop.run_in_executor(None, _combine_audio_inner, i, str(english_file), str(french_file), str(combined_file), str(output_dir))
+            )
 
-        # Get ACTUAL durations
-        en_duration = get_audio_duration(str(english_file))
-        es_duration = get_audio_duration(str(FRENCH_file))
+        results = await asyncio.gather(*combine_tasks)
+        audio_files.extend(results)
 
-        # Add pause between English and FRENCH
-        pause_between = 0.5
-        total_duration = en_duration + pause_between + es_duration
-
-        # Combine audio files
-        cmd = [
-            "ffmpeg", "-y",
-            "-i", str(english_file),
-            "-i", str(FRENCH_file),
-            "-filter_complex", f"[0:a][1:a]concat=n=2:v=0:a=1[out]",
-            "-map", "[out]",
-            str(combined_file)
-        ]
-
-        result = subprocess.run(cmd, capture_output=True, text=True)
-
-        if result.returncode != 0:
-            concat_file = output_dir / f"concat_{i}.txt"
-            with open(concat_file, "w", encoding="utf-8") as f:
-                f.write(f"file '{english_file.as_posix()}'\n")
-                f.write(f"file '{FRENCH_file.as_posix()}'\n")
-
-            cmd = [
-                "ffmpeg", "-y",
-                "-f", "concat", "-safe", "0",
-                "-i", str(concat_file),
-                "-c:a", "aac",
-                str(combined_file)
-            ]
-            subprocess.run(cmd, capture_output=True)
-            if concat_file.exists():
-                concat_file.unlink()
-
-        actual_duration = get_audio_duration(str(combined_file))
-
-        audio_files.append({
-            "index": i,
-            "english": str(english_file),
-            "FRENCH": str(FRENCH_file),
-            "combined": str(combined_file),
-            "duration": actual_duration,
-            "en_duration": en_duration,
-            "es_duration": es_duration
-        })
+        print(f"  Generating audio {batch_start + len(batch)}/{len(phrases)}...")
 
     print(f"\n[audio] ✓ Generated {len(audio_files)} phrase audios")
     return audio_files
+
+
+def _combine_audio_inner(i, english_file, french_file, combined_file, output_dir):
+    """Threaded helper for parallel FFmpeg combining"""
+    import subprocess as sp
+
+    en_path = Path(english_file)
+    fr_path = Path(french_file)
+    out_dir = Path(output_dir)
+
+    if not en_path.exists():
+        sp.run(["ffmpeg", "-y", "-f", "lavfi", "-i", "anullsrc=r=24000:cl=mono", "-t", "2", english_file], capture_output=True)
+    if not fr_path.exists():
+        sp.run(["ffmpeg", "-y", "-f", "lavfi", "-i", "anullsrc=r=24000:cl=mono", "-t", "2", french_file], capture_output=True)
+
+    result = sp.run([
+        "ffmpeg", "-y",
+        "-i", english_file,
+        "-i", french_file,
+        "-filter_complex", f"[0:a][1:a]concat=n=2:v=0:a=1[out]",
+        "-map", "[out]",
+        combined_file
+    ], capture_output=True, text=True)
+
+    if result.returncode != 0:
+        concat_file = out_dir / f"concat_{i}.txt"
+        with open(concat_file, "w", encoding="utf-8") as f:
+            f.write(f"file '{en_path.as_posix()}'\n")
+            f.write(f"file '{fr_path.as_posix()}'\n")
+        sp.run([
+            "ffmpeg", "-y",
+            "-f", "concat", "-safe", "0",
+            "-i", str(concat_file),
+            "-c:a", "aac",
+            combined_file
+        ], capture_output=True)
+        if concat_file.exists():
+            concat_file.unlink()
+
+    en_duration = get_audio_duration(english_file)
+    fr_duration = get_audio_duration(french_file)
+    actual_duration = get_audio_duration(combined_file)
+
+    return {
+        "index": i,
+        "english": english_file,
+        "french": french_file,
+        "combined": combined_file,
+        "duration": actual_duration,
+        "en_duration": en_duration,
+        "fr_duration": fr_duration
+    }
+
+
+def generate_all_audio(phrases: list, output_dir: str):
+    """Synchronous wrapper for parallel audio generation"""
+    return asyncio.run(generate_all_audio_async(phrases, output_dir))
 
 
 def get_audio_duration(audio_file: str) -> float:
@@ -663,9 +681,12 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
         "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf",
     ]
 
-    FRENCH_font_paths = [
+    french_font_paths = [
+        "C:/Windows/Fonts/segoeuib.ttf",
         "C:/Windows/Fonts/arialbd.ttf",
         "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf",
+        "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf",
+        "/usr/share/fonts/truetype/liberation/LiberationSans-Bold.ttf",
     ]
 
     def load_font(font_paths, size):
@@ -679,13 +700,13 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     # Refined font sizes
     font_category = load_font(english_font_paths, 42)
     font_english = load_font(english_font_paths, 68)
-    font_FRENCH = load_font(FRENCH_font_paths, 82)
-    font_pronunciation = load_font(FRENCH_font_paths, 48)
+    font_french = load_font(french_font_paths, 82)
+    font_phonetic = load_font(french_font_paths, 48)
     font_branding = load_font(english_font_paths, 38)
 
     english = phrase_data.get("english", "")
-    FRENCH = phrase_data.get("FRENCH", "")
-    pronunciation = phrase_data.get("pronunciation", "")
+    french = phrase_data.get("french", "")
+    phonetic = phrase_data.get("phonetic", "")
 
     def wrap_text(text, font, max_width):
         words = text.split()
@@ -737,18 +758,18 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     en_line_h = 80
     en_total_h = len(en_lines) * en_line_h
     
-    # 2. FRENCH Box
-    es_lines = wrap_text(FRENCH, font_FRENCH, VIDEO_WIDTH - 300)
-    es_line_h = 100
-    es_total_h = len(es_lines) * es_line_h
+    # 2. French Box
+    fr_lines = wrap_text(french, font_french, VIDEO_WIDTH - 300)
+    fr_line_h = 100
+    fr_total_h = len(fr_lines) * fr_line_h
     
-    # 3. Pronunciation Box
-    pron_text = f"[{pronunciation}]"
-    pron_lines = wrap_text(pron_text, font_pronunciation, VIDEO_WIDTH - 400)
-    pron_line_h = 60
-    pron_total_h = len(pron_lines) * pron_line_h
+    # 3. Phonetic Box
+    phonetic_text = f"[{phonetic}]"
+    phonetic_lines = wrap_text(phonetic_text, font_phonetic, VIDEO_WIDTH - 400)
+    phonetic_line_h = 60
+    py_total_h = len(phonetic_lines) * phonetic_line_h
 
-    total_content_h = en_total_h + es_total_h + pron_total_h + (GAP * 2)
+    total_content_h = en_total_h + fr_total_h + py_total_h + (GAP * 2)
     y_start = CONTENT_Y_CENTER - (total_content_h // 2)
 
     # Draw English Section
@@ -767,30 +788,30 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     
     y_cursor = y_start + en_box_h + GAP
 
-    # FRENCH Section (Lingexa Lighter Purple)
-    es_box_h = es_total_h + 60
+    # French Section (Lingexa Lighter Purple)
+    fr_box_h = fr_total_h + 60
     draw.rounded_rectangle(
-        [(box_x, y_cursor), (box_x + box_w, y_cursor + es_box_h)],
+        [(box_x, y_cursor), (box_x + box_w, y_cursor + fr_box_h)],
         radius=25, fill=(95, 80, 125, 255)
     )
-    for i, line in enumerate(es_lines):
-        draw.text((VIDEO_WIDTH // 2, y_cursor + 30 + (i * es_line_h) + es_line_h // 2), 
-                  line, fill=(255, 255, 255), font=font_FRENCH, anchor="mm")
+    for i, line in enumerate(fr_lines):
+        draw.text((VIDEO_WIDTH // 2, y_cursor + 30 + (i * fr_line_h) + fr_line_h // 2), 
+                  line, fill=(255, 255, 255), font=font_french, anchor="mm")
 
-    y_cursor += es_box_h + (GAP // 2)
+    y_cursor += fr_box_h + (GAP // 2)
 
-    # Pronunciation Section (Lingexa Peach)
-    pron_box_h = pron_total_h + 40
-    pron_box_w = box_w - 200
-    pron_box_x = (VIDEO_WIDTH - pron_box_w) // 2
+    # Phonetic Section (Lingexa Peach)
+    phonetic_box_h = py_total_h + 40
+    phonetic_box_w = box_w - 200
+    phonetic_box_x = (VIDEO_WIDTH - phonetic_box_w) // 2
     draw.rounded_rectangle(
-        [(pron_box_x, y_cursor), (pron_box_x + pron_box_w, y_cursor + pron_box_h)],
+        [(phonetic_box_x, y_cursor), (phonetic_box_x + phonetic_box_w, y_cursor + phonetic_box_h)],
         radius=20, fill=(255, 210, 160, 255)
     )
 
-    for i, line in enumerate(pron_lines):
-        draw.text((VIDEO_WIDTH // 2, y_cursor + 20 + (i * pron_line_h) + pron_line_h // 2), 
-                  line, fill=(70, 45, 25), font=font_pronunciation, anchor="mm")
+    for i, line in enumerate(phonetic_lines):
+        draw.text((VIDEO_WIDTH // 2, y_cursor + 20 + (i * phonetic_line_h) + phonetic_line_h // 2), 
+                  line, fill=(70, 45, 25), font=font_phonetic, anchor="mm")
 
     # Branding (Bottom Right)
     brand_text = "VELOCITY FRENCH"
@@ -809,7 +830,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
 
 # ============== THUMBNAIL GENERATION ==============
 
-def generate_thumbnail(category_english: str, category_FRENCH: str, output_path: str):
+def generate_thumbnail(category_english: str, category_french: str, output_path: str):
     """Generate a modern, high-impact thumbnail - Lingexa Inspired"""
     try:
         from PIL import Image, ImageDraw, ImageFont
@@ -824,7 +845,7 @@ def generate_thumbnail(category_english: str, category_FRENCH: str, output_path:
 
     # Load fonts
     english_font_paths = ["C:/Windows/Fonts/segoeuib.ttf", "C:/Windows/Fonts/arialbd.ttf"]
-    FRENCH_font_paths = ["C:/Windows/Fonts/arialbd.ttf"]
+    french_font_paths = ["C:/Windows/Fonts/segoeuib.ttf", "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"]
 
     def load_font(font_paths, size):
         for font_path in font_paths:
@@ -833,7 +854,7 @@ def generate_thumbnail(category_english: str, category_FRENCH: str, output_path:
         return ImageFont.load_default()
 
     font_huge = load_font(english_font_paths, 130)
-    font_main = load_font(FRENCH_font_paths, 110)
+    font_main = load_font(french_font_paths, 110)
     font_sub = load_font(english_font_paths, 60)
     font_badge = load_font(english_font_paths, 45)
 
@@ -850,8 +871,8 @@ def generate_thumbnail(category_english: str, category_FRENCH: str, output_path:
     )
     draw.text((VIDEO_WIDTH // 2, 365), cat_text, fill=(255, 255, 255), font=font_sub, anchor="mm")
 
-    # FRENCH Translation (Dark Purple)
-    draw.text((VIDEO_WIDTH // 2, 530), category_FRENCH, fill=(45, 35, 65), font=font_main, anchor="mm")
+    # French Translation (Dark Purple)
+    draw.text((VIDEO_WIDTH // 2, 530), category_french, fill=(45, 35, 65), font=font_main, anchor="mm")
 
     # Features / Call to Action (Lingexa Peach)
     cta_text = "60 ESSENTIAL PHRASES"
@@ -898,27 +919,27 @@ def extract_video_thumbnail(video_path: str, output_path: str, timestamp_seconds
 
 # ============== TITLE & DESCRIPTION GENERATION ==============
 
-def generate_title_description(category_english: str, category_FRENCH: str, phrases: list, duration_minutes: float, output_dir: str):
+def generate_title_description(category_english: str, category_french: str, phrases: list, duration_minutes: float, output_dir: str):
     """Generate viral YouTube title and description with all phrases - COMBINED in one file"""
     
     # Generate viral title variations
     titles = [
-        f"Learn FRENCH in 10 Minutes | {category_english} Phrases Every Beginner NEEDS to Know! ({category_FRENCH})",
-        f"60 FRENCH Phrases for {category_english} | Speak FRENCH Like a Native! ({category_FRENCH})",
-        f"Master FRENCH {category_english} | 60 Essential FRENCH Phrases with Pronunciation | Velocity FRENCH",
-        f"FRENCH Learning Made Easy | {category_english} Vocabulary | 10 Minute Lesson",
-        f"Speak FRENCH Fluently | {category_english} Phrases | English + FRENCH + Pronunciation",
+        f"Learn French in 10 Minutes | {category_english} Phrases Every Beginner NEEDS to Know! ({category_french})",
+        f"60 French Phrases for {category_english} | Speak French Like a Native! ({category_french})",
+        f"Master French {category_english} | 60 Essential French Phrases with Phonetic | Velocity French",
+        f"French Learning Made Easy | {category_english} Vocabulary | 10 Minute Lesson",
+        f"Speak French Fluently | {category_english} Phrases | English + French + Phonetic",
     ]
 
     # Generate comprehensive description
-    description = f"""🇫🇷 Learn FRENCH with Velocity FRENCH! 🇫🇷
+    description = f"""🇫🇷 Learn French with Velocity French! 🇫🇷
 
-In this video, you'll learn 60 essential FRENCH phrases about {category_english} ({category_FRENCH}).
+In this video, you'll learn 60 essential French phrases about {category_english} ({category_french}).
 Perfect for beginners and intermediate learners!
 
 📚 WHAT YOU'LL LEARN:
-• 60 practical {category_english} phrases in FRENCH
-• Correct pronunciation guide
+• 60 practical {category_english} phrases in French
+• Correct pronunciation with Phonetic
 • Natural pauses for speaking practice
 • Common expressions used by native speakers
 
@@ -942,17 +963,17 @@ Perfect for beginners and intermediate learners!
     for i, phrase in enumerate(phrases, 1):
         description += f"""
 {i}. {phrase['english']}
-   FRENCH: {phrase['FRENCH']}
-   Pronunciation: {phrase['pronunciation']}
+    French: {phrase['french']}
+   Phonetic: {phrase['phonetic']}
 """
 
     description += f"""
 🎯 PERFECT FOR:
-• FRENCH beginners wanting to expand vocabulary
+• French beginners wanting to expand vocabulary
 • Intermediate learners practicing pronunciation
-• Anyone interested in FRENCH
+• Anyone interested in French
 • Language enthusiasts and polyglots
-• Students preparing for exams
+• Students preparing for DELF exams
 
 💡 TIPS FOR LEARNING:
 1. Repeat each phrase out loud
@@ -961,7 +982,7 @@ Perfect for beginners and intermediate learners!
 4. Write down phrases you find difficult
 5. Review this video multiple times
 
-🔔 SUBSCRIBE for more FRENCH learning content!
+🔔 SUBSCRIBE for more French learning content!
 👍 LIKE this video if you found it helpful!
 💬 COMMENT which phrases you want to learn next!
 
@@ -972,14 +993,15 @@ Perfect for beginners and intermediate learners!
 [Add music credits if applicable]
 
 📖 RELATED VIDEOS:
-• FRENCH Motivation Phrases
-• FRENCH Love Expressions
-• Basic FRENCH Greetings
+• French Motivation Phrases
+• French Love Expressions
+• DELF 1 Vocabulary
+• Basic French Greetings
 
-#LearnFRENCH #FRENCHPhrases #FRENCHLanguage #{category_english.replace(' ', '')} #VelocityFRENCH #FRENCHForBeginners #SpeakFRENCH #FRENCHVocabulary #Pronunciation #LanguageLearning #FRENCH101 #FRENCHLesson
+#LearnFrench #FrenchPhrases #FrenchLanguage #{category_english.replace(' ', '')} #VelocityFrench #FrenchForBeginners #SpeakFrench #FrenchVocabulary #Phonetic #LanguageLearning #French101 #FrenchLesson
 
 ---
-© Velocity FRENCH - Making FRENCH learning accessible to everyone!
+© Velocity French - Making French learning accessible to everyone!
 """
 
     # Write to COMBINED file (title + description in one)
@@ -1011,18 +1033,18 @@ Perfect for beginners and intermediate learners!
         f.write("🏷️ VIDEO TAGS (for YouTube):\n")
         f.write("-" * 80 + "\n")
         tags = [
-            "Learn FRENCH",
-            "FRENCH Phrases",
-            "FRENCH Language",
+            "Learn French",
+            "French Phrases",
+            "French",
             category_english,
-            "Velocity FRENCH",
-            "FRENCH for Beginners",
-            "Speak FRENCH",
-            "FRENCH Vocabulary",
-            "Pronunciation",
+            "Velocity French",
+            "French for Beginners",
+            "Speak French",
+            "French Vocabulary",
+            "Phonetic",
             "Language Learning",
-            "FRENCH 101",
-            "FRENCH Lesson"
+            "French 101",
+            "French Lesson"
         ]
         f.write(", ".join(tags) + "\n")
 
@@ -1032,7 +1054,7 @@ Perfect for beginners and intermediate learners!
         "selected_title": titles[0],
         "description": description,
         "category_english": category_english,
-        "category_FRENCH": category_FRENCH,
+        "category_french": category_french,
         "phrases_count": len(phrases),
         "duration_minutes": round(duration_minutes, 2),
         "tags": tags
@@ -1051,20 +1073,18 @@ Perfect for beginners and intermediate learners!
 # ============== VIDEO CREATION WITH TRANSITIONS ==============
 
 def create_video_from_images_audio(image_files: list, audio_files: list, combined_audio: str, output_file: str):
-    """Create video from images and audio with PERFECT synchronization"""
+    """Create video from images and audio with parallel clip encoding"""
+
+    from concurrent.futures import ThreadPoolExecutor, as_completed
 
     print(f"\n[video] Creating long-form video from {len(image_files)} images...")
-    print(f"[video] Embedding audio in each clip for frame-perfect sync...")
+    print(f"[video] Encoding clips in parallel on GPU...")
 
     temp_clips = []
 
-    for i, (img_path, audio_info) in enumerate(zip(image_files, audio_files)):
-        duration = audio_info['duration']
-        print(f"  Image {i+1}/{len(image_files)}: {duration:.2f}s (EN: {audio_info.get('en_duration', 0):.1f}s + ES: {audio_info.get('es_duration', 0):.1f}s)")
-
+    def encode_clip(i, img_path, audio_info):
         temp_clip = Path(output_file).parent / f"temp_clip_{i:02d}.mp4"
-        temp_clips.append(temp_clip)
-
+        duration = audio_info['duration']
         cmd = [
             "ffmpeg", "-y",
             "-loop", "1",
@@ -1075,19 +1095,28 @@ def create_video_from_images_audio(image_files: list, audio_files: list, combine
             "-c:a", "aac",
             "-b:a", "128k",
             "-pix_fmt", "yuv420p",
-            "-preset", "medium",
+            "-preset", "fast",
             "-shortest",
             "-vsync", "cfr",
             str(temp_clip)
         ]
-
         subprocess.run(cmd, check=True, capture_output=True)
+        return (i, str(temp_clip), duration)
+
+    with ThreadPoolExecutor(max_workers=4) as executor:
+        futures = {executor.submit(encode_clip, i, img_path, audio_info): i for i, (img_path, audio_info) in enumerate(zip(image_files, audio_files))}
+        results = [None] * len(image_files)
+        for future in as_completed(futures):
+            i, clip_path, duration = future.result()
+            results[i] = clip_path
+            print(f"  Image {i+1}/{len(image_files)}: {duration:.2f}s ✓")
+            temp_clips.append(Path(clip_path))
 
     print("[video] Concatenating clips...")
     concat_file = Path(output_file).parent / "concat_list.txt"
 
     with open(concat_file, "w", encoding="utf-8") as f:
-        for clip in temp_clips:
+        for clip in sorted(temp_clips, key=lambda p: int(p.stem.split('_')[-1])):
             f.write(f"file '{clip.resolve().as_posix()}'\n")
 
     cmd = ["ffmpeg", "-y", "-f", "concat", "-safe", "0", "-i", str(concat_file), "-c", "copy", str(output_file)]
@@ -1129,7 +1158,7 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
     phrases = generate_phrases_for_longform(category_english, phrases_count)
 
     for i, phrase in enumerate(phrases, 1):
-        print(f"  {i}. {phrase['english']} → {phrase['FRENCH']}")
+        print(f"  {i}. {phrase['english']} → {phrase['french']}")
 
     print(f"\n[info] Total phrases: {len(phrases)}")
 
@@ -1157,10 +1186,10 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
                 print(f"  gpt-image-2 thumbnail saved")
             else:
                 print(f"  gpt-image-2 failed, using built-in")
-                generate_thumbnail(category_english, CATEGORIES_ENGLISH[category_english], str(thumbnail_path))
+                generate_thumbnail(category_english, CATEGORIES_FRENCH[category_english], str(thumbnail_path))
         except Exception as e:
             print(f"  Thumbnail error: {e}, using built-in")
-            generate_thumbnail(category_english, CATEGORIES_ENGLISH[category_english], str(thumbnail_path))
+            generate_thumbnail(category_english, CATEGORIES_FRENCH[category_english], str(thumbnail_path))
     video_thumbnail_path = video_dir / "video_thumbnail_frame.jpg"
     print(f"\n[4/6] Generating audio for {len(phrases)} phrases...")
     audio_files = generate_all_audio(phrases, str(video_dir))
@@ -1191,7 +1220,7 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
 
     # Step 6: Generate title and description
     print(f"\n[6/6] Generating YouTube title, description, and metadata...")
-    title_meta = generate_title_description(
+    generate_title_description(
         category_english,
         CATEGORIES_FRENCH[category_english],
         phrases,
@@ -1199,15 +1228,41 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
         str(video_dir)
     )
 
-    # Save latest video info for upload script (BEFORE metadata overwrite)
+    # Save metadata
+    metadata = {
+        "category_english": category_english,
+        "category_french": CATEGORIES_FRENCH[category_english],
+        "timestamp": timestamp,
+        "target_phrases": phrases_count,
+        "actual_duration_seconds": total_duration,
+        "actual_duration_minutes": total_duration / 60,
+        "phrases_count": len(phrases),
+        "phrases": phrases,
+        "video": str(output_video),
+        "audio": str(final_audio),
+        "thumbnail": str(thumbnail_path),
+        "resolution": f"{VIDEO_WIDTH}x{VIDEO_HEIGHT}",
+        "fps": FPS
+    }
+
+    with open(video_dir / "video_metadata.json", "w", encoding="utf-8") as f:
+        json.dump(metadata, f, indent=2, ensure_ascii=False)
+
+    # Save latest video info for upload script
     import json as _json
     from pathlib import Path as _Path
+    meta_file = video_dir / "video_metadata.json"
+    if meta_file.exists():
+        with open(meta_file, "r", encoding="utf-8") as f:
+            vid_meta = _json.load(f)
+    else:
+        vid_meta = {}
     meta_out = {
-        "title": title_meta.get("selected_title", f"Learn FRENCH: {category_english}"),
-        "description": title_meta.get("description", ""),
-        "tags": ["Learn FRENCH", "FRENCH Phrases", "FRENCH", category_english, "Velocity FRENCH"],
+        "title": vid_meta.get("selected_title", f"Learn French: {category_english}"),
+        "description": vid_meta.get("description", ""),
+        "tags": ["Learn French", "French Phrases", "French", category_english, "Velocity French"],
         "category_english": category_english,
-        "category_FRENCH": CATEGORIES_FRENCH[category_english],
+        "category_french": CATEGORIES_FRENCH[category_english],
         "phrases_count": len(phrases),
         "duration_seconds": total_duration,
         "duration_minutes": total_duration / 60,
@@ -1232,11 +1287,11 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
     print(f"  📄 youtube_upload_info.txt (title + description + tags)")
     print(f"  ⏱️  Duration: {total_duration/60:.2f} minutes")
     print(f"  📊 Phrases: {len(phrases)}")
-    print(f"  🏷️  Branding: Velocity FRENCH")
+    print(f"  🏷️  Branding: Velocity French")
     print(f"  📺 Format: 16:9 (1920x1080)")
     print(f"{'='*80}\n")
 
-    return meta_out
+    return metadata
 
 
 def generate_multiple_longform(count: int = 1, target_phrases: int = None):
@@ -1257,7 +1312,7 @@ def generate_multiple_longform(count: int = 1, target_phrases: int = None):
 
 if __name__ == "__main__":
     import argparse
-    parser = argparse.ArgumentParser(description="Velocity FRENCH YouTube Long-form Video Generator")
+    parser = argparse.ArgumentParser(description="Velocity French YouTube Long-form Video Generator")
     parser.add_argument("--phrases", type=int, default=TARGET_PHRASES, help="Number of phrases to generate (determines video length, ~5.5s per phrase. 60 phrases = ~5.5 mins)")
     parser.add_argument("--category", type=str, default=None, help="Specific category to generate (e.g. 'Motivation', 'Friendship'). Random if not provided.")
     args = parser.parse_args()
