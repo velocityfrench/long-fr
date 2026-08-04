@@ -10439,7 +10439,367 @@
       "french": "Tes efforts, ne passent pas inaperçus.",
       "category": "Kindness",
       "generated_at": "2026-08-03T04:32:29.023503"
+    },
+    {
+      "english": "Listen more, than you speak.",
+      "french": "Écoutez plus, que vous parlez.",
+      "category": "Success",
+      "generated_at": "2026-08-04T04:58:47.301102"
+    },
+    {
+      "english": "Mistakes are, your teachers.",
+      "french": "Les erreurs, sont vos professeurs.",
+      "category": "Success",
+      "generated_at": "2026-08-04T04:58:47.301111"
+    },
+    {
+      "english": "Repeat, like a parrot.",
+      "french": "Répétez, comme un perroquet.",
+      "category": "Success",
+      "generated_at": "2026-08-04T04:58:47.301113"
+    },
+    {
+      "english": "Think in French, first.",
+      "french": "Pensez en français, d'abord.",
+      "category": "Success",
+      "generated_at": "2026-08-04T04:58:47.301114"
+    },
+    {
+      "english": "Order coffee, like a pro.",
+      "french": "Commandez un café, comme un pro.",
+      "category": "Success",
+      "generated_at": "2026-08-04T04:58:47.301116"
+    },
+    {
+      "english": "Sing along, to French songs.",
+      "french": "Chantez avec, les chansons françaises.",
+      "category": "Success",
+      "generated_at": "2026-08-04T04:58:47.301117"
+    },
+    {
+      "english": "Watch movies, with subtitles.",
+      "french": "Regardez des films, avec sous-titres.",
+      "category": "Success",
+      "generated_at": "2026-08-04T04:58:47.301118"
+    },
+    {
+      "english": "Ask for help, always.",
+      "french": "Demandez de l'aide, toujours.",
+      "category": "Success",
+      "generated_at": "2026-08-04T04:58:47.301121"
+    },
+    {
+      "english": "Travel light, learn big.",
+      "french": "Voyagez léger, apprenez grand.",
+      "category": "Success",
+      "generated_at": "2026-08-04T04:58:47.301123"
+    },
+    {
+      "english": "Your French, is growing.",
+      "french": "Votre français, grandit.",
+      "category": "Success",
+      "generated_at": "2026-08-04T04:58:47.301124"
+    },
+    {
+      "english": "Embrace the sounds, fully.",
+      "french": "Accueillez les sons, pleinement.",
+      "category": "Success",
+      "generated_at": "2026-08-04T04:58:47.301125"
+    },
+    {
+      "english": "Try new words, often.",
+      "french": "Essayez de nouveaux mots, souvent.",
+      "category": "Success",
+      "generated_at": "2026-08-04T04:58:47.301126"
+    },
+    {
+      "english": "Connect with locals, simply.",
+      "french": "Connectez-vous aux locaux, simplement.",
+      "category": "Success",
+      "generated_at": "2026-08-04T04:58:47.301127"
+    },
+    {
+      "english": "Read simple stories, aloud.",
+      "french": "Lisez des histoires simples, à voix haute.",
+      "category": "Success",
+      "generated_at": "2026-08-04T04:58:47.301128"
+    },
+    {
+      "english": "Laugh at yourself, often.",
+      "french": "Riez de vous-même, souvent.",
+      "category": "Success",
+      "generated_at": "2026-08-04T04:58:47.301130"
+    },
+    {
+      "english": "Find a language partner.",
+      "french": "Trouvez un partenaire linguistique.",
+      "category": "Success",
+      "generated_at": "2026-08-04T04:58:47.301131"
+    },
+    {
+      "english": "Celebrate small wins.",
+      "french": "Célébrez les petites victoires.",
+      "category": "Success",
+      "generated_at": "2026-08-04T04:58:47.301134"
+    },
+    {
+      "english": "Use phrases, you know.",
+      "french": "Utilisez des phrases, que vous connaissez.",
+      "category": "Success",
+      "generated_at": "2026-08-04T04:58:47.301136"
+    },
+    {
+      "english": "Don't fear, the grammar.",
+      "french": "N'ayez pas peur, de la grammaire.",
+      "category": "Success",
+      "generated_at": "2026-08-04T04:58:47.301137"
+    },
+    {
+      "english": "Immerse yourself, daily.",
+      "french": "Immergez-vous, quotidiennement.",
+      "category": "Success",
+      "generated_at": "2026-08-04T04:58:47.301138"
+    },
+    {
+      "english": "Speak with confidence, please.",
+      "french": "Parlez avec confiance, s'il vous plaît.",
+      "category": "Success",
+      "generated_at": "2026-08-04T04:58:47.301139"
+    },
+    {
+      "english": "You’re doing great, really.",
+      "french": "Vous vous en sortez bien, vraiment.",
+      "category": "Success",
+      "generated_at": "2026-08-04T04:58:47.301140"
+    },
+    {
+      "english": "Keep this up, long term.",
+      "french": "Continuez comme ça, sur le long terme.",
+      "category": "Success",
+      "generated_at": "2026-08-04T04:58:47.301141"
+    },
+    {
+      "english": "French is fun, embrace it.",
+      "french": "Le français est amusant, acceptez-le.",
+      "category": "Success",
+      "generated_at": "2026-08-04T04:58:47.301142"
+    },
+    {
+      "english": "Record yourself, listen back.",
+      "french": "Enregistrez-vous, réécoutez.",
+      "category": "Success",
+      "generated_at": "2026-08-04T04:58:47.301143"
+    },
+    {
+      "english": "Your effort, is paying off.",
+      "french": "Votre effort, porte ses fruits.",
+      "category": "Success",
+      "generated_at": "2026-08-04T04:58:47.301144"
+    },
+    {
+      "english": "Say it loud, and proud.",
+      "french": "Dites-le haut, et fort.",
+      "category": "Success",
+      "generated_at": "2026-08-04T04:58:47.301145"
+    },
+    {
+      "english": "French sounds, are beautiful.",
+      "french": "Les sons français, sont magnifiques.",
+      "category": "Success",
+      "generated_at": "2026-08-04T04:58:47.301146"
+    },
+    {
+      "english": "Don’t wait, to communicate.",
+      "french": "N'attendez pas, pour communiquer.",
+      "category": "Success",
+      "generated_at": "2026-08-04T04:58:47.301147"
+    },
+    {
+      "english": "Your progress, is amazing.",
+      "french": "Votre progression, est stupéfiante.",
+      "category": "Success",
+      "generated_at": "2026-08-04T04:58:47.301148"
+    },
+    {
+      "english": "You understand, more now.",
+      "french": "Vous comprenez, plus maintenant.",
+      "category": "Success",
+      "generated_at": "2026-08-04T04:58:47.301149"
+    },
+    {
+      "english": "French vocabulary, expands.",
+      "french": "Le vocabulaire français, s'élargit.",
+      "category": "Success",
+      "generated_at": "2026-08-04T04:58:47.301150"
+    },
+    {
+      "english": "Keep this momentum, going.",
+      "french": "Maintenez cet élan, en cours.",
+      "category": "Success",
+      "generated_at": "2026-08-04T04:58:47.301151"
+    },
+    {
+      "english": "Your French journey, continues.",
+      "french": "Votre voyage français, continue.",
+      "category": "Success",
+      "generated_at": "2026-08-04T04:58:47.301152"
+    },
+    {
+      "english": "You’re a French speaker, now.",
+      "french": "Vous êtes un francophone, maintenant.",
+      "category": "Success",
+      "generated_at": "2026-08-04T04:58:47.301153"
+    },
+    {
+      "english": "Listen more, than you speak.",
+      "french": "Écoutez plus, que vous parlez.",
+      "category": "Success",
+      "generated_at": "2026-08-04T04:58:47.301154"
+    },
+    {
+      "english": "Mistakes are, your teachers.",
+      "french": "Les erreurs, sont vos professeurs.",
+      "category": "Success",
+      "generated_at": "2026-08-04T04:58:47.301155"
+    },
+    {
+      "english": "Repeat, like a parrot.",
+      "french": "Répétez, comme un perroquet.",
+      "category": "Success",
+      "generated_at": "2026-08-04T04:58:47.301156"
+    },
+    {
+      "english": "Think in French, first.",
+      "french": "Pensez en français, d'abord.",
+      "category": "Success",
+      "generated_at": "2026-08-04T04:58:47.301157"
+    },
+    {
+      "english": "Order coffee, like a pro.",
+      "french": "Commandez un café, comme un pro.",
+      "category": "Success",
+      "generated_at": "2026-08-04T04:58:47.301158"
+    },
+    {
+      "english": "Sing along, to French songs.",
+      "french": "Chantez avec, les chansons françaises.",
+      "category": "Success",
+      "generated_at": "2026-08-04T04:58:47.301159"
+    },
+    {
+      "english": "Watch movies, with subtitles.",
+      "french": "Regardez des films, avec sous-titres.",
+      "category": "Success",
+      "generated_at": "2026-08-04T04:58:47.301161"
+    },
+    {
+      "english": "Ask for help, always.",
+      "french": "Demandez de l'aide, toujours.",
+      "category": "Success",
+      "generated_at": "2026-08-04T04:58:47.301162"
+    },
+    {
+      "english": "Travel light, learn big.",
+      "french": "Voyagez léger, apprenez grand.",
+      "category": "Success",
+      "generated_at": "2026-08-04T04:58:47.301163"
+    },
+    {
+      "english": "Your French, is growing.",
+      "french": "Votre français, grandit.",
+      "category": "Success",
+      "generated_at": "2026-08-04T04:58:47.301164"
+    },
+    {
+      "english": "Embrace the sounds, fully.",
+      "french": "Accueillez les sons, pleinement.",
+      "category": "Success",
+      "generated_at": "2026-08-04T04:58:47.301165"
+    },
+    {
+      "english": "Try new words, often.",
+      "french": "Essayez de nouveaux mots, souvent.",
+      "category": "Success",
+      "generated_at": "2026-08-04T04:58:47.301166"
+    },
+    {
+      "english": "Connect with locals, simply.",
+      "french": "Connectez-vous aux locaux, simplement.",
+      "category": "Success",
+      "generated_at": "2026-08-04T04:58:47.301169"
+    },
+    {
+      "english": "Read simple stories, aloud.",
+      "french": "Lisez des histoires simples, à voix haute.",
+      "category": "Success",
+      "generated_at": "2026-08-04T04:58:47.301170"
+    },
+    {
+      "english": "Laugh at yourself, often.",
+      "french": "Riez de vous-même, souvent.",
+      "category": "Success",
+      "generated_at": "2026-08-04T04:58:47.301172"
+    },
+    {
+      "english": "Find a language partner.",
+      "french": "Trouvez un partenaire linguistique.",
+      "category": "Success",
+      "generated_at": "2026-08-04T04:58:47.301174"
+    },
+    {
+      "english": "Celebrate small wins.",
+      "french": "Célébrez les petites victoires.",
+      "category": "Success",
+      "generated_at": "2026-08-04T04:58:47.301175"
+    },
+    {
+      "english": "Use phrases, you know.",
+      "french": "Utilisez des phrases, que vous connaissez.",
+      "category": "Success",
+      "generated_at": "2026-08-04T04:58:47.301176"
+    },
+    {
+      "english": "Don't fear, the grammar.",
+      "french": "N'ayez pas peur, de la grammaire.",
+      "category": "Success",
+      "generated_at": "2026-08-04T04:58:47.301177"
+    },
+    {
+      "english": "Immerse yourself, daily.",
+      "french": "Immergez-vous, quotidiennement.",
+      "category": "Success",
+      "generated_at": "2026-08-04T04:58:47.301178"
+    },
+    {
+      "english": "Speak with confidence, please.",
+      "french": "Parlez avec confiance, s'il vous plaît.",
+      "category": "Success",
+      "generated_at": "2026-08-04T04:58:47.301179"
+    },
+    {
+      "english": "You’re doing great, really.",
+      "french": "Vous vous en sortez bien, vraiment.",
+      "category": "Success",
+      "generated_at": "2026-08-04T04:58:47.301180"
+    },
+    {
+      "english": "Keep this up, long term.",
+      "french": "Continuez comme ça, sur le long terme.",
+      "category": "Success",
+      "generated_at": "2026-08-04T04:58:47.301181"
+    },
+    {
+      "english": "French is fun, embrace it.",
+      "french": "Le français est amusant, acceptez-le.",
+      "category": "Success",
+      "generated_at": "2026-08-04T04:58:47.301182"
+    },
+    {
+      "english": "Record yourself, listen back.",
+      "french": "Enregistrez-vous, réécoutez.",
+      "category": "Success",
+      "generated_at": "2026-08-04T04:58:47.301183"
     }
   ],
-  "last_updated": "2026-08-03T04:32:29.023505"
+  "last_updated": "2026-08-04T04:58:47.301184"
 }
