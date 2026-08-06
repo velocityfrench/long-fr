@@ -256,6 +256,7 @@ IMPORTANT RULES FOR NATURAL SPEECH:
 For each phrase:
 1. English phrase (with commas for natural pauses)
 2. French translation
+CRITICAL: Every translation MUST be in French. NEVER use German, Spanish, or any other language. Only French.
 3. Phonetic pronunciation guide (e.g., "kroh-wa voo")
 
 Return as JSON array:
