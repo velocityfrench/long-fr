@@ -11159,7 +11159,367 @@
       "french": "Ne basculez pas, restez droit.",
       "category": "Balance",
       "generated_at": "2026-08-05T04:12:47.758396"
+    },
+    {
+      "english": "Just a little taste, for now.",
+      "french": "Juste un petit goût, pour l'instant.",
+      "category": "Purpose",
+      "generated_at": "2026-08-06T04:15:22.147307"
+    },
+    {
+      "english": "This is just for fun, okay?",
+      "french": "Ceci est juste pour le plaisir, d'accord ?",
+      "category": "Purpose",
+      "generated_at": "2026-08-06T04:15:22.147332"
+    },
+    {
+      "english": "We're doing this to learn, remember.",
+      "french": "Nous faisons cela pour apprendre, souviens-toi.",
+      "category": "Purpose",
+      "generated_at": "2026-08-06T04:15:22.147333"
+    },
+    {
+      "english": "It’s just a test, nothing more.",
+      "french": "Ce n'est qu'un test, rien de plus.",
+      "category": "Purpose",
+      "generated_at": "2026-08-06T04:15:22.147335"
+    },
+    {
+      "english": "This is practice, not perfection.",
+      "french": "C'est de la pratique, pas la perfection.",
+      "category": "Purpose",
+      "generated_at": "2026-08-06T04:15:22.147336"
+    },
+    {
+      "english": "Try this, just to see.",
+      "french": "Essaie ceci, juste pour voir.",
+      "category": "Purpose",
+      "generated_at": "2026-08-06T04:15:22.147340"
+    },
+    {
+      "english": "We are doing this, for you.",
+      "french": "Nous faisons cela, pour toi.",
+      "category": "Purpose",
+      "generated_at": "2026-08-06T04:15:22.147342"
+    },
+    {
+      "english": "This is meant, to help you.",
+      "french": "Ceci est censé, t'aider.",
+      "category": "Purpose",
+      "generated_at": "2026-08-06T04:15:22.147345"
+    },
+    {
+      "english": "The goal is, to understand.",
+      "french": "Le but est, de comprendre.",
+      "category": "Purpose",
+      "generated_at": "2026-08-06T04:15:22.147346"
+    },
+    {
+      "english": "This will help, your French grow.",
+      "french": "Cela aidera, ton français à grandir.",
+      "category": "Purpose",
+      "generated_at": "2026-08-06T04:15:22.147348"
+    },
+    {
+      "english": "We do this, for progress.",
+      "french": "Nous faisons cela, pour le progrès.",
+      "category": "Purpose",
+      "generated_at": "2026-08-06T04:15:22.147349"
+    },
+    {
+      "english": "This is just for practice, relax.",
+      "french": "C'est juste pour pratiquer, détends-toi.",
+      "category": "Purpose",
+      "generated_at": "2026-08-06T04:15:22.147350"
+    },
+    {
+      "english": "Your effort counts, always.",
+      "french": "Ton effort compte, toujours.",
+      "category": "Purpose",
+      "generated_at": "2026-08-06T04:15:22.147352"
+    },
+    {
+      "english": "We are doing this, to improve.",
+      "french": "Nous faisons cela, pour nous améliorer.",
+      "category": "Purpose",
+      "generated_at": "2026-08-06T04:15:22.147353"
+    },
+    {
+      "english": "This is a tool, to use.",
+      "french": "C'est un outil, à utiliser.",
+      "category": "Purpose",
+      "generated_at": "2026-08-06T04:15:22.147354"
+    },
+    {
+      "english": "We aim to, make it clear.",
+      "french": "Nous visons à, rendre cela clair.",
+      "category": "Purpose",
+      "generated_at": "2026-08-06T04:15:22.147355"
+    },
+    {
+      "english": "This helps you, speak better.",
+      "french": "Cela t'aide, à mieux parler.",
+      "category": "Purpose",
+      "generated_at": "2026-08-06T04:15:22.147356"
+    },
+    {
+      "english": "It’s for your, own good.",
+      "french": "C'est pour ton, propre bien.",
+      "category": "Purpose",
+      "generated_at": "2026-08-06T04:15:22.147357"
+    },
+    {
+      "english": "This is to, build confidence.",
+      "french": "C'est pour, bâtir la confiance.",
+      "category": "Purpose",
+      "generated_at": "2026-08-06T04:15:22.147358"
+    },
+    {
+      "english": "We are doing this, to guide.",
+      "french": "Nous faisons cela, pour guider.",
+      "category": "Purpose",
+      "generated_at": "2026-08-06T04:15:22.147360"
+    },
+    {
+      "english": "This is for, your learning.",
+      "french": "C'est pour, ton apprentissage.",
+      "category": "Purpose",
+      "generated_at": "2026-08-06T04:15:22.147361"
+    },
+    {
+      "english": "Just try it, for a moment.",
+      "french": "Essaie juste, pour un moment.",
+      "category": "Purpose",
+      "generated_at": "2026-08-06T04:15:22.147362"
+    },
+    {
+      "english": "This is the way, to go.",
+      "french": "C'est la façon, d'y aller.",
+      "category": "Purpose",
+      "generated_at": "2026-08-06T04:15:22.147363"
+    },
+    {
+      "english": "We want you, to succeed.",
+      "french": "Nous voulons que, tu réussisses.",
+      "category": "Purpose",
+      "generated_at": "2026-08-06T04:15:22.147366"
+    },
+    {
+      "english": "This is meant, for practice.",
+      "french": "Ceci est destiné, à la pratique.",
+      "category": "Purpose",
+      "generated_at": "2026-08-06T04:15:22.147367"
+    },
+    {
+      "english": "It’s a way, to get better.",
+      "french": "C'est une façon, de s'améliorer.",
+      "category": "Purpose",
+      "generated_at": "2026-08-06T04:15:22.147368"
+    },
+    {
+      "english": "This is to, feel it.",
+      "french": "C'est pour, le ressentir.",
+      "category": "Purpose",
+      "generated_at": "2026-08-06T04:15:22.147369"
+    },
+    {
+      "english": "We do this, to help out.",
+      "french": "Nous faisons cela, pour aider.",
+      "category": "Purpose",
+      "generated_at": "2026-08-06T04:15:22.147370"
+    },
+    {
+      "english": "This is for, your journey.",
+      "french": "C'est pour, ton voyage.",
+      "category": "Purpose",
+      "generated_at": "2026-08-06T04:15:22.147371"
+    },
+    {
+      "english": "Just a bit, to start.",
+      "french": "Juste un peu, pour commencer.",
+      "category": "Purpose",
+      "generated_at": "2026-08-06T04:15:22.147372"
+    },
+    {
+      "english": "This is for, reaching goals.",
+      "french": "C'est pour, atteindre les objectifs.",
+      "category": "Purpose",
+      "generated_at": "2026-08-06T04:15:22.147373"
+    },
+    {
+      "english": "We are doing this, to connect.",
+      "french": "Nous faisons cela, pour nous connecter.",
+      "category": "Purpose",
+      "generated_at": "2026-08-06T04:15:22.147374"
+    },
+    {
+      "english": "This is just, to explore.",
+      "french": "C'est juste, pour explorer.",
+      "category": "Purpose",
+      "generated_at": "2026-08-06T04:15:22.147375"
+    },
+    {
+      "english": "It's a means, to an end.",
+      "french": "C'est un moyen, d'y parvenir.",
+      "category": "Purpose",
+      "generated_at": "2026-08-06T04:15:22.147376"
+    },
+    {
+      "english": "This is for, your growth.",
+      "french": "C'est pour, ta croissance.",
+      "category": "Purpose",
+      "generated_at": "2026-08-06T04:15:22.147377"
+    },
+    {
+      "english": "We do this, to share.",
+      "french": "Nous faisons cela, pour partager.",
+      "category": "Purpose",
+      "generated_at": "2026-08-06T04:15:22.147378"
+    },
+    {
+      "english": "This is how, we learn.",
+      "french": "C'est comme ça, que nous apprenons.",
+      "category": "Purpose",
+      "generated_at": "2026-08-06T04:15:22.147379"
+    },
+    {
+      "english": "It’s to make, things easier.",
+      "french": "C'est pour rendre, les choses plus faciles.",
+      "category": "Purpose",
+      "generated_at": "2026-08-06T04:15:22.147380"
+    },
+    {
+      "english": "This is for, your benefit.",
+      "french": "C'est pour, ton bénéfice.",
+      "category": "Purpose",
+      "generated_at": "2026-08-06T04:15:22.147381"
+    },
+    {
+      "english": "We aim to, inspire you.",
+      "french": "Nous visons à, t'inspirer.",
+      "category": "Purpose",
+      "generated_at": "2026-08-06T04:15:22.147382"
+    },
+    {
+      "english": "Just a little taste, for now.",
+      "french": "Juste un petit goût, pour l'instant.",
+      "category": "Purpose",
+      "generated_at": "2026-08-06T04:15:22.147383"
+    },
+    {
+      "english": "This is just for fun, okay?",
+      "french": "Ceci est juste pour le plaisir, d'accord ?",
+      "category": "Purpose",
+      "generated_at": "2026-08-06T04:15:22.147384"
+    },
+    {
+      "english": "We're doing this to learn, remember.",
+      "french": "Nous faisons cela pour apprendre, souviens-toi.",
+      "category": "Purpose",
+      "generated_at": "2026-08-06T04:15:22.147385"
+    },
+    {
+      "english": "It’s just a test, nothing more.",
+      "french": "Ce n'est qu'un test, rien de plus.",
+      "category": "Purpose",
+      "generated_at": "2026-08-06T04:15:22.147386"
+    },
+    {
+      "english": "This is practice, not perfection.",
+      "french": "C'est de la pratique, pas la perfection.",
+      "category": "Purpose",
+      "generated_at": "2026-08-06T04:15:22.147388"
+    },
+    {
+      "english": "Try this, just to see.",
+      "french": "Essaie ceci, juste pour voir.",
+      "category": "Purpose",
+      "generated_at": "2026-08-06T04:15:22.147389"
+    },
+    {
+      "english": "We are doing this, for you.",
+      "french": "Nous faisons cela, pour toi.",
+      "category": "Purpose",
+      "generated_at": "2026-08-06T04:15:22.147390"
+    },
+    {
+      "english": "This is meant, to help you.",
+      "french": "Ceci est censé, t'aider.",
+      "category": "Purpose",
+      "generated_at": "2026-08-06T04:15:22.147391"
+    },
+    {
+      "english": "The goal is, to understand.",
+      "french": "Le but est, de comprendre.",
+      "category": "Purpose",
+      "generated_at": "2026-08-06T04:15:22.147392"
+    },
+    {
+      "english": "This will help, your French grow.",
+      "french": "Cela aidera, ton français à grandir.",
+      "category": "Purpose",
+      "generated_at": "2026-08-06T04:15:22.147393"
+    },
+    {
+      "english": "We do this, for progress.",
+      "french": "Nous faisons cela, pour le progrès.",
+      "category": "Purpose",
+      "generated_at": "2026-08-06T04:15:22.147394"
+    },
+    {
+      "english": "This is just for practice, relax.",
+      "french": "C'est juste pour pratiquer, détends-toi.",
+      "category": "Purpose",
+      "generated_at": "2026-08-06T04:15:22.147395"
+    },
+    {
+      "english": "Your effort counts, always.",
+      "french": "Ton effort compte, toujours.",
+      "category": "Purpose",
+      "generated_at": "2026-08-06T04:15:22.147396"
+    },
+    {
+      "english": "We are doing this, to improve.",
+      "french": "Nous faisons cela, pour nous améliorer.",
+      "category": "Purpose",
+      "generated_at": "2026-08-06T04:15:22.147397"
+    },
+    {
+      "english": "This is a tool, to use.",
+      "french": "C'est un outil, à utiliser.",
+      "category": "Purpose",
+      "generated_at": "2026-08-06T04:15:22.147398"
+    },
+    {
+      "english": "We aim to, make it clear.",
+      "french": "Nous visons à, rendre cela clair.",
+      "category": "Purpose",
+      "generated_at": "2026-08-06T04:15:22.147401"
+    },
+    {
+      "english": "This helps you, speak better.",
+      "french": "Cela t'aide, à mieux parler.",
+      "category": "Purpose",
+      "generated_at": "2026-08-06T04:15:22.147402"
+    },
+    {
+      "english": "It’s for your, own good.",
+      "french": "C'est pour ton, propre bien.",
+      "category": "Purpose",
+      "generated_at": "2026-08-06T04:15:22.147403"
+    },
+    {
+      "english": "This is to, build confidence.",
+      "french": "C'est pour, bâtir la confiance.",
+      "category": "Purpose",
+      "generated_at": "2026-08-06T04:15:22.147404"
+    },
+    {
+      "english": "We are doing this, to guide.",
+      "french": "Nous faisons cela, pour guider.",
+      "category": "Purpose",
+      "generated_at": "2026-08-06T04:15:22.147406"
     }
   ],
-  "last_updated": "2026-08-05T04:12:47.758398"
+  "last_updated": "2026-08-06T04:15:22.147408"
 }
