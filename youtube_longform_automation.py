@@ -36,8 +36,8 @@ for d in [OUTPUT_DIR, IMAGES_DIR, AUDIO_DIR, VIDEO_DIR, HISTORY_DIR, LONGFORM_DI
 VIDEO_WIDTH = 1920
 VIDEO_HEIGHT = 1080
 FPS = 30
-TARGET_DURATION_MINUTES = 5  # Target 5-minute videos (60 phrases)
-TARGET_PHRASES = 60  # Number of phrases to generate
+TARGET_DURATION_MINUTES = 15  # Target ~15-minute videos (~170 phrases)
+TARGET_PHRASES = 170  # Number of phrases to generate
 
 # English category names (for American/European learners)
 CATEGORIES_ENGLISH = [
@@ -924,22 +924,24 @@ def generate_title_description(category_english: str, category_french: str, phra
     """Generate viral YouTube title and description with all phrases - COMBINED in one file"""
     
     # Generate viral title variations
+    duration_label = f"{int(round(duration_minutes))}" if duration_minutes >= 10 else f"{duration_minutes:.0f}"
     titles = [
-        f"Learn French in 10 Minutes | {category_english} Phrases Every Beginner NEEDS to Know! ({category_french})",
-        f"60 French Phrases for {category_english} | Speak French Like a Native! ({category_french})",
-        f"Master French {category_english} | 60 Essential French Phrases with Phonetic | Velocity French",
-        f"French Learning Made Easy | {category_english} Vocabulary | 10 Minute Lesson",
+        f"Learn French in {duration_label} Minutes | {category_english} Phrases Every Beginner NEEDS to Know! ({category_french})",
+        f"{int(round(duration_minutes))} French Phrases for {category_english} | Speak French Like a Native! ({category_french})",
+        f"Master French {category_english} | Essential French Phrases with Phonetic | Velocity French",
+        f"French Learning Made Easy | {category_english} Vocabulary | {duration_label} Minute Lesson",
         f"Speak French Fluently | {category_english} Phrases | English + French + Phonetic",
     ]
 
     # Generate comprehensive description
+    phrase_count = len(phrases)
     description = f"""🇫🇷 Learn French with Velocity French! 🇫🇷
 
-In this video, you'll learn 60 essential French phrases about {category_english} ({category_french}).
+In this video, you'll learn {phrase_count} essential French phrases about {category_english} ({category_french}).
 Perfect for beginners and intermediate learners!
 
 📚 WHAT YOU'LL LEARN:
-• 60 practical {category_english} phrases in French
+• {phrase_count} practical {category_english} phrases in French
 • Correct pronunciation with Phonetic
 • Natural pauses for speaking practice
 • Common expressions used by native speakers
@@ -948,7 +950,7 @@ Perfect for beginners and intermediate learners!
 """
 
     # Add timestamps for each phrase (every 10 phrases grouped)
-    avg_phrase_duration = duration_minutes * 60 / len(phrases)
+    avg_phrase_duration = duration_minutes * 60 / len(phrases) if phrases else 0
     for i in range(0, len(phrases), 10):
         timestamp = int(i * avg_phrase_duration / 60)
         minute = timestamp
@@ -1038,6 +1040,7 @@ Perfect for beginners and intermediate learners!
             "French Phrases",
             "French",
             category_english,
+            f"{category_english} in French",
             "Velocity French",
             "French for Beginners",
             "Speak French",
@@ -1067,6 +1070,8 @@ Perfect for beginners and intermediate learners!
     print(f"\n[metadata] ✓ Generated YouTube upload files")
     print(f"  📄 youtube_upload_info.txt (title + description + tags)")
     print(f"  📄 video_metadata.json")
+
+    return metadata
 
     return metadata
 
@@ -1221,13 +1226,15 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
 
     # Step 6: Generate title and description
     print(f"\n[6/6] Generating YouTube title, description, and metadata...")
-    generate_title_description(
+    seo_meta = generate_title_description(
         category_english,
         CATEGORIES_FRENCH[category_english],
         phrases,
         total_duration / 60,
         str(video_dir)
     )
+    if not isinstance(seo_meta, dict):
+        seo_meta = {}
 
     # Save metadata
     metadata = {
@@ -1243,7 +1250,11 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
         "audio": str(final_audio),
         "thumbnail": str(thumbnail_path),
         "resolution": f"{VIDEO_WIDTH}x{VIDEO_HEIGHT}",
-        "fps": FPS
+        "fps": FPS,
+        "selected_title": seo_meta.get("selected_title", f"Learn French: {category_english}"),
+        "description": seo_meta.get("description", ""),
+        "recommended_titles": seo_meta.get("recommended_titles", []),
+        "tags": seo_meta.get("tags", [])
     }
 
     with open(video_dir / "video_metadata.json", "w", encoding="utf-8") as f:
