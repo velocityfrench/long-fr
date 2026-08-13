@@ -932,6 +932,8 @@ def generate_title_description(category_english: str, category_french: str, phra
         f"French Learning Made Easy | {category_english} Vocabulary | {duration_label} Minute Lesson",
         f"Speak French Fluently | {category_english} Phrases | English + French + Phonetic",
     ]
+    # YouTube title limit is 100 chars - truncate any overlong title safely
+    titles = [t if len(t) <= 100 else (t[:97] + "...") for t in titles]
 
     # Generate comprehensive description
     phrase_count = len(phrases)

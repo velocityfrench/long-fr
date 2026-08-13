@@ -26,6 +26,19 @@ def get_authenticated_service():
     return build("youtube", "v3", credentials=creds)
 
 
+import re as _re
+
+def sanitize_for_youtube(text):
+    """Strip zero-width/control characters and lone surrogates so YouTube
+    never rejects the request body. Keeps real emoji and accented letters."""
+    if not text:
+        return ""
+    text = "".join(c for c in text if not (0x200B <= ord(c) <= 0x200F) and not (0x202A <= ord(c) <= 0x202E))
+    text = _re.sub(r"[\x00-\x1f\x7f\ufeff]", "", text)
+    text = _re.sub(r"\s+", " ", text).strip()
+    return text
+
+
 def compress_thumbnail(img_path, max_size=2097152):
     img = Image.open(img_path)
     thumb_bytes = io.BytesIO()
@@ -180,12 +193,20 @@ def upload_to_youtube():
             print(f"[youtube] Video not found: {video_path}")
             return False
 
-        title = meta["title"]
-        description = meta["description"]
+        title = sanitize_for_youtube(meta["title"])
+        if len(title) > 100:
+            title = title[:97] + "..."
+            print(f"[youtube] Title truncated to {len(title)} chars")
+        description = sanitize_for_youtube(meta["description"])
         if len(description) > 4900:
-            description = description[:4900] + "\n\n#LearnFrench #French #LanguageLearning"
+            # avoid splitting a surrogate pair mid-emoji
+            description = description[:4900]
+            if len(description) % 2 == 1 or (description and 0xD800 <= ord(description[-1]) <= 0xDBFF):
+                description = description[:-1]
+            description += "\n\n#LearnFrench #French #LanguageLearning"
             print(f"[youtube] Description truncated to {len(description)} chars")
-        tags = meta["tags"]
+        tags = [t for t in meta.get("tags", []) if t]
+        tags = [sanitize_for_youtube(t) for t in tags if t]
 
         print(f"[youtube] Title: {title[:80]}...")
         print(f"[youtube] Video: {video_path}")
