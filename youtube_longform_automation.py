@@ -177,17 +177,24 @@ def filter_similar_phrases(phrases, history, similarity_threshold=0.6):
 
 
 def add_phrases_to_history(phrases, category):
-    """Add new phrases to history"""
+    """Add new phrases to history (deduplicated)"""
     history = load_phrase_history()
+    existing = {p.get("english", "").lower().strip() for p in history.get("phrases", [])}
+    added = 0
     for phrase in phrases:
+        key = phrase.get("english", "").lower().strip()
+        if not key or key in existing:
+            continue
+        existing.add(key)
         history["phrases"].append({
             "english": phrase["english"],
             "french": phrase["french"],
             "category": category,
             "generated_at": datetime.now().isoformat()
         })
+        added += 1
     save_phrase_history(history)
-    print(f"[history] Added {len(phrases)} phrases to history (total: {len(history['phrases'])})")
+    print(f"[history] Added {added} unique phrases to history (total: {len(history['phrases'])})")
 
 
 # ============== CONTENT GENERATION ==============
@@ -253,6 +260,12 @@ IMPORTANT RULES FOR NATURAL SPEECH:
 7. Avoid complex grammar - keep it simple and practical
 8. Vary sentence structure for natural flow
 
+CRITICAL UNIQUENESS RULES:
+- Every single phrase MUST be completely different from every other phrase in this response.
+- Do NOT repeat or reword the same idea multiple times.
+- Each phrase must use DIFFERENT words and DIFFERENT sentence structure.
+- Compare all {current_batch_size * 2} phrases against each other before returning them.
+
 For each phrase:
 1. English phrase (with commas for natural pauses)
 2. French translation
@@ -287,8 +300,13 @@ IMPORTANT: Create FRESH, UNIQUE phrases that haven't been used before.{exclusion
 
                 phrases = json.loads(content)
 
-                # Filter by similarity
+                # Filter by similarity against history AND phrases already
+                # collected in THIS run (prevents same-run duplicates that
+                # caused repeating phrases in the video/description)
                 filtered_phrases = filter_similar_phrases(phrases, history)
+                filtered_phrases = filter_similar_phrases(
+                    filtered_phrases, {"phrases": [{"english": p["english"]} for p in all_phrases]},
+                    similarity_threshold=0.7)
 
                 # Filter by length and exact duplicates
                 unique_phrases = []
@@ -944,33 +962,27 @@ Perfect for beginners and intermediate learners!
 
 📚 WHAT YOU'LL LEARN:
 • {phrase_count} practical {category_english} phrases in French
-• Correct pronunciation with Phonetic
+• Correct pronunciation with Phonetic guide
 • Natural pauses for speaking practice
 • Common expressions used by native speakers
 
 ⏱️ VIDEO TIMESTAMPS:
 """
-
     # Add timestamps for each phrase (every 10 phrases grouped)
     avg_phrase_duration = duration_minutes * 60 / len(phrases) if phrases else 0
     for i in range(0, len(phrases), 10):
-        timestamp = int(i * avg_phrase_duration / 60)
-        minute = timestamp
-        second = int((i * avg_phrase_duration) % 60)
+        seconds = int(i * avg_phrase_duration)
+        minute = seconds // 60
+        second = seconds % 60
         end_phrase = min(i + 10, len(phrases))
         description += f"{minute:02d}:{second:02d} Phrases {i+1}-{end_phrase}\n"
 
     description += f"""
-📝 ALL PHRASES IN THIS VIDEO:
+📝 ALL {phrase_count} PHRASES IN THIS VIDEO:
 """
-
-    # Add all phrases
+    # Add all phrases (clean numbered list)
     for i, phrase in enumerate(phrases, 1):
-        description += f"""
-{i}. {phrase['english']}
-    French: {phrase['french']}
-   Phonetic: {phrase['phonetic']}
-"""
+        description += f"\n{i}. {phrase['english']}\n   FR: {phrase['french']}\n   Phonetic: {phrase['phonetic']}"
 
     description += f"""
 🎯 PERFECT FOR:

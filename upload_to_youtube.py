@@ -212,7 +212,11 @@ def upload_to_youtube():
             description = description[:4900]
             if len(description) % 2 == 1 or (description and 0xD800 <= ord(description[-1]) <= 0xDBFF):
                 description = description[:-1]
-            description += "\n\n#LearnFrench #French #LanguageLearning"
+            # cut at a phrase boundary so the list ends cleanly (not mid-phrase)
+            cut = description.rfind("\n\n")
+            if cut > 3000:
+                description = description[:cut]
+            description += "\n\n... and more!\n\n#LearnFrench #French #LanguageLearning"
             print(f"[youtube] Description truncated to {len(description)} chars")
         tags = [t for t in meta.get("tags", []) if t]
         tags = [sanitize_for_youtube(t) for t in tags if t]
