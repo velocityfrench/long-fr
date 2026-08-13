@@ -940,7 +940,7 @@ def extract_video_thumbnail(video_path: str, output_path: str, timestamp_seconds
 
 def generate_title_description(category_english: str, category_french: str, phrases: list, duration_minutes: float, output_dir: str):
     """Generate viral YouTube title and description with all phrases - COMBINED in one file"""
-    
+
     # Generate viral title variations
     duration_label = f"{int(round(duration_minutes))}" if duration_minutes >= 10 else f"{duration_minutes:.0f}"
     titles = [
@@ -975,14 +975,18 @@ Perfect for beginners and intermediate learners!
         minute = seconds // 60
         second = seconds % 60
         end_phrase = min(i + 10, len(phrases))
-        description += f"{minute:02d}:{second:02d} Phrases {i+1}-{end_phrase}\n"
+        description += f"{minute:02d}:{second:02d}  Phrases {i+1}-{end_phrase}\n"
 
     description += f"""
 📝 ALL {phrase_count} PHRASES IN THIS VIDEO:
 """
-    # Add all phrases (clean numbered list)
+    # Add all phrases (clean aligned list)
     for i, phrase in enumerate(phrases, 1):
-        description += f"\n{i}. {phrase['english']}\n   FR: {phrase['french']}\n   Phonetic: {phrase['phonetic']}"
+        description += (
+            f"\n{i}. {phrase['english']}\n"
+            f"    🇫🇷 {phrase['french']}\n"
+            f"    🔤 {phrase['phonetic']}"
+        )
 
     description += f"""
 🎯 PERFECT FOR:
@@ -990,7 +994,6 @@ Perfect for beginners and intermediate learners!
 • Intermediate learners practicing pronunciation
 • Anyone interested in French
 • Language enthusiasts and polyglots
-• Students preparing for DELF exams
 
 💡 TIPS FOR LEARNING:
 1. Repeat each phrase out loud
@@ -1003,21 +1006,8 @@ Perfect for beginners and intermediate learners!
 👍 LIKE this video if you found it helpful!
 💬 COMMENT which phrases you want to learn next!
 
-📱 FOLLOW VELOCITY FRENCH:
-[Add your social media links here]
+#LearnFrench #FrenchPhrases #FrenchLanguage #{category_english.replace(' ', '')} #VelocityFrench #FrenchForBeginners #SpeakFrench #FrenchVocabulary #Phonetic #LanguageLearning
 
-🎵 MUSIC:
-[Add music credits if applicable]
-
-📖 RELATED VIDEOS:
-• French Motivation Phrases
-• French Love Expressions
-• DELF 1 Vocabulary
-• Basic French Greetings
-
-#LearnFrench #FrenchPhrases #FrenchLanguage #{category_english.replace(' ', '')} #VelocityFrench #FrenchForBeginners #SpeakFrench #FrenchVocabulary #Phonetic #LanguageLearning #French101 #FrenchLesson
-
----
 © Velocity French - Making French learning accessible to everyone!
 """
 
@@ -1030,22 +1020,22 @@ Perfect for beginners and intermediate learners!
         f.write("=" * 80 + "\n")
         f.write("YOUTUBE VIDEO UPLOAD INFORMATION\n")
         f.write("=" * 80 + "\n\n")
-        
+
         f.write("📌 RECOMMENDED TITLES (Choose one):\n")
         f.write("-" * 80 + "\n")
         for i, title in enumerate(titles, 1):
             f.write(f"\n{i}. {title}\n")
-        
+
         f.write("\n" + "=" * 80 + "\n")
         f.write("📝 SELECTED TITLE (Recommended):\n")
         f.write("-" * 80 + "\n")
         f.write(f"\n{titles[0]}\n")
-        
+
         f.write("\n" + "=" * 80 + "\n")
         f.write("📄 VIDEO DESCRIPTION:\n")
         f.write("-" * 80 + "\n\n")
         f.write(description)
-        
+
         f.write("\n" + "=" * 80 + "\n")
         f.write("🏷️ VIDEO TAGS (for YouTube):\n")
         f.write("-" * 80 + "\n")
@@ -1053,15 +1043,14 @@ Perfect for beginners and intermediate learners!
             "Learn French",
             "French Phrases",
             "French",
-            category_english,
-            f"{category_english} in French",
+            "{category_english}",
+            "{category_english} in French",
             "Velocity French",
             "French for Beginners",
             "Speak French",
             "French Vocabulary",
             "Phonetic",
             "Language Learning",
-            "French 101",
             "French Lesson"
         ]
         f.write(", ".join(tags) + "\n")
@@ -1081,16 +1070,13 @@ Perfect for beginners and intermediate learners!
     with open(output_dir / "video_metadata.json", "w", encoding="utf-8") as f:
         json.dump(metadata, f, indent=2, ensure_ascii=False)
 
-    print(f"\n[metadata] ✓ Generated YouTube upload files")
-    print(f"  📄 youtube_upload_info.txt (title + description + tags)")
-    print(f"  📄 video_metadata.json")
+    print(f"\n[metadata] \u2713 Generated YouTube upload files")
+    print(f"  \U0001F4C4 youtube_upload_info.txt (title + description + tags)")
+    print(f"  \U0001F4C4 video_metadata.json")
 
     return metadata
 
-    return metadata
 
-
-# ============== VIDEO CREATION WITH TRANSITIONS ==============
 
 def create_video_from_images_audio(image_files: list, audio_files: list, combined_audio: str, output_file: str):
     """Create video from images and audio with parallel clip encoding"""
