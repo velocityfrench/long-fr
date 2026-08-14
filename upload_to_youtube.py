@@ -30,12 +30,13 @@ import re as _re
 
 def sanitize_for_youtube(text):
     """Strip zero-width/control characters and lone surrogates so YouTube
-    never rejects the request body. Keeps real emoji and accented letters."""
+    never rejects the request body. Preserves newlines and real emoji."""
     if not text:
         return ""
     text = "".join(c for c in text if not (0x200B <= ord(c) <= 0x200F) and not (0x202A <= ord(c) <= 0x202E))
-    text = _re.sub(r"[\x00-\x1f\x7f\ufeff]", "", text)
-    text = _re.sub(r"\s+", " ", text).strip()
+    # Strip control chars EXCEPT \n (0x0A) and \r (0x0D) which YouTube needs for formatting
+    text = _re.sub(r"[\x00-\x09\x0b\x0c\x0e-\x1f\x7f\ufeff]", "", text)
+    text = _re.sub(r" +", " ", text).strip()
     return text
 
 
