@@ -15983,7 +15983,235 @@
       "french": "Cœur stable, esprit stable.",
       "category": "Balance",
       "generated_at": "2026-08-14T06:37:42.031933"
+    },
+    {
+      "english": "Share a smile, it's free.",
+      "french": "Partagez un sourire, c'est gratuit.",
+      "category": "Kindness",
+      "generated_at": "2026-08-15T02:15:12.811751"
+    },
+    {
+      "english": "Offer help, when you can.",
+      "french": "Offrez de l'aide, quand vous pouvez.",
+      "category": "Kindness",
+      "generated_at": "2026-08-15T02:15:12.811764"
+    },
+    {
+      "english": "Speak kindly, to everyone.",
+      "french": "Parlez gentiment, à tout le monde.",
+      "category": "Kindness",
+      "generated_at": "2026-08-15T02:15:12.811766"
+    },
+    {
+      "english": "Listen more, talk less.",
+      "french": "Écoutez plus, parlez moins.",
+      "category": "Kindness",
+      "generated_at": "2026-08-15T02:15:12.811768"
+    },
+    {
+      "english": "Forgive quickly, hold no grudges.",
+      "french": "Pardonnez vite, ne gardez pas rancune.",
+      "category": "Kindness",
+      "generated_at": "2026-08-15T02:15:12.811770"
+    },
+    {
+      "english": "A small gesture, means much.",
+      "french": "Un petit geste, signifie beaucoup.",
+      "category": "Kindness",
+      "generated_at": "2026-08-15T02:15:12.811771"
+    },
+    {
+      "english": "Encourage others, genuinely.",
+      "french": "Encouragez les autres, sincèrement.",
+      "category": "Kindness",
+      "generated_at": "2026-08-15T02:15:12.811773"
+    },
+    {
+      "english": "Assume good intent, always.",
+      "french": "Supposez une bonne intention, toujours.",
+      "category": "Kindness",
+      "generated_at": "2026-08-15T02:15:12.811777"
+    },
+    {
+      "english": "Respect differences, with grace.",
+      "french": "Respectez les différences, avec grâce.",
+      "category": "Kindness",
+      "generated_at": "2026-08-15T02:15:12.811779"
+    },
+    {
+      "english": "Offer a compliment, often.",
+      "french": "Offrez un compliment, souvent.",
+      "category": "Kindness",
+      "generated_at": "2026-08-15T02:15:12.811781"
+    },
+    {
+      "english": "Spread positivity, like sunshine.",
+      "french": "Répandez la positivité, comme le soleil.",
+      "category": "Kindness",
+      "generated_at": "2026-08-15T02:15:12.811783"
+    },
+    {
+      "english": "Cheer someone up, today.",
+      "french": "Réconfortez quelqu'un, aujourd'hui.",
+      "category": "Kindness",
+      "generated_at": "2026-08-15T02:15:12.811784"
+    },
+    {
+      "english": "Show gratitude, daily.",
+      "french": "Montrez de la gratitude, quotidiennement.",
+      "category": "Kindness",
+      "generated_at": "2026-08-15T02:15:12.811786"
+    },
+    {
+      "english": "Be understanding, and kind.",
+      "french": "Soyez compréhensif, et gentil.",
+      "category": "Kindness",
+      "generated_at": "2026-08-15T02:15:12.811787"
+    },
+    {
+      "english": "Offer comfort, when needed.",
+      "french": "Offrez du réconfort, quand c'est nécessaire.",
+      "category": "Kindness",
+      "generated_at": "2026-08-15T02:15:12.811788"
+    },
+    {
+      "english": "Practice empathy, first.",
+      "french": "Pratiquez l'empathie, d'abord.",
+      "category": "Kindness",
+      "generated_at": "2026-08-15T02:15:12.811790"
+    },
+    {
+      "english": "Celebrate small wins, together.",
+      "french": "Célébrez les petites victoires, ensemble.",
+      "category": "Kindness",
+      "generated_at": "2026-08-15T02:15:12.811791"
+    },
+    {
+      "english": "Be a good listener, really.",
+      "french": "Soyez une bonne oreille, vraiment.",
+      "category": "Kindness",
+      "generated_at": "2026-08-15T02:15:12.811792"
+    },
+    {
+      "english": "Choose kindness, over anger.",
+      "french": "Choisissez la gentillesse, plutôt que la colère.",
+      "category": "Kindness",
+      "generated_at": "2026-08-15T02:15:12.811793"
+    },
+    {
+      "english": "Share your knowledge, freely.",
+      "french": "Partagez votre savoir, librement.",
+      "category": "Kindness",
+      "generated_at": "2026-08-15T02:15:12.811795"
+    },
+    {
+      "english": "Offer a helping hand, anytime.",
+      "french": "Offrez un coup de main, à tout moment.",
+      "category": "Kindness",
+      "generated_at": "2026-08-15T02:15:12.811797"
+    },
+    {
+      "english": "Believe in good, people.",
+      "french": "Croyez au bien, des gens.",
+      "category": "Kindness",
+      "generated_at": "2026-08-15T02:15:12.811798"
+    },
+    {
+      "english": "Express appreciation, clearly.",
+      "french": "Exprimez votre appréciation, clairement.",
+      "category": "Kindness",
+      "generated_at": "2026-08-15T02:15:12.811799"
+    },
+    {
+      "english": "Make someone feel valued.",
+      "french": "Faites sentir quelqu'un, apprécié.",
+      "category": "Kindness",
+      "generated_at": "2026-08-15T02:15:12.811801"
+    },
+    {
+      "english": "Offer support, without judgment.",
+      "french": "Offrez du soutien, sans jugement.",
+      "category": "Kindness",
+      "generated_at": "2026-08-15T02:15:12.811802"
+    },
+    {
+      "english": "Be a force, for good.",
+      "french": "Soyez une force, pour le bien.",
+      "category": "Kindness",
+      "generated_at": "2026-08-15T02:15:12.811803"
+    },
+    {
+      "english": "Give freely, expect nothing.",
+      "french": "Donnez librement, n'attendez rien.",
+      "category": "Kindness",
+      "generated_at": "2026-08-15T02:15:12.811804"
+    },
+    {
+      "english": "Spread joy, everywhere you go.",
+      "french": "Répandez la joie, partout où vous allez.",
+      "category": "Kindness",
+      "generated_at": "2026-08-15T02:15:12.811806"
+    },
+    {
+      "english": "Show compassion, often.",
+      "french": "Faites preuve de compassion, souvent.",
+      "category": "Kindness",
+      "generated_at": "2026-08-15T02:15:12.811819"
+    },
+    {
+      "english": "Be kind, in your actions.",
+      "french": "Soyez gentil, dans vos actions.",
+      "category": "Kindness",
+      "generated_at": "2026-08-15T02:15:12.811820"
+    },
+    {
+      "english": "Help build bridges, not walls.",
+      "french": "Aidez à bâtir des ponts, pas des murs.",
+      "category": "Kindness",
+      "generated_at": "2026-08-15T02:15:12.811822"
+    },
+    {
+      "english": "Leave things better, than found.",
+      "french": "Laissez les choses meilleures, qu'à votre arrivée.",
+      "category": "Kindness",
+      "generated_at": "2026-08-15T02:15:12.811823"
+    },
+    {
+      "english": "Inspire others, by example.",
+      "french": "Inspirez les autres, par l'exemple.",
+      "category": "Kindness",
+      "generated_at": "2026-08-15T02:15:12.811824"
+    },
+    {
+      "english": "Offer a warm welcome, always.",
+      "french": "Offrez un accueil chaleureux, toujours.",
+      "category": "Kindness",
+      "generated_at": "2026-08-15T02:15:12.811825"
+    },
+    {
+      "english": "Listen without interruption.",
+      "french": "Écoutez sans interruption.",
+      "category": "Kindness",
+      "generated_at": "2026-08-15T02:15:12.811827"
+    },
+    {
+      "english": "Choose understanding, patiently.",
+      "french": "Choisissez la compréhension, patiemment.",
+      "category": "Kindness",
+      "generated_at": "2026-08-15T02:15:12.811828"
+    },
+    {
+      "english": "Be a beacon, of hope.",
+      "french": "Soyez un phare, d'espoir.",
+      "category": "Kindness",
+      "generated_at": "2026-08-15T02:15:12.811829"
+    },
+    {
+      "english": "Extend grace, to everyone.",
+      "french": "Accordez de la grâce, à tous.",
+      "category": "Kindness",
+      "generated_at": "2026-08-15T02:15:12.811830"
     }
   ],
-  "last_updated": "2026-08-14T06:37:42.031964"
+  "last_updated": "2026-08-15T02:15:12.811866"
 }
