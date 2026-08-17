@@ -53,7 +53,7 @@ def compress_thumbnail(img_path, max_size=2097152):
     return thumb_bytes
 
 
-def ensure_playlist(youtube, title="Velocity French - French Phrases", description="All French phrases videos in one playlist. Learn French with Velocity French!"):
+def ensure_playlist(youtube, title="Learn French Phrases for Beginners | Velocity French", description="All French phrases videos in one playlist. Learn French with Velocity French!"):
     """Find an existing playlist by title or create a new one. Returns playlist_id."""
     try:
         req = youtube.playlists().list(
