@@ -16721,7 +16721,223 @@
       "french": "Célèbre les petites victoires.",
       "category": "Joy",
       "generated_at": "2026-08-17T02:20:54.855004"
+    },
+    {
+      "english": "Explore a hidden path.",
+      "french": "Explore un chemin caché.",
+      "category": "Purpose",
+      "generated_at": "2026-08-18T02:17:18.114038"
+    },
+    {
+      "english": "Taste a new spice.",
+      "french": "Goûte une nouvelle épice.",
+      "category": "Purpose",
+      "generated_at": "2026-08-18T02:17:18.114049"
+    },
+    {
+      "english": "Plant a tiny seed.",
+      "french": "Plante une petite graine.",
+      "category": "Purpose",
+      "generated_at": "2026-08-18T02:17:18.114051"
+    },
+    {
+      "english": "Watch stars appear.",
+      "french": "Regarde les étoiles apparaître.",
+      "category": "Purpose",
+      "generated_at": "2026-08-18T02:17:18.114053"
+    },
+    {
+      "english": "Learn a short poem.",
+      "french": "Apprends un court poème.",
+      "category": "Purpose",
+      "generated_at": "2026-08-18T02:17:18.114055"
+    },
+    {
+      "english": "Sketch a quick scene.",
+      "french": "Esquisse une scène rapide.",
+      "category": "Purpose",
+      "generated_at": "2026-08-18T02:17:18.114056"
+    },
+    {
+      "english": "Breathe the fresh air.",
+      "french": "Respire l'air frais.",
+      "category": "Purpose",
+      "generated_at": "2026-08-18T02:17:18.114058"
+    },
+    {
+      "english": "Listen to the rain.",
+      "french": "Écoute la pluie.",
+      "category": "Purpose",
+      "generated_at": "2026-08-18T02:17:18.114061"
+    },
+    {
+      "english": "Tell a silly joke.",
+      "french": "Raconte une blague idiote.",
+      "category": "Purpose",
+      "generated_at": "2026-08-18T02:17:18.114063"
+    },
+    {
+      "english": "Draw a simple shape.",
+      "french": "Dessine une forme simple.",
+      "category": "Purpose",
+      "generated_at": "2026-08-18T02:17:18.114065"
+    },
+    {
+      "english": "Find a smooth stone.",
+      "french": "Trouve une pierre lisse.",
+      "category": "Purpose",
+      "generated_at": "2026-08-18T02:17:18.114066"
+    },
+    {
+      "english": "Build a small structure.",
+      "french": "Construis une petite structure.",
+      "category": "Purpose",
+      "generated_at": "2026-08-18T02:17:18.114068"
+    },
+    {
+      "english": "Observe a busy ant.",
+      "french": "Observe une fourmi active.",
+      "category": "Purpose",
+      "generated_at": "2026-08-18T02:17:18.114069"
+    },
+    {
+      "english": "Skip a happy beat.",
+      "french": "Saute un rythme joyeux.",
+      "category": "Purpose",
+      "generated_at": "2026-08-18T02:17:18.114071"
+    },
+    {
+      "english": "Gather fallen leaves.",
+      "french": "Rassemble des feuilles tombées.",
+      "category": "Purpose",
+      "generated_at": "2026-08-18T02:17:18.114072"
+    },
+    {
+      "english": "Paint with bright colors.",
+      "french": "Peins avec des couleurs vives.",
+      "category": "Purpose",
+      "generated_at": "2026-08-18T02:17:18.114073"
+    },
+    {
+      "english": "Share a warm smile.",
+      "french": "Partage un sourire chaleureux.",
+      "category": "Purpose",
+      "generated_at": "2026-08-18T02:17:18.114075"
+    },
+    {
+      "english": "Bake simple bread.",
+      "french": "Cuisine du pain simple.",
+      "category": "Purpose",
+      "generated_at": "2026-08-18T02:17:18.114076"
+    },
+    {
+      "english": "Watch birds fly high.",
+      "french": "Regarde les oiseaux voler haut.",
+      "category": "Purpose",
+      "generated_at": "2026-08-18T02:17:18.114077"
+    },
+    {
+      "english": "Listen to bird songs.",
+      "french": "Écoute les chants d'oiseaux.",
+      "category": "Purpose",
+      "generated_at": "2026-08-18T02:17:18.114079"
+    },
+    {
+      "english": "Run with the wind.",
+      "french": "Cours avec le vent.",
+      "category": "Purpose",
+      "generated_at": "2026-08-18T02:17:18.114080"
+    },
+    {
+      "english": "Laugh with good friends.",
+      "french": "Ris avec de bons amis.",
+      "category": "Purpose",
+      "generated_at": "2026-08-18T02:17:18.114081"
+    },
+    {
+      "english": "Cuddle a soft blanket.",
+      "french": "Caresse une couverture douce.",
+      "category": "Purpose",
+      "generated_at": "2026-08-18T02:17:18.114083"
+    },
+    {
+      "english": "Smell blooming flowers.",
+      "french": "Sens les fleurs qui éclosent.",
+      "category": "Purpose",
+      "generated_at": "2026-08-18T02:17:18.114084"
+    },
+    {
+      "english": "Watch the fireflies.",
+      "french": "Observe les lucioles.",
+      "category": "Purpose",
+      "generated_at": "2026-08-18T02:17:18.114085"
+    },
+    {
+      "english": "Sing a happy song.",
+      "french": "Chante une chanson joyeuse.",
+      "category": "Purpose",
+      "generated_at": "2026-08-18T02:17:18.114086"
+    },
+    {
+      "english": "Picnic under a tree.",
+      "french": "Pique-nique sous un arbre.",
+      "category": "Purpose",
+      "generated_at": "2026-08-18T02:17:18.114088"
+    },
+    {
+      "english": "Play with a pet.",
+      "french": "Joue avec un animal.",
+      "category": "Purpose",
+      "generated_at": "2026-08-18T02:17:18.114089"
+    },
+    {
+      "english": "Discover new tastes.",
+      "french": "Découvre de nouveaux goûts.",
+      "category": "Purpose",
+      "generated_at": "2026-08-18T02:17:18.114090"
+    },
+    {
+      "english": "Admire a beautiful sky.",
+      "french": "Admire un beau ciel.",
+      "category": "Purpose",
+      "generated_at": "2026-08-18T02:17:18.114091"
+    },
+    {
+      "english": "Write a kind word.",
+      "french": "Écris un mot gentil.",
+      "category": "Purpose",
+      "generated_at": "2026-08-18T02:17:18.114093"
+    },
+    {
+      "english": "Chase a drifting leaf.",
+      "french": "Poursuis une feuille à la dérive.",
+      "category": "Purpose",
+      "generated_at": "2026-08-18T02:17:18.114094"
+    },
+    {
+      "english": "Build a little hut.",
+      "french": "Construis une petite cabane.",
+      "category": "Purpose",
+      "generated_at": "2026-08-18T02:17:18.114095"
+    },
+    {
+      "english": "Doodle a flower.",
+      "french": "Gribouille une fleur.",
+      "category": "Purpose",
+      "generated_at": "2026-08-18T02:17:18.114097"
+    },
+    {
+      "english": "Jump with pure joy.",
+      "french": "Saute de pure joie.",
+      "category": "Purpose",
+      "generated_at": "2026-08-18T02:17:18.114098"
+    },
+    {
+      "english": "Whirl with happy feet.",
+      "french": " Tourbillonne avec des pieds joyeux.",
+      "category": "Purpose",
+      "generated_at": "2026-08-18T02:17:18.114099"
     }
   ],
-  "last_updated": "2026-08-17T02:20:54.855037"
+  "last_updated": "2026-08-18T02:17:18.114129"
 }
