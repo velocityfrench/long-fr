@@ -17171,7 +17171,235 @@
       "french": "Écoute les murmures, sons doux.",
       "category": "Mindfulness",
       "generated_at": "2026-08-19T02:20:51.970894"
+    },
+    {
+      "english": "Share your joy, a happy spark.",
+      "french": "Partage ta joie, une étincelle joyeuse.",
+      "category": "Kindness",
+      "generated_at": "2026-08-20T02:18:30.423432"
+    },
+    {
+      "english": "Offer a smile, it costs nothing.",
+      "french": "Offre un sourire, ça ne coûte rien.",
+      "category": "Kindness",
+      "generated_at": "2026-08-20T02:18:30.423443"
+    },
+    {
+      "english": "Help a stranger, a good deed.",
+      "french": "Aide un inconnu, un bon geste.",
+      "category": "Kindness",
+      "generated_at": "2026-08-20T02:18:30.423445"
+    },
+    {
+      "english": "Be patient, things will improve.",
+      "french": "Sois patient, les choses s'amélioreront.",
+      "category": "Kindness",
+      "generated_at": "2026-08-20T02:18:30.423447"
+    },
+    {
+      "english": "Forgive easily, lighten your load.",
+      "french": "Pardonne facilement, allège ton fardeau.",
+      "category": "Kindness",
+      "generated_at": "2026-08-20T02:18:30.423449"
+    },
+    {
+      "english": "Give a compliment, make them shine.",
+      "french": "Donne un compliment, fais-les briller.",
+      "category": "Kindness",
+      "generated_at": "2026-08-20T02:18:30.423451"
+    },
+    {
+      "english": "Express gratitude, say thanks.",
+      "french": "Exprime ta gratitude, dis merci.",
+      "category": "Kindness",
+      "generated_at": "2026-08-20T02:18:30.423453"
+    },
+    {
+      "english": "Offer assistance, lend a hand.",
+      "french": "Propose ton aide, tends une main.",
+      "category": "Kindness",
+      "generated_at": "2026-08-20T02:18:30.423456"
+    },
+    {
+      "english": "Be understanding, show empathy.",
+      "french": "Sois compréhensif, montre de l'empathie.",
+      "category": "Kindness",
+      "generated_at": "2026-08-20T02:18:30.423458"
+    },
+    {
+      "english": "Share a kind word, lift spirits.",
+      "french": "Partage un mot gentil, élève les esprits.",
+      "category": "Kindness",
+      "generated_at": "2026-08-20T02:18:30.423460"
+    },
+    {
+      "english": "Let go grudges, find peace.",
+      "french": "Lâche les rancœurs, trouve la paix.",
+      "category": "Kindness",
+      "generated_at": "2026-08-20T02:18:30.423461"
+    },
+    {
+      "english": "Offer encouragement, build confidence.",
+      "french": "Donne des encouragements, bâtis la confiance.",
+      "category": "Kindness",
+      "generated_at": "2026-08-20T02:18:30.423463"
+    },
+    {
+      "english": "Show appreciation, value others.",
+      "french": "Montre ton appréciation, valorise les autres.",
+      "category": "Kindness",
+      "generated_at": "2026-08-20T02:18:30.423465"
+    },
+    {
+      "english": "Be supportive, stand by them.",
+      "french": "Sois solidaire, reste à leurs côtés.",
+      "category": "Kindness",
+      "generated_at": "2026-08-20T02:18:30.423466"
+    },
+    {
+      "english": "Send a nice message, brighten their day.",
+      "french": "Envoie un beau message, illumine leur journée.",
+      "category": "Kindness",
+      "generated_at": "2026-08-20T02:18:30.423468"
+    },
+    {
+      "english": "Respect differences, embrace diversity.",
+      "french": "Respecte les différences, embrasse la diversité.",
+      "category": "Kindness",
+      "generated_at": "2026-08-20T02:18:30.423469"
+    },
+    {
+      "english": "Offer comfort, soothe distress.",
+      "french": "Offre du réconfort, apaise la détresse.",
+      "category": "Kindness",
+      "generated_at": "2026-08-20T02:18:30.423471"
+    },
+    {
+      "english": "Be generous, share what you have.",
+      "french": "Sois généreux, partage ce que tu as.",
+      "category": "Kindness",
+      "generated_at": "2026-08-20T02:18:30.423472"
+    },
+    {
+      "english": "Say something positive, inspire hope.",
+      "french": "Dis quelque chose de positif, inspire l'espoir.",
+      "category": "Kindness",
+      "generated_at": "2026-08-20T02:18:30.423532"
+    },
+    {
+      "english": "Act with compassion, feel their pain.",
+      "french": "Agis avec compassion, ressens leur douleur.",
+      "category": "Kindness",
+      "generated_at": "2026-08-20T02:18:30.423534"
+    },
+    {
+      "english": "Offer forgiveness, a precious gift.",
+      "french": "Offre le pardon, un cadeau précieux.",
+      "category": "Kindness",
+      "generated_at": "2026-08-20T02:18:30.423535"
+    },
+    {
+      "english": "Be kind to yourself, self-care.",
+      "french": "Sois gentil avec toi-même, prends soin de toi.",
+      "category": "Kindness",
+      "generated_at": "2026-08-20T02:18:30.423537"
+    },
+    {
+      "english": "Show consideration, think of others.",
+      "french": "Fais preuve de considération, pense aux autres.",
+      "category": "Kindness",
+      "generated_at": "2026-08-20T02:18:30.423538"
+    },
+    {
+      "english": "Share your talents, contribute yours.",
+      "french": "Partage tes talents, contribue avec les tiens.",
+      "category": "Kindness",
+      "generated_at": "2026-08-20T02:18:30.423540"
+    },
+    {
+      "english": "Offer a listening ear, hear their story.",
+      "french": "Offre une oreille attentive, écoute leur histoire.",
+      "category": "Kindness",
+      "generated_at": "2026-08-20T02:18:30.423541"
+    },
+    {
+      "english": "Be thoughtful, a kind gesture.",
+      "french": "Sois prévenant, un geste aimable.",
+      "category": "Kindness",
+      "generated_at": "2026-08-20T02:18:30.423543"
+    },
+    {
+      "english": "Express goodwill, a friendly spirit.",
+      "french": "Exprime de la bienveillance, un esprit amical.",
+      "category": "Kindness",
+      "generated_at": "2026-08-20T02:18:30.423544"
+    },
+    {
+      "english": "Practice empathy, feel for them.",
+      "french": "Pratique l'empathie, ressens pour eux.",
+      "category": "Kindness",
+      "generated_at": "2026-08-20T02:18:30.423545"
+    },
+    {
+      "english": "Give encouragement, build up others.",
+      "french": "Donne de l'encouragement, élève les autres.",
+      "category": "Kindness",
+      "generated_at": "2026-08-20T02:18:30.423547"
+    },
+    {
+      "english": "Be forgiving, let go anger.",
+      "french": "Sois indulgent, lâche la colère.",
+      "category": "Kindness",
+      "generated_at": "2026-08-20T02:18:30.423548"
+    },
+    {
+      "english": "Share a moment, connect deeply.",
+      "french": "Partage un moment, connecte-toi profondément.",
+      "category": "Kindness",
+      "generated_at": "2026-08-20T02:18:30.423549"
+    },
+    {
+      "english": "Offer a helping hand, ease burdens.",
+      "french": "Offre ta main aidante, allège les fardeaux.",
+      "category": "Kindness",
+      "generated_at": "2026-08-20T02:18:30.423550"
+    },
+    {
+      "english": "Be considerate, show respect.",
+      "french": "Sois attentionné, montre du respect.",
+      "category": "Kindness",
+      "generated_at": "2026-08-20T02:18:30.423552"
+    },
+    {
+      "english": "Extend kindness, a warm gesture.",
+      "french": "Étends ta gentillesse, un geste chaleureux.",
+      "category": "Kindness",
+      "generated_at": "2026-08-20T02:18:30.423553"
+    },
+    {
+      "english": "Say something nice, spread positivity.",
+      "french": "Dis quelque chose de sympa, diffuse le positif.",
+      "category": "Kindness",
+      "generated_at": "2026-08-20T02:18:30.423554"
+    },
+    {
+      "english": "Offer support, be a good friend.",
+      "french": "Offre ton soutien, sois un bon ami.",
+      "category": "Kindness",
+      "generated_at": "2026-08-20T02:18:30.423555"
+    },
+    {
+      "english": "Show empathy, understand feelings.",
+      "french": "Montre de l'empathie, comprends les émotions.",
+      "category": "Kindness",
+      "generated_at": "2026-08-20T02:18:30.423557"
+    },
+    {
+      "english": "Give freely, share your blessings.",
+      "french": "Donne généreusement, partage tes bénédictions.",
+      "category": "Kindness",
+      "generated_at": "2026-08-20T02:18:30.423558"
     }
   ],
-  "last_updated": "2026-08-19T02:20:51.970921"
+  "last_updated": "2026-08-20T02:18:30.423587"
 }
