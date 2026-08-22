@@ -12,17 +12,17 @@ on:
         required: false
         default: '0'
       lang_name:
-        description: 'Language name (e.g. Japanese)'
+        description: 'Language name (e.g. French)'
         required: false
-        default: 'Japanese'
+        default: 'French'
       lang_folder:
-        description: 'Language folder/keyword (e.g. japanese)'
+        description: 'Language folder/keyword (e.g. french)'
         required: false
-        default: 'japanese'
+        default: 'french'
       flag:
-        description: 'Flag emoji (e.g. 🇯🇵)'
+        description: 'Flag emoji (e.g. 🇫🇷)'
         required: false
-        default: '🇯🇵'
+        default: '🇫🇷'
 
 permissions:
   contents: write
