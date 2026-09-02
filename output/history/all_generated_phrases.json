@@ -19655,7 +19655,217 @@
       "french": "Le français déverrouillé, pour toi.",
       "category": "Confidence",
       "generated_at": "2026-09-01T06:07:12.643481"
+    },
+    {
+      "english": "Paris is calling, answer it.",
+      "french": "Paris vous appelle, répondez.",
+      "category": "Purpose",
+      "generated_at": "2026-09-02T05:32:39.881711"
+    },
+    {
+      "english": "Taste France, with your words.",
+      "french": "Goûtez la France, avec vos mots.",
+      "category": "Purpose",
+      "generated_at": "2026-09-02T05:32:39.881722"
+    },
+    {
+      "english": "Ask directions, with a smile.",
+      "french": "Demandez votre chemin, avec un sourire.",
+      "category": "Purpose",
+      "generated_at": "2026-09-02T05:32:39.881724"
+    },
+    {
+      "english": "Understand menus, with ease.",
+      "french": "Comprenez les menus, facilement.",
+      "category": "Purpose",
+      "generated_at": "2026-09-02T05:32:39.881726"
+    },
+    {
+      "english": "Navigate train stations, confidently.",
+      "french": "Naviguez les gares, en toute confiance.",
+      "category": "Purpose",
+      "generated_at": "2026-09-02T05:32:39.881728"
+    },
+    {
+      "english": "Buy a baguette, no problem.",
+      "french": "Achetez une baguette, sans problème.",
+      "category": "Purpose",
+      "generated_at": "2026-09-02T05:32:39.881729"
+    },
+    {
+      "english": "Greet shopkeepers, warmly.",
+      "french": "Saluez les commerçants, chaleureusement.",
+      "category": "Purpose",
+      "generated_at": "2026-09-02T05:32:39.881731"
+    },
+    {
+      "english": "Enjoy museums, truly.",
+      "french": "Appréciez les musées, vraiment.",
+      "category": "Purpose",
+      "generated_at": "2026-09-02T05:32:39.881735"
+    },
+    {
+      "english": "Make a friend, easily.",
+      "french": "Faites-vous un ami, aisément.",
+      "category": "Purpose",
+      "generated_at": "2026-09-02T05:32:39.881737"
+    },
+    {
+      "english": "Explore villages, slowly.",
+      "french": "Explorez les villages, doucement.",
+      "category": "Purpose",
+      "generated_at": "2026-09-02T05:32:39.881739"
+    },
+    {
+      "english": "Read street signs, clearly.",
+      "french": "Lisez les panneaux, distinctement.",
+      "category": "Purpose",
+      "generated_at": "2026-09-02T05:32:39.881740"
+    },
+    {
+      "english": "Book a hotel, simply.",
+      "french": "Réservez un hôtel, simplement.",
+      "category": "Purpose",
+      "generated_at": "2026-09-02T05:32:39.881742"
+    },
+    {
+      "english": "Visit markets, vibrant.",
+      "french": "Visitez les marchés, vibrants.",
+      "category": "Purpose",
+      "generated_at": "2026-09-02T05:32:39.881743"
+    },
+    {
+      "english": "Understand local jokes, a bit.",
+      "french": "Comprenez l'humour local, un peu.",
+      "category": "Purpose",
+      "generated_at": "2026-09-02T05:32:39.881745"
+    },
+    {
+      "english": "Buy souvenirs, with joy.",
+      "french": "Achetez des souvenirs, avec joie.",
+      "category": "Purpose",
+      "generated_at": "2026-09-02T05:32:39.881747"
+    },
+    {
+      "english": "Ask for the bill, politely.",
+      "french": "Demandez l'addition, poliment.",
+      "category": "Purpose",
+      "generated_at": "2026-09-02T05:32:39.881748"
+    },
+    {
+      "english": "Enjoy French music, openly.",
+      "french": "Appréciez la musique française, ouvertement.",
+      "category": "Purpose",
+      "generated_at": "2026-09-02T05:32:39.881749"
+    },
+    {
+      "english": "Learn one new word, daily.",
+      "french": "Apprenez un mot nouveau, chaque jour.",
+      "category": "Purpose",
+      "generated_at": "2026-09-02T05:32:39.881751"
+    },
+    {
+      "english": "Say 'thank you', always.",
+      "french": "Dites 'merci', toujours.",
+      "category": "Purpose",
+      "generated_at": "2026-09-02T05:32:39.881752"
+    },
+    {
+      "english": "Practice pronunciation, often.",
+      "french": "Pratiquez la prononciation, souvent.",
+      "category": "Purpose",
+      "generated_at": "2026-09-02T05:32:39.881753"
+    },
+    {
+      "english": "Listen to French radio, actively.",
+      "french": "Écoutez la radio française, activement.",
+      "category": "Purpose",
+      "generated_at": "2026-09-02T05:32:39.881754"
+    },
+    {
+      "english": "Watch French films, without subs.",
+      "french": "Regardez des films français, sans sous-titres.",
+      "category": "Purpose",
+      "generated_at": "2026-09-02T05:32:39.881756"
+    },
+    {
+      "english": "Sing French songs, out loud.",
+      "french": "Chantez des chansons françaises, à voix haute.",
+      "category": "Purpose",
+      "generated_at": "2026-09-02T05:32:39.881757"
+    },
+    {
+      "english": "Write a postcard, in French.",
+      "french": "Écrivez une carte postale, en français.",
+      "category": "Purpose",
+      "generated_at": "2026-09-02T05:32:39.881758"
+    },
+    {
+      "english": "Travel light, speak French.",
+      "french": "Voyagez léger, parlez français.",
+      "category": "Purpose",
+      "generated_at": "2026-09-02T05:32:39.881760"
+    },
+    {
+      "english": "Try speaking, even imperfectly.",
+      "french": "Essayez de parler, même imparfaitement.",
+      "category": "Purpose",
+      "generated_at": "2026-09-02T05:32:39.881761"
+    },
+    {
+      "english": "Ask for recommendations, kindly.",
+      "french": "Demandez des recommandations, gentiment.",
+      "category": "Purpose",
+      "generated_at": "2026-09-02T05:32:39.881762"
+    },
+    {
+      "english": "Share your opinions, in French.",
+      "french": "Partagez vos opinions, en français.",
+      "category": "Purpose",
+      "generated_at": "2026-09-02T05:32:39.881763"
+    },
+    {
+      "english": "Understand idioms, slowly.",
+      "french": "Comprenez les expressions, petit à petit.",
+      "category": "Purpose",
+      "generated_at": "2026-09-02T05:32:39.881764"
+    },
+    {
+      "english": "Order a glass of wine, relax.",
+      "french": "Commandez un verre de vin, détendez-vous.",
+      "category": "Purpose",
+      "generated_at": "2026-09-02T05:32:39.881766"
+    },
+    {
+      "english": "Describe your day, simply.",
+      "french": "Décrivez votre journée, simplement.",
+      "category": "Purpose",
+      "generated_at": "2026-09-02T05:32:39.881767"
+    },
+    {
+      "english": "Tell a short story, in French.",
+      "french": "Racontez une petite histoire, en français.",
+      "category": "Purpose",
+      "generated_at": "2026-09-02T05:32:39.881768"
+    },
+    {
+      "english": "Express gratitude, sincerely.",
+      "french": "Exprimez votre gratitude, sincèrement.",
+      "category": "Purpose",
+      "generated_at": "2026-09-02T05:32:39.881770"
+    },
+    {
+      "english": "Learn common phrases, by heart.",
+      "french": "Apprenez les phrases courantes, par cœur.",
+      "category": "Purpose",
+      "generated_at": "2026-09-02T05:32:39.881771"
+    },
+    {
+      "english": "Ask 'how are you?', often.",
+      "french": "Demandez 'ça va?', souvent.",
+      "category": "Purpose",
+      "generated_at": "2026-09-02T05:32:39.881772"
     }
   ],
-  "last_updated": "2026-09-01T06:07:12.643513"
+  "last_updated": "2026-09-02T05:32:39.881806"
 }
