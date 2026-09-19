@@ -22643,7 +22643,235 @@
       "french": "Profitez de l'éclat pur, rayonnez.",
       "category": "Joy",
       "generated_at": "2026-09-18T05:38:05.760267"
+    },
+    {
+      "english": "Create, then refine.",
+      "french": "Créez, puis peaufinez.",
+      "category": "Creativity",
+      "generated_at": "2026-09-19T05:33:44.405016"
+    },
+    {
+      "english": "Build, then improve.",
+      "french": "Construisez, puis améliorez.",
+      "category": "Creativity",
+      "generated_at": "2026-09-19T05:33:44.405029"
+    },
+    {
+      "english": "Think outside, then inside.",
+      "french": "Pensez dehors, puis dedans.",
+      "category": "Creativity",
+      "generated_at": "2026-09-19T05:33:44.405032"
+    },
+    {
+      "english": "Innovate, then adapt.",
+      "french": "Innovez, puis adaptez-vous.",
+      "category": "Creativity",
+      "generated_at": "2026-09-19T05:33:44.405034"
+    },
+    {
+      "english": "Imagine, then execute.",
+      "french": "Imaginez, puis exécutez.",
+      "category": "Creativity",
+      "generated_at": "2026-09-19T05:33:44.405036"
+    },
+    {
+      "english": "Sketch, then sculpt.",
+      "french": "Esquissez, puis sculptez.",
+      "category": "Creativity",
+      "generated_at": "2026-09-19T05:33:44.405037"
+    },
+    {
+      "english": "Invent, then share.",
+      "french": "Inventez, puis partagez.",
+      "category": "Creativity",
+      "generated_at": "2026-09-19T05:33:44.405039"
+    },
+    {
+      "english": "Design, then develop.",
+      "french": "Concevez, puis développez.",
+      "category": "Creativity",
+      "generated_at": "2026-09-19T05:33:44.405042"
+    },
+    {
+      "english": "Explore, then express.",
+      "french": "Explorez, puis exprimez.",
+      "category": "Creativity",
+      "generated_at": "2026-09-19T05:33:44.405045"
+    },
+    {
+      "english": "Brainstorm, then build.",
+      "french": "Rassemblez des idées, puis construisez.",
+      "category": "Creativity",
+      "generated_at": "2026-09-19T05:33:44.405046"
+    },
+    {
+      "english": "Formulate, then finalize.",
+      "french": "Formulez, puis finalisez.",
+      "category": "Creativity",
+      "generated_at": "2026-09-19T05:33:44.405048"
+    },
+    {
+      "english": "Draft, then deliver.",
+      "french": "Rédigez, puis livrez.",
+      "category": "Creativity",
+      "generated_at": "2026-09-19T05:33:44.405050"
+    },
+    {
+      "english": "Sketch ideas, then sketch details.",
+      "french": "Esquissez des idées, puis des détails.",
+      "category": "Creativity",
+      "generated_at": "2026-09-19T05:33:44.405051"
+    },
+    {
+      "english": "Visualize, then validate.",
+      "french": "Visualisez, puis validez.",
+      "category": "Creativity",
+      "generated_at": "2026-09-19T05:33:44.405053"
+    },
+    {
+      "english": "Compose, then polish.",
+      "french": "Composez, puis polissez.",
+      "category": "Creativity",
+      "generated_at": "2026-09-19T05:33:44.405054"
+    },
+    {
+      "english": "Imagine it, then make it.",
+      "french": "Imaginez-le, puis faites-le.",
+      "category": "Creativity",
+      "generated_at": "2026-09-19T05:33:44.405055"
+    },
+    {
+      "english": "Dream big, act now.",
+      "french": "Rêvez grand, agissez maintenant.",
+      "category": "Creativity",
+      "generated_at": "2026-09-19T05:33:44.405056"
+    },
+    {
+      "english": "Gather inspiration, then create.",
+      "french": "Rassemblez l'inspiration, puis créez.",
+      "category": "Creativity",
+      "generated_at": "2026-09-19T05:33:44.405058"
+    },
+    {
+      "english": "Seek novelty, then embrace.",
+      "french": "Cherchez la nouveauté, puis accueillez.",
+      "category": "Creativity",
+      "generated_at": "2026-09-19T05:33:44.405059"
+    },
+    {
+      "english": "Connect dots, then draw lines.",
+      "french": "Reliez les points, puis tracez les lignes.",
+      "category": "Creativity",
+      "generated_at": "2026-09-19T05:33:44.405061"
+    },
+    {
+      "english": "Experiment, then refine.",
+      "french": "Expérimentez, puis améliorez.",
+      "category": "Creativity",
+      "generated_at": "2026-09-19T05:33:44.405062"
+    },
+    {
+      "english": "Play with ideas, freely.",
+      "french": "Jouez avec les idées, librement.",
+      "category": "Creativity",
+      "generated_at": "2026-09-19T05:33:44.405063"
+    },
+    {
+      "english": "Discover patterns, then create.",
+      "french": "Découvrez des motifs, puis créez.",
+      "category": "Creativity",
+      "generated_at": "2026-09-19T05:33:44.405064"
+    },
+    {
+      "english": "Question assumptions, then build.",
+      "french": "Questionnez les suppositions, puis construisez.",
+      "category": "Creativity",
+      "generated_at": "2026-09-19T05:33:44.405066"
+    },
+    {
+      "english": "Think differently, act boldly.",
+      "french": "Pensez différemment, agissez audacieusement.",
+      "category": "Creativity",
+      "generated_at": "2026-09-19T05:33:44.405067"
+    },
+    {
+      "english": "Combine elements, then transform.",
+      "french": "Combinez des éléments, puis transformez.",
+      "category": "Creativity",
+      "generated_at": "2026-09-19T05:33:44.405069"
+    },
+    {
+      "english": "Generate options, then choose.",
+      "french": "Générez des options, puis choisissez.",
+      "category": "Creativity",
+      "generated_at": "2026-09-19T05:33:44.405070"
+    },
+    {
+      "english": "Explore possibilities, wide.",
+      "french": "Explorez les possibilités, largement.",
+      "category": "Creativity",
+      "generated_at": "2026-09-19T05:33:44.405071"
+    },
+    {
+      "english": "Bring ideas alive, now.",
+      "french": "Donnez vie aux idées, maintenant.",
+      "category": "Creativity",
+      "generated_at": "2026-09-19T05:33:44.405072"
+    },
+    {
+      "english": "Build on inspiration, always.",
+      "french": "Construisez sur l'inspiration, toujours.",
+      "category": "Creativity",
+      "generated_at": "2026-09-19T05:33:44.405073"
+    },
+    {
+      "english": "Innovate with passion, deeply.",
+      "french": "Innovez avec passion, profondément.",
+      "category": "Creativity",
+      "generated_at": "2026-09-19T05:33:44.405075"
+    },
+    {
+      "english": "Imagine connections, subtly.",
+      "french": "Imaginez des connexions, subtilement.",
+      "category": "Creativity",
+      "generated_at": "2026-09-19T05:33:44.405076"
+    },
+    {
+      "english": "Design with purpose, clearly.",
+      "french": "Concevez avec un but, clairement.",
+      "category": "Creativity",
+      "generated_at": "2026-09-19T05:33:44.405077"
+    },
+    {
+      "english": "Create freely, then focus.",
+      "french": "Créez librement, puis concentrez-vous.",
+      "category": "Creativity",
+      "generated_at": "2026-09-19T05:33:44.405078"
+    },
+    {
+      "english": "Explore the unknown, boldly.",
+      "french": "Explorez l'inconnu, audacieusement.",
+      "category": "Creativity",
+      "generated_at": "2026-09-19T05:33:44.405079"
+    },
+    {
+      "english": "Synthesize ideas, then share.",
+      "french": "Synthétisez des idées, puis partagez.",
+      "category": "Creativity",
+      "generated_at": "2026-09-19T05:33:44.405080"
+    },
+    {
+      "english": "Shape raw material, skillfully.",
+      "french": "Façonnez la matière première, habilement.",
+      "category": "Creativity",
+      "generated_at": "2026-09-19T05:33:44.405081"
+    },
+    {
+      "english": "Dream possibilities, endlessly.",
+      "french": "Rêvez des possibilités, sans fin.",
+      "category": "Creativity",
+      "generated_at": "2026-09-19T05:33:44.405083"
     }
   ],
-  "last_updated": "2026-09-18T05:38:05.760305"
+  "last_updated": "2026-09-19T05:33:44.405121"
 }
