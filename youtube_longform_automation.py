@@ -78,7 +78,7 @@ CATEGORIES_FRENCH = {
 }
 
 # Edge TTS voices
-ENGLISH_VOICE = "en-US-AndrewNeural"
+ENGLISH_VOICE = "en-US-GuyNeural"
 FRENCH_VOICE = "fr-FR-DeniseNeural"
 
 # Phrase history file (NEVER delete this!)
