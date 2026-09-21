@@ -23111,7 +23111,229 @@
       "french": "C'était une petite chose, oubliée.",
       "category": "Forgiveness",
       "generated_at": "2026-09-20T05:52:06.446992"
+    },
+    {
+      "english": "Be brave, try something new.",
+      "french": "Sois courageux, essaie quelque chose de neuf.",
+      "category": "Courage",
+      "generated_at": "2026-09-21T06:00:31.933790"
+    },
+    {
+      "english": "Face your fears, you can do it.",
+      "french": "Affronte tes peurs, tu peux y arriver.",
+      "category": "Courage",
+      "generated_at": "2026-09-21T06:00:31.933805"
+    },
+    {
+      "english": "Don't hesitate, just jump in.",
+      "french": "N'hésite pas, plonge directement.",
+      "category": "Courage",
+      "generated_at": "2026-09-21T06:00:31.933807"
+    },
+    {
+      "english": "Take a chance, seize the day.",
+      "french": "Prends un risque, saisis l'opportunité.",
+      "category": "Courage",
+      "generated_at": "2026-09-21T06:00:31.933808"
+    },
+    {
+      "english": "Stand tall, be strong now.",
+      "french": "Tiens-toi droit, sois fort maintenant.",
+      "category": "Courage",
+      "generated_at": "2026-09-21T06:00:31.933810"
+    },
+    {
+      "english": "Push forward, never give up.",
+      "french": "Avance, n'abandonne jamais.",
+      "category": "Courage",
+      "generated_at": "2026-09-21T06:00:31.933811"
+    },
+    {
+      "english": "Speak up, your voice matters.",
+      "french": "Parle plus fort, ta voix compte.",
+      "category": "Courage",
+      "generated_at": "2026-09-21T06:00:31.933813"
+    },
+    {
+      "english": "Dare to dream, big dreams.",
+      "french": "Ose rêver, de grands rêves.",
+      "category": "Courage",
+      "generated_at": "2026-09-21T06:00:31.933817"
+    },
+    {
+      "english": "Act boldly, make a move.",
+      "french": "Agis avec audace, fais un pas.",
+      "category": "Courage",
+      "generated_at": "2026-09-21T06:00:31.933819"
+    },
+    {
+      "english": "Conquer doubt, believe in you.",
+      "french": "Surmonte le doute, crois en toi.",
+      "category": "Courage",
+      "generated_at": "2026-09-21T06:00:31.933820"
+    },
+    {
+      "english": "Be resolute, stick to it.",
+      "french": "Sois déterminé, tiens bon.",
+      "category": "Courage",
+      "generated_at": "2026-09-21T06:00:31.933822"
+    },
+    {
+      "english": "Face the unknown, bravely go.",
+      "french": "Affronte l'inconnu, va courageusement.",
+      "category": "Courage",
+      "generated_at": "2026-09-21T06:00:31.933823"
+    },
+    {
+      "english": "Stand firm, hold your ground.",
+      "french": "Reste solide, défends ta position.",
+      "category": "Courage",
+      "generated_at": "2026-09-21T06:00:31.933824"
+    },
+    {
+      "english": "Step out, explore new paths.",
+      "french": "Sors de ta zone, explore d'autres voies.",
+      "category": "Courage",
+      "generated_at": "2026-09-21T06:00:31.933826"
+    },
+    {
+      "english": "Initiate action, start now.",
+      "french": "Lance l'action, commence tout de suite.",
+      "category": "Courage",
+      "generated_at": "2026-09-21T06:00:31.933827"
+    },
+    {
+      "english": "Be tenacious, never quit.",
+      "french": "Sois tenace, n'abandonne jamais.",
+      "category": "Courage",
+      "generated_at": "2026-09-21T06:00:31.933829"
+    },
+    {
+      "english": "Take initiative, show grit.",
+      "french": "Prends l'initiative, montre ta détermination.",
+      "category": "Courage",
+      "generated_at": "2026-09-21T06:00:31.933830"
+    },
+    {
+      "english": "Meet adversity, head-on now.",
+      "french": "Fais face à l'adversité, de front.",
+      "category": "Courage",
+      "generated_at": "2026-09-21T06:00:31.933831"
+    },
+    {
+      "english": "Be adventurous, try new things.",
+      "french": "Sois aventureux, essaie de nouvelles choses.",
+      "category": "Courage",
+      "generated_at": "2026-09-21T06:00:31.933832"
+    },
+    {
+      "english": "Lead the way, bravely go.",
+      "french": "Montre la voie, va hardiment.",
+      "category": "Courage",
+      "generated_at": "2026-09-21T06:00:31.933833"
+    },
+    {
+      "english": "Show resilience, bounce back.",
+      "french": "Fais preuve de résilience, relève-toi.",
+      "category": "Courage",
+      "generated_at": "2026-09-21T06:00:31.933834"
+    },
+    {
+      "english": "Challenge yourself, go further.",
+      "french": "Défies-toi, va plus loin.",
+      "category": "Courage",
+      "generated_at": "2026-09-21T06:00:31.933835"
+    },
+    {
+      "english": "Be bold, take your shot.",
+      "french": "Sois audacieux, tente ta chance.",
+      "category": "Courage",
+      "generated_at": "2026-09-21T06:00:31.933837"
+    },
+    {
+      "english": "Grit your teeth, push hard.",
+      "french": "Serre les dents, pousse fort.",
+      "category": "Courage",
+      "generated_at": "2026-09-21T06:00:31.933838"
+    },
+    {
+      "english": "Face difficulty, stand strong.",
+      "french": "Affronte la difficulté, reste fort.",
+      "category": "Courage",
+      "generated_at": "2026-09-21T06:00:31.933839"
+    },
+    {
+      "english": "Advance with courage, onward now.",
+      "french": "Avance avec courage, en avant.",
+      "category": "Courage",
+      "generated_at": "2026-09-21T06:00:31.933840"
+    },
+    {
+      "english": "Have gumption, try it out.",
+      "french": "Aie du cran, essaie.",
+      "category": "Courage",
+      "generated_at": "2026-09-21T06:00:31.933841"
+    },
+    {
+      "english": "Don't fear failure, learn from it.",
+      "french": "Ne crains pas l'échec, apprends.",
+      "category": "Courage",
+      "generated_at": "2026-09-21T06:00:31.933842"
+    },
+    {
+      "english": "Be determined, see it through.",
+      "french": "Sois résolu, mène-le à terme.",
+      "category": "Courage",
+      "generated_at": "2026-09-21T06:00:31.933843"
+    },
+    {
+      "english": "Make bold moves, be decisive.",
+      "french": "Fais des mouvements audacieux, sois décisif.",
+      "category": "Courage",
+      "generated_at": "2026-09-21T06:00:31.933844"
+    },
+    {
+      "english": "Face hardship, with valor.",
+      "french": "Affronte les épreuves, avec bravoure.",
+      "category": "Courage",
+      "generated_at": "2026-09-21T06:00:31.933845"
+    },
+    {
+      "english": "Try your best, be valiant.",
+      "french": "Fais de ton mieux, sois vaillant.",
+      "category": "Courage",
+      "generated_at": "2026-09-21T06:00:31.933846"
+    },
+    {
+      "english": "Step boldly, into the light.",
+      "french": "Avance hardiment, vers la lumière.",
+      "category": "Courage",
+      "generated_at": "2026-09-21T06:00:31.933847"
+    },
+    {
+      "english": "Be daring, explore further.",
+      "french": "Sois audacieux, explore plus loin.",
+      "category": "Courage",
+      "generated_at": "2026-09-21T06:00:31.933848"
+    },
+    {
+      "english": "Take on challenges, with heart.",
+      "french": "Reçois les défis, avec cœur.",
+      "category": "Courage",
+      "generated_at": "2026-09-21T06:00:31.933850"
+    },
+    {
+      "english": "Show nerve, just go for it.",
+      "french": "Montre du cran, lance-toi.",
+      "category": "Courage",
+      "generated_at": "2026-09-21T06:00:31.933850"
+    },
+    {
+      "english": "Be resolute, never falter.",
+      "french": "Sois résolu, ne vacille jamais.",
+      "category": "Courage",
+      "generated_at": "2026-09-21T06:00:31.933851"
     }
   ],
-  "last_updated": "2026-09-20T05:52:06.447028"
+  "last_updated": "2026-09-21T06:00:31.933885"
 }
