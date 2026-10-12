@@ -36,8 +36,8 @@ for d in [OUTPUT_DIR, IMAGES_DIR, AUDIO_DIR, VIDEO_DIR, HISTORY_DIR, LONGFORM_DI
 VIDEO_WIDTH = 1920
 VIDEO_HEIGHT = 1080
 FPS = 30
-TARGET_DURATION_MINUTES = 15  # Target ~15-minute videos (~170 phrases)
-TARGET_PHRASES = 170  # Number of phrases to generate
+TARGET_DURATION_MINUTES = 5  # Target 5-minute videos (60 phrases)
+TARGET_PHRASES = 60  # Number of phrases to generate
 
 # English category names (for American/European learners)
 CATEGORIES_ENGLISH = [
@@ -177,24 +177,17 @@ def filter_similar_phrases(phrases, history, similarity_threshold=0.6):
 
 
 def add_phrases_to_history(phrases, category):
-    """Add new phrases to history (deduplicated)"""
+    """Add new phrases to history"""
     history = load_phrase_history()
-    existing = {p.get("english", "").lower().strip() for p in history.get("phrases", [])}
-    added = 0
     for phrase in phrases:
-        key = phrase.get("english", "").lower().strip()
-        if not key or key in existing:
-            continue
-        existing.add(key)
         history["phrases"].append({
             "english": phrase["english"],
             "french": phrase["french"],
             "category": category,
             "generated_at": datetime.now().isoformat()
         })
-        added += 1
     save_phrase_history(history)
-    print(f"[history] Added {added} unique phrases to history (total: {len(history['phrases'])})")
+    print(f"[history] Added {len(phrases)} phrases to history (total: {len(history['phrases'])})")
 
 
 # ============== CONTENT GENERATION ==============
@@ -306,16 +299,9 @@ IMPORTANT RULES FOR NATURAL SPEECH:
 7. Avoid complex grammar - keep it simple and practical
 8. Vary sentence structure for natural flow
 
-CRITICAL UNIQUENESS RULES:
-- Every single phrase MUST be completely different from every other phrase in this response.
-- Do NOT repeat or reword the same idea multiple times.
-- Each phrase must use DIFFERENT words and DIFFERENT sentence structure.
-- Compare all {current_batch_size * 2} phrases against each other before returning them.
-
 For each phrase:
 1. English phrase (with commas for natural pauses)
 2. French translation
-CRITICAL: Every translation MUST be in French. NEVER use German, Spanish, or any other language. Only French.
 3. Phonetic pronunciation guide (e.g., "kroh-wa voo")
 
 Return as JSON array:
@@ -558,16 +544,69 @@ def get_fresh_fallback_phrases(category: str, num_phrases: int) -> list:
 
 # ============== AUDIO GENERATION ==============
 
-async def generate_single_audio(text: str, voice: str, output_path: str):
-    """Generate audio using Edge TTS"""
-    try:
-        import edge_tts
-        communicate = edge_tts.Communicate(text, voice)
-        await communicate.save(output_path)
-        return True
-    except Exception as e:
-        print(f"  TTS error: {e}")
+def generate_google_tts(text: str, voice_or_lang: str, output_path: str) -> bool:
+    """Fallback TTS using Google Translate TTS if Edge TTS fails."""
+    import urllib.request
+    import urllib.parse
+
+    lang_code = "en"
+    voice_lower = str(voice_or_lang).lower()
+    if voice_lower.startswith("en"):
+        lang_code = "en"
+    elif "-" in str(voice_or_lang):
+        part = str(voice_or_lang).split("-")[0].lower()
+        if part == "zh":
+            lang_code = "zh-CN"
+        elif part == "fil":
+            lang_code = "tl"
+        elif part == "nb":
+            lang_code = "no"
+        else:
+            lang_code = part
+    else:
+        lang_code = voice_lower
+
+    clean_text = text.replace("*", "").replace("#", "").strip()
+    if not clean_text:
         return False
+
+    try:
+        url = f"https://translate.google.com/translate_tts?ie=UTF-8&q={urllib.parse.quote(clean_text)}&tl={lang_code}&client=tw-ob"
+        req = urllib.request.Request(
+            url,
+            headers={
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+            }
+        )
+        with urllib.request.urlopen(req, timeout=15) as resp:
+            data = resp.read()
+        if len(data) > 200:
+            with open(output_path, "wb") as f:
+                f.write(data)
+            return True
+    except Exception as e:
+        print(f"  Google TTS fallback error ({lang_code}): {e}")
+    return False
+
+
+async def generate_single_audio(text: str, voice: str, output_path: str, retries: int = 2):
+    """Generate audio using Edge TTS with automatic Google TTS fallback"""
+    import edge_tts
+    for attempt in range(retries):
+        try:
+            communicate = edge_tts.Communicate(text, voice)
+            await communicate.save(output_path)
+            if Path(output_path).exists() and Path(output_path).stat().st_size > 300:
+                return True
+        except Exception as e:
+            if attempt == retries - 1:
+                print(f"  Edge TTS notice ({e}), switching to Google TTS fallback...")
+
+    # Fallback to Google TTS
+    if generate_google_tts(text, voice, output_path):
+        return True
+
+    return False
 
 
 async def generate_all_audio_async(phrases: list, output_dir: str):
@@ -1277,15 +1316,13 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
 
     # Step 6: Generate title and description
     print(f"\n[6/6] Generating YouTube title, description, and metadata...")
-    seo_meta = generate_title_description(
+    generate_title_description(
         category_english,
         CATEGORIES_FRENCH[category_english],
         phrases,
         total_duration / 60,
         str(video_dir)
     )
-    if not isinstance(seo_meta, dict):
-        seo_meta = {}
 
     # Save metadata
     metadata = {
@@ -1301,11 +1338,7 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
         "audio": str(final_audio),
         "thumbnail": str(thumbnail_path),
         "resolution": f"{VIDEO_WIDTH}x{VIDEO_HEIGHT}",
-        "fps": FPS,
-        "selected_title": seo_meta.get("selected_title", f"Learn French: {category_english}"),
-        "description": seo_meta.get("description", ""),
-        "recommended_titles": seo_meta.get("recommended_titles", []),
-        "tags": seo_meta.get("tags", [])
+        "fps": FPS
     }
 
     with open(video_dir / "video_metadata.json", "w", encoding="utf-8") as f:
@@ -1321,8 +1354,8 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
     else:
         vid_meta = {}
     meta_out = {
-        "title": vid_meta.get("selected_title", f"Learn French: {category_english}"),
-        "description": vid_meta.get("description", ""),
+        "title": title_meta.get("selected_title", f"Learn French: {category_english}"),
+        "description": title_meta.get("description", ""),
         "tags": ["Learn French", "French Phrases", "French", category_english, "Velocity French"],
         "category_english": category_english,
         "category_french": CATEGORIES_FRENCH[category_english],
