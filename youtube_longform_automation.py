@@ -279,7 +279,13 @@ def get_next_category(categories_dict: dict) -> str:
     if recent_file.exists():
         try:
             with open(recent_file, "r", encoding="utf-8") as f:
-                recent = json.load(f)
+                data = json.load(f)
+                if isinstance(data, list):
+                    recent = data
+                elif isinstance(data, dict):
+                    recent = data.get("recent_categories") or data.get("last_3_days") or []
+                else:
+                    recent = []
         except Exception:
             recent = []
 
@@ -393,7 +399,7 @@ For each phrase provide:
 3. "phonetic": Phonetic pronunciation guide for English speakers
 
 Return STRICTLY a JSON array:
-[{"english": "...", "french": "...", "phonetic": "..."}]"""
+[{{"english": "...", "french": "...", "phonetic": "..."}}]"""
 
                 url = "https://gen.pollinations.ai/v1/chat/completions"
                 headers = {
@@ -497,7 +503,7 @@ RULES:
 2. DO NOT REPEAT ANY OF THESE:\n""" + "\n".join(f"- {p}" for p in current_generated_en) + f"""
 
 Return STRICTLY a JSON array:
-[{"english": "...", "french": "...", "phonetic": "..."}]"""
+[{{"english": "...", "french": "...", "phonetic": "..."}}]"""
 
             url = "https://gen.pollinations.ai/v1/chat/completions"
             headers = {"Authorization": f"Bearer {POLLINATIONS_API_KEY}", "Content-Type": "application/json"}
@@ -1263,6 +1269,7 @@ Perfect for beginners and intermediate learners!
         f.write("\n" + "=" * 80 + "\n")
         f.write("🏷️ VIDEO TAGS (for YouTube):\n")
         f.write("-" * 80 + "\n")
+        brand_text = "Velocity French"
         tags = [
             f"Learn French",
             f"French Phrases",
