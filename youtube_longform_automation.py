@@ -920,7 +920,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
 
     english = phrase_data.get("english", "")
     french = phrase_data.get("french") or phrase_data.get("target") or phrase_data.get("foreign") or ""
-    phonetic = phrase_data.get("phonetic", "")
+    phonetic = phrase_data.get("phonetic") or phrase_data.get("pronunciation") or phrase_data.get("romaji") or phrase_data.get("pinyin") or ""
 
     def wrap_text(text, font, max_width):
         words = text.split()
