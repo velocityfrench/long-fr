@@ -40,7 +40,6 @@ TARGET_DURATION_MINUTES = 20  # Target ~20-minute videos (120 unique phrases wit
 TARGET_PHRASES = 120  # Number of unique phrases to generate
 
 # English category names (for American/European learners)
-CATEGORIES_ENGLISH = list(CATEGORIES_FRENCH.keys())
 
 # French translations for display
 CATEGORIES_FRENCH = {
@@ -98,6 +97,9 @@ CATEGORIES_FRENCH = {
     "Cultural Traditions": "Traditions culturelles",
 }
 
+
+# English category names (dynamic)
+CATEGORIES_ENGLISH = list(CATEGORIES_FRENCH.keys())
 # Edge TTS voices
 ENGLISH_VOICE = "en-US-GuyNeural"
 FRENCH_VOICE = "fr-FR-DeniseNeural"
