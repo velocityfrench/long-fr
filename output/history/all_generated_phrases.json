@@ -7163,7 +7163,727 @@
       "french": "Sois sans peur, essaie-le.",
       "category": "Confidence",
       "generated_at": "2026-08-14T01:23:32.302418"
+    },
+    {
+      "english": "Good morning, everyone.",
+      "french": "Bonjour tout le monde.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.916844"
+    },
+    {
+      "english": "How are you doing?",
+      "french": "Comment ça va ?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.916856"
+    },
+    {
+      "english": "Let's get started.",
+      "french": "On commence.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.916863"
+    },
+    {
+      "english": "What's on the agenda?",
+      "french": "Quel est l'ordre du jour ?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.916865"
+    },
+    {
+      "english": "I need coffee, urgently.",
+      "french": "J'ai besoin de café, urgent.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.916866"
+    },
+    {
+      "english": "Do you have a moment?",
+      "french": "Tu as un instant ?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.916868"
+    },
+    {
+      "english": "Just a quick question.",
+      "french": "Juste une question rapide.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.916870"
+    },
+    {
+      "english": "Can you repeat that?",
+      "french": "Tu peux répéter ça ?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.916873"
+    },
+    {
+      "english": "I don't understand.",
+      "french": "Je ne comprends pas.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.916876"
+    },
+    {
+      "english": "Let me think about it.",
+      "french": "Laisse-moi y réfléchir.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.916878"
+    },
+    {
+      "english": "That's a good idea.",
+      "french": "C'est une bonne idée.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.916879"
+    },
+    {
+      "english": "I agree with you.",
+      "french": "Je suis d'accord avec toi.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.916881"
+    },
+    {
+      "english": "Not bad, actually.",
+      "french": "Pas mal, en fait.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.916884"
+    },
+    {
+      "english": "It's urgent, please.",
+      "french": "C'est urgent, s'il vous plaît.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.916886"
+    },
+    {
+      "english": "I'll do it right away.",
+      "french": "Je m'en occupe tout de suite.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.916888"
+    },
+    {
+      "english": "Can I help you?",
+      "french": "Je peux t'aider ?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.916890"
+    },
+    {
+      "english": "No problem at all.",
+      "french": "Aucun problème.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.916891"
+    },
+    {
+      "english": "Thanks for your help.",
+      "french": "Merci pour ton aide.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.916893"
+    },
+    {
+      "english": "See you later.",
+      "french": "À plus tard.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.916894"
+    },
+    {
+      "english": "Have a good day.",
+      "french": "Bonne journée.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.916896"
+    },
+    {
+      "english": "I'm on my way.",
+      "french": "J'arrive.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.916897"
+    },
+    {
+      "english": "What time is it?",
+      "french": "Quelle heure est-il ?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.916899"
+    },
+    {
+      "english": "Let's take a break.",
+      "french": "Faisons une pause.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.916901"
+    },
+    {
+      "english": "Back to work now.",
+      "french": "Retour au travail.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.916902"
+    },
+    {
+      "english": "This is important.",
+      "french": "C'est important.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.916904"
+    },
+    {
+      "english": "I'll be right back.",
+      "french": "Je reviens tout de suite.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.916906"
+    },
+    {
+      "english": "Is everything okay?",
+      "french": "Tout va bien ?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.916907"
+    },
+    {
+      "english": "I need a minute.",
+      "french": "J'ai besoin d'une minute.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.916909"
+    },
+    {
+      "english": "Let's wrap this up.",
+      "french": "Concluons ceci.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.916911"
+    },
+    {
+      "english": "Thanks for coming.",
+      "french": "Merci d'être venu(e).",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.916912"
+    },
+    {
+      "english": "Could you clarify that, please?",
+      "french": "Pourriez-vous clarifier cela, s'il vous plaît ?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.916915"
+    },
+    {
+      "english": "What's your opinion on this?",
+      "french": "Quelle est votre opinion là-dessus ?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.916917"
+    },
+    {
+      "english": "Shall we discuss it later?",
+      "french": "Est-ce qu'on en discute plus tard ?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.916919"
+    },
+    {
+      "english": "Can you send me the details?",
+      "french": "Pouvez-vous m'envoyer les détails ?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.916921"
+    },
+    {
+      "english": "What are the next steps?",
+      "french": "Quelles sont les prochaines étapes ?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.916931"
+    },
+    {
+      "english": "Is there any feedback?",
+      "french": "Y a-t-il des retours ?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.916933"
+    },
+    {
+      "english": "How should we approach this?",
+      "french": "Comment devrions-nous aborder ça ?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.916934"
+    },
+    {
+      "english": "Do you need my input?",
+      "french": "Avez-vous besoin de mon avis ?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.916936"
+    },
+    {
+      "english": "Let's brainstorm some ideas.",
+      "french": "Brainstormons quelques idées.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.916937"
+    },
+    {
+      "english": "Can we meet this afternoon?",
+      "french": "Pouvons-nous nous voir cet après-midi ?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.916939"
+    },
+    {
+      "english": "What’s your availability?",
+      "french": "Quelle est votre disponibilité ?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.916942"
+    },
+    {
+      "english": "Could you elaborate a bit?",
+      "french": "Pourriez-vous développer un peu ?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.916944"
+    },
+    {
+      "english": "Who is responsible for this?",
+      "french": "Qui est responsable de ceci ?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.916946"
+    },
+    {
+      "english": "What's the deadline for this?",
+      "french": "Quelle est la date limite pour ça ?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.916947"
+    },
+    {
+      "english": "Can I get your thoughts?",
+      "french": "Puis-je avoir vos réflexions ?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.916951"
+    },
+    {
+      "english": "Are we on the same page?",
+      "french": "Sommes-nous sur la même longueur d'onde ?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.916952"
+    },
+    {
+      "english": "What’s the main challenge here?",
+      "french": "Quel est le principal défi ici ?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.916955"
+    },
+    {
+      "english": "Could you explain the context?",
+      "french": "Pourriez-vous expliquer le contexte ?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.916957"
+    },
+    {
+      "english": "Let’s review the document.",
+      "french": "Revenons sur le document.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.916959"
+    },
+    {
+      "english": "What do you suggest we do?",
+      "french": "Que suggérez-vous de faire ?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.916961"
+    },
+    {
+      "english": "Is there any other option?",
+      "french": "Y a-t-il une autre option ?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.916962"
+    },
+    {
+      "english": "How can we improve this?",
+      "french": "Comment peut-on améliorer ceci ?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.916964"
+    },
+    {
+      "english": "Can you share your screen?",
+      "french": "Pouvez-vous partager votre écran ?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.916966"
+    },
+    {
+      "english": "What’s the priority here?",
+      "french": "Quelle est la priorité ici ?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.916968"
+    },
+    {
+      "english": "Let's confirm the details.",
+      "french": "Confirmons les détails.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.916969"
+    },
+    {
+      "english": "What’s the objective?",
+      "french": "Quel est l'objectif ?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.916971"
+    },
+    {
+      "english": "Can you check on that?",
+      "french": "Pouvez-vous vérifier cela ?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.916974"
+    },
+    {
+      "english": "What’s your feedback on the proposal?",
+      "french": "Quel est votre retour sur la proposition ?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.916976"
+    },
+    {
+      "english": "Shall we schedule a follow-up?",
+      "french": "Devrions-nous planifier un suivi ?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.916977"
+    },
+    {
+      "english": "Is there anything else?",
+      "french": "Y a-t-il autre chose ?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.916979"
+    },
+    {
+      "english": "Cut to the chase, please.",
+      "french": "Allez droit au but, s'il vous plaît.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.916981"
+    },
+    {
+      "english": "He's always spinning his wheels.",
+      "french": "Il tourne toujours en rond.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.916982"
+    },
+    {
+      "english": "That's a bit of a long shot.",
+      "french": "C'est un peu tiré par les cheveux.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.916984"
+    },
+    {
+      "english": "Don't rock the boat.",
+      "french": "Il ne faut pas mettre la pagaille.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.916986"
+    },
+    {
+      "english": "Let's put a pin in that.",
+      "french": "Laissons ça de côté pour l'instant.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.916987"
+    },
+    {
+      "english": "He's got a lot on his plate.",
+      "french": "Il a beaucoup de pain sur la planche.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.916989"
+    },
+    {
+      "english": "It's a piece of cake.",
+      "french": "C'est du gâteau.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.916991"
+    },
+    {
+      "english": "Let's get down to business.",
+      "french": "Passons aux choses sérieuses.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.916992"
+    },
+    {
+      "english": "We're on the same wavelength.",
+      "french": "On est sur la même longueur d'onde.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.916994"
+    },
+    {
+      "english": "It's water under the bridge.",
+      "french": "C'est de l'eau qui a coulé sous les ponts.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.916996"
+    },
+    {
+      "english": "Let's table this discussion.",
+      "french": "Mettons cette discussion en suspens.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.917005"
+    },
+    {
+      "english": "He's pulling your leg.",
+      "french": "Il te mène en bateau.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.917006"
+    },
+    {
+      "english": "That's the last straw.",
+      "french": "C'est la goutte d'eau qui fait déborder le vase.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.917008"
+    },
+    {
+      "english": "We need to think outside the box.",
+      "french": "Il faut sortir des sentiers battus.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.917009"
+    },
+    {
+      "english": "It's a tough nut to crack.",
+      "french": "C'est un sacré numéro.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.917011"
+    },
+    {
+      "english": "Let's go the extra mile.",
+      "french": "Allons plus loin, faisons un effort supplémentaire.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.917013"
+    },
+    {
+      "english": "That’s a load off my mind.",
+      "french": "Ça me soulage d'un poids.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.917017"
+    },
+    {
+      "english": "Let's call it a day.",
+      "french": "On arrête pour aujourd'hui.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.917018"
+    },
+    {
+      "english": "He's not the sharpest tool.",
+      "french": "Ce n'est pas la lumière à tous les étages.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.917020"
+    },
+    {
+      "english": "We're burning the midnight oil.",
+      "french": "On travaille tard dans la nuit.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.917022"
+    },
+    {
+      "english": "That's hit the nail on the head.",
+      "french": "Tu as tapé dans le mille.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.917023"
+    },
+    {
+      "english": "Let's not reinvent the wheel.",
+      "french": "Ne réinventons pas la roue.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.917025"
+    },
+    {
+      "english": "He's always shooting from the hip.",
+      "french": "Il parle sans réfléchir.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.917027"
+    },
+    {
+      "english": "It's a done deal.",
+      "french": "C'est une affaire conclue.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.917029"
+    },
+    {
+      "english": "Let's get this show on the road.",
+      "french": "Misons-nous au travail sérieusement.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.917032"
+    },
+    {
+      "english": "He's trying to butter you up.",
+      "french": "Il essaie de te lécher les bottes.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.917034"
+    },
+    {
+      "english": "That's a hard pill to swallow.",
+      "french": "C'est difficile à avaler.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.917035"
+    },
+    {
+      "english": "Let's get our ducks in a row.",
+      "french": "Organisons-nous bien.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.917037"
+    },
+    {
+      "english": "It’s not rocket science.",
+      "french": "Ce n'est pas sorcier.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.917039"
+    },
+    {
+      "english": "We need to make hay while the sun shines.",
+      "french": "Il faut battre le fer pendant qu'il est chaud.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.917040"
+    },
+    {
+      "english": "I feel quite relieved, actually.",
+      "french": "Je me sens assez soulagé, en fait.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.917042"
+    },
+    {
+      "english": "This is surprisingly peaceful.",
+      "french": "C'est étonnamment paisible.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.917044"
+    },
+    {
+      "english": "I need some quiet time.",
+      "french": "J'ai besoin de temps au calme.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.917046"
+    },
+    {
+      "english": "My mind feels clearer now.",
+      "french": "Mon esprit est plus clair maintenant.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.917048"
+    },
+    {
+      "english": "Let's take a moment to breathe.",
+      "french": "Prenons un moment pour respirer.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.917050"
+    },
+    {
+      "english": "I'm feeling a bit overwhelmed.",
+      "french": "Je me sens un peu débordé.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.917052"
+    },
+    {
+      "english": "This requires my full attention.",
+      "french": "Cela demande toute mon attention.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.917053"
+    },
+    {
+      "english": "I'm trying to stay positive.",
+      "french": "J'essaie de rester positif.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.917055"
+    },
+    {
+      "english": "It's important to be patient.",
+      "french": "Il est important d'être patient.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.917057"
+    },
+    {
+      "english": "Let's reflect on this later.",
+      "french": "Réfléchissons à cela plus tard.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.917058"
+    },
+    {
+      "english": "I need to process this.",
+      "french": "J'ai besoin de digérer cela.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.917060"
+    },
+    {
+      "english": "This makes me think deeply.",
+      "french": "Cela me fait réfléchir profondément.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.917061"
+    },
+    {
+      "english": "I'm not sure how I feel.",
+      "french": "Je ne suis pas sûr de ce que je ressens.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.917063"
+    },
+    {
+      "english": "Let's acknowledge the difficulties.",
+      "french": "Reconnaissons les difficultés.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.917064"
+    },
+    {
+      "english": "This situation is complex.",
+      "french": "Cette situation est complexe.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.917066"
+    },
+    {
+      "english": "I appreciate your honesty.",
+      "french": "J'apprécie votre honnêteté.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.917068"
+    },
+    {
+      "english": "It's hard to admit this.",
+      "french": "C'est difficile d'admettre cela.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.917070"
+    },
+    {
+      "english": "I need to be vulnerable.",
+      "french": "J'ai besoin d'être vulnérable.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.917071"
+    },
+    {
+      "english": "My feelings are valid.",
+      "french": "Mes sentiments sont valides.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.917076"
+    },
+    {
+      "english": "Let's talk about what happened.",
+      "french": "Parlons de ce qui s'est passé.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.917078"
+    },
+    {
+      "english": "I'm truly sorry about this.",
+      "french": "Je suis sincèrement désolé pour cela.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.917080"
+    },
+    {
+      "english": "Can we move past this?",
+      "french": "Pouvons-nous dépasser cela ?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.917082"
+    },
+    {
+      "english": "I need reassurance.",
+      "french": "J'ai besoin d'être rassuré.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.917084"
+    },
+    {
+      "english": "This is a sensitive topic.",
+      "french": "C'est un sujet sensible.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.917085"
+    },
+    {
+      "english": "I'm open to understanding.",
+      "french": "Je suis ouvert à la compréhension.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.917087"
+    },
+    {
+      "english": "Let's find common ground.",
+      "french": "Trouvons un terrain d'entente.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.917088"
+    },
+    {
+      "english": "This weighs on my mind.",
+      "french": "Cela me pèse sur l'esprit.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.917090"
+    },
+    {
+      "english": "I value your perspective.",
+      "french": "J'apprécie votre perspective.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.917091"
+    },
+    {
+      "english": "Let's be kind to each other.",
+      "french": "Soyons bons l'un envers l'autre.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.917093"
+    },
+    {
+      "english": "This requires thoughtful consideration.",
+      "french": "Cela demande une réflexion sérieuse.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-17T05:24:31.917095"
     }
   ],
-  "last_updated": "2026-08-14T01:23:32.302422"
+  "last_updated": "2026-10-17T05:24:31.917097"
 }
