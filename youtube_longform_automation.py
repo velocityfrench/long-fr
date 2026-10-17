@@ -1455,7 +1455,7 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
 
     # Step 6: Generate title and description
     print(f"\n[6/6] Generating YouTube title, description, and metadata...")
-    generate_title_description(
+    title_meta = generate_title_description(
         category_english,
         CATEGORIES_FRENCH[category_english],
         phrases,
