@@ -8603,7 +8603,727 @@
       "french": "Nourris ton corps, en pleine conscience.",
       "category": "Balance",
       "generated_at": "2026-10-18T05:32:51.100712"
+    },
+    {
+      "english": "Great start, keep it up!",
+      "french": "Super début, continue comme ça !",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813471"
+    },
+    {
+      "english": "You're doing well, yes!",
+      "french": "Tu t'en sors bien, oui !",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813484"
+    },
+    {
+      "english": "Almost there, don't stop.",
+      "french": "Presque arrivé, n'arrête pas.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813488"
+    },
+    {
+      "english": "Excellent, truly.",
+      "french": "Excellent, vraiment.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813491"
+    },
+    {
+      "english": "Believe it, you can do it.",
+      "french": "Crois-y, tu peux le faire.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813494"
+    },
+    {
+      "english": "Fantastic progress, bravo!",
+      "french": "Progrès fantastiques, bravo !",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813497"
+    },
+    {
+      "english": "Focus now, win later.",
+      "french": "Concentre-toi maintenant, gagne après.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813500"
+    },
+    {
+      "english": "It's working, see?",
+      "french": "Ça marche, tu vois ?",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813506"
+    },
+    {
+      "english": "Big win, celebrate!",
+      "french": "Grande victoire, fêtez !",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813509"
+    },
+    {
+      "english": "On the right track, good.",
+      "french": "Sur la bonne voie, bien.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813512"
+    },
+    {
+      "english": "Keep pushing, you're strong.",
+      "french": "Continue à pousser, tu es fort.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813517"
+    },
+    {
+      "english": "That's the spirit, yes!",
+      "french": "C'est l'esprit, oui !",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813520"
+    },
+    {
+      "english": "Momentum is building, wow.",
+      "french": "L'élan se construit, wow.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813523"
+    },
+    {
+      "english": "You're mastering it, great.",
+      "french": "Tu maîtrises ça, super.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813526"
+    },
+    {
+      "english": "Goal achieved, well done.",
+      "french": "Objectif atteint, bien joué.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813528"
+    },
+    {
+      "english": "Keep the energy, high.",
+      "french": "Garde l'énergie, haute.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813531"
+    },
+    {
+      "english": "Success is coming, soon.",
+      "french": "Le succès arrive, bientôt.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813535"
+    },
+    {
+      "english": "It's paying off, finally.",
+      "french": "Ça paie enfin.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813538"
+    },
+    {
+      "english": "You are shining, bright.",
+      "french": "Tu brilles, intensément.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813541"
+    },
+    {
+      "english": "Don't give up, stay focused.",
+      "french": "N'abandonne pas, reste concentré.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813543"
+    },
+    {
+      "english": "You're a natural, honestly.",
+      "french": "Tu es un naturel, honnêtement.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813546"
+    },
+    {
+      "english": "Making strides, amazing.",
+      "french": "Fais des progrès, incroyable.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813549"
+    },
+    {
+      "english": "This is it, perfect.",
+      "french": "C'est ça, parfait.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813551"
+    },
+    {
+      "english": "You're unstoppable, really.",
+      "french": "Tu es inarrêtable, vraiment.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813554"
+    },
+    {
+      "english": "Challenge met, excellent.",
+      "french": "Défi relevé, excellent.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813556"
+    },
+    {
+      "english": "Keep that mindset, strong.",
+      "french": "Garde cet état d'esprit, fort.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813559"
+    },
+    {
+      "english": "You're exceeding expectations, wow.",
+      "french": "Tu dépasses les attentes, wow.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813563"
+    },
+    {
+      "english": "The victory is yours, claim it.",
+      "french": "La victoire est à toi, saisis-la.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813566"
+    },
+    {
+      "english": "What's your next move?",
+      "french": "Quelle est ta prochaine étape ?",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813569"
+    },
+    {
+      "english": "How can I help you succeed?",
+      "french": "Comment puis-je t'aider à réussir ?",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813571"
+    },
+    {
+      "english": "Any advice for me?",
+      "french": "Des conseils pour moi ?",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813574"
+    },
+    {
+      "english": "What do you think of this plan?",
+      "french": "Qu'en penses-tu de ce plan ?",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813577"
+    },
+    {
+      "english": "What's holding you back?",
+      "french": "Qu'est-ce qui te retient ?",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813579"
+    },
+    {
+      "english": "Did you consider this option?",
+      "french": "As-tu pensé à cette option ?",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813582"
+    },
+    {
+      "english": "What's your biggest fear?",
+      "french": "Quelle est ta plus grande peur ?",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813585"
+    },
+    {
+      "english": "Can you explain that again?",
+      "french": "Peux-tu réexpliquer ça ?",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813587"
+    },
+    {
+      "english": "What makes you excited?",
+      "french": "Qu'est-ce qui t'enthousiasme ?",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813590"
+    },
+    {
+      "english": "Are you open to suggestions?",
+      "french": "Es-tu ouvert aux suggestions ?",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813592"
+    },
+    {
+      "english": "What's your definition of success?",
+      "french": "Quelle est ta définition du succès ?",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813595"
+    },
+    {
+      "english": "What are we aiming for?",
+      "french": "Visons-nous quoi ?",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813598"
+    },
+    {
+      "english": "Tell me more about that.",
+      "french": "Parle-moi en plus.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813600"
+    },
+    {
+      "english": "What's the potential outcome?",
+      "french": "Quel est le résultat potentiel ?",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813603"
+    },
+    {
+      "english": "Do you need clarification?",
+      "french": "As-tu besoin de précisions ?",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813607"
+    },
+    {
+      "english": "What if we tried this?",
+      "french": "Et si on essayait ça ?",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813610"
+    },
+    {
+      "english": "How will we measure progress?",
+      "french": "Comment mesurerons-nous les progrès ?",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813612"
+    },
+    {
+      "english": "What obstacles do you foresee?",
+      "french": "Quels obstacles prévois-tu ?",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813615"
+    },
+    {
+      "english": "Are you ready for the challenge?",
+      "french": "Es-tu prêt pour le défi ?",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813617"
+    },
+    {
+      "english": "What inspires you most?",
+      "french": "Qu'est-ce qui t'inspire le plus ?",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813620"
+    },
+    {
+      "english": "Can we brainstorm together?",
+      "french": "Pouvons-nous réfléchir ensemble ?",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813622"
+    },
+    {
+      "english": "What's your ambition level?",
+      "french": "Quel est ton niveau d'ambition ?",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813624"
+    },
+    {
+      "english": "How do you handle pressure?",
+      "french": "Comment gères-tu la pression ?",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813627"
+    },
+    {
+      "english": "What are your strengths?",
+      "french": "Quelles sont tes forces ?",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813629"
+    },
+    {
+      "english": "What's the key takeaway?",
+      "french": "Quelle est la leçon principale ?",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813632"
+    },
+    {
+      "english": "Are you feeling confident?",
+      "french": "Te sens-tu confiant ?",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813634"
+    },
+    {
+      "english": "What's the next logical step?",
+      "french": "Quelle est la prochaine étape logique ?",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813637"
+    },
+    {
+      "english": "Your progress, is inspiring.",
+      "french": "Tes progrès, sont inspirants.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813639"
+    },
+    {
+      "english": "Keep that beautiful momentum.",
+      "french": "Garde cet élan magnifique.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813642"
+    },
+    {
+      "english": "You're doing so well, truly.",
+      "french": "Tu t'en sors tellement bien, vraiment.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813644"
+    },
+    {
+      "english": "Every effort, counts.",
+      "french": "Chaque effort, compte.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813649"
+    },
+    {
+      "english": "Believe in your own power.",
+      "french": "Crois en ton propre pouvoir.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813651"
+    },
+    {
+      "english": "This is your moment, seize it.",
+      "french": "C'est ton moment, saisis-le.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813654"
+    },
+    {
+      "english": "Your determination, shines through.",
+      "french": "Ta détermination, transparaît.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813657"
+    },
+    {
+      "english": "You've got this, absolutely.",
+      "french": "Tu vas y arriver, absolument.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813659"
+    },
+    {
+      "english": "Dream bigger, you can handle it.",
+      "french": "Rêve plus grand, tu peux gérer.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813662"
+    },
+    {
+      "english": "That's a brilliant idea, wow.",
+      "french": "C'est une idée brillante, wow.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813665"
+    },
+    {
+      "english": "You're overcoming challenges, expertly.",
+      "french": "Tu surmontes les défis, avec expertise.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813668"
+    },
+    {
+      "english": "Keep pushing forward, always.",
+      "french": "Continue d'avancer, toujours.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813671"
+    },
+    {
+      "english": "Your hard work, will pay off.",
+      "french": "Ton travail acharné, paiera.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813674"
+    },
+    {
+      "english": "You are capable, of great things.",
+      "french": "Tu es capable, de grandes choses.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813676"
+    },
+    {
+      "english": "Stay positive, my friend.",
+      "french": "Reste positif, mon ami.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813681"
+    },
+    {
+      "english": "You're learning fast, great job.",
+      "french": "Tu apprends vite, super boulot.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813684"
+    },
+    {
+      "english": "Your potential, is immense.",
+      "french": "Ton potentiel, est immense.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813687"
+    },
+    {
+      "english": "Embrace the journey, enjoy it.",
+      "french": "Accepte le parcours, savoure-le.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813689"
+    },
+    {
+      "english": "You've got the talent, clearly.",
+      "french": "Tu as le talent, c'est clair.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813692"
+    },
+    {
+      "english": "Don't doubt yourself, ever.",
+      "french": "Ne doute jamais de toi.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813695"
+    },
+    {
+      "english": "This feels right, doesn't it?",
+      "french": "Ça semble bien, n'est-ce pas ?",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813699"
+    },
+    {
+      "english": "Your effort, is noticed.",
+      "french": "Ton effort, est remarqué.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813702"
+    },
+    {
+      "english": "You're building something great.",
+      "french": "Tu construis quelque chose de grand.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813705"
+    },
+    {
+      "english": "Let your passion guide you.",
+      "french": "Laisse ta passion te guider.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813707"
+    },
+    {
+      "english": "You are growing, beautifully.",
+      "french": "Tu grandis, magnifiquement.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813710"
+    },
+    {
+      "english": "Keep that fire, burning.",
+      "french": "Garde ce feu, allumé.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813713"
+    },
+    {
+      "english": "Success tastes sweet, soon.",
+      "french": "Le succès sera doux, bientôt.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813715"
+    },
+    {
+      "english": "You're making me proud, honestly.",
+      "french": "Tu me rends fier, honnêtement.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813718"
+    },
+    {
+      "english": "The future, looks bright.",
+      "french": "L'avenir, s'annonce radieux.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813721"
+    },
+    {
+      "english": "It takes courage, to be vulnerable.",
+      "french": "Il faut du courage, pour être vulnérable.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813723"
+    },
+    {
+      "english": "Patience, is a learned skill.",
+      "french": "La patience, est une compétence acquise.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813726"
+    },
+    {
+      "english": "Feel the progress, not just see it.",
+      "french": "Ressens le progrès, pas seulement le vois.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813729"
+    },
+    {
+      "english": "My heart is full, today.",
+      "french": "Mon cœur est plein, aujourd'hui.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813731"
+    },
+    {
+      "english": "This journey, changed me deeply.",
+      "french": "Ce voyage, m'a changé profondément.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813734"
+    },
+    {
+      "english": "I'm truly grateful, for this.",
+      "french": "Je suis vraiment reconnaissant(e), pour ça.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813739"
+    },
+    {
+      "english": "Letting go, can be freeing.",
+      "french": "Lâcher prise, peut être libérateur.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813743"
+    },
+    {
+      "english": "This calm feels earned, you know?",
+      "french": "Ce calme semble mérité, tu sais?",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813746"
+    },
+    {
+      "english": "My perspective shifted, significantly.",
+      "french": "Ma perspective a changé, significativement.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813751"
+    },
+    {
+      "english": "It's okay, to not be okay.",
+      "french": "C'est normal, de ne pas aller bien.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813755"
+    },
+    {
+      "english": "Inner peace, is the real win.",
+      "french": "La paix intérieure, est le vrai gain.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813758"
+    },
+    {
+      "english": "I'm learning to trust, myself more.",
+      "french": "J'apprends à me faire confiance, davantage.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813761"
+    },
+    {
+      "english": "This quiet moment, is precious.",
+      "french": "Ce moment de calme, est précieux.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813765"
+    },
+    {
+      "english": "What wisdom, did you gain?",
+      "french": "Quelle sagesse, as-tu gagnée?",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813768"
+    },
+    {
+      "english": "My capacity grew, over time.",
+      "french": "Ma capacité a grandi, avec le temps.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813771"
+    },
+    {
+      "english": "True strength, is inner resilience.",
+      "french": "La vraie force, est la résilience intérieure.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813773"
+    },
+    {
+      "english": "I feel a sense, of deep satisfaction.",
+      "french": "Je ressens un sentiment, de profonde satisfaction.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813776"
+    },
+    {
+      "english": "This growth, feels organic.",
+      "french": "Cette croissance, semble organique.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813779"
+    },
+    {
+      "english": "Honesty with myself, matters most.",
+      "french": "L'honnêteté avec moi-même, compte le plus.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813781"
+    },
+    {
+      "english": "I'm embracing, imperfections now.",
+      "french": "J'accepte, mes imperfections maintenant.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813784"
+    },
+    {
+      "english": "This feeling, is profound.",
+      "french": "Cette sensation, est profonde.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813787"
+    },
+    {
+      "english": "Reflection reveals, hidden strengths.",
+      "french": "La réflexion révèle, des forces cachées.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813789"
+    },
+    {
+      "english": "My emotional landscape, is evolving.",
+      "french": "Mon paysage émotionnel, évolue.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813792"
+    },
+    {
+      "english": "Authenticity, is my new compass.",
+      "french": "L'authenticité, est ma nouvelle boussole.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813794"
+    },
+    {
+      "english": "What lessons, resonate with you?",
+      "french": "Quelles leçons, te parlent?",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813797"
+    },
+    {
+      "english": "I'm finding peace, in the process.",
+      "french": "Je trouve la paix, dans le processus.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813800"
+    },
+    {
+      "english": "This vulnerability, feels powerful.",
+      "french": "Cette vulnérabilité, est puissante.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813802"
+    },
+    {
+      "english": "My soul feels lighter, now.",
+      "french": "Mon âme se sent plus légère, maintenant.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813805"
+    },
+    {
+      "english": "Understanding takes time, and effort.",
+      "french": "La compréhension prend du temps, et des efforts.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813807"
+    },
+    {
+      "english": "Take it one day, at a time.",
+      "french": "Prends-le, un jour à la fois.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813810"
+    },
+    {
+      "english": "Don't be afraid, to ask for help.",
+      "french": "N'aie pas peur, de demander de l'aide.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813813"
+    },
+    {
+      "english": "Little by little, the bird builds its nest.",
+      "french": "Petit à petit, l'oiseau fait son nid.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813816"
+    },
+    {
+      "english": "Mistakes are lessons, in disguise.",
+      "french": "Les erreurs sont des leçons, déguisées.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813818"
+    },
+    {
+      "english": "Stay curious, always.",
+      "french": "Reste curieux, toujours.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813821"
+    },
+    {
+      "english": "When in doubt, simplify.",
+      "french": "En cas de doute, simplifie.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813824"
+    },
+    {
+      "english": "Learn to say no, gracefully.",
+      "french": "Apprends à dire non, avec grâce.",
+      "category": "Success",
+      "generated_at": "2026-10-19T05:53:13.813827"
     }
   ],
-  "last_updated": "2026-10-18T05:32:51.100713"
+  "last_updated": "2026-10-19T05:53:13.813829"
 }
