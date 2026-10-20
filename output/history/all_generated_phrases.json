@@ -9323,7 +9323,727 @@
       "french": "Apprends à dire non, avec grâce.",
       "category": "Success",
       "generated_at": "2026-10-19T05:53:13.813827"
+    },
+    {
+      "english": "What's the goal, today?",
+      "french": "Quel est le but, aujourd'hui ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915628"
+    },
+    {
+      "english": "Why this choice, precisely?",
+      "french": "Pourquoi ce choix, précisément ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915642"
+    },
+    {
+      "english": "What's behind this, exactly?",
+      "french": "Qu'est-ce qui se cache derrière ça, exactement ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915646"
+    },
+    {
+      "english": "For what reason, tell me?",
+      "french": "Pour quelle raison, dis-moi ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915649"
+    },
+    {
+      "english": "What's the point, really?",
+      "french": "Quel est le but, vraiment ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915652"
+    },
+    {
+      "english": "What's the intention, here?",
+      "french": "Quelle est l'intention, ici ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915654"
+    },
+    {
+      "english": "What's the motive, behind it?",
+      "french": "Quel est le mobile, derrière ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915657"
+    },
+    {
+      "english": "Why did you do that?",
+      "french": "Pourquoi as-tu fait ça ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915664"
+    },
+    {
+      "english": "What is this for?",
+      "french": "C'est pour quoi faire ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915667"
+    },
+    {
+      "english": "What are you trying to achieve?",
+      "french": "Qu'essaies-tu d'accomplir ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915671"
+    },
+    {
+      "english": "What is the purpose, of this?",
+      "french": "Quel est le but, de ceci ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915674"
+    },
+    {
+      "english": "What's the plan, ultimately?",
+      "french": "Quel est le plan, au final ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915677"
+    },
+    {
+      "english": "Why this specific action?",
+      "french": "Pourquoi cette action spécifique ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915680"
+    },
+    {
+      "english": "What's the ultimate aim?",
+      "french": "Quel est le but ultime ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915682"
+    },
+    {
+      "english": "What's the desired outcome?",
+      "french": "Quel est le résultat souhaité ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915685"
+    },
+    {
+      "english": "Why this particular path?",
+      "french": "Pourquoi ce chemin particulier ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915688"
+    },
+    {
+      "english": "What are you hoping for?",
+      "french": "Qu'espères-tu ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915690"
+    },
+    {
+      "english": "What's the reason, for this?",
+      "french": "Quelle est la raison, de ceci ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915695"
+    },
+    {
+      "english": "What's the underlying cause?",
+      "french": "Quelle est la cause sous-jacente ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915698"
+    },
+    {
+      "english": "What is this meant to do?",
+      "french": "Ceci est censé faire quoi ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915700"
+    },
+    {
+      "english": "What's the main purpose?",
+      "french": "Quel est le but principal ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915702"
+    },
+    {
+      "english": "Why this specific angle?",
+      "french": "Pourquoi cet angle spécifique ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915704"
+    },
+    {
+      "english": "What's the driving force?",
+      "french": "Quelle est la force motrice ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915707"
+    },
+    {
+      "english": "What's the end goal, always?",
+      "french": "Quel est le but final, toujours ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915709"
+    },
+    {
+      "english": "What's the rationale, here?",
+      "french": "Quelle est la logique, ici ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915712"
+    },
+    {
+      "english": "What are we working towards?",
+      "french": "Vers quoi travaillons-nous ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915714"
+    },
+    {
+      "english": "What's the core reason?",
+      "french": "Quelle est la raison principale ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915716"
+    },
+    {
+      "english": "So, what's your dream?",
+      "french": "Alors, quel est ton rêve ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915719"
+    },
+    {
+      "english": "What brings you here?",
+      "french": "Qu'est-ce qui t'amène ici ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915722"
+    },
+    {
+      "english": "What's your inspiration?",
+      "french": "Quelle est ton inspiration ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915724"
+    },
+    {
+      "english": "Why this project?",
+      "french": "Pourquoi ce projet ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915727"
+    },
+    {
+      "english": "What drives you forward?",
+      "french": "Qu'est-ce qui te fait avancer ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915729"
+    },
+    {
+      "english": "What's the main idea?",
+      "french": "Quelle est l'idée principale ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915732"
+    },
+    {
+      "english": "What's the story behind this?",
+      "french": "Quelle est l'histoire derrière ça ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915735"
+    },
+    {
+      "english": "What do you want to build?",
+      "french": "Qu'est-ce que tu veux construire ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915737"
+    },
+    {
+      "english": "What's the destination?",
+      "french": "Quelle est la destination ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915739"
+    },
+    {
+      "english": "Why this approach?",
+      "french": "Pourquoi cette approche ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915742"
+    },
+    {
+      "english": "What's your ultimate goal?",
+      "french": "Quel est ton but ultime ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915744"
+    },
+    {
+      "english": "What are you creating?",
+      "french": "Qu'est-ce que tu crées ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915746"
+    },
+    {
+      "english": "What's the vision?",
+      "french": "Quelle est la vision ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915749"
+    },
+    {
+      "english": "Why this collaboration?",
+      "french": "Pourquoi cette collaboration ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915751"
+    },
+    {
+      "english": "What's the aspiration?",
+      "french": "Quelle est l'aspiration ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915754"
+    },
+    {
+      "english": "What's the motivation?",
+      "french": "Quelle est la motivation ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915757"
+    },
+    {
+      "english": "Why this specific direction?",
+      "french": "Pourquoi cette direction précise ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915760"
+    },
+    {
+      "english": "What's your hope?",
+      "french": "Quel est ton espoir ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915763"
+    },
+    {
+      "english": "What's the underlying reason?",
+      "french": "Quelle est la raison sous-jacente ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915765"
+    },
+    {
+      "english": "What are you hoping to discover?",
+      "french": "Qu'est-ce que tu espères découvrir ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915768"
+    },
+    {
+      "english": "Why this particular choice?",
+      "french": "Pourquoi ce choix particulier ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915770"
+    },
+    {
+      "english": "What's the true intention?",
+      "french": "Quelle est la vraie intention ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915772"
+    },
+    {
+      "english": "What's the deep purpose?",
+      "french": "Quel est le but profond ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915775"
+    },
+    {
+      "english": "What's the reason, truly?",
+      "french": "Quelle est la raison, vraiment ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915777"
+    },
+    {
+      "english": "What are you aiming to prove?",
+      "french": "Qu'est-ce que tu cherches à prouver ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915779"
+    },
+    {
+      "english": "What's the driving goal?",
+      "french": "Quel est le but moteur ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915782"
+    },
+    {
+      "english": "What's your aim, for now?",
+      "french": "Quel est ton but, pour l'instant ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915784"
+    },
+    {
+      "english": "Your passion is contagious, you know.",
+      "french": "Ta passion est contagieuse, tu sais.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915787"
+    },
+    {
+      "english": "Believe in your vision, fiercely.",
+      "french": "Crois en ta vision, ardemment.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915789"
+    },
+    {
+      "english": "You've got this amazing drive.",
+      "french": "Tu as cette énergie incroyable.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915792"
+    },
+    {
+      "english": "That spark in your eyes, wow.",
+      "french": "Cette étincelle dans tes yeux, wow.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915794"
+    },
+    {
+      "english": "Don't lose that unique spark.",
+      "french": "Ne perds pas cette étincelle unique.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915797"
+    },
+    {
+      "english": "Your ambition truly shines through.",
+      "french": "Ton ambition transparaît vraiment.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915799"
+    },
+    {
+      "english": "That inner fire, feed it well.",
+      "french": "Ce feu intérieur, nourris-le bien.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915802"
+    },
+    {
+      "english": "You're building something special here.",
+      "french": "Tu bâtis quelque chose de spécial ici.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915805"
+    },
+    {
+      "english": "That dream of yours, go for it.",
+      "french": "Ce rêve à toi, fonce.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915807"
+    },
+    {
+      "english": "Your dedication is inspiring, honestly.",
+      "french": "Ta dévotion est inspirante, sincèrement.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915810"
+    },
+    {
+      "english": "What a wonderful drive you have.",
+      "french": "Quelle belle énergie tu as.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915812"
+    },
+    {
+      "english": "That determined look, I like it.",
+      "french": "Ce regard déterminé, j'aime ça.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915815"
+    },
+    {
+      "english": "Keep pushing forward, beautifully.",
+      "french": "Continue d'avancer, magnifiquement.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915817"
+    },
+    {
+      "english": "Your heart is really in this.",
+      "french": "Ton cœur est vraiment là-dedans.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915819"
+    },
+    {
+      "english": "That commitment, it's admirable.",
+      "french": "Cet engagement, c'est admirable.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915822"
+    },
+    {
+      "english": "Let that inner voice guide you.",
+      "french": "Laisse cette voix intérieure te guider.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915824"
+    },
+    {
+      "english": "You have such a clear focus.",
+      "french": "Tu as une concentration si claire.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915827"
+    },
+    {
+      "english": "Your pursuit is impressive, truly.",
+      "french": "Ta poursuite est impressionnante, vraiment.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915829"
+    },
+    {
+      "english": "That conviction, it's powerful.",
+      "french": "Cette conviction, elle est puissante.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915834"
+    },
+    {
+      "english": "Keep that momentum going, strong.",
+      "french": "Garde cet élan, fort.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915836"
+    },
+    {
+      "english": "Your dedication is truly magnetic.",
+      "french": "Ta dévotion est vraiment magnétique.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915839"
+    },
+    {
+      "english": "That fire inside you, it’s beautiful.",
+      "french": "Ce feu en toi, il est beau.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915842"
+    },
+    {
+      "english": "You're chasing something big, awesome.",
+      "french": "Tu poursuis quelque chose de grand, génial.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915845"
+    },
+    {
+      "english": "Let your purpose guide your steps.",
+      "french": "Laisse ton but guider tes pas.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915849"
+    },
+    {
+      "english": "That relentless spirit, I admire it.",
+      "french": "Cet esprit infatigable, je l'admire.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915851"
+    },
+    {
+      "english": "Your drive, it's simply incredible.",
+      "french": "Ton élan, il est simplement incroyable.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915855"
+    },
+    {
+      "english": "You're creating your own destiny.",
+      "french": "Tu crées ton propre destin.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915857"
+    },
+    {
+      "english": "That unwavering belief, it's everything.",
+      "french": "Cette croyance inébranlable, c'est tout.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915860"
+    },
+    {
+      "english": "What truly moves you, deep inside?",
+      "french": "Qu'est-ce qui te touche, au fond ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915863"
+    },
+    {
+      "english": "Your heart's desire, tell me?",
+      "french": "Le désir de ton cœur, dis-moi ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915865"
+    },
+    {
+      "english": "What makes you feel alive?",
+      "french": "Qu'est-ce qui te fait te sentir vivant ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915868"
+    },
+    {
+      "english": "Where does this passion originate?",
+      "french": "D'où vient cette passion ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915870"
+    },
+    {
+      "english": "What belief fuels your journey?",
+      "french": "Quelle croyance alimente ton chemin ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915873"
+    },
+    {
+      "english": "Tell me, what really matters?",
+      "french": "Dis-moi, qu'est-ce qui compte vraiment ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915875"
+    },
+    {
+      "english": "What inner truth are you seeking?",
+      "french": "Quelle vérité intérieure cherches-tu ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915877"
+    },
+    {
+      "english": "What gives your life meaning?",
+      "french": "Qu'est-ce qui donne du sens à ta vie ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915880"
+    },
+    {
+      "english": "What's your soul's deepest wish?",
+      "french": "Quel est le souhait le plus profond de ton âme ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915882"
+    },
+    {
+      "english": "What inspires your quiet moments?",
+      "french": "Qu'est-ce qui t'inspire dans tes moments calmes ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915885"
+    },
+    {
+      "english": "What makes your spirit soar?",
+      "french": "Qu'est-ce qui fait s'envoler ton esprit ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915887"
+    },
+    {
+      "english": "What stirs your emotions, truly?",
+      "french": "Qu'est-ce qui remue tes émotions, sincèrement ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915890"
+    },
+    {
+      "english": "Your heart's compass, where does it point?",
+      "french": "La boussole de ton cœur, où pointe-t-elle ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915892"
+    },
+    {
+      "english": "What essence are you cultivating?",
+      "french": "Quelle essence cultives-tu ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915895"
+    },
+    {
+      "english": "What dream do you gently hold?",
+      "french": "Quel rêve tiens-tu doucement ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915897"
+    },
+    {
+      "english": "What vision makes your heart beat faster?",
+      "french": "Quelle vision fait battre ton cœur plus fort ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915899"
+    },
+    {
+      "english": "What sincere feeling drives this?",
+      "french": "Quel sentiment sincère motive cela ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915901"
+    },
+    {
+      "english": "Your inner world, what does it seek?",
+      "french": "Ton monde intérieur, que cherche-t-il ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915904"
+    },
+    {
+      "english": "What quiet hope do you nurture?",
+      "french": "Quel espoir discret nourris-tu ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915906"
+    },
+    {
+      "english": "What makes your soul sing?",
+      "french": "Qu'est-ce qui fait chanter ton âme ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915908"
+    },
+    {
+      "english": "What fundamental truth guides you?",
+      "french": "Quelle vérité fondamentale te guide ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915911"
+    },
+    {
+      "english": "What gentle pull are you following?",
+      "french": "Quelle douce attraction suis-tu ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915913"
+    },
+    {
+      "english": "Your deepest conviction, what is it?",
+      "french": "Ta conviction la plus profonde, laquelle est-ce ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915917"
+    },
+    {
+      "english": "What gentle whisper are you hearing?",
+      "french": "Quel murmure doux entends-tu ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915919"
+    },
+    {
+      "english": "What genuine feeling lies beneath?",
+      "french": "Quel sentiment authentique se cache dessous ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915921"
+    },
+    {
+      "english": "What makes your spirit genuinely connect?",
+      "french": "Qu'est-ce qui fait vibrer ton esprit authentiquement ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915924"
+    },
+    {
+      "english": "Your most cherished ideal, what is it?",
+      "french": "Ton idéal le plus cher, lequel est-ce ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915926"
+    },
+    {
+      "english": "What silent promise do you keep?",
+      "french": "Quelle promesse silencieuse gardes-tu ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915929"
+    },
+    {
+      "english": "What authentic joy do you pursue?",
+      "french": "Quelle joie authentique poursuis-tu ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915932"
+    },
+    {
+      "english": "Follow that gut feeling, always.",
+      "french": "Suis cette intuition, toujours.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915934"
+    },
+    {
+      "english": "Stay true to your values, friend.",
+      "french": "Reste fidèle à tes valeurs, ami.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915936"
+    },
+    {
+      "english": "What makes your heart happy?",
+      "french": "Qu'est-ce qui rend ton cœur heureux ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915939"
+    },
+    {
+      "english": "Keep your focus sharp, mind you.",
+      "french": "Garde ta concentration, attention.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915941"
+    },
+    {
+      "english": "Define your 'why', clearly.",
+      "french": "Définit ton 'pourquoi', clairement.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915944"
+    },
+    {
+      "english": "What legacy will you leave?",
+      "french": "Quel héritage laisseras-tu ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915946"
+    },
+    {
+      "english": "Embrace your unique path, go.",
+      "french": "Embrasse ton chemin unique, vas-y.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915948"
+    },
+    {
+      "english": "What matters most, in life?",
+      "french": "Qu'est-ce qui compte le plus, dans la vie ?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915951"
+    },
+    {
+      "english": "Listen to your inner voice.",
+      "french": "Écoute ta voix intérieure.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T05:45:33.915953"
     }
   ],
-  "last_updated": "2026-10-19T05:53:13.813829"
+  "last_updated": "2026-10-20T05:45:33.915955"
 }
