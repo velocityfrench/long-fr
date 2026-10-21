@@ -10043,7 +10043,727 @@
       "french": "Écoute ta voix intérieure.",
       "category": "Purpose",
       "generated_at": "2026-10-20T05:45:33.915953"
+    },
+    {
+      "english": "Hope, it's the first light.",
+      "french": "L'espoir, c'est la première lueur.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914698"
+    },
+    {
+      "english": "Never lose hope, my friend.",
+      "french": "Ne perds jamais espoir, mon ami.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914712"
+    },
+    {
+      "english": "Tomorrow holds new chances.",
+      "french": "Demain, ce sont de nouvelles chances.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914716"
+    },
+    {
+      "english": "Keep a little hope alive.",
+      "french": "Garde un peu d'espoir vivant.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914719"
+    },
+    {
+      "english": "There's always a way forward.",
+      "french": "Il y a toujours un chemin devant.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914721"
+    },
+    {
+      "english": "Let hope guide your heart.",
+      "french": "Laisse l'espoir guider ton cœur.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914724"
+    },
+    {
+      "english": "A spark of hope, can ignite.",
+      "french": "Une étincelle d'espoir, peut allumer.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914727"
+    },
+    {
+      "english": "We can make it through.",
+      "french": "On peut s'en sortir.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914732"
+    },
+    {
+      "english": "Hang on, good things await.",
+      "french": "Tiens bon, de bonnes choses attendent.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914736"
+    },
+    {
+      "english": "Hope springs eternal, you know.",
+      "french": "L'espoir renaît toujours, tu sais.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914739"
+    },
+    {
+      "english": "Stay positive, it helps a lot.",
+      "french": "Reste positif, ça aide beaucoup.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914742"
+    },
+    {
+      "english": "Brighter days are coming soon.",
+      "french": "De jours meilleurs arrivent bientôt.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914748"
+    },
+    {
+      "english": "Keep pushing, towards the sun.",
+      "french": "Continue de pousser, vers le soleil.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914752"
+    },
+    {
+      "english": "Don't lose sight of the goal.",
+      "french": "Ne perds pas de vue le but.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914754"
+    },
+    {
+      "english": "Every ending, is a new start.",
+      "french": "Chaque fin, est un nouveau départ.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914757"
+    },
+    {
+      "english": "We find hope, in small things.",
+      "french": "On trouve l'espoir, dans les petites choses.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914760"
+    },
+    {
+      "english": "Let's hope for the best outcome.",
+      "french": "Espérons le meilleur résultat.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914763"
+    },
+    {
+      "english": "The future is full of promise.",
+      "french": "L'avenir est plein de promesses.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914765"
+    },
+    {
+      "english": "Hold on to that feeling.",
+      "french": "Accroche-toi à ce sentiment.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914768"
+    },
+    {
+      "english": "May fortune smile upon you.",
+      "french": "Que la fortune te sourie.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914770"
+    },
+    {
+      "english": "It's not over, until it's over.",
+      "french": "Ce n'est pas fini, tant que ce n'est pas fini.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914773"
+    },
+    {
+      "english": "Look up, the sky is clear.",
+      "french": "Regarde en haut, le ciel est clair.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914776"
+    },
+    {
+      "english": "Keep believing, it's worth it.",
+      "french": "Continue de croire, ça vaut le coup.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914779"
+    },
+    {
+      "english": "Hope is a powerful weapon.",
+      "french": "L'espoir est une arme puissante.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914781"
+    },
+    {
+      "english": "We will overcome this challenge.",
+      "french": "Nous surmonterons ce défi.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914784"
+    },
+    {
+      "english": "A new dawn, is breaking.",
+      "french": "Une nouvelle aube, se lève.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914786"
+    },
+    {
+      "english": "This too, shall pass.",
+      "french": "Ceci aussi, passera.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914789"
+    },
+    {
+      "english": "Always have a little hope.",
+      "french": "Aie toujours un peu d'espoir.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914791"
+    },
+    {
+      "english": "Let's look forward, with optimism.",
+      "french": "Regardons en avant, avec optimisme.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914794"
+    },
+    {
+      "english": "What gives you hope, today?",
+      "french": "Qu'est-ce qui te donne de l'espoir, aujourd'hui ?",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914797"
+    },
+    {
+      "english": "Do you believe in better days?",
+      "french": "Crois-tu aux jours meilleurs ?",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914799"
+    },
+    {
+      "english": "How do you stay optimistic?",
+      "french": "Comment restes-tu optimiste ?",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914802"
+    },
+    {
+      "english": "What's your biggest dream?",
+      "french": "Quel est ton plus grand rêve ?",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914805"
+    },
+    {
+      "english": "Can we find hope, together?",
+      "french": "Pouvons-nous trouver de l'espoir, ensemble ?",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914807"
+    },
+    {
+      "english": "What are you looking forward to?",
+      "french": "Qu'attends-tu avec impatience ?",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914810"
+    },
+    {
+      "english": "Is there a silver lining?",
+      "french": "Y a-t-il une lumière au bout du tunnel ?",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914812"
+    },
+    {
+      "english": "Do you see possibilities?",
+      "french": "Vois-tu des possibilités ?",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914817"
+    },
+    {
+      "english": "What if we try again?",
+      "french": "Et si on essayait encore ?",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914819"
+    },
+    {
+      "english": "How do we move past this?",
+      "french": "Comment dépassons-nous cela ?",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914822"
+    },
+    {
+      "english": "Is there a chance for success?",
+      "french": "Y a-t-il une chance de réussir ?",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914824"
+    },
+    {
+      "english": "What's your vision for the future?",
+      "french": "Quelle est ta vision pour l'avenir ?",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914827"
+    },
+    {
+      "english": "Shall we share our hopes?",
+      "french": "Partageons-nous nos espoirs ?",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914829"
+    },
+    {
+      "english": "Are you feeling hopeful, now?",
+      "french": "Te sens-tu plein d'espoir, maintenant ?",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914832"
+    },
+    {
+      "english": "What helps you believe?",
+      "french": "Qu'est-ce qui t'aide à croire ?",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914837"
+    },
+    {
+      "english": "Can we make a difference?",
+      "french": "Pouvons-nous faire une différence ?",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914839"
+    },
+    {
+      "english": "Where do you find courage?",
+      "french": "Où trouves-tu du courage ?",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914842"
+    },
+    {
+      "english": "What if it works out?",
+      "french": "Et si ça marchait ?",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914844"
+    },
+    {
+      "english": "Do you have a plan B?",
+      "french": "As-tu un plan B ?",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914847"
+    },
+    {
+      "english": "Can we count on this?",
+      "french": "Pouvons-nous compter là-dessus ?",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914850"
+    },
+    {
+      "english": "How do you see it unfolding?",
+      "french": "Comment vois-tu la suite ?",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914852"
+    },
+    {
+      "english": "Is there room for optimism?",
+      "french": "Y a-t-il place pour l'optimisme ?",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914855"
+    },
+    {
+      "english": "Can we learn from this?",
+      "french": "Pouvons-nous apprendre de cela ?",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914857"
+    },
+    {
+      "english": "What good can come of it?",
+      "french": "Quel bien peut en sortir ?",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914860"
+    },
+    {
+      "english": "Do you feel encouraged?",
+      "french": "Te sens-tu encouragé(e) ?",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914862"
+    },
+    {
+      "english": "What if we believe, strongly?",
+      "french": "Et si nous croyions, fort ?",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914865"
+    },
+    {
+      "english": "Are we heading in the right direction?",
+      "french": "Allons-nous dans la bonne direction ?",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914867"
+    },
+    {
+      "english": "Believe in yourself, always.",
+      "french": "Crois en toi, toujours.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914870"
+    },
+    {
+      "english": "Don't give up, it's worth fighting.",
+      "french": "N'abandonne pas, ça vaut le coup.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914875"
+    },
+    {
+      "english": "Every step counts, keep going.",
+      "french": "Chaque pas compte, avance.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914878"
+    },
+    {
+      "english": "You've got this, I know it.",
+      "french": "Tu gères, je le sais.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914881"
+    },
+    {
+      "english": "Let's stay positive, friends.",
+      "french": "Restons positifs, les amis.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914884"
+    },
+    {
+      "english": "Have faith, it will work out.",
+      "french": "Aie confiance, ça va marcher.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914887"
+    },
+    {
+      "english": "Tomorrow is a new chance.",
+      "french": "Demain est une nouvelle chance.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914891"
+    },
+    {
+      "english": "Focus on the good things.",
+      "french": "Concentre-toi sur le positif.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914894"
+    },
+    {
+      "english": "Let's aim high, together.",
+      "french": "Visons haut, ensemble.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914896"
+    },
+    {
+      "english": "Keep your chin up.",
+      "french": "Garde la tête haute.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914899"
+    },
+    {
+      "english": "Imagine the best scenario.",
+      "french": "Imagine le meilleur scénario.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914901"
+    },
+    {
+      "english": "Let the positive vibes flow.",
+      "french": "Laisse les ondes positives circuler.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914904"
+    },
+    {
+      "english": "This is just a bump.",
+      "french": "Ce n'est qu'un obstacle.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914907"
+    },
+    {
+      "english": "We'll find a solution soon.",
+      "french": "On trouvera bientôt une solution.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914909"
+    },
+    {
+      "english": "Embrace the possibilities.",
+      "french": "Accueille les possibilités.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914912"
+    },
+    {
+      "english": "Keep your eyes on the prize.",
+      "french": "Garde les yeux sur le but.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914914"
+    },
+    {
+      "english": "You are doing great!",
+      "french": "Tu te débrouilles super!",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914917"
+    },
+    {
+      "english": "Stay motivated, you got this.",
+      "french": "Reste motivé, tu peux le faire.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914919"
+    },
+    {
+      "english": "A new chapter awaits.",
+      "french": "Un nouveau chapitre attend.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914924"
+    },
+    {
+      "english": "Let's be optimistic, shall we?",
+      "french": "Soyons optimistes, d'accord?",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914926"
+    },
+    {
+      "english": "Every cloud, has a silver lining.",
+      "french": "Après la pluie, le beau temps.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914929"
+    },
+    {
+      "english": "Keep the faith, things will improve.",
+      "french": "Garde la foi, ça ira mieux.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914932"
+    },
+    {
+      "english": "It's never too late, to start.",
+      "french": "Il n'est jamais trop tard, pour commencer.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914935"
+    },
+    {
+      "english": "Think positive, big things will happen.",
+      "french": "Pense positif, de grandes choses arriveront.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914938"
+    },
+    {
+      "english": "Don't lose heart, never surrender.",
+      "french": "Ne perds pas courage, ne renonce jamais.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914941"
+    },
+    {
+      "english": "A little hope, goes a long way.",
+      "french": "Un peu d'espoir, fait un long chemin.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914943"
+    },
+    {
+      "english": "Things will get better, be patient.",
+      "french": "Les choses s'arrangeront, sois patient.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914946"
+    },
+    {
+      "english": "We can overcome, anything together.",
+      "french": "Nous pouvons tout surmonter, ensemble.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914949"
+    },
+    {
+      "english": "Look forward, to brighter days.",
+      "french": "Regarde vers l'avant, vers des jours meilleurs.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914951"
+    },
+    {
+      "english": "Let's try again, with renewed energy.",
+      "french": "Essayons encore, avec une énergie nouvelle.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914954"
+    },
+    {
+      "english": "There's always a way, if you look.",
+      "french": "Il y a toujours un chemin, si tu cherches.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914957"
+    },
+    {
+      "english": "Believe in miracles, sometimes.",
+      "french": "Crois aux miracles, parfois.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914960"
+    },
+    {
+      "english": "The future is bright, for us.",
+      "french": "L'avenir est radieux, pour nous.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914962"
+    },
+    {
+      "english": "Never lose hope, it's essential.",
+      "french": "Ne perds jamais espoir, c'est essentiel.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914965"
+    },
+    {
+      "english": "Keep pushing forward, you're close.",
+      "french": "Continue d'avancer, tu es proche.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914968"
+    },
+    {
+      "english": "A new dawn, is coming.",
+      "french": "Une nouvelle aube, arrive.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914973"
+    },
+    {
+      "english": "Let's have faith, in the process.",
+      "french": "Ayons confiance, dans le processus.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914976"
+    },
+    {
+      "english": "Turn setbacks, into comebacks.",
+      "french": "Transforme les échecs, en retours.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914978"
+    },
+    {
+      "english": "Hope is the best medicine.",
+      "french": "L'espoir est le meilleur remède.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914981"
+    },
+    {
+      "english": "Don't despair, there's still time.",
+      "french": "Ne désespère pas, il reste du temps.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914984"
+    },
+    {
+      "english": "Keep your spirits, up high.",
+      "french": "Garde ton moral, au plus haut.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914986"
+    },
+    {
+      "english": "We'll see it through, somehow.",
+      "french": "Nous allons y arriver, d'une manière ou d'une autre.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914989"
+    },
+    {
+      "english": "Embrace the journey, embrace hope.",
+      "french": "Accueille le voyage, accueille l'espoir.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914992"
+    },
+    {
+      "english": "A glimmer of hope, is enough.",
+      "french": "Une lueur d'espoir, suffit.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914994"
+    },
+    {
+      "english": "Believe in possibilities, not limits.",
+      "french": "Crois aux possibilités, pas aux limites.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.914997"
+    },
+    {
+      "english": "Your strength, is your hope.",
+      "french": "Ta force, c'est ton espoir.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.915000"
+    },
+    {
+      "english": "The future awaits, with open arms.",
+      "french": "L'avenir attend, bras ouverts.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.915003"
+    },
+    {
+      "english": "Focus on what you control.",
+      "french": "Concentrez-vous sur ce que vous contrôlez.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.915005"
+    },
+    {
+      "english": "Ask for help, when needed.",
+      "french": "Demandez de l'aide, si besoin.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.915008"
+    },
+    {
+      "english": "What's the plan, for today?",
+      "french": "Quel est le plan, pour aujourd'hui ?",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.915010"
+    },
+    {
+      "english": "We can adapt, and overcome.",
+      "french": "Nous pouvons nous adapter, et surmonter.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.915015"
+    },
+    {
+      "english": "Breathe deeply, find your calm.",
+      "french": "Respirez profondément, trouvez votre calme.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.915018"
+    },
+    {
+      "english": "Keep your goals, in sight.",
+      "french": "Gardez vos objectifs, en vue.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.915020"
+    },
+    {
+      "english": "This challenge, is temporary.",
+      "french": "Ce défi, est temporaire.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.915023"
+    },
+    {
+      "english": "Believe you can, achieve it.",
+      "french": "Croyez que vous pouvez, y arriver.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.915026"
+    },
+    {
+      "english": "Let's learn, from mistakes.",
+      "french": "Apprenons, des erreurs.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.915029"
+    },
+    {
+      "english": "What's one positive, thing today?",
+      "french": "Quelle est une chose, positive, aujourd'hui ?",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.915031"
+    },
+    {
+      "english": "We are stronger, than we think.",
+      "french": "Nous sommes plus forts, que nous ne pensons.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.915034"
+    },
+    {
+      "english": "Trust the process, unfold.",
+      "french": "Faites confiance au processus, qui se déroule.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.915037"
+    },
+    {
+      "english": "Stay open, to new ideas.",
+      "french": "Restez ouvert, aux nouvelles idées.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.915041"
+    },
+    {
+      "english": "Celebrate small wins, often.",
+      "french": "Célébrez les petites victoires, souvent.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.915044"
+    },
+    {
+      "english": "Kindness, costs nothing.",
+      "french": "La gentillesse, ne coûte rien.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.915047"
+    },
+    {
+      "english": "Remember your why, always.",
+      "french": "Souvenez-vous de votre pourquoi, toujours.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.915055"
+    },
+    {
+      "english": "Things have a way, of working out.",
+      "french": "Les choses ont une manière, de s'arranger.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:49:15.915058"
     }
   ],
-  "last_updated": "2026-10-20T05:45:33.915955"
+  "last_updated": "2026-10-21T05:49:15.915060"
 }
