@@ -12923,7 +12923,727 @@
       "french": "Apprends des erreurs, pas les refaire.",
       "category": "Inspiration",
       "generated_at": "2026-10-24T05:32:21.039155"
+    },
+    {
+      "english": "What do you do, for fun?",
+      "french": "Qu'est-ce que tu fais, pour t'amuser ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727573"
+    },
+    {
+      "english": "I like to relax, in my free time.",
+      "french": "J'aime me détendre, pendant mon temps libre.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727587"
+    },
+    {
+      "english": "Any hobbies, you enjoy?",
+      "french": "Des loisirs, que tu apprécies ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727591"
+    },
+    {
+      "english": "I'm really into, photography.",
+      "french": "Je suis passionné, par la photographie.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727594"
+    },
+    {
+      "english": "That sounds great, tell me more.",
+      "french": "Ça a l'air super, raconte-moi.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727597"
+    },
+    {
+      "english": "I love reading, novels mostly.",
+      "french": "J'adore lire, des romans surtout.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727600"
+    },
+    {
+      "english": "Do you play, any sports?",
+      "french": "Tu pratiques, un sport quelconque ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727603"
+    },
+    {
+      "english": "Just watching, not playing much.",
+      "french": "Juste regarder, je ne joue pas beaucoup.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727608"
+    },
+    {
+      "english": "I enjoy cooking, trying new recipes.",
+      "french": "J'aime cuisiner, essayer de nouvelles recettes.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727612"
+    },
+    {
+      "english": "Nice! What's your specialty?",
+      "french": "Sympa ! Quelle est ta spécialité ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727617"
+    },
+    {
+      "english": "I like going for, long walks.",
+      "french": "J'aime me promener, longtemps.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727620"
+    },
+    {
+      "english": "Nature is so, refreshing.",
+      "french": "La nature est si, rafraîchissante.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727623"
+    },
+    {
+      "english": "I'm learning, the guitar.",
+      "french": "J'apprends, la guitare.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727626"
+    },
+    {
+      "english": "That's impressive, keep practicing.",
+      "french": "C'est impressionnant, continue à pratiquer.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727629"
+    },
+    {
+      "english": "We should meet up, sometime soon.",
+      "french": "On devrait se voir, bientôt.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727631"
+    },
+    {
+      "english": "Sounds good, what did you have in mind?",
+      "french": "Ça me va, qu'est-ce que tu avais en tête ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727636"
+    },
+    {
+      "english": "I love listening, to music.",
+      "french": "J'aime écouter, de la musique.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727638"
+    },
+    {
+      "english": "Any favorite genres?",
+      "french": "Des genres préférés ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727641"
+    },
+    {
+      "english": "I enjoy gardening, very peaceful.",
+      "french": "J'aime jardiner, c'est très paisible.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727643"
+    },
+    {
+      "english": "That's a great way, to de-stress.",
+      "french": "C'est une bonne façon, de décompresser.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727646"
+    },
+    {
+      "english": "I'm a big fan, of board games.",
+      "french": "Je suis un grand fan, de jeux de société.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727649"
+    },
+    {
+      "english": "Me too! We should play, sometime.",
+      "french": "Moi aussi ! On devrait jouer, un jour.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727652"
+    },
+    {
+      "english": "I like watching, movies at home.",
+      "french": "J'aime regarder, des films à la maison.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727655"
+    },
+    {
+      "english": "What kind of movies, do you prefer?",
+      "french": "Quel genre de films, préfères-tu ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727658"
+    },
+    {
+      "english": "I enjoy painting, when I have time.",
+      "french": "J'aime peindre, quand j'ai le temps.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727660"
+    },
+    {
+      "english": "You're artistic, that's lovely.",
+      "french": "Tu es artistique, c'est charmant.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727663"
+    },
+    {
+      "english": "I go hiking, on weekends.",
+      "french": "Je fais de la randonnée, les week-ends.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727666"
+    },
+    {
+      "english": "Exploring nature, is my passion.",
+      "french": "Explorer la nature, c'est ma passion.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727668"
+    },
+    {
+      "english": "Just chilling, enjoying the day.",
+      "french": "Je me repose, je profite de la journée.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727671"
+    },
+    {
+      "english": "What do you do, to unwind?",
+      "french": "Qu'est-ce que tu fais, pour te détendre ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727674"
+    },
+    {
+      "english": "Tell me about, your weekend.",
+      "french": "Parle-moi, de ton week-end.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727677"
+    },
+    {
+      "english": "How do you, spend your evenings?",
+      "french": "Comment passes-tu, tes soirées ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727680"
+    },
+    {
+      "english": "Are you active, during the week?",
+      "french": "Tu es actif, pendant la semaine ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727682"
+    },
+    {
+      "english": "What's new, in your free time?",
+      "french": "Quoi de neuf, dans tes loisirs ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727685"
+    },
+    {
+      "english": "Any plans, for the holidays?",
+      "french": "Des projets, pour les vacances ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727688"
+    },
+    {
+      "english": "What inspires, your creativity?",
+      "french": "Qu'est-ce qui inspire, ta créativité ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727691"
+    },
+    {
+      "english": "Do you prefer, indoors or outdoors?",
+      "french": "Tu préfères, l'intérieur ou l'extérieur ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727695"
+    },
+    {
+      "english": "What brings, you the most joy?",
+      "french": "Qu'est-ce qui t'apporte, le plus de joie ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727698"
+    },
+    {
+      "english": "What are you, currently reading?",
+      "french": "Qu'est-ce que tu lis, en ce moment ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727703"
+    },
+    {
+      "english": "Have you tried, anything new lately?",
+      "french": "As-tu essayé, quelque chose de nouveau récemment ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727707"
+    },
+    {
+      "english": "What advice, would you give?",
+      "french": "Quel conseil, donnerais-tu ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727710"
+    },
+    {
+      "english": "Where do you, find inspiration?",
+      "french": "Où trouves-tu, ton inspiration ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727713"
+    },
+    {
+      "english": "What's your favorite, way to relax?",
+      "french": "Quelle est ta façon, préférée de te relaxer ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727716"
+    },
+    {
+      "english": "Are you working, on any projects?",
+      "french": "Tu travailles, sur des projets ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727719"
+    },
+    {
+      "english": "What are you, listening to lately?",
+      "french": "Qu'est-ce que tu écoutes, en ce moment ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727721"
+    },
+    {
+      "english": "What do you, enjoy most about it?",
+      "french": "Qu'est-ce que tu aimes, le plus là-dedans ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727724"
+    },
+    {
+      "english": "What's your go-to, activity?",
+      "french": "Quelle est ton activité, favorite ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727727"
+    },
+    {
+      "english": "Do you have, a creative outlet?",
+      "french": "As-tu, une soupape de créativité ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727731"
+    },
+    {
+      "english": "What are you, learning right now?",
+      "french": "Qu'est-ce que tu apprends, en ce moment ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727734"
+    },
+    {
+      "english": "What's your favorite, way to de-stress?",
+      "french": "Quelle est ta méthode, préférée pour déstresser ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727737"
+    },
+    {
+      "english": "What's on your, bucket list?",
+      "french": "Qu'y a-t-il sur, ta liste de choses à faire ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727740"
+    },
+    {
+      "english": "What kind of, music do you like?",
+      "french": "Quel genre, de musique aimes-tu ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727743"
+    },
+    {
+      "english": "Do you ever, feel burnt out?",
+      "french": "Te sens-tu parfois, épuisé(e) ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727745"
+    },
+    {
+      "english": "What's your ideal, Sunday?",
+      "french": "Quel est ton dimanche, idéal ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727748"
+    },
+    {
+      "english": "What are your, favorite downtime activities?",
+      "french": "Quelles sont tes activités, favorites pour te détendre ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727751"
+    },
+    {
+      "english": "What brings, you energy?",
+      "french": "Qu'est-ce qui te donne, de l'énergie ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727753"
+    },
+    {
+      "english": "What are you, passionate about?",
+      "french": "Qu'est-ce qui te passionne, vraiment ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727756"
+    },
+    {
+      "english": "Trust your process, it's unique.",
+      "french": "Fais confiance à ton processus, il est unique.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727758"
+    },
+    {
+      "english": "Your effort is admirable, keep going.",
+      "french": "Ton effort est admirable, continue.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727761"
+    },
+    {
+      "english": "You're doing great, seriously.",
+      "french": "Tu te débrouilles très bien, sérieusement.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727764"
+    },
+    {
+      "english": "Progress, not perfection, is key.",
+      "french": "Le progrès, pas la perfection, est essentiel.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727767"
+    },
+    {
+      "english": "Believe in your creative spark.",
+      "french": "Crois en ton étincelle créative.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727770"
+    },
+    {
+      "english": "It's okay to start over, always.",
+      "french": "C'est permis de recommencer, toujours.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727773"
+    },
+    {
+      "english": "Your dedication shows, that's wonderful.",
+      "french": "Ta dédication se voit, c'est merveilleux.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727776"
+    },
+    {
+      "english": "Find joy in the small moments.",
+      "french": "Trouve de la joie dans les petits moments.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727778"
+    },
+    {
+      "english": "Don't compare, just create.",
+      "french": "Ne compare pas, crée simplement.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727781"
+    },
+    {
+      "english": "You have a unique perspective.",
+      "french": "Tu as une perspective unique.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727785"
+    },
+    {
+      "english": "Allow yourself to explore freely.",
+      "french": "Permets-toi d'explorer librement.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727788"
+    },
+    {
+      "english": "Your passion is inspiring, truly.",
+      "french": "Ta passion est inspirante, vraiment.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727791"
+    },
+    {
+      "english": "Celebrate your achievements, big or small.",
+      "french": "Célèbre tes réussites, grandes ou petites.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727794"
+    },
+    {
+      "english": "It's okay to rest, recharge.",
+      "french": "C'est bon de se reposer, de recharger.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727797"
+    },
+    {
+      "english": "Let your curiosity guide you.",
+      "french": "Laisse ta curiosité te guider.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727799"
+    },
+    {
+      "english": "Your creativity knows no bounds.",
+      "french": "Ta créativité n'a pas de limites.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727802"
+    },
+    {
+      "english": "Enjoy the journey, it's yours.",
+      "french": "Profite du voyage, il est à toi.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727805"
+    },
+    {
+      "english": "What a lovely way, to spend time.",
+      "french": "Quelle belle manière, de passer le temps.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727807"
+    },
+    {
+      "english": "That's a really interesting hobby.",
+      "french": "C'est un passe-temps vraiment intéressant.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727810"
+    },
+    {
+      "english": "You have such a good eye.",
+      "french": "Tu as vraiment un bon œil.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727813"
+    },
+    {
+      "english": "That requires patience, commendable.",
+      "french": "Cela demande de la patience, c'est louable.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727815"
+    },
+    {
+      "english": "It’s important to have outlets.",
+      "french": "Il est important d'avoir des exutoires.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727819"
+    },
+    {
+      "english": "This activity brings calm, I see.",
+      "french": "Cette activité apporte le calme, je vois.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727824"
+    },
+    {
+      "english": "Keep exploring, find what you love.",
+      "french": "Continue d'explorer, trouve ce que tu aimes.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727826"
+    },
+    {
+      "english": "It’s wonderful you pursue this.",
+      "french": "C'est formidable que tu pursues cela.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727830"
+    },
+    {
+      "english": "Never stop discovering, it's vital.",
+      "french": "N'arrête jamais de découvrir, c'est vital.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727833"
+    },
+    {
+      "english": "What really matters, to you?",
+      "french": "Qu'est-ce qui compte vraiment, pour toi ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727836"
+    },
+    {
+      "english": "Take your time, no rush.",
+      "french": "Prends ton temps, sans hâte.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727838"
+    },
+    {
+      "english": "This feels deeply fulfilling.",
+      "french": "Ça me remplit profondément.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727841"
+    },
+    {
+      "english": "My reflection, is quite honest.",
+      "french": "Mon reflet, est assez honnête.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727844"
+    },
+    {
+      "english": "It’s a moment, for quiet contemplation.",
+      "french": "C'est un moment, de pure contemplation.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727847"
+    },
+    {
+      "english": "I need this space, to process things.",
+      "french": "J'ai besoin de cet espace, pour digérer.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727850"
+    },
+    {
+      "english": "What’s your inner, dialogue?",
+      "french": "Quel est ton dialogue, intérieur ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727854"
+    },
+    {
+      "english": "This connects me, to my true self.",
+      "french": "Ça me connecte, à mon vrai moi.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727857"
+    },
+    {
+      "english": "Patience is key, with oneself.",
+      "french": "La patience est clé, envers soi.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727860"
+    },
+    {
+      "english": "What are you, reflecting on today?",
+      "french": "Sur quoi réfléchis-tu, aujourd'hui ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727862"
+    },
+    {
+      "english": "I’m embracing, the slow pace.",
+      "french": "J'embrasse, le rythme lent.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727866"
+    },
+    {
+      "english": "This brings clarity, to my thoughts.",
+      "french": "Ça apporte de la clarté, à mes idées.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727869"
+    },
+    {
+      "english": "How do you, nurture your spirit?",
+      "french": "Comment cultives-tu, ton esprit ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727871"
+    },
+    {
+      "english": "It’s a space, for self-discovery.",
+      "french": "C'est un espace, de découverte personnelle.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727875"
+    },
+    {
+      "english": "Are you feeling, more centered?",
+      "french": "Te sens-tu, plus centré(e) ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727878"
+    },
+    {
+      "english": "This helps me, find inner peace.",
+      "french": "Ça m'aide, à trouver la paix intérieure.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727883"
+    },
+    {
+      "english": "What lessons, have you learned?",
+      "french": "Quelles leçons, as-tu apprises ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727885"
+    },
+    {
+      "english": "I’m allowing, more vulnerability.",
+      "french": "Je permets, plus de vulnérabilité.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727889"
+    },
+    {
+      "english": "This is my quiet, sanctuary.",
+      "french": "C'est mon sanctuaire, tranquille.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727892"
+    },
+    {
+      "english": "Honesty with self, is crucial.",
+      "french": "L'honnêteté envers soi, est vitale.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727894"
+    },
+    {
+      "english": "Are you listening, to your intuition?",
+      "french": "Écoutes-tu, ton intuition ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727897"
+    },
+    {
+      "english": "This practice, grounds me.",
+      "french": "Cette pratique, m'enracine.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727901"
+    },
+    {
+      "english": "What nourishes, your soul?",
+      "french": "Qu'est-ce qui nourrit, ton âme ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727904"
+    },
+    {
+      "english": "It's okay, to feel deeply.",
+      "french": "C'est normal, de ressentir profondément.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727907"
+    },
+    {
+      "english": "I’m cultivating, inner calm.",
+      "french": "Je cultive, le calme intérieur.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727910"
+    },
+    {
+      "english": "This is where I heal, truly.",
+      "french": "C'est là que je guéris, vraiment.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727913"
+    },
+    {
+      "english": "What truth, are you uncovering?",
+      "french": "Quelle vérité, découvres-tu ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727915"
+    },
+    {
+      "english": "My intention, is pure.",
+      "french": "Mon intention, est pure.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727917"
+    },
+    {
+      "english": "Plan your week, to include fun.",
+      "french": "Planifie ta semaine, pour inclure le plaisir.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727922"
+    },
+    {
+      "english": "Share your passion, with others.",
+      "french": "Partage ta passion, avec les autres.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727925"
+    },
+    {
+      "english": "Try something new, once a month.",
+      "french": "Essaie quelque chose de nouveau, une fois par mois.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727928"
+    },
+    {
+      "english": "It's good to disconnect, sometimes.",
+      "french": "C'est bon de se déconnecter, parfois.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727930"
+    },
+    {
+      "english": "What hobby, helps you relax?",
+      "french": "Quel loisir, t'aide à te détendre ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727933"
+    },
+    {
+      "english": "Set small goals, achieve them.",
+      "french": "Fixe-toi des petits buts, atteins-les.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727936"
+    },
+    {
+      "english": "Don't compare, your progress.",
+      "french": "Ne compare pas, ta progression.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727939"
+    },
+    {
+      "english": "Learn a new skill, online.",
+      "french": "Apprends une nouvelle compétence, en ligne.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727941"
+    },
+    {
+      "english": "Balance work, and leisure time.",
+      "french": "Équilibre le travail, et le temps libre.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-25T05:49:31.727946"
     }
   ],
-  "last_updated": "2026-10-24T05:32:21.039157"
+  "last_updated": "2026-10-25T05:49:31.727948"
 }
