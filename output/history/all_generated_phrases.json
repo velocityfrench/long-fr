@@ -14363,7 +14363,727 @@
       "french": "Décompose les grands objectifs, en petits pas.",
       "category": "Motivation",
       "generated_at": "2026-10-26T05:52:42.639104"
+    },
+    {
+      "english": "What a great day, I'm so happy!",
+      "french": "Quelle belle journée, je suis tellement heureux !",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537386"
+    },
+    {
+      "english": "This makes me really smile.",
+      "french": "Ça me fait vraiment sourire.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537399"
+    },
+    {
+      "english": "I feel wonderful, truly.",
+      "french": "Je me sens merveilleusement bien, vraiment.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537402"
+    },
+    {
+      "english": "Such good news, excellent!",
+      "french": "Excellentes nouvelles, c'est super !",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537404"
+    },
+    {
+      "english": "This is pure delight.",
+      "french": "C'est un pur bonheur.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537406"
+    },
+    {
+      "english": "I'm in high spirits.",
+      "french": "J'ai le moral au beau fixe.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537408"
+    },
+    {
+      "english": "What a pleasant surprise!",
+      "french": "Quelle agréable surprise !",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537410"
+    },
+    {
+      "english": "Feeling very content today.",
+      "french": "Je me sens très content aujourd'hui.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537414"
+    },
+    {
+      "english": "This is fantastic, really!",
+      "french": "C'est fantastique, vraiment !",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537417"
+    },
+    {
+      "english": "My heart is full of joy.",
+      "french": "Mon cœur est plein de joie.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537419"
+    },
+    {
+      "english": "It's a moment of bliss.",
+      "french": "C'est un moment de félicité.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537423"
+    },
+    {
+      "english": "I'm absolutely thrilled.",
+      "french": "Je suis absolument ravi.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537425"
+    },
+    {
+      "english": "Pure happiness, isn't it?",
+      "french": "Du pur bonheur, n'est-ce pas ?",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537428"
+    },
+    {
+      "english": "A truly uplifting feeling.",
+      "french": "Un sentiment vraiment réconfortant.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537430"
+    },
+    {
+      "english": "This brightens my whole day.",
+      "french": "Ça illumine toute ma journée.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537433"
+    },
+    {
+      "english": "I feel so peaceful, calm.",
+      "french": "Je me sens si paisible, calme.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537435"
+    },
+    {
+      "english": "It's a moment of pure joy.",
+      "french": "C'est un instant de pure joie.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537437"
+    },
+    {
+      "english": "Everything feels right, perfect.",
+      "french": "Tout va bien, c'est parfait.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537440"
+    },
+    {
+      "english": "This is truly heartwarming.",
+      "french": "C'est vraiment touchant.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537441"
+    },
+    {
+      "english": "I'm so glad we met.",
+      "french": "Je suis si content(e) que nous nous soyons rencontrés.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537443"
+    },
+    {
+      "english": "What a wonderful outcome!",
+      "french": "Quel merveilleux résultat !",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537445"
+    },
+    {
+      "english": "This fills me with cheer.",
+      "french": "Ça me remplit de gaieté.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537447"
+    },
+    {
+      "english": "Feeling quite optimistic now.",
+      "french": "Je me sens assez optimiste maintenant.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537449"
+    },
+    {
+      "english": "This is deeply satisfying.",
+      "french": "C'est profondément satisfaisant.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537450"
+    },
+    {
+      "english": "A moment of true contentment.",
+      "french": "Un moment de vrai contentement.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537452"
+    },
+    {
+      "english": "This is simply delightful.",
+      "french": "C'est tout simplement charmant.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537454"
+    },
+    {
+      "english": "I'm in a great mood.",
+      "french": "Je suis de très bonne humeur.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537456"
+    },
+    {
+      "english": "Life is beautiful right now.",
+      "french": "La vie est belle en ce moment.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537458"
+    },
+    {
+      "english": "Pure bliss, a perfect moment.",
+      "french": "Du bonheur pur, un moment parfait.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537460"
+    },
+    {
+      "english": "This feels like a dream.",
+      "french": "C'est comme un rêve.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537462"
+    },
+    {
+      "english": "What makes you happy, really?",
+      "french": "Qu'est-ce qui te rend heureux, vraiment ?",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537464"
+    },
+    {
+      "english": "Are you happy today, my dear?",
+      "french": "Es-tu content aujourd'hui, mon cher ?",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537469"
+    },
+    {
+      "english": "Tell me, what brings you joy?",
+      "french": "Dis-moi, qu'est-ce qui t'apporte de la joie ?",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537471"
+    },
+    {
+      "english": "Do you feel good, right now?",
+      "french": "Te sens-tu bien, là tout de suite ?",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537473"
+    },
+    {
+      "english": "How can I make you smile?",
+      "french": "Comment puis-je te faire sourire ?",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537475"
+    },
+    {
+      "english": "Is everything okay with you?",
+      "french": "Est-ce que tout va bien pour toi ?",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537477"
+    },
+    {
+      "english": "What's your secret, to be so bright?",
+      "french": "Quel est ton secret, pour être si radieux ?",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537480"
+    },
+    {
+      "english": "Did something good happen today?",
+      "french": "Est-ce qu'il s'est passé quelque chose de bien aujourd'hui ?",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537482"
+    },
+    {
+      "english": "You seem happy, I notice.",
+      "french": "Tu sembles heureux, je le remarque.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537484"
+    },
+    {
+      "english": "What are you thinking about, with that smile?",
+      "french": "À quoi penses-tu, avec ce sourire ?",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537486"
+    },
+    {
+      "english": "Can I share your good mood?",
+      "french": "Puis-je partager ta bonne humeur ?",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537490"
+    },
+    {
+      "english": "What's on your mind, to be so cheerful?",
+      "french": "Qu'est-ce qui te passe par la tête, pour être si joyeux ?",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537494"
+    },
+    {
+      "english": "Do you have good news to share?",
+      "french": "As-tu de bonnes nouvelles à partager ?",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537496"
+    },
+    {
+      "english": "What brings you such peace?",
+      "french": "Qu'est-ce qui t'apporte une telle paix ?",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537498"
+    },
+    {
+      "english": "Are you feeling content, truly?",
+      "french": "Te sens-tu satisfait, sincèrement ?",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537513"
+    },
+    {
+      "english": "What's making you glow like that?",
+      "french": "Qu'est-ce qui te fait rayonner comme ça ?",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537517"
+    },
+    {
+      "english": "Is this a happy coincidence?",
+      "french": "Est-ce une heureuse coïncidence ?",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537521"
+    },
+    {
+      "english": "What's the reason for your smile?",
+      "french": "Quelle est la raison de ton sourire ?",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537525"
+    },
+    {
+      "english": "Do you feel optimistic about things?",
+      "french": "Te sens-tu optimiste quant aux choses ?",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537528"
+    },
+    {
+      "english": "What's your recipe for happiness?",
+      "french": "Quelle est ta recette pour le bonheur ?",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537531"
+    },
+    {
+      "english": "Are you enjoying this moment, yes?",
+      "french": "Profites-tu de ce moment, oui ?",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537533"
+    },
+    {
+      "english": "What's the best part of your day?",
+      "french": "Quelle est la meilleure partie de ta journée ?",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537535"
+    },
+    {
+      "english": "Is there anything I can do?",
+      "french": "Y a-t-il quelque chose que je puisse faire ?",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537537"
+    },
+    {
+      "english": "You seem very content, what's up?",
+      "french": "Tu as l'air très content, quoi de neuf ?",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537539"
+    },
+    {
+      "english": "What are you dreaming about now?",
+      "french": "À quoi rêves-tu maintenant ?",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537541"
+    },
+    {
+      "english": "Did you find some good luck?",
+      "french": "As-tu trouvé un peu de chance ?",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537543"
+    },
+    {
+      "english": "What makes your heart sing?",
+      "french": "Qu'est-ce qui fait chanter ton cœur ?",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537545"
+    },
+    {
+      "english": "Are we having a good time?",
+      "french": "Passons-nous un bon moment ?",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537547"
+    },
+    {
+      "english": "What brings such a spark to your eyes?",
+      "french": "Qu'est-ce qui met une telle étincelle dans tes yeux ?",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537549"
+    },
+    {
+      "english": "Tell me your happy thoughts.",
+      "french": "Raconte-moi tes pensées heureuses.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537551"
+    },
+    {
+      "english": "This makes my heart soar, truly.",
+      "french": "Ça me met le cœur en joie, vraiment.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537553"
+    },
+    {
+      "english": "I'm walking on air, today.",
+      "french": "Je plane, aujourd'hui.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537556"
+    },
+    {
+      "english": "Life is sweet, like honey.",
+      "french": "La vie est douce, comme le miel.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537558"
+    },
+    {
+      "english": "Everything is falling into place.",
+      "french": "Tout se met en place, nickel.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537560"
+    },
+    {
+      "english": "My spirits are high, you see.",
+      "french": "J'ai le moral au beau fixe, tu sais.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537562"
+    },
+    {
+      "english": "This is a moment of pure joy.",
+      "french": "C'est un moment, de pur bonheur.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537564"
+    },
+    {
+      "english": "I feel light as a feather.",
+      "french": "Je me sens léger comme une plume.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537566"
+    },
+    {
+      "english": "What a beautiful day, isn't it?",
+      "french": "Quelle belle journée, non ?",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537568"
+    },
+    {
+      "english": "Happiness has found me now.",
+      "french": "Le bonheur m'a trouvé, enfin.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537575"
+    },
+    {
+      "english": "My cup is overflowing, truly.",
+      "french": "Ma coupe déborde, tellement.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537577"
+    },
+    {
+      "english": "This feeling is electric, wow!",
+      "french": "Cette sensation, c'est électrique, waouh !",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537580"
+    },
+    {
+      "english": "A smile is painted on my face.",
+      "french": "J'ai un sourire aux lèvres, tout le temps.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537582"
+    },
+    {
+      "english": "Everything seems brighter, suddenly.",
+      "french": "Tout paraît plus lumineux, d'un coup.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537584"
+    },
+    {
+      "english": "I'm bursting with joy, really.",
+      "french": "Je déborde de joie, à l'intérieur.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537588"
+    },
+    {
+      "english": "This is the peak of my day.",
+      "french": "C'est le summum de ma journée.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537590"
+    },
+    {
+      "english": "I'm in a state of pure bliss.",
+      "french": "Je suis dans un état, d'euphorie.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537592"
+    },
+    {
+      "english": "This is better than I imagined.",
+      "french": "C'est mieux que ce que j'imaginais.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537595"
+    },
+    {
+      "english": "My worries have vanished, poof!",
+      "french": "Mes soucis se sont envolés, hop !",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537597"
+    },
+    {
+      "english": "Life is playing nice today.",
+      "french": "La vie me sourit, aujourd'hui.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537599"
+    },
+    {
+      "english": "This feels like winning the lottery.",
+      "french": "J'ai l'impression de gagner, au loto.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537601"
+    },
+    {
+      "english": "I'm on cloud nine, honestly.",
+      "french": "Je suis au septième ciel, sincèrement.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537603"
+    },
+    {
+      "english": "This situation is ideal, perfect.",
+      "french": "Cette situation, c'est l'idéal, parfait.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537605"
+    },
+    {
+      "english": "My soul is singing, happily.",
+      "french": "Mon âme chante, de bon cœur.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537607"
+    },
+    {
+      "english": "This is truly a happy occasion.",
+      "french": "C'est vraiment une heureuse occasion.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537609"
+    },
+    {
+      "english": "I feel a great sense of peace.",
+      "french": "Je ressens une grande sérénité.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537611"
+    },
+    {
+      "english": "Everything is going swimmingly.",
+      "french": "Tout roule, comme sur des roulettes.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537613"
+    },
+    {
+      "english": "This moment is pure gold.",
+      "french": "Ce moment, c'est de l'or pur.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537615"
+    },
+    {
+      "english": "I am beaming with delight.",
+      "french": "Je rayonne de plaisir, là.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537617"
+    },
+    {
+      "english": "This makes my day complete.",
+      "french": "Ça complète ma journée, là.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537619"
+    },
+    {
+      "english": "Cherish small moments, they matter.",
+      "french": "Chéris les petits moments, ils comptent.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537621"
+    },
+    {
+      "english": "Be patient, joy will come.",
+      "french": "Sois patient, la joie viendra.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537623"
+    },
+    {
+      "english": "Gratitude opens the heart, yes?",
+      "french": "La gratitude ouvre le cœur, non?",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537625"
+    },
+    {
+      "english": "Reflect often, on your blessings.",
+      "french": "Réfléchis souvent, sur tes bienfaits.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537627"
+    },
+    {
+      "english": "Honesty brings inner calm.",
+      "french": "L'honnêteté apporte le calme intérieur.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537629"
+    },
+    {
+      "english": "Are you honest with yourself?",
+      "french": "Es-tu honnête avec toi-même?",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537631"
+    },
+    {
+      "english": "Acceptance is a form of peace.",
+      "french": "L'acceptation est une forme de paix.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537633"
+    },
+    {
+      "english": "Feel your emotions, all of them.",
+      "french": "Ressens tes émotions, toutes.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537639"
+    },
+    {
+      "english": "This feeling is so genuine.",
+      "french": "Ce sentiment est si authentique.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537641"
+    },
+    {
+      "english": "True happiness comes from within.",
+      "french": "Le vrai bonheur vient de l'intérieur.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537643"
+    },
+    {
+      "english": "This moment feels so right.",
+      "french": "Ce moment semble si juste.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537645"
+    },
+    {
+      "english": "Allow yourself, to feel happy.",
+      "french": "Permets-toi, de te sentir heureux.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537647"
+    },
+    {
+      "english": "Is this your happy place?",
+      "french": "Est-ce ton endroit heureux?",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537648"
+    },
+    {
+      "english": "Share your joy, it multiplies.",
+      "french": "Partage ta joie, elle se multiplie.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537651"
+    },
+    {
+      "english": "What does happiness mean to you?",
+      "french": "Que signifie le bonheur pour toi?",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537652"
+    },
+    {
+      "english": "Your inner peace is paramount.",
+      "french": "Ta paix intérieure est primordiale.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537654"
+    },
+    {
+      "english": "Find beauty, in everyday things.",
+      "french": "Trouve la beauté, dans les choses de tous les jours.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537658"
+    },
+    {
+      "english": "Are you living authentically?",
+      "french": "Vis-tu de manière authentique?",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537660"
+    },
+    {
+      "english": "This feels truly authentic, yes.",
+      "french": "Ceci semble vraiment authentique, oui.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537662"
+    },
+    {
+      "english": "Forgiveness brings liberation.",
+      "french": "Le pardon apporte la libération.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537664"
+    },
+    {
+      "english": "What helps you feel serene?",
+      "french": "Qu'est-ce qui t'aide à te sentir serein?",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537666"
+    },
+    {
+      "english": "Take a break, recharge your batteries.",
+      "french": "Fais une pause, recharge tes batteries.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537668"
+    },
+    {
+      "english": "Listen to music, it lifts the mood.",
+      "french": "Écoute de la musique, ça remonte le moral.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537670"
+    },
+    {
+      "english": "Go for a walk, clear your head.",
+      "french": "Va marcher, aère tes pensées.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537672"
+    },
+    {
+      "english": "Laugh often, it's good medicine.",
+      "french": "Ris souvent, c'est bon pour la santé.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537674"
+    },
+    {
+      "english": "Connect with loved ones, it feels good.",
+      "french": "Connecte-toi avec tes proches, ça fait du bien.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537678"
+    },
+    {
+      "english": "Help someone, it feels rewarding.",
+      "french": "Aide quelqu'un, c'est gratifiant.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537680"
+    },
+    {
+      "english": "Cook a nice meal, enjoy flavors.",
+      "french": "Cuisine un bon plat, savoure les goûts.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537682"
+    },
+    {
+      "english": "Learn something new, expand your mind.",
+      "french": "Apprends quelque chose de neuf, élargis ton esprit.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537684"
+    },
+    {
+      "english": "Spend time in nature, it calms you.",
+      "french": "Passe du temps dehors, ça apaise.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537687"
+    },
+    {
+      "english": "Organize your space, it brings order.",
+      "french": "Range ton espace, ça met de l'ordre.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T07:14:24.537688"
     }
   ],
-  "last_updated": "2026-10-26T05:52:42.639106"
+  "last_updated": "2026-11-01T07:14:24.537690"
 }
