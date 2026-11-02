@@ -15083,7 +15083,727 @@
       "french": "Range ton espace, ça met de l'ordre.",
       "category": "Happiness",
       "generated_at": "2026-11-01T07:14:24.537688"
+    },
+    {
+      "english": "Pause, take a deep breath, my friend.",
+      "french": "Pause, prends une grande inspiration, mon ami.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766120"
+    },
+    {
+      "english": "Just be here, right now.",
+      "french": "Sois juste ici, maintenant.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766137"
+    },
+    {
+      "english": "Feel the air, cool on your skin.",
+      "french": "Sens l'air, frais sur ta peau.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766141"
+    },
+    {
+      "english": "What do you hear, right now?",
+      "french": "Qu'est-ce que tu entends, maintenant ?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766145"
+    },
+    {
+      "english": "Look around, really see.",
+      "french": "Regarde autour, vois vraiment.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766148"
+    },
+    {
+      "english": "Your body is calm, at peace.",
+      "french": "Ton corps est calme, en paix.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766150"
+    },
+    {
+      "english": "Let thoughts come, let them go.",
+      "french": "Laisse les pensées venir, laisse-les partir.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766154"
+    },
+    {
+      "english": "This single moment, is enough.",
+      "french": "Cet instant unique, suffit.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766159"
+    },
+    {
+      "english": "Notice the light, on your face.",
+      "french": "Remarque la lumière, sur ton visage.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766166"
+    },
+    {
+      "english": "Smile gently, at yourself.",
+      "french": "Souris doucement, à toi-même.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766169"
+    },
+    {
+      "english": "Ground yourself, feel stable.",
+      "french": "Ancre-toi, sens-toi stable.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766172"
+    },
+    {
+      "english": "Accept what is, without judgment.",
+      "french": "Accepte ce qui est, sans jugement.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766175"
+    },
+    {
+      "english": "Release the tension, in your jaw.",
+      "french": "Relâche la tension, dans ta mâchoire.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766178"
+    },
+    {
+      "english": "Feel the warmth, inside you.",
+      "french": "Sens la chaleur, en toi.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766181"
+    },
+    {
+      "english": "Open your heart, to kindness.",
+      "french": "Ouvre ton cœur, à la gentillesse.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766183"
+    },
+    {
+      "english": "Be present, with every step.",
+      "french": "Sois présent, à chaque pas.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766186"
+    },
+    {
+      "english": "Savor this simple breath.",
+      "french": "Savoure cette simple respiration.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766188"
+    },
+    {
+      "english": "Find stillness, within the noise.",
+      "french": "Trouve le calme, dans le bruit.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766191"
+    },
+    {
+      "english": "Observe your feelings, kindly.",
+      "french": "Observe tes émotions, avec gentillesse.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766193"
+    },
+    {
+      "english": "This breath anchors you.",
+      "french": "Cette respiration t'ancre.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766196"
+    },
+    {
+      "english": "Gentle awareness, is enough.",
+      "french": "Une conscience douce, suffit.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766198"
+    },
+    {
+      "english": "You are here, exactly now.",
+      "french": "Tu es ici, exactement maintenant.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766201"
+    },
+    {
+      "english": "Notice the pause, between sounds.",
+      "french": "Remarque la pause, entre les sons.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766204"
+    },
+    {
+      "english": "Rest in this moment.",
+      "french": "Repose-toi dans cet instant.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766206"
+    },
+    {
+      "english": "Feel your hands, resting now.",
+      "french": "Sens tes mains, qui reposent.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766209"
+    },
+    {
+      "english": "Let go, of what is past.",
+      "french": "Lâche ce qui est passé.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766211"
+    },
+    {
+      "english": "Be kind, to your mind.",
+      "french": "Sois gentil, avec ton esprit.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766214"
+    },
+    {
+      "english": "Notice the space, around you.",
+      "french": "Remarque l'espace, autour de toi.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766216"
+    },
+    {
+      "english": "Just this breath, is perfect.",
+      "french": "Juste cette respiration, est parfaite.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766219"
+    },
+    {
+      "english": "You are whole, right now.",
+      "french": "Tu es entier, tout de suite.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766221"
+    },
+    {
+      "english": "How was your meditation, today?",
+      "french": "Comment était ta méditation, aujourd'hui ?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766224"
+    },
+    {
+      "english": "What did you notice, inside you?",
+      "french": "Qu'as-tu remarqué, à l'intérieur ?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766230"
+    },
+    {
+      "english": "Can you share, your experience?",
+      "french": "Peux-tu partager, ton expérience ?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766235"
+    },
+    {
+      "english": "What helps you, to focus?",
+      "french": "Qu'est-ce qui t'aide, à te concentrer ?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766238"
+    },
+    {
+      "english": "Did you feel, a shift?",
+      "french": "As-tu ressenti, un changement ?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766244"
+    },
+    {
+      "english": "Any advice, for beginners?",
+      "french": "Des conseils, pour les débutants ?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766247"
+    },
+    {
+      "english": "How do you handle, distraction?",
+      "french": "Comment gères-tu, la distraction ?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766250"
+    },
+    {
+      "english": "What's your favorite, mindful practice?",
+      "french": "Quelle est ta pratique, de pleine conscience préférée ?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766253"
+    },
+    {
+      "english": "Can we try, this together?",
+      "french": "Pouvons-nous essayer, ceci ensemble ?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766256"
+    },
+    {
+      "english": "What's on your mind, right now?",
+      "french": "Qu'y a-t-il dans ta tête, maintenant ?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766259"
+    },
+    {
+      "english": "Do you find, it peaceful?",
+      "french": "Trouves-tu, cela paisible ?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766262"
+    },
+    {
+      "english": "Can you guide me, please?",
+      "french": "Peux-tu me guider, s'il te plaît ?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766264"
+    },
+    {
+      "english": "What's this feeling, about?",
+      "french": "À quoi sert cette sensation ?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766267"
+    },
+    {
+      "english": "How do you recenter, yourself?",
+      "french": "Comment te récentres-tu ?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766270"
+    },
+    {
+      "english": "Is this normal, to feel?",
+      "french": "Est-ce normal, de ressentir ça ?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766273"
+    },
+    {
+      "english": "What do you suggest, for calm?",
+      "french": "Que suggères-tu, pour le calme ?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766275"
+    },
+    {
+      "english": "Are you present, with me?",
+      "french": "Es-tu présent(e), avec moi ?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766278"
+    },
+    {
+      "english": "What's the lesson, here?",
+      "french": "Quelle est la leçon, ici ?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766282"
+    },
+    {
+      "english": "Should I breathe, deeper?",
+      "french": "Dois-je respirer, plus profondément ?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766285"
+    },
+    {
+      "english": "What do you recommend, to start?",
+      "french": "Que recommandes-tu, pour commencer ?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766288"
+    },
+    {
+      "english": "How was your day, truly?",
+      "french": "Comment s'est passée ta journée, vraiment ?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766291"
+    },
+    {
+      "english": "Can you see, the beauty?",
+      "french": "Peux-tu voir, la beauté ?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766293"
+    },
+    {
+      "english": "Are we connected, now?",
+      "french": "Sommes-nous connectés, maintenant ?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766296"
+    },
+    {
+      "english": "What if I feel, nothing?",
+      "french": "Et si je ne ressens, rien ?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766298"
+    },
+    {
+      "english": "How do you stay, grounded?",
+      "french": "Comment restes-tu, ancré(e) ?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766301"
+    },
+    {
+      "english": "Shall we pause, for a moment?",
+      "french": "Faisons-nous une pause, un instant ?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766304"
+    },
+    {
+      "english": "What's your intention, today?",
+      "french": "Quelle est ton intention, aujourd'hui ?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766307"
+    },
+    {
+      "english": "Can you feel, the energy?",
+      "french": "Peux-tu sentir, l'énergie ?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766309"
+    },
+    {
+      "english": "Trust your progress, slowly.",
+      "french": "Fais confiance à ton progrès, doucement.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766312"
+    },
+    {
+      "english": "You've got this, breathe in.",
+      "french": "Tu peux le faire, inspire.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766315"
+    },
+    {
+      "english": "Good job, keep going.",
+      "french": "Bien joué, continue comme ça.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766321"
+    },
+    {
+      "english": "Your calm is growing, isn't it?",
+      "french": "Ton calme grandit, n'est-ce pas ?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766324"
+    },
+    {
+      "english": "Take a moment, for yourself.",
+      "french": "Prends un moment, pour toi.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766327"
+    },
+    {
+      "english": "This is your time, shine.",
+      "french": "C'est ton moment, brille.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766330"
+    },
+    {
+      "english": "You have the strength, within.",
+      "french": "Tu as la force, en toi.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766335"
+    },
+    {
+      "english": "Focus on the positive, always.",
+      "french": "Concentre-toi sur le positif, toujours.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766338"
+    },
+    {
+      "english": "You are capable, of anything.",
+      "french": "Tu es capable, de tout.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766341"
+    },
+    {
+      "english": "Give yourself, some grace.",
+      "french": "Accorde-toi, de la douceur.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766344"
+    },
+    {
+      "english": "You deserve, this peace.",
+      "french": "Tu mérites, cette paix.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766346"
+    },
+    {
+      "english": "Keep that positive, vibe.",
+      "french": "Garde cette énergie, positive.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766349"
+    },
+    {
+      "english": "Celebrate small wins, daily.",
+      "french": "Célèbre les petites victoires, chaque jour.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766352"
+    },
+    {
+      "english": "You are learning, well.",
+      "french": "Tu apprends, bien.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766355"
+    },
+    {
+      "english": "Don't give up, easily.",
+      "french": "N'abandonne pas, facilement.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766358"
+    },
+    {
+      "english": "You are resilient, friend.",
+      "french": "Tu es résilient, mon ami.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766360"
+    },
+    {
+      "english": "Embrace your inner, strength.",
+      "french": "Embrasse ta force intérieure.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766363"
+    },
+    {
+      "english": "You are building, peace.",
+      "french": "Tu construis, la paix.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766366"
+    },
+    {
+      "english": "Trust the process, always.",
+      "french": "Fais confiance au processus, toujours.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766368"
+    },
+    {
+      "english": "You are creating, calm.",
+      "french": "Tu crées, le calme.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766371"
+    },
+    {
+      "english": "Be proud, of you.",
+      "french": "Sois fier, de toi.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766374"
+    },
+    {
+      "english": "You are enough, just as you are.",
+      "french": "Tu es suffisant, tel que tu es.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766377"
+    },
+    {
+      "english": "Listen to your heart, quietly.",
+      "french": "Écoute ton cœur, tranquillement.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766379"
+    },
+    {
+      "english": "What does your intuition say?",
+      "french": "Que dit ton intuition ?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766382"
+    },
+    {
+      "english": "Allow yourself, to feel deeply.",
+      "french": "Permets-toi, de ressentir profondément.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766385"
+    },
+    {
+      "english": "Be patient, with the unfolding.",
+      "french": "Sois patient(e), avec le déroulement.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766388"
+    },
+    {
+      "english": "What's beneath the surface?",
+      "french": "Qu'y a-t-il sous la surface ?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766390"
+    },
+    {
+      "english": "I accept myself, as I am.",
+      "french": "Je m'accepte, tel(le) que je suis.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766393"
+    },
+    {
+      "english": "Let go, of what doesn't serve.",
+      "french": "Lâche prise, sur ce qui ne sert pas.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766398"
+    },
+    {
+      "english": "Reflect on your journey, gently.",
+      "french": "Réfléchis à ton parcours, doucement.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766401"
+    },
+    {
+      "english": "This moment holds, wisdom.",
+      "french": "Cet instant recèle, de la sagesse.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766404"
+    },
+    {
+      "english": "My thoughts are not, my truth.",
+      "french": "Mes pensées ne sont pas, ma vérité.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766406"
+    },
+    {
+      "english": "What am I learning, right now?",
+      "french": "Qu'apprends-je, en ce moment même ?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766409"
+    },
+    {
+      "english": "Honesty with myself, first.",
+      "french": "L'honnêteté avec moi-même, d'abord.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766412"
+    },
+    {
+      "english": "What truly matters, to me?",
+      "french": "Qu'est-ce qui compte, vraiment pour moi ?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766415"
+    },
+    {
+      "english": "Feel the gentle release, now.",
+      "french": "Sens le doux relâchement, maintenant.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766417"
+    },
+    {
+      "english": "My inner voice, is wise.",
+      "french": "Ma voix intérieure, est sage.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766422"
+    },
+    {
+      "english": "Observe without judgment, please.",
+      "french": "Observe sans juger, s'il te plaît.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766425"
+    },
+    {
+      "english": "This challenge, offers growth.",
+      "french": "Ce défi, offre une croissance.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766430"
+    },
+    {
+      "english": "Sincerity is key, always.",
+      "french": "La sincérité est la clé, toujours.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766433"
+    },
+    {
+      "english": "What am I grateful, for today?",
+      "french": "Pour quoi suis-je reconnaissant(e), aujourd'hui ?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766436"
+    },
+    {
+      "english": "Pause and simply, be here.",
+      "french": "Pause et sois simplement, ici.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766438"
+    },
+    {
+      "english": "My peace is my, priority.",
+      "french": "Ma paix est ma, priorité.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766441"
+    },
+    {
+      "english": "Trust your inner knowing, deeply.",
+      "french": "Fais confiance à ton savoir intérieur, profondément.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766444"
+    },
+    {
+      "english": "What's truly important, now?",
+      "french": "Qu'est-ce qui est vraiment important, maintenant ?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766447"
+    },
+    {
+      "english": "Breathe into the feeling, gently.",
+      "french": "Respire dans le sentiment, doucement.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766449"
+    },
+    {
+      "english": "This is a moment, for me.",
+      "french": "C'est un moment, pour moi.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766452"
+    },
+    {
+      "english": "Listen to your wisdom, within.",
+      "french": "Écoute ta sagesse, intérieure.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766454"
+    },
+    {
+      "english": "Let peace wash over, you.",
+      "french": "Laisse la paix t'envahir, doucement.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766457"
+    },
+    {
+      "english": "Take it easy, today.",
+      "french": "Prends ça tranquillement, aujourd'hui.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766460"
+    },
+    {
+      "english": "Just breathe, and smile.",
+      "french": "Respire, et souris.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766463"
+    },
+    {
+      "english": "Enjoy this simple, moment.",
+      "french": "Savoure cet instant, simple.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766465"
+    },
+    {
+      "english": "What do you need, now?",
+      "french": "De quoi as-tu besoin, maintenant ?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766468"
+    },
+    {
+      "english": "Let small joys, surface.",
+      "french": "Laisse les petites joies, remonter.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766473"
+    },
+    {
+      "english": "Your pace, is perfect.",
+      "french": "Ton rythme, est parfait.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766477"
+    },
+    {
+      "english": "Find stillness, within you.",
+      "french": "Trouve le calme, en toi.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766480"
+    },
+    {
+      "english": "This is your, sanctuary.",
+      "french": "Ceci est ton, sanctuaire.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766483"
+    },
+    {
+      "english": "Sip your tea, slowly.",
+      "french": "Sirote ton thé, doucement.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766485"
+    },
+    {
+      "english": "Notice the quiet, sounds.",
+      "french": "Remarque les sons, discrets.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766488"
+    },
+    {
+      "english": "One breath, at a time.",
+      "french": "Une respiration, à la fois.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766491"
+    },
+    {
+      "english": "What feels good, right now?",
+      "french": "Qu'est-ce qui fait du bien, là ?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766493"
+    },
+    {
+      "english": "Let worries, just drift.",
+      "french": "Laisse les soucis, s'envoler.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-02T07:27:45.766496"
     }
   ],
-  "last_updated": "2026-11-01T07:14:24.537690"
+  "last_updated": "2026-11-02T07:27:45.766498"
 }
