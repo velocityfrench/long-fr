@@ -1,5 +1,5 @@
 import sys, os, subprocess, json
-os.environ['AI_MODEL'] = 'gemini-fast'
+os.environ['AI_MODEL'] = 'openai/gpt-5.4-nano'
 sys.path.insert(0, ".")
 from pathlib import Path
 from PIL import Image, ImageDraw, ImageFont
