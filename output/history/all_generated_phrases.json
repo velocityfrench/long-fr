@@ -15803,7 +15803,727 @@
       "french": "Laisse les soucis, s'envoler.",
       "category": "Mindfulness",
       "generated_at": "2026-11-02T07:27:45.766496"
+    },
+    {
+      "english": "Hi, can I see the menu, please?",
+      "french": "Bonjour, je peux voir la carte, s’il vous plaît ?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407348"
+    },
+    {
+      "english": "What do you recommend today, honestly?",
+      "french": "Vous me conseillez quoi aujourd’hui, franchement ?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407363"
+    },
+    {
+      "english": "Do you have something quick, by chance?",
+      "french": "Vous avez quelque chose de rapide, par hasard ?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407365"
+    },
+    {
+      "english": "I’ll have this one, please, thanks.",
+      "french": "Je prends celui-ci, s’il vous plaît, merci.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407369"
+    },
+    {
+      "english": "Can I change the drink, please?",
+      "french": "Je peux changer la boisson, s’il vous plaît ?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407371"
+    },
+    {
+      "english": "No, never mind, I’ll choose another.",
+      "french": "Non, laisse tomber, je prends autre chose.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407376"
+    },
+    {
+      "english": "Is it spicy, like, really?",
+      "french": "C’est épicé, enfin, ça pique vraiment ?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407378"
+    },
+    {
+      "english": "Sorry, what’s in it exactly?",
+      "french": "Pardon, c’est quoi dedans, exactement ?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407384"
+    },
+    {
+      "english": "I’m allergic to peanuts, just so you know.",
+      "french": "Je suis allergique aux arachides, juste pour dire.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407387"
+    },
+    {
+      "english": "Can I get a table for two, please?",
+      "french": "On peut avoir une table pour deux, s’il vous plaît ?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407390"
+    },
+    {
+      "english": "We’d like water, still, please.",
+      "french": "On voudrait de l’eau, plate, s’il vous plaît.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407393"
+    },
+    {
+      "english": "Do you have vegetarian options, too?",
+      "french": "Vous avez des options végétariennes, aussi ?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407395"
+    },
+    {
+      "english": "Great, I’ll take it, thanks a lot.",
+      "french": "Parfait, je le prends, merci beaucoup.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407398"
+    },
+    {
+      "english": "Wait, can we split the bill, please?",
+      "french": "Attendez, on peut séparer l’addition, s’il vous plaît ?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407400"
+    },
+    {
+      "english": "Is there bread with this, usually?",
+      "french": "Il y a du pain avec ça, d’habitude ?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407402"
+    },
+    {
+      "english": "That smells amazing, wow.",
+      "french": "Ça sent trop bon, wow !",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407403"
+    },
+    {
+      "english": "I’ll start with something light.",
+      "french": "Je commence par quelque chose de léger.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407406"
+    },
+    {
+      "english": "Can I get the bill, please, right now?",
+      "french": "L’addition, s’il vous plaît, tout de suite.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407408"
+    },
+    {
+      "english": "One coffee, please, and no sugar.",
+      "french": "Un café, s’il vous plaît, sans sucre.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407410"
+    },
+    {
+      "english": "Is it fresh, or was it prepared earlier?",
+      "french": "C’est fait maison, ou c’est préparé avant ?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407412"
+    },
+    {
+      "english": "I changed my mind, actually.",
+      "french": "En fait, j’ai changé d’avis.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407414"
+    },
+    {
+      "english": "Do you have a smaller portion?",
+      "french": "Vous avez une portion plus petite ?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407416"
+    },
+    {
+      "english": "Sorry, can you repeat that, please?",
+      "french": "Désolé, vous pouvez répéter, s’il vous plaît ?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407418"
+    },
+    {
+      "english": "No worries, we’re just browsing.",
+      "french": "Pas de souci, on regarde juste.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407420"
+    },
+    {
+      "english": "Could I get it to go, please?",
+      "french": "Je peux l’avoir à emporter, s’il vous plaît ?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407422"
+    },
+    {
+      "english": "I’ll pay by card, if that’s okay.",
+      "french": "Je paie par carte, si ça va.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407425"
+    },
+    {
+      "english": "Do you have salt, pepper, and lemon?",
+      "french": "Vous avez du sel, du poivre, et du citron ?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407427"
+    },
+    {
+      "english": "Is the table free right here?",
+      "french": "La table est libre, ici, s’il vous plaît ?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407428"
+    },
+    {
+      "english": "I’m still hungry, any extra side?",
+      "french": "J’ai encore faim, vous avez un accompagnement ?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407445"
+    },
+    {
+      "english": "Could you tell me what's popular here?",
+      "french": "Tu me dis ce qui marche le plus ici ?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407449"
+    },
+    {
+      "english": "Is there a chef’s special tonight, maybe?",
+      "french": "Il y a un plat du chef ce soir ?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407453"
+    },
+    {
+      "english": "How long does it take to arrive?",
+      "french": "Ça met combien de temps, en général ?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407456"
+    },
+    {
+      "english": "What comes with it, usually?",
+      "french": "Il y a quoi avec, d’habitude ?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407459"
+    },
+    {
+      "english": "Do you have any non-alcoholic options?",
+      "french": "Vous proposez des boissons sans alcool ?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407461"
+    },
+    {
+      "english": "Can I get it less salty, please?",
+      "french": "Je peux l’avoir moins salé, s’il vous plaît ?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407463"
+    },
+    {
+      "english": "Is the sauce on the side?",
+      "french": "La sauce est à part, ou pas ?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407464"
+    },
+    {
+      "english": "What’s the size, small or regular?",
+      "french": "C’est en petit format, ou plutôt grand ?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407467"
+    },
+    {
+      "english": "Do you have gluten-free options here?",
+      "french": "Vous avez des options sans gluten ?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407470"
+    },
+    {
+      "english": "Is this dish heavy, or rather light?",
+      "french": "Ce plat est lourd, ou c’est plutôt léger ?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407472"
+    },
+    {
+      "english": "Could I taste it first, before ordering?",
+      "french": "Je peux goûter avant de commander ?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407474"
+    },
+    {
+      "english": "What’s in the salad, exactly?",
+      "french": "Y a quoi dans la salade, exactement ?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407477"
+    },
+    {
+      "english": "Do you have a kids’ menu, please?",
+      "french": "Vous avez un menu enfant, s’il vous plaît ?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407480"
+    },
+    {
+      "english": "Is it freshly made, right now?",
+      "french": "C’est fait maison, là tout de suite ?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407482"
+    },
+    {
+      "english": "Can we sit near the window, maybe?",
+      "french": "On peut être près de la fenêtre ?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407484"
+    },
+    {
+      "english": "Do you offer any bread starter, by chance?",
+      "french": "Vous servez quelque chose avant, avec le pain ?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407485"
+    },
+    {
+      "english": "Is tap water available here?",
+      "french": "L’eau du robinet est possible ?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407487"
+    },
+    {
+      "english": "Can I see the wine list, please?",
+      "french": "Je peux voir la carte des vins ?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407489"
+    },
+    {
+      "english": "Which dessert goes best with coffee?",
+      "french": "Quel dessert va bien avec le café ?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407491"
+    },
+    {
+      "english": "Is there a special sauce recommendation?",
+      "french": "Vous conseillez une sauce en particulier ?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407493"
+    },
+    {
+      "english": "If I’m ordering now, is it quick?",
+      "french": "Si je commande maintenant, c’est rapide ?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407495"
+    },
+    {
+      "english": "Can you suggest something not too sweet?",
+      "french": "Vous auriez un choix pas trop sucré ?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407497"
+    },
+    {
+      "english": "Does this contain dairy, by any chance?",
+      "french": "Il y a du lait là-dedans, peut-être ?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407499"
+    },
+    {
+      "english": "Would you say it’s spicy, overall?",
+      "french": "Tu dirais que c’est pimenté, au total ?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407501"
+    },
+    {
+      "english": "Can I have extra napkins, please?",
+      "french": "Je peux avoir des serviettes en plus ?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407503"
+    },
+    {
+      "english": "How is the fish prepared here?",
+      "french": "Le poisson, il est préparé comment ?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407504"
+    },
+    {
+      "english": "Is there a waiting list for popular dishes?",
+      "french": "Il y a une liste d’attente pour ça ?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407507"
+    },
+    {
+      "english": "Could you adjust the portion for me?",
+      "french": "Vous pouvez réduire la portion ?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407509"
+    },
+    {
+      "english": "Do you have any recommendations for tonight?",
+      "french": "Vous me conseillez quoi ce soir ?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407511"
+    },
+    {
+      "english": "What’s the best pairing with this dish?",
+      "french": "Ça se marie bien avec quoi, selon vous ?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407513"
+    },
+    {
+      "english": "You’ve got this, order confidently, smile.",
+      "french": "Tu gères, commande avec confiance, souris.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407516"
+    },
+    {
+      "english": "Start simple, then upgrade once you taste it.",
+      "french": "Commence simple, puis améliore après la première bouchée.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407518"
+    },
+    {
+      "english": "Great choice, you’re about to enjoy this.",
+      "french": "Super choix, tu vas te régaler.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407522"
+    },
+    {
+      "english": "I’m excited, let’s go with something classic.",
+      "french": "Je suis motivé, allons-y pour un classique.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407526"
+    },
+    {
+      "english": "Perfect, I’ll try the chef’s vibe today.",
+      "french": "Parfait, je teste les saveurs du chef aujourd’hui.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407528"
+    },
+    {
+      "english": "Ask for the best, you deserve the good stuff.",
+      "french": "Demande le meilleur, tu mérites du top.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407531"
+    },
+    {
+      "english": "Keep it easy, just recommend what you’d order.",
+      "french": "Simple, recommande-moi ce que tu prendrais.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407533"
+    },
+    {
+      "english": "Confidence, one dish at a time, then adjust.",
+      "french": "Avec confiance, un plat à la fois, puis on ajuste.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407535"
+    },
+    {
+      "english": "Go for it, I’m ready to order now.",
+      "french": "Vas-y, je suis prêt à commander maintenant.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407538"
+    },
+    {
+      "english": "No overthinking, I’ll pick something popular.",
+      "french": "Pas de prise de tête, je prends ce qui plaît.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407540"
+    },
+    {
+      "english": "Small steps, I’ll start with an appetizer.",
+      "french": "Petites étapes, je commence par une entrée.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407544"
+    },
+    {
+      "english": "You know what, let’s make it a combo.",
+      "french": "Tu sais quoi, prenons un menu ensemble.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407547"
+    },
+    {
+      "english": "Stay positive, even if it’s busy, it’s worth it.",
+      "french": "Reste positif, même si c’est bondé, ça vaut le coup.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407550"
+    },
+    {
+      "english": "Nice, I’ll follow your suggestion, trust me.",
+      "french": "Parfait, je suis ton conseil, fais-moi confiance.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407552"
+    },
+    {
+      "english": "Today’s plan, order first, enjoy later.",
+      "french": "Plan du jour, je commande d’abord, je profite après.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407555"
+    },
+    {
+      "english": "Good energy, I’ll take the most balanced option.",
+      "french": "Bonne énergie, je prends l’option la plus équilibrée.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407558"
+    },
+    {
+      "english": "Let’s do it, I’m ready for dessert.",
+      "french": "On y va, je suis partant pour le dessert.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407560"
+    },
+    {
+      "english": "Quick win, I’ll order the signature dish.",
+      "french": "Victoire rapide, je prends le plat signature.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407562"
+    },
+    {
+      "english": "Nice and simple, I’ll keep it classic.",
+      "french": "C’est simple, je reste sur du classique.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407565"
+    },
+    {
+      "english": "Stay calm, you’ll find your favorite fast.",
+      "french": "Reste calme, tu trouveras vite ton plat préféré.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407567"
+    },
+    {
+      "english": "Thanks, I appreciate the help, that helps a lot.",
+      "french": "Merci, j’apprécie ton aide, ça aide vraiment.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407570"
+    },
+    {
+      "english": "I’m choosing now, let’s make it happen.",
+      "french": "Je choisis maintenant, on y va.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407572"
+    },
+    {
+      "english": "You’re doing great, I’ll wait for your pick.",
+      "french": "Tu gères, je t’attends pour ta suggestion.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407576"
+    },
+    {
+      "english": "All good, I’ll take one more thing, why not?",
+      "french": "Tout va bien, je prends un petit extra, pourquoi pas ?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407578"
+    },
+    {
+      "english": "Smart move, I’ll try the house specialty.",
+      "french": "Bonne décision, je goûte la spécialité de la maison.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407581"
+    },
+    {
+      "english": "Happy vibes, I’ll order what’s best today.",
+      "french": "Ambiance positive, je prends ce qui est le mieux aujourd’hui.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407583"
+    },
+    {
+      "english": "Don’t stress, if needed, you can adjust later.",
+      "french": "Ne t’inquiète pas, si besoin, on ajuste après.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407586"
+    },
+    {
+      "english": "I trust your taste, surprise me with something.",
+      "french": "Je te fais confiance, surprends-moi avec quelque chose.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407588"
+    },
+    {
+      "english": "That’s it, I’m ready, let’s place the order.",
+      "french": "C’est bon, je suis prêt, on passe commande.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407591"
+    },
+    {
+      "english": "I’m feeling indecisive, help me choose softly.",
+      "french": "Je suis un peu indécis, aide-moi doucement à choisir.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407593"
+    },
+    {
+      "english": "Honestly, I want comfort food tonight.",
+      "french": "Honnêtement, j’ai envie d’un plat réconfortant ce soir.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407595"
+    },
+    {
+      "english": "Take your time, I’ll wait without rushing.",
+      "french": "Prenez votre temps, je vais attendre sans me presser.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407598"
+    },
+    {
+      "english": "I’d like something familiar, not too complicated.",
+      "french": "Je voudrais quelque chose de familier, sans trop compliquer.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407601"
+    },
+    {
+      "english": "I’m in a sentimental mood, surprise me gently.",
+      "french": "Je suis d’humeur sentimentale, surprends-moi doucement.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407603"
+    },
+    {
+      "english": "If it’s possible, I’ll keep it light today.",
+      "french": "Si c’est possible, je le veux léger aujourd’hui.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407606"
+    },
+    {
+      "english": "I don’t want a big fuss, just sincere recommendations.",
+      "french": "Je ne veux pas de grand spectacle, juste des suggestions sincères.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407609"
+    },
+    {
+      "english": "Be honest, I’m testing my taste today.",
+      "french": "Soyez honnête, je teste mes goûts aujourd’hui.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407611"
+    },
+    {
+      "english": "I’m not in the mood for extremes, please.",
+      "french": "Je ne suis pas d’humeur aux extrêmes, s’il vous plaît.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407613"
+    },
+    {
+      "english": "I’m okay waiting, I just want it done right.",
+      "french": "Je peux attendre, je veux juste que ce soit bien fait.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407616"
+    },
+    {
+      "english": "Let’s go simple, but make it meaningful.",
+      "french": "Allons simple, mais avec du sens.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407618"
+    },
+    {
+      "english": "I’m feeling brave, surprise me with balance.",
+      "french": "Je me sens courageux, surprends-moi avec l’équilibre.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407621"
+    },
+    {
+      "english": "I want something comforting, yet a bit fresh.",
+      "french": "Je veux quelque chose de réconfortant, mais un peu frais.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407624"
+    },
+    {
+      "english": "No rush, I’ll order when I feel ready.",
+      "french": "Sans pression, je commanderai quand je serai prêt.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407628"
+    },
+    {
+      "english": "I’m watching my mood, what suits me best?",
+      "french": "Je fais attention à mon humeur, quoi me va le mieux?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407631"
+    },
+    {
+      "english": "Honestly, I need a calm, cozy plate.",
+      "french": "Honnêtement, j’ai besoin d’un plat calme et cosy.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407633"
+    },
+    {
+      "english": "If you can, suggest something that feels safe.",
+      "french": "Si possible, propose-moi quelque chose de sûr.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407635"
+    },
+    {
+      "english": "I’m low-key hungry, what’s still satisfying?",
+      "french": "Je mange doucement, quoi reste vraiment satisfaisant?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407638"
+    },
+    {
+      "english": "I want to savor, not just grab food fast.",
+      "french": "Je veux savourer, pas juste attraper vite.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407640"
+    },
+    {
+      "english": "I’m trying something new, but keep it gentle.",
+      "french": "Je veux essayer, mais garde ça doux.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407643"
+    },
+    {
+      "english": "Tell me what you’d order, truly.",
+      "french": "Dis-moi ce que tu commanderais, vraiment.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407645"
+    },
+    {
+      "english": "I’m a little picky, explain it clearly, please.",
+      "french": "Je suis un peu difficile, explique-moi clairement, s’il te plaît.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407648"
+    },
+    {
+      "english": "I want honest spice, not surprise heat.",
+      "french": "Je veux du piment honnête, pas une chaleur inattendue.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407650"
+    },
+    {
+      "english": "I’m here for the vibe, keep it real.",
+      "french": "Je suis venu pour l’ambiance, reste authentique.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407653"
+    },
+    {
+      "english": "I’ll take your pick, I trust your judgment.",
+      "french": "Je prends ton choix, je fais confiance à ton jugement.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407655"
+    },
+    {
+      "english": "I want a calm start, then we’ll build.",
+      "french": "Je veux un départ calme, puis on construit.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407657"
+    },
+    {
+      "english": "Please be patient, I’m listening for details.",
+      "french": "Soyez patient, je vous écoute pour les détails.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407660"
+    },
+    {
+      "english": "I’m feeling romantic, something light and charming.",
+      "french": "Je suis d’humeur romantique, quelque chose de léger et charmant.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407663"
+    },
+    {
+      "english": "I just want the best fit for my night.",
+      "french": "Je veux juste la meilleure option pour ma soirée.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407665"
+    },
+    {
+      "english": "Quick question, can I get it to-go?",
+      "french": "Petite question, vous pouvez me le prendre à emporter ?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407667"
+    },
+    {
+      "english": "Is there a vegetarian option, just tell me.",
+      "french": "Vous avez une option végétarienne, dites-moi simplement ?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407669"
+    },
+    {
+      "english": "Do you have gluten-free choices today?",
+      "french": "Vous avez des options sans gluten, aujourd’hui ?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:44:09.407671"
     }
   ],
-  "last_updated": "2026-11-02T07:27:45.766498"
+  "last_updated": "2026-11-03T07:44:09.407673"
 }
