@@ -16523,7 +16523,727 @@
       "french": "Vous avez des options sans gluten, aujourd’hui ?",
       "category": "Ordering Food & Dining",
       "generated_at": "2026-11-03T07:44:09.407671"
+    },
+    {
+      "english": "Okay, I’m not quitting, I’m continuing.",
+      "french": "Bon, je ne lâche pas, je continue.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762357"
+    },
+    {
+      "english": "Again, we try, no stress, just move.",
+      "french": "Encore, on essaie, pas de stress, on avance.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762368"
+    },
+    {
+      "english": "It’s rough, but I keep going.",
+      "french": "C’est dur, mais je continue.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762372"
+    },
+    {
+      "english": "Take a breath, then try again.",
+      "french": "Respire, puis tu retentes.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762375"
+    },
+    {
+      "english": "Come on, focus, one step at a time.",
+      "french": "Allez, concentre-toi, un pas après l’autre.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762379"
+    },
+    {
+      "english": "No panic, we’ll figure it out slowly.",
+      "french": "Pas de panique, on va comprendre doucement.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762382"
+    },
+    {
+      "english": "I’ll restart, because it’s worth it.",
+      "french": "Je repars, parce que ça vaut le coup.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762386"
+    },
+    {
+      "english": "Even stuck, I push forward.",
+      "french": "Même bloqué, j’avance.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762391"
+    },
+    {
+      "english": "Small win today, keep the rhythm.",
+      "french": "Petite victoire aujourd’hui, garde le rythme.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762395"
+    },
+    {
+      "english": "Not yet, but I’m getting closer.",
+      "french": "Pas encore, mais je me rapproche.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762398"
+    },
+    {
+      "english": "I stay steady, I don’t quit.",
+      "french": "Je reste constant, je ne lâche pas.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762402"
+    },
+    {
+      "english": "Say it again, you’re building confidence.",
+      "french": "Répète encore, tu gagnes en confiance.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762405"
+    },
+    {
+      "english": "I can handle this, one bit.",
+      "french": "Je peux gérer, morceau par morceau.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762408"
+    },
+    {
+      "english": "It’ll pass, meanwhile I keep working.",
+      "french": "Ça va passer, en attendant je travaille.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762411"
+    },
+    {
+      "english": "I fall, I bounce back, no big deal.",
+      "french": "Je tombe, je rebondis, rien de grave.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762414"
+    },
+    {
+      "english": "Let’s go again, we’re learning.",
+      "french": "On y retourne, on apprend.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762417"
+    },
+    {
+      "english": "I won’t overthink, I act now.",
+      "french": "J’y réfléchis pas trop, j’agis maintenant.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762420"
+    },
+    {
+      "english": "If it’s hard, it means practice.",
+      "french": "Si c’est difficile, c’est que tu t’entraînes.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762424"
+    },
+    {
+      "english": "We try, we adjust, we move forward.",
+      "french": "On essaie, on s’ajuste, on avance.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762427"
+    },
+    {
+      "english": "Tonight, I’ll do a little more.",
+      "french": "Ce soir, je fais un peu plus.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762430"
+    },
+    {
+      "english": "I’m stubborn, I want it badly.",
+      "french": "Je suis têtu, je le veux vraiment.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762433"
+    },
+    {
+      "english": "Even the slow days count.",
+      "french": "Même les jours lents comptent.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762436"
+    },
+    {
+      "english": "I’ll keep the promise, step by step.",
+      "french": "Je tiens ma promesse, pas à pas.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762439"
+    },
+    {
+      "english": "No excuses, I show up today.",
+      "french": "Pas d’excuses, je me présente aujourd’hui.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762442"
+    },
+    {
+      "english": "Just keep it going, stay present.",
+      "french": "Continue, reste dans le moment.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762447"
+    },
+    {
+      "english": "When doubt hits, I restart calmly.",
+      "french": "Quand le doute arrive, je repars tranquille.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762449"
+    },
+    {
+      "english": "Let’s lock in, we’re not done.",
+      "french": "On se motive, on n’est pas fini.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762453"
+    },
+    {
+      "english": "I’ll keep my pace, consistent wins.",
+      "french": "Je garde mon rythme, la régularité paye.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762456"
+    },
+    {
+      "english": "What should I ask, to keep improving?",
+      "french": "Quoi me demander, pour progresser encore ?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762459"
+    },
+    {
+      "english": "Can you correct me, I really want it?",
+      "french": "Tu peux me corriger, je veux vraiment ?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762461"
+    },
+    {
+      "english": "Should I practice more, or change the method?",
+      "french": "Je pratique plus, ou je change de méthode ?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762464"
+    },
+    {
+      "english": "What’s the best question to ask myself?",
+      "french": "Quelle est la meilleure question à me poser ?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762468"
+    },
+    {
+      "english": "When I mess up, what do you recommend?",
+      "french": "Quand je me trompe, tu recommandes quoi ?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762472"
+    },
+    {
+      "english": "Could we plan a routine, just for this week?",
+      "french": "On peut planifier une routine, juste pour cette semaine ?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762475"
+    },
+    {
+      "english": "Where do I start, if I’m stuck again?",
+      "french": "Par où je commence, si je bloque encore ?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762479"
+    },
+    {
+      "english": "What’s your trick, to keep going politely?",
+      "french": "Tu as un truc, pour continuer gentiment ?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762482"
+    },
+    {
+      "english": "Can we role-play, so I don’t freeze?",
+      "french": "On fait du jeu de rôle, pour ne pas bloquer ?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762486"
+    },
+    {
+      "english": "How do you handle rejection, without quitting?",
+      "french": "Comment tu gères le rejet, sans abandonner ?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762489"
+    },
+    {
+      "english": "What small goal should I set today?",
+      "french": "Quel petit objectif je vise aujourd’hui ?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762491"
+    },
+    {
+      "english": "Do you have a link, for extra practice?",
+      "french": "Tu as un lien, pour t’entraîner encore ?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762494"
+    },
+    {
+      "english": "If I feel lazy, what do you do?",
+      "french": "Si j’ai la flemme, tu fais quoi ?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762496"
+    },
+    {
+      "english": "Should I speak more, even with errors?",
+      "french": "Je parle plus, même avec des erreurs ?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762499"
+    },
+    {
+      "english": "How can I track progress, without stress?",
+      "french": "Comment je mesure les progrès, sans stress ?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762502"
+    },
+    {
+      "english": "What question helps you restart quickly?",
+      "french": "Quelle question te relance vite ?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762504"
+    },
+    {
+      "english": "Can I join your class, for steady practice?",
+      "french": "Je peux rejoindre ton cours, pour pratiquer régulièrement ?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762507"
+    },
+    {
+      "english": "Where can I find feedback, from real people?",
+      "french": "Où je trouve du feedback, de vraies personnes ?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762510"
+    },
+    {
+      "english": "What should I do after each mistake?",
+      "french": "Tu fais quoi après chaque erreur ?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762512"
+    },
+    {
+      "english": "How long should I practice, realistically?",
+      "french": "Combien de temps tu conseilles, pour t’entraîner ?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762515"
+    },
+    {
+      "english": "Can you tell me a better plan?",
+      "french": "Tu peux me proposer un meilleur plan ?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762518"
+    },
+    {
+      "english": "What’s the kindest way to be strict?",
+      "french": "Quelle est la façon la plus douce, mais stricte ?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762521"
+    },
+    {
+      "english": "Do you have time for a quick chat?",
+      "french": "Tu as deux minutes, pour qu’on discute ?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762529"
+    },
+    {
+      "english": "How do you keep confidence when progress slows?",
+      "french": "Comment tu gardes la confiance, quand ça ralentit ?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762532"
+    },
+    {
+      "english": "What’s next, after I understand the basics?",
+      "french": "Et après, quand j’ai les bases, je fais quoi ?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762535"
+    },
+    {
+      "english": "Can we fix my sentence, together right now?",
+      "french": "On corrige ma phrase, tous ensemble, là maintenant ?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762538"
+    },
+    {
+      "english": "Should I keep a journal for motivation?",
+      "french": "Je garde un journal, pour rester motivé ?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762541"
+    },
+    {
+      "english": "What do you say to yourself, when tired?",
+      "french": "Qu’est-ce que tu te dis, quand tu es fatigué ?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762543"
+    },
+    {
+      "english": "Breathe, smile, and do the next bit.",
+      "french": "Respire, souris, et fais le prochain petit truc.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762548"
+    },
+    {
+      "english": "Small steps win, even on messy days.",
+      "french": "Les petites étapes gagnent, même quand c’est le bazar.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762551"
+    },
+    {
+      "english": "I can be tired, I still continue.",
+      "french": "Je peux être KO, je continue quand même.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762554"
+    },
+    {
+      "english": "Say it like you mean it, keep going.",
+      "french": "Dis-le comme tu le penses, et continue.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762557"
+    },
+    {
+      "english": "Today I’m learning, not performing perfectly.",
+      "french": "Aujourd’hui, j’apprends, pas je fais semblant parfait.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762560"
+    },
+    {
+      "english": "No drama, just one more try, allez !",
+      "french": "Pas de drame, juste un autre essai, allez !",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762563"
+    },
+    {
+      "english": "My brain grumbles, my mouth still practices.",
+      "french": "Mon cerveau râle, ma bouche pratique quand même.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762566"
+    },
+    {
+      "english": "Progress is ugly sometimes, still real.",
+      "french": "L’effort peut être moche, mais c’est réel.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762569"
+    },
+    {
+      "english": "I’m not behind, I’m just in training.",
+      "french": "Je ne suis pas en retard, je suis en entraînement.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762573"
+    },
+    {
+      "english": "I’ve got this, even if it’s awkward.",
+      "french": "J’y arrive, même si c’est un peu gênant.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762576"
+    },
+    {
+      "english": "Let’s be kind to myself, and persistent.",
+      "french": "Soyons gentils avec moi-même, et persistants.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762579"
+    },
+    {
+      "english": "One lesson today, that’s my flex.",
+      "french": "Une leçon aujourd’hui, c’est mon petit kiff.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762583"
+    },
+    {
+      "english": "Keep the streak small, keep the rhythm.",
+      "french": "Garde la streak petite, garde le rythme.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762586"
+    },
+    {
+      "english": "I don’t quit, I just change strategy.",
+      "french": "Je ne lâche pas, je change juste la stratégie.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762589"
+    },
+    {
+      "english": "Confidence comes after effort, not before.",
+      "french": "La confiance arrive après l’effort, pas avant.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762591"
+    },
+    {
+      "english": "Give yourself credit, you’re showing up.",
+      "french": "Donne-toi du crédit, tu te présentes.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762596"
+    },
+    {
+      "english": "If I stumble, I laugh, then continue.",
+      "french": "Si je trébuche, je ris, puis je continue.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762600"
+    },
+    {
+      "english": "I can restart fast, no big mood required.",
+      "french": "Je peux repartir vite, pas besoin d’être en forme.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762602"
+    },
+    {
+      "english": "Try again, same heart, new sentence.",
+      "french": "Réessaie, même cœur, nouvelle phrase.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762605"
+    },
+    {
+      "english": "Lock in, because practice loves consistency.",
+      "french": "On s’y met, parce que l’entraînement aime la régularité.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762608"
+    },
+    {
+      "english": "My mistakes are receipts, proof I’m learning.",
+      "french": "Mes erreurs, c’est des preuves, j’apprends vraiment.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762612"
+    },
+    {
+      "english": "I’ll do it messy, then I’ll fix it.",
+      "french": "Je le fais en mode moche, puis je corrige.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762615"
+    },
+    {
+      "english": "Keep your eyes on the next small win.",
+      "french": "Garde les yeux sur le prochain petit succès.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762620"
+    },
+    {
+      "english": "Even one minute counts, don’t argue.",
+      "french": "Même une minute compte, faut pas débattre.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762623"
+    },
+    {
+      "english": "I’m building habit, not chasing perfection.",
+      "french": "Je construis une habitude, pas la perfection.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762626"
+    },
+    {
+      "english": "When it’s boring, I do it anyway.",
+      "french": "Quand c’est chiant, je le fais quand même.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762629"
+    },
+    {
+      "english": "I’m proud of the effort, for real.",
+      "french": "Je suis fier du travail, vraiment.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762633"
+    },
+    {
+      "english": "Say “merci” to yourself, then continue.",
+      "french": "Dis merci à toi-même, puis continue.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762636"
+    },
+    {
+      "english": "I feel awkward, so I keep going.",
+      "french": "Je me sens gêné, et je continue quand même.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762639"
+    },
+    {
+      "english": "Some days I’m slow, my goal stays.",
+      "french": "Il y a des jours où je traîne, mais mon but reste.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762642"
+    },
+    {
+      "english": "I’m honest, I struggle, then I persist.",
+      "french": "Je suis honnête, je galère, puis j’insiste.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762645"
+    },
+    {
+      "english": "When it hurts, I don’t quit.",
+      "french": "Quand ça fait mal, je ne lâche pas.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762650"
+    },
+    {
+      "english": "I get frustrated, but I breathe and restart.",
+      "french": "Je m’énerve, mais je respire, puis je repars.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762653"
+    },
+    {
+      "english": "I’m not waiting for motivation, I move.",
+      "french": "Je n’attends pas la motivation, je bouge.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762656"
+    },
+    {
+      "english": "I can be scared, still I practice.",
+      "french": "Je peux avoir peur, même et je pratique.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762659"
+    },
+    {
+      "english": "My progress is private, I keep showing up.",
+      "french": "Mes progrès restent discrets, j’arrive quand même.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762662"
+    },
+    {
+      "english": "I listen to myself, then I continue.",
+      "french": "J’écoute ce que je ressens, puis je continue.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762731"
+    },
+    {
+      "english": "I admit it, I’m tired, I still do it.",
+      "french": "Je l’avoue, je suis fatigué, mais je le fais.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762735"
+    },
+    {
+      "english": "If I mess up, I learn softly.",
+      "french": "Si je fais une erreur, j’apprends doucement.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762738"
+    },
+    {
+      "english": "I don’t need perfect, I need steady.",
+      "french": "Je n’ai pas besoin du parfait, j’ai besoin du régulier.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762742"
+    },
+    {
+      "english": "I’m scared of failing, so I practice daily.",
+      "french": "J’ai peur d’échouer, donc je m’entraîne tous les jours.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762745"
+    },
+    {
+      "english": "I feel proud, even when I’m slow.",
+      "french": "Je suis fier, même quand je progresse doucement.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762748"
+    },
+    {
+      "english": "I talk to my brain, we persist.",
+      "french": "Je parle à mon cerveau, on insiste.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762751"
+    },
+    {
+      "english": "My feelings are messy, my work stays focused.",
+      "french": "Mes émotions sont chaotiques, mon travail reste clair.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762754"
+    },
+    {
+      "english": "I stay calm, because effort counts more.",
+      "french": "Je reste calme, parce que l’effort compte plus.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762756"
+    },
+    {
+      "english": "I’m allowed to be new, not smooth yet.",
+      "french": "J’ai le droit d’être débutant, pas encore parfait.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762760"
+    },
+    {
+      "english": "When my mind wanders, I gently return.",
+      "french": "Quand mon esprit s’évade, je reviens doucement.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762762"
+    },
+    {
+      "english": "I tell the truth, this is hard.",
+      "french": "Je dis la vérité, c’est dur.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762765"
+    },
+    {
+      "english": "I keep the vibe light, and work anyway.",
+      "french": "Je garde l’ambiance légère, et je bosse quand même.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762768"
+    },
+    {
+      "english": "I don’t quit on bad days, ever.",
+      "french": "Je ne lâche pas un jour comme ça.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762771"
+    },
+    {
+      "english": "Even silence helps, I stay present.",
+      "french": "Même le silence aide, je reste là.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762776"
+    },
+    {
+      "english": "I’m learning my pace, not my limit.",
+      "french": "J’apprends mon rythme, pas ma limite.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762780"
+    },
+    {
+      "english": "I respect my progress, it’s still progress.",
+      "french": "Je respecte mes progrès, c’est déjà ça.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762783"
+    },
+    {
+      "english": "I feel shaky, but my practice is steady.",
+      "french": "Je me sens instable, mais ma pratique tient.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762786"
+    },
+    {
+      "english": "I fail forward, and I don’t get dramatic.",
+      "french": "Je me plante, puis j’avance, sans faire de drame.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762789"
+    },
+    {
+      "english": "I pause, reflect, then pick the next step.",
+      "french": "Je fais une pause, je réfléchis, puis j’attaque l’étape suivante.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762792"
+    },
+    {
+      "english": "I’m proud of showing up, for real.",
+      "french": "Je suis fier de me présenter, vraiment.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762795"
+    },
+    {
+      "english": "Today I listen to my doubts, then proceed.",
+      "french": "Aujourd’hui, j’écoute mes doutes, puis j’y vais.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762798"
+    },
+    {
+      "english": "When plans change, I adapt, no drama",
+      "french": "Quand les plans changent, je m’adapte, sans drame",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762800"
+    },
+    {
+      "english": "I keep my focus, even in small talks",
+      "french": "Je garde le cap, même pendant les petites discussions",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762803"
+    },
+    {
+      "english": "Before you give up, ask for help",
+      "french": "Avant d’abandonner, demande de l’aide",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762805"
+    },
+    {
+      "english": "If it’s messy, I just continue politely",
+      "french": "Si c’est brouillon, je continue gentiment",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762811"
+    },
+    {
+      "english": "I start again, after lunch, same goal",
+      "french": "Je repars après le déjeuner, même objectif",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762813"
+    },
+    {
+      "english": "Send one message, then do the work",
+      "french": "Envoie un message, puis tu fais le boulot",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T07:21:16.762818"
     }
   ],
-  "last_updated": "2026-11-03T07:44:09.407673"
+  "last_updated": "2026-11-04T07:21:16.762820"
 }
