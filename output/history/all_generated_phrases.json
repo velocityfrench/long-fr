@@ -17243,7 +17243,727 @@
       "french": "Envoie un message, puis tu fais le boulot",
       "category": "Perseverance",
       "generated_at": "2026-11-04T07:21:16.762818"
+    },
+    {
+      "english": "Hi, what’s your name, sorry, I forgot.",
+      "french": "Salut, tu t’appelles comment, excuse-moi, j’ai oublié.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153459"
+    },
+    {
+      "english": "Nice to meet you, I’m Alex.",
+      "french": "Enchanté, je m’appelle Alex.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153475"
+    },
+    {
+      "english": "Hello, how are you, are you doing well?",
+      "french": "Bonjour, ça va, tu vas bien ?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153480"
+    },
+    {
+      "english": "Hey, we’ve met before, right?",
+      "french": "Eh, on s’est déjà vus, non ?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153483"
+    },
+    {
+      "english": "Good to see you, how’s everything going?",
+      "french": "Ravi de te voir, et tout se passe bien ?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153486"
+    },
+    {
+      "english": "Sorry, I’m late, thanks for waiting.",
+      "french": "Désolé, je suis en retard, merci d’avoir attendu.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153489"
+    },
+    {
+      "english": "No worries, take your time, really.",
+      "french": "T’inquiète pas, prends ton temps, vraiment.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153492"
+    },
+    {
+      "english": "Great, you’re here, let’s start.",
+      "french": "Parfait, tu es là, on commence.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153497"
+    },
+    {
+      "english": "Wow, that’s cool, nice to meet you!",
+      "french": "Wahou, c’est top, ravi de faire ta connaissance.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153501"
+    },
+    {
+      "english": "Wait, I know you, from where?",
+      "french": "Attends, je te connais, on se connaît d’où ?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153504"
+    },
+    {
+      "english": "Nice, so you’re in Paris, right?",
+      "french": "Super, donc t’es à Paris, c’est ça ?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153507"
+    },
+    {
+      "english": "What do you do, what’s your job?",
+      "french": "Tu fais quoi dans la vie, tu travailles où ?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153517"
+    },
+    {
+      "english": "Where are you from, originally?",
+      "french": "Tu viens d’où, à la base ?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153519"
+    },
+    {
+      "english": "Really? That’s amazing, tell me more!",
+      "french": "Vraiment ? Incroyable, raconte !",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153522"
+    },
+    {
+      "english": "That’s nice, I like your vibe.",
+      "french": "C’est sympa, j’aime ton style.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153525"
+    },
+    {
+      "english": "So, do you speak French, a bit?",
+      "french": "Alors, tu parles français, un peu ?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153527"
+    },
+    {
+      "english": "No, it’s fine, go ahead, please.",
+      "french": "Non, ça va, vas-y, s’il te plaît.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153530"
+    },
+    {
+      "english": "Okay, nice meeting you, talk soon.",
+      "french": "D’accord, enchanté, à bientôt.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153533"
+    },
+    {
+      "english": "Welcome, come in, make yourself at home.",
+      "french": "Bienvenue, entre, fais comme chez toi.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153536"
+    },
+    {
+      "english": "How do you say this, in French?",
+      "french": "Comment on dit ça, en français ?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153538"
+    },
+    {
+      "english": "Just to be clear, you’re in charge, right?",
+      "french": "Pour être sûr, c’est toi qui gères, non ?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153541"
+    },
+    {
+      "english": "Good timing, I was about to call you.",
+      "french": "Quelle bonne timing, je voulais te appeler.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153543"
+    },
+    {
+      "english": "Nice to see you again, it’s been a while.",
+      "french": "Content de te revoir, ça fait longtemps.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153546"
+    },
+    {
+      "english": "Thanks, I appreciate it, really.",
+      "french": "Merci, j’apprécie, vraiment.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153548"
+    },
+    {
+      "english": "That’s my bad, I should have said it earlier.",
+      "french": "C’est ma faute, j’aurais dû le dire plus tôt.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153553"
+    },
+    {
+      "english": "Great question, good point, let me think.",
+      "french": "Bonne question, tu as raison, je réfléchis.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153556"
+    },
+    {
+      "english": "Cool, let’s exchange numbers, later.",
+      "french": "Super, on échange nos numéros, plus tard.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153558"
+    },
+    {
+      "english": "Sorry, are you waiting for someone?",
+      "french": "Excuse-moi, tu attends quelqu’un ?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153561"
+    },
+    {
+      "english": "Okay, see you, bye, have a good day!",
+      "french": "Bon, à la prochaine, salut, bonne journée !",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153563"
+    },
+    {
+      "english": "What’s your plan for this week, by the way?",
+      "french": "Tu as un plan pour cette semaine, au fait ?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153566"
+    },
+    {
+      "english": "Do you know a good café around here?",
+      "french": "Tu connais un bon café par ici ?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153569"
+    },
+    {
+      "english": "Where should we meet, is this okay?",
+      "french": "On se retrouve où, ça te va ?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153572"
+    },
+    {
+      "english": "Can I ask you something personal, maybe?",
+      "french": "Je peux te poser une question plus perso ?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153574"
+    },
+    {
+      "english": "How did you hear about this place?",
+      "french": "Tu as entendu parler de cet endroit, comment ?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153576"
+    },
+    {
+      "english": "What do you recommend, for a first visit?",
+      "french": "Tu recommandes quoi, pour une première fois ?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153581"
+    },
+    {
+      "english": "Do you prefer coffee, or tea today?",
+      "french": "Tu préfères un café, ou un thé, aujourd’hui ?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153583"
+    },
+    {
+      "english": "What’s the easiest way to get there?",
+      "french": "C’est quoi, le plus simple pour y aller ?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153586"
+    },
+    {
+      "english": "Are you comfortable speaking French with me?",
+      "french": "Tu es à l’aise pour parler français avec moi ?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153588"
+    },
+    {
+      "english": "What are you working on these days?",
+      "french": "Tu bosses sur quoi, en ce moment ?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153590"
+    },
+    {
+      "english": "Any tips for making small talk in French?",
+      "french": "Tu as des conseils pour faire la conversation ?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153592"
+    },
+    {
+      "english": "Do you want to grab a quick drink after?",
+      "french": "Tu veux prendre un verre, après ?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153594"
+    },
+    {
+      "english": "Can we switch to French, just for practice?",
+      "french": "On peut parler français, juste pour pratiquer ?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153597"
+    },
+    {
+      "english": "What’s a common greeting here, in your opinion?",
+      "french": "Selon toi, c’est quoi la salutation ici ?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153602"
+    },
+    {
+      "english": "Do you mind if I write that down?",
+      "french": "Ça te dérange si je note ?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153604"
+    },
+    {
+      "english": "What time works best for you, tonight?",
+      "french": "Quelle heure t’arrange ce soir ?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153606"
+    },
+    {
+      "english": "Is it your first time in this area?",
+      "french": "C’est ta première fois, ici ?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153611"
+    },
+    {
+      "english": "How do you usually say hello here?",
+      "french": "Tu dis bonjour comment, ici d’habitude ?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153613"
+    },
+    {
+      "english": "Would you be up for giving me advice?",
+      "french": "Tu serais partant pour me donner un conseil ?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153615"
+    },
+    {
+      "english": "Do you want to keep contact after today?",
+      "french": "On garde le contact, après aujourd’hui ?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153617"
+    },
+    {
+      "english": "What’s the vibe here, calm or lively?",
+      "french": "Ici, c’est plutôt calme ou animé ?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153620"
+    },
+    {
+      "english": "Can you help me with pronunciation, please?",
+      "french": "Tu peux m’aider pour la prononciation ?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153622"
+    },
+    {
+      "english": "Do you have any French shows to recommend?",
+      "french": "Tu aurais des séries françaises à recommander ?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153624"
+    },
+    {
+      "english": "How well do you know the neighborhood?",
+      "french": "Tu connais bien le quartier ?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153626"
+    },
+    {
+      "english": "What should I bring to this meeting?",
+      "french": "Je dois apporter quoi, pour cette rencontre ?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153628"
+    },
+    {
+      "english": "Are you free to talk for five minutes?",
+      "french": "Tu as cinq minutes, pour discuter ?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153630"
+    },
+    {
+      "english": "Do you want to practice, slow and clear?",
+      "french": "On pratique, doucement, et clairement ?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153635"
+    },
+    {
+      "english": "What’s your best tip for beginners in French?",
+      "french": "Ton meilleur conseil pour débuter en français ?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153638"
+    },
+    {
+      "english": "Shall we continue in French, step by step?",
+      "french": "On continue en français, tranquillement ?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153640"
+    },
+    {
+      "english": "You’ve got this, take it slow, breathe.",
+      "french": "Tu gères, prends ton temps, respire.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153644"
+    },
+    {
+      "english": "Relax, you’ll get it, step by step.",
+      "french": "Détends-toi, tu vas y arriver, tranquillement.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153647"
+    },
+    {
+      "english": "Your French is improving, keep going, you’re close.",
+      "french": "Ton français progresse, continue, t’es presque là.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153650"
+    },
+    {
+      "english": "Ask, try, and learn, that’s the game.",
+      "french": "Demande, essaie, apprends, c’est ça, le jeu.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153653"
+    },
+    {
+      "english": "Small words first, then you’ll build confidence.",
+      "french": "Des petits mots d’abord, puis tu prends confiance.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153656"
+    },
+    {
+      "english": "Be bold, you can start with a simple hi.",
+      "french": "Sois audacieux, commence par un simple salut.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153659"
+    },
+    {
+      "english": "Nice energy, you’re making this conversation easy.",
+      "french": "Super énergie, tu rends la discussion facile.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153662"
+    },
+    {
+      "english": "Good job, you’re showing real effort today.",
+      "french": "Bravo, tu fais vraiment des efforts, là.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153665"
+    },
+    {
+      "english": "It’s okay to stumble, keep smiling.",
+      "french": "C’est normal de trébucher, souris quand même.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153668"
+    },
+    {
+      "english": "Confidence grows, one hello at a time.",
+      "french": "La confiance grandit, un bonjour à la fois.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153670"
+    },
+    {
+      "english": "You’re doing great, even if it’s not perfect.",
+      "french": "Tu assures, même si c’est pas parfait.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153673"
+    },
+    {
+      "english": "Keep it light, a friendly tone wins.",
+      "french": "Garde ça léger, un ton sympa fait la différence.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153676"
+    },
+    {
+      "english": "You’re learning fast, don’t doubt yourself.",
+      "french": "Tu apprends vite, doute pas de toi.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153679"
+    },
+    {
+      "english": "Say it your way, people appreciate the attempt.",
+      "french": "Dis-le comme tu peux, ils aiment l’effort.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153681"
+    },
+    {
+      "english": "Start confident, then adjust as you go.",
+      "french": "Commence avec assurance, puis tu ajustes.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153684"
+    },
+    {
+      "english": "Every try counts, that’s what matters.",
+      "french": "Chaque essai compte, c’est ça le plus important.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153686"
+    },
+    {
+      "english": "Stay curious, ask small questions, enjoy.",
+      "french": "Reste curieux, pose des petites questions, amuse-toi.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153689"
+    },
+    {
+      "english": "You don’t need perfect grammar, just connect.",
+      "french": "Pas besoin de grammaire parfaite, juste créer du lien.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153692"
+    },
+    {
+      "english": "You’re brave, speaking first is the trick.",
+      "french": "T’es courageux, parler le premier, c’est le truc.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153695"
+    },
+    {
+      "english": "Great mindset, you make room for mistakes.",
+      "french": "Bonne mentalité, tu laisses place aux erreurs.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153698"
+    },
+    {
+      "english": "Keep your head up, you’ll find the right words.",
+      "french": "Garde la tête haute, tu trouveras les bons mots.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153700"
+    },
+    {
+      "english": "Give them respect, kindness comes back fast.",
+      "french": "Montre du respect, la gentillesse revient vite.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153703"
+    },
+    {
+      "english": "Celebrate progress, even a simple sentence.",
+      "french": "Célèbre tes progrès, même une phrase simple.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153705"
+    },
+    {
+      "english": "If you blank, restart calmly, no drama.",
+      "french": "Si tu bloques, repars tranquillement, sans stress.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153708"
+    },
+    {
+      "english": "You’re not alone, everyone starts somewhere.",
+      "french": "T’es pas tout seul, tout le monde commence.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153710"
+    },
+    {
+      "english": "Try one compliment, it opens doors.",
+      "french": "Fais un compliment, ça ouvre des portes.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153713"
+    },
+    {
+      "english": "Your effort shows, that’s the real flex.",
+      "french": "Ton effort se voit, c’est ça le vrai style.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153716"
+    },
+    {
+      "english": "Stay present, listen first, then answer.",
+      "french": "Sois dans le moment, écoute d’abord, réponds après.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153723"
+    },
+    {
+      "english": "You’re making memories, enjoy the moment.",
+      "french": "Tu crées des souvenirs, profite du moment.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153726"
+    },
+    {
+      "english": "Keep going, you’ll sound smoother tomorrow.",
+      "french": "Continue, demain tu parleras plus fluide.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153731"
+    },
+    {
+      "english": "I’m a little nervous, but I’m here.",
+      "french": "Je suis un peu nerveux, mais je suis là.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153733"
+    },
+    {
+      "english": "Take your time, I’ll match your pace.",
+      "french": "Prenez votre temps, je m’adapte à votre rythme.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153736"
+    },
+    {
+      "english": "Honestly, I’m happy to meet you today.",
+      "french": "Honnêtement, je suis content de vous rencontrer.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153739"
+    },
+    {
+      "english": "I don’t know yet, but I’ll be sincere.",
+      "french": "Je ne sais pas encore, mais je serai sincère.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153744"
+    },
+    {
+      "english": "I’ll listen first, then we’ll see.",
+      "french": "Je vais écouter d’abord, puis on verra.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153747"
+    },
+    {
+      "english": "Meeting you feels easy, that helps a lot.",
+      "french": "Te rencontrer me paraît facile, ça aide beaucoup.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153749"
+    },
+    {
+      "english": "I’m trying to be brave, one sentence.",
+      "french": "J’essaie d’être courageux, une phrase à la fois.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153752"
+    },
+    {
+      "english": "It’s okay if I’m quiet, really.",
+      "french": "C’est normal si je suis un peu silencieux, vraiment.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153755"
+    },
+    {
+      "english": "I like slow conversations, they feel human.",
+      "french": "J’aime les échanges tranquilles, ça fait plus humain.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153757"
+    },
+    {
+      "english": "I’m here to connect, not to impress.",
+      "french": "Je suis là pour créer du lien, pas pour impressionner.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153760"
+    },
+    {
+      "english": "I’m grateful you took the time to meet.",
+      "french": "Je vous remercie d’avoir pris le temps de nous voir.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153763"
+    },
+    {
+      "english": "I don’t want small talk forever, just truth.",
+      "french": "Je ne veux pas faire que de la petite conversation, juste du vrai.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153766"
+    },
+    {
+      "english": "I’m learning, so please be patient with me.",
+      "french": "Je suis en apprentissage, soyez patient avec moi.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153769"
+    },
+    {
+      "english": "I might stumble, but I’ll keep going.",
+      "french": "Je risque de buter, mais je continue.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153772"
+    },
+    {
+      "english": "Your calm energy puts me at ease.",
+      "french": "Ton calme me met à l’aise, vraiment.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153774"
+    },
+    {
+      "english": "I appreciate your honesty, it feels refreshing.",
+      "french": "J’apprécie votre franchise, c’est rafraîchissant.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153776"
+    },
+    {
+      "english": "Let’s be real, I’m still finding my words.",
+      "french": "Soyons honnêtes, je cherche encore mes mots.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153781"
+    },
+    {
+      "english": "I’m proud I showed up, even nervous.",
+      "french": "Je suis fier d’être venu, même si j’étais nerveux.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153784"
+    },
+    {
+      "english": "If I pause, it’s just me thinking.",
+      "french": "Si je fais une pause, c’est juste que je réfléchis.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153786"
+    },
+    {
+      "english": "I want to feel comfortable with you.",
+      "french": "J’aimerais me sentir à l’aise avec vous.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153789"
+    },
+    {
+      "english": "Thanks, I needed a friendly start.",
+      "french": "Merci, j’avais besoin d’un bon début.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153791"
+    },
+    {
+      "english": "I’m open to feedback, kindly, please.",
+      "french": "Je suis ouvert à vos retours, avec bienveillance, s’il vous plaît.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153794"
+    },
+    {
+      "english": "I’m not perfect, but I try sincerely.",
+      "french": "Je ne suis pas parfait, mais j’essaie sincèrement.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153796"
+    },
+    {
+      "english": "I’d rather take it slow with you.",
+      "french": "Je préfère y aller doucement avec vous.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153799"
+    },
+    {
+      "english": "I’m glad we’re talking, it lifts my mood.",
+      "french": "Je suis content qu’on discute, ça remonte le moral.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153802"
+    },
+    {
+      "english": "I’m trusting the moment, not overthinking.",
+      "french": "Je me fie au moment, sans trop réfléchir.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153804"
+    },
+    {
+      "english": "If it’s awkward, we can soften it together.",
+      "french": "Si c’est gênant, on peut l’adoucir ensemble.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153807"
+    },
+    {
+      "english": "I want to make you feel welcomed here.",
+      "french": "Je veux vous donner le sentiment d’être bien accueilli.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153809"
+    },
+    {
+      "english": "Today, I just want a genuine connection.",
+      "french": "Aujourd’hui, je veux juste une connexion sincère.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153812"
+    },
+    {
+      "english": "I’m nervous, but your kindness helps me.",
+      "french": "Je suis stressé, mais votre gentillesse m’aide.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153814"
+    },
+    {
+      "english": "Hi, how’s your day going, really?",
+      "french": "Salut, ça va comment, vraiment ?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153817"
+    },
+    {
+      "english": "Nice to meet you, what’s your name?",
+      "french": "Enchanté, c’est quoi ton prénom ?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:48:11.153822"
     }
   ],
-  "last_updated": "2026-11-04T07:21:16.762820"
+  "last_updated": "2026-11-05T07:48:11.153824"
 }
