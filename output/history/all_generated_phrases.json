@@ -17963,7 +17963,727 @@
       "french": "Enchanté, c’est quoi ton prénom ?",
       "category": "Meeting People & Greetings",
       "generated_at": "2026-11-05T07:48:11.153822"
+    },
+    {
+      "english": "Hey, how’s your day going?",
+      "french": "Salut, ça va, ta journée ?",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162607"
+    },
+    {
+      "english": "I’m not sure yet, give me a sec.",
+      "french": "Je sais pas encore, attends une seconde.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162628"
+    },
+    {
+      "english": "No worries, we’ll figure it out.",
+      "french": "T’inquiète pas, on va trouver.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162633"
+    },
+    {
+      "english": "Really? Tell me more, please.",
+      "french": "Vraiment ? Raconte, s’il te plaît.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162636"
+    },
+    {
+      "english": "Okay, I’ll try it, let’s go.",
+      "french": "D’accord, j’essaie, on y va.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162640"
+    },
+    {
+      "english": "Wait, what did you say exactly?",
+      "french": "Attends, tu as dit quoi, exactement ?",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162643"
+    },
+    {
+      "english": "That’s cool, I like your idea.",
+      "french": "C’est cool, j’aime ton idée.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162647"
+    },
+    {
+      "english": "I get it, it makes sense now.",
+      "french": "Je comprends, là, ça colle.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162653"
+    },
+    {
+      "english": "Hold on, I need to think.",
+      "french": "Attends, j’te laisse réfléchir.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162657"
+    },
+    {
+      "english": "Good point, you’re totally right.",
+      "french": "Bonne remarque, t’as raison.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162661"
+    },
+    {
+      "english": "Oops, my bad, I’ll fix it.",
+      "french": "Oups, désolé, je corrige.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162665"
+    },
+    {
+      "english": "Let’s practice a bit, just now.",
+      "french": "On s’entraîne un peu, maintenant.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162669"
+    },
+    {
+      "english": "I’m improving, slowly but surely.",
+      "french": "Je progresse, doucement mais sûrement.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162672"
+    },
+    {
+      "english": "That’s new for me, I’m learning.",
+      "french": "C’est nouveau pour moi, j’apprends.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162676"
+    },
+    {
+      "english": "Give me an example, please.",
+      "french": "Donne-moi un exemple, s’il te plaît.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162679"
+    },
+    {
+      "english": "I’ll start small, then I’ll build.",
+      "french": "Je commence petit, puis je construis.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162682"
+    },
+    {
+      "english": "Are you free right now, by chance?",
+      "french": "T’es libre là, peut-être ?",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162685"
+    },
+    {
+      "english": "No, wait, listen, I mean this.",
+      "french": "Non, attends, écoute, je veux dire ça.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162689"
+    },
+    {
+      "english": "That’s it, keep going, don’t stop.",
+      "french": "Voilà, continue, lâche pas.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162692"
+    },
+    {
+      "english": "I’ll repeat slowly, you follow me.",
+      "french": "Je répète doucement, tu me suis.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162696"
+    },
+    {
+      "english": "Sometimes I miss words, that’s okay.",
+      "french": "Parfois je perds des mots, c’est pas grave.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162699"
+    },
+    {
+      "english": "Say it your way, I’m listening.",
+      "french": "Dis-le à ta façon, j’écoute.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162702"
+    },
+    {
+      "english": "Nice, you nailed it, for real!",
+      "french": "Top, t’as assuré, franchement !",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162706"
+    },
+    {
+      "english": "I’m curious, why do you think that?",
+      "french": "Je suis curieux, t’en penses quoi ?",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162709"
+    },
+    {
+      "english": "Let me check, one second, please.",
+      "french": "Je vérifie, un instant, s’il te plaît.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162714"
+    },
+    {
+      "english": "That makes me feel better, honestly.",
+      "french": "Ça me rassure, franchement.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162718"
+    },
+    {
+      "english": "Keep it simple, start talking now.",
+      "french": "Fais simple, commence à parler.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162720"
+    },
+    {
+      "english": "Great, we’re on the right track.",
+      "french": "Super, on est sur la bonne voie.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162724"
+    },
+    {
+      "english": "I’ll be there, wait for me.",
+      "french": "Je viens, attends-moi.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162727"
+    },
+    {
+      "english": "Before you go, one quick question.",
+      "french": "Avant de partir, une dernière question.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162731"
+    },
+    {
+      "english": "Can you help me ask this politely?",
+      "french": "Tu peux m’aider à le demander poliment ?",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162734"
+    },
+    {
+      "english": "What’s the best way to answer that question?",
+      "french": "Tu répondrais comment, à cette question ?",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162738"
+    },
+    {
+      "english": "When should I use “vous” instead of “tu”?",
+      "french": "Quand je dis “vous”, et quand je dis “tu” ?",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162742"
+    },
+    {
+      "english": "How do I sound more natural while speaking?",
+      "french": "Je peux demander comment parler plus naturellement ?",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162745"
+    },
+    {
+      "english": "Do you think this sentence is correct?",
+      "french": "Tu crois que cette phrase est correcte ?",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162748"
+    },
+    {
+      "english": "Could you repeat it, a little slower, please?",
+      "french": "Tu peux le redire, un peu plus lentement, s’il te plaît ?",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162754"
+    },
+    {
+      "english": "What do you mean by “en pratique”?",
+      "french": "Tu veux dire quoi, “en pratique” ?",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162758"
+    },
+    {
+      "english": "I’m asking for your advice, what would you do?",
+      "french": "Je te demande ton avis, tu ferais quoi ?",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162761"
+    },
+    {
+      "english": "If I make mistakes, do you correct me?",
+      "french": "Si je fais des erreurs, tu me corriges ?",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162764"
+    },
+    {
+      "english": "Would you mind checking my pronunciation?",
+      "french": "Tu peux vérifier ma prononciation, s’il te plaît ?",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162767"
+    },
+    {
+      "english": "What would be a simple first question?",
+      "french": "Tu commencerais par quelle question, simple ?",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162769"
+    },
+    {
+      "english": "Can I get a quick tip for daily practice?",
+      "french": "Tu me donnes un petit conseil pour pratiquer tous les jours ?",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162774"
+    },
+    {
+      "english": "Is it okay if I pause to think?",
+      "french": "C’est grave si je marque une pause pour réfléchir ?",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162777"
+    },
+    {
+      "english": "How can I keep the conversation going?",
+      "french": "Comment garder la conversation ?",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162780"
+    },
+    {
+      "english": "What’s your goal this week, in French?",
+      "french": "Ton objectif cette semaine, c’est quoi, en français ?",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162783"
+    },
+    {
+      "english": "Do you prefer questions, or answers first?",
+      "french": "Tu préfères les questions, ou les réponses d’abord ?",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162786"
+    },
+    {
+      "english": "Can we talk about it, step by step?",
+      "french": "On peut en parler, tranquillement, étape par étape ?",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162789"
+    },
+    {
+      "english": "Where do you usually learn, online or in person?",
+      "french": "Tu apprends plutôt en ligne, ou en cours ?",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162792"
+    },
+    {
+      "english": "What phrase should I use to ask for help?",
+      "french": "Quelle phrase pour demander de l’aide ?",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162795"
+    },
+    {
+      "english": "I want to improve, what’s your method?",
+      "french": "Je veux progresser, tu as quelle méthode ?",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162798"
+    },
+    {
+      "english": "Do you think I’m ready for a conversation?",
+      "french": "Tu crois que je suis prêt à parler ?",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162802"
+    },
+    {
+      "english": "When you teach, what do you focus on most?",
+      "french": "Quand tu enseignes, tu te concentres sur quoi ?",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162804"
+    },
+    {
+      "english": "Can I ask one more question, really quick?",
+      "french": "Je peux te poser encore une question, vite fait ?",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162807"
+    },
+    {
+      "english": "What should I say after “comment ça va”?",
+      "french": "Et après “comment ça va”, je dis quoi ?",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162811"
+    },
+    {
+      "english": "How do you handle unfamiliar words mid-sentence?",
+      "french": "Tu fais quoi quand tu ne connais pas un mot ?",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162814"
+    },
+    {
+      "english": "Can you tell me the difference, in simple terms?",
+      "french": "Tu peux m’expliquer la différence, simplement ?",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162817"
+    },
+    {
+      "english": "Do you want to practice with me, now?",
+      "french": "Tu veux pratiquer avec moi, maintenant ?",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162819"
+    },
+    {
+      "english": "What’s a good follow-up question to ask?",
+      "french": "C’est quoi une bonne question pour relancer ?",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162823"
+    },
+    {
+      "english": "If I’m stuck, can you give me options?",
+      "french": "Si je bloque, tu me proposes des options ?",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162826"
+    },
+    {
+      "english": "Thanks, what should I try next?",
+      "french": "Merci, je tente quoi ensuite ?",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162829"
+    },
+    {
+      "english": "Small steps, big results, you’ll see.",
+      "french": "Petits pas, grands résultats, ça va venir.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162833"
+    },
+    {
+      "english": "Little by little, you get better, for real.",
+      "french": "Petit à petit, tu progresses, ça compte.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162837"
+    },
+    {
+      "english": "Don’t force it, let it sink in.",
+      "french": "Ne te précipite pas, laisse infuser.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162841"
+    },
+    {
+      "english": "One mistake, no drama, adjust and move on.",
+      "french": "Une erreur, pas de drame, on corrige.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162844"
+    },
+    {
+      "english": "Practice makes progress, not perfection.",
+      "french": "On progresse en pratiquant, pas en visant parfait.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162847"
+    },
+    {
+      "english": "Breathe, relax, and continue speaking.",
+      "french": "Respire, détends-toi, continue à parler.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162851"
+    },
+    {
+      "english": "If it’s hard, good, that’s growth.",
+      "french": "Si c’est dur, c’est bon, tu grandis.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162857"
+    },
+    {
+      "english": "Try, test, learn, repeat tomorrow.",
+      "french": "Tu testes, tu apprends, tu recommences demain.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162862"
+    },
+    {
+      "english": "Don’t wait for motivation, just start.",
+      "french": "Attends pas la motivation, commence maintenant.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162866"
+    },
+    {
+      "english": "Consistency beats intensity, every time.",
+      "french": "La régularité bat l’intensité, à chaque fois.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162869"
+    },
+    {
+      "english": "You learn best when you’re uncomfortable.",
+      "french": "On apprend mieux quand c’est inconfortable.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162872"
+    },
+    {
+      "english": "Get back in the saddle, keep talking.",
+      "french": "Remets-toi en selle, reparle vite.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162875"
+    },
+    {
+      "english": "Aim for natural, not flawless sentences.",
+      "french": "Vise le naturel, pas le parfait.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162878"
+    },
+    {
+      "english": "Slow down, but don’t stop.",
+      "french": "Ralentis, mais continue.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162881"
+    },
+    {
+      "english": "Keep your eyes on progress, not grades.",
+      "french": "Garde le cap sur les progrès, pas sur les notes.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162884"
+    },
+    {
+      "english": "Practice today, you’ll thank yourself later.",
+      "french": "Fais-le aujourd’hui, tu te remercieras après.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162887"
+    },
+    {
+      "english": "When you get stuck, change strategy, quickly.",
+      "french": "Quand tu bloques, change de stratégie, vite.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162891"
+    },
+    {
+      "english": "No pain, no gain, but be kind to you.",
+      "french": "Sans effort, pas de progrès, avance doucement.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162894"
+    },
+    {
+      "english": "Trust the process, it pays off.",
+      "french": "Fais confiance au processus, ça paie.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162897"
+    },
+    {
+      "english": "If you fall, laugh, then continue.",
+      "french": "Tu tombes, tu ris, puis tu repars.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162900"
+    },
+    {
+      "english": "One hour well used beats four hours scrolling.",
+      "french": "Une heure bien utilisée vaut mieux que scroller.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162903"
+    },
+    {
+      "english": "Be brave, say it, even imperfectly.",
+      "french": "Sois brave, dis-le, même imparfait.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162906"
+    },
+    {
+      "english": "Take it step by step, don’t rush.",
+      "french": "Y va doucement, étape par étape.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162910"
+    },
+    {
+      "english": "You’ve got time, but don’t delay.",
+      "french": "T’as le temps, mais ne tarde pas.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162913"
+    },
+    {
+      "english": "Mix listening and speaking, that’s the key.",
+      "french": "Mixe l’écoute et la parole, c’est la clé.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162916"
+    },
+    {
+      "english": "Learn by doing, not just reading.",
+      "french": "On apprend en faisant, pas seulement en lisant.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162919"
+    },
+    {
+      "english": "The secret, practice daily, even 10 minutes.",
+      "french": "Le secret, pratique tous les jours, même dix minutes.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162922"
+    },
+    {
+      "english": "Don’t overthink, just speak a sentence.",
+      "french": "N’y pense pas trop, dis juste une phrase.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162925"
+    },
+    {
+      "english": "Make it real, use French with someone today.",
+      "french": "Rends-le concret, parle français avec quelqu’un.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162928"
+    },
+    {
+      "english": "I’m honest, today I feel shaky, but I try.",
+      "french": "Honnêtement, aujourd’hui je me sens bancal, mais j’essaie.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162932"
+    },
+    {
+      "english": "Sometimes I need silence, then words come back.",
+      "french": "Parfois j’ai besoin de silence, puis les mots reviennent.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162935"
+    },
+    {
+      "english": "I notice my fear, and I slow down.",
+      "french": "Je remarque ma peur, et je ralentis.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162938"
+    },
+    {
+      "english": "I don’t chase perfection, I chase clarity.",
+      "french": "Je ne poursuis pas la perfection, je poursuis la clarté.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162941"
+    },
+    {
+      "english": "My brain gets tired, so I keep it simple.",
+      "french": "Mon cerveau fatigue, donc je fais simple.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162944"
+    },
+    {
+      "english": "I’m proud I kept going, even badly.",
+      "french": "Je suis fier d’avoir continué, même mal.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162948"
+    },
+    {
+      "english": "I learn more from my doubts than my answers.",
+      "french": "J’apprends plus de mes doutes que de mes réponses.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162951"
+    },
+    {
+      "english": "If I’m emotional, I write it down first.",
+      "french": "Si je suis émotif, j’écris d’abord.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162954"
+    },
+    {
+      "english": "I try again, because progress feels better than pride.",
+      "french": "Je réessaie, parce que l’évolution fait du bien.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162970"
+    },
+    {
+      "english": "Today I’m patient, even when it takes longer.",
+      "french": "Aujourd’hui, je suis patient, même si ça prend plus de temps.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162975"
+    },
+    {
+      "english": "I admit it, my accent still scares me.",
+      "french": "Je l’avoue, mon accent me fait peur encore.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162981"
+    },
+    {
+      "english": "I don’t need speed, I need understanding.",
+      "french": "Je n’ai pas besoin de vitesse, j’ai besoin de comprendre.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162985"
+    },
+    {
+      "english": "I reflect, then I choose a calmer next step.",
+      "french": "Je réfléchis, puis je choisis l’étape suivante plus douce.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162988"
+    },
+    {
+      "english": "I can feel stuck, and still learn something.",
+      "french": "Je peux me sentir bloqué, et quand même apprendre.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162991"
+    },
+    {
+      "english": "My goal is small honesty, said out loud.",
+      "french": "Mon but, c’est une petite honnêteté, dite à voix haute.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.162994"
+    },
+    {
+      "english": "When I hesitate, I breathe, then continue.",
+      "french": "Quand j’hésite, je respire, puis je continue.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.163000"
+    },
+    {
+      "english": "I accept mistakes, they’re part of my practice.",
+      "french": "J’accepte les erreurs, elles font partie de ma pratique.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.163003"
+    },
+    {
+      "english": "I listen for meaning, not for perfect grammar.",
+      "french": "J’écoute le sens, pas la grammaire parfaite.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.163006"
+    },
+    {
+      "english": "I’m learning myself, not only French words.",
+      "french": "J’apprends aussi qui je suis, pas seulement des mots.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.163010"
+    },
+    {
+      "english": "Some days I just process, no pressure.",
+      "french": "Certains jours, je digère, sans pression.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.163013"
+    },
+    {
+      "english": "I don’t hide my confusion, I ask gently.",
+      "french": "Je ne cache pas ma confusion, je demande gentiment.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.163017"
+    },
+    {
+      "english": "I try to sound like me, not textbooks.",
+      "french": "J’essaie de parler comme moi, pas comme un manuel.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.163022"
+    },
+    {
+      "english": "Reflection makes my next attempt feel safer.",
+      "french": "La réflexion rend ma prochaine tentative plus sûre.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.163025"
+    },
+    {
+      "english": "I’m building trust with my own voice.",
+      "french": "Je construis une confiance avec ma propre voix.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.163030"
+    },
+    {
+      "english": "I notice what works, then I repeat that part.",
+      "french": "Je repère ce qui marche, puis je le refais.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.163034"
+    },
+    {
+      "english": "If I’m tired, I switch to listening mode.",
+      "french": "Si je suis fatigué, je passe en mode écoute.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.163037"
+    },
+    {
+      "english": "I can be nervous, and still speak.",
+      "french": "Je peux être nerveux, et parler quand même.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.163040"
+    },
+    {
+      "english": "I take it personally, but I don’t blame.",
+      "french": "Je le prends personnellement, mais je ne blâme pas.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.163044"
+    },
+    {
+      "english": "Growth is quiet, it happens between tries.",
+      "french": "La progression est discrète, elle arrive entre deux essais.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.163046"
+    },
+    {
+      "english": "I’m not behind, I’m becoming fluent slowly.",
+      "french": "Je ne suis pas en retard, je deviens plus fluide, tranquillement.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.163050"
+    },
+    {
+      "english": "Before you go out, practice one sentence.",
+      "french": "Avant de sortir, pratique une seule phrase.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:47:21.163053"
     }
   ],
-  "last_updated": "2026-11-05T07:48:11.153824"
+  "last_updated": "2026-11-06T07:47:21.163056"
 }
