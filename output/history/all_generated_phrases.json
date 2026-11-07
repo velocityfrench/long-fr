@@ -18683,7 +18683,727 @@
       "french": "Avant de sortir, pratique une seule phrase.",
       "category": "Growth",
       "generated_at": "2026-11-06T07:47:21.163053"
+    },
+    {
+      "english": "Are you single, by any chance,",
+      "french": "Tu es célibataire, par hasard,",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287663"
+    },
+    {
+      "english": "I think you’re really cute,",
+      "french": "Je trouve que tu es vraiment mignon(ne),",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287679"
+    },
+    {
+      "english": "What are you doing tonight,",
+      "french": "Tu fais quoi ce soir,",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287683"
+    },
+    {
+      "english": "Want to grab a coffee, later,",
+      "french": "Tu veux prendre un café, plus tard,",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287686"
+    },
+    {
+      "english": "I’m not free, but I’m down,",
+      "french": "Je suis pas dispo, mais ça me tente,",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287690"
+    },
+    {
+      "english": "No pressure, we can take it slow,",
+      "french": "Sans pression, on peut y aller doucement,",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287693"
+    },
+    {
+      "english": "You’re making me nervous, a little,",
+      "french": "Tu me rends un peu nerveux/nerveuse,",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287696"
+    },
+    {
+      "english": "Honestly, I like your vibe,",
+      "french": "Franchement, j’aime bien ton ambiance,",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287702"
+    },
+    {
+      "english": "That was a smooth line,",
+      "french": "C’était une phrase bien trouvée,",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287705"
+    },
+    {
+      "english": "Wait, are you flirting with me,",
+      "french": "Attends, tu me dragues ou quoi,",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287708"
+    },
+    {
+      "english": "I had fun talking with you,",
+      "french": "J’ai passé un bon moment avec toi,",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287711"
+    },
+    {
+      "english": "You look great, like, seriously,",
+      "french": "Tu es trop stylé/stylée, vraiment,",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287714"
+    },
+    {
+      "english": "Do you want to text, later,",
+      "french": "Tu veux qu’on s’écrive plus tard,",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287717"
+    },
+    {
+      "english": "I’m feeling it, but slowly,",
+      "french": "Je le sens, mais doucement,",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287720"
+    },
+    {
+      "english": "We should do this again,",
+      "french": "On devrait refaire ça,",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287723"
+    },
+    {
+      "english": "Are you free this weekend,",
+      "french": "Tu es libre ce week-end,",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287725"
+    },
+    {
+      "english": "I’m taking you on a date,",
+      "french": "Je t’emmène en rendez-vous,",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287729"
+    },
+    {
+      "english": "That smile is dangerous,",
+      "french": "Ton sourire, c’est dangereux,",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287731"
+    },
+    {
+      "english": "Hold on, tell me more,",
+      "french": "Attends, raconte,",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287734"
+    },
+    {
+      "english": "If you want, we can meet,",
+      "french": "Si tu veux, on se voit,",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287739"
+    },
+    {
+      "english": "I’m single, no games,",
+      "french": "Je suis célibataire, pas de jeux,",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287742"
+    },
+    {
+      "english": "You’re my type, for real,",
+      "french": "Tu es mon style, pour de vrai,",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287746"
+    },
+    {
+      "english": "Let’s keep it simple, tonight,",
+      "french": "On fait simple, ce soir,",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287749"
+    },
+    {
+      "english": "I’m into you, just saying,",
+      "french": "Je suis chaud(e) pour toi,",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287753"
+    },
+    {
+      "english": "I’ll be honest, I’m interested,",
+      "french": "Je te dis franchement, je suis partant(e),",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287756"
+    },
+    {
+      "english": "That’s cute, I won’t lie,",
+      "french": "C’est mignon, je vais pas mentir,",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287760"
+    },
+    {
+      "english": "Are you dating anyone right now,",
+      "french": "Tu vois quelqu’un en ce moment,",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287762"
+    },
+    {
+      "english": "I’m going to be straight with you,",
+      "french": "Je te le dis cash,",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287765"
+    },
+    {
+      "english": "Maybe we should start with a walk,",
+      "french": "On commence par une balade,",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287768"
+    },
+    {
+      "english": "Great, let’s meet, where exactly,",
+      "french": "Super, on se retrouve, à quel endroit,",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287771"
+    },
+    {
+      "english": "So, what are you looking for right now?",
+      "french": "Donc, tu cherches quoi, en ce moment ?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287774"
+    },
+    {
+      "english": "Do you prefer texting, or calling?",
+      "french": "Tu préfères t’écrire, ou tu préfères appeler ?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287778"
+    },
+    {
+      "english": "When’s your ideal first date, for you?",
+      "french": "Pour toi, un premier rendez-vous, c’est quand ?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287783"
+    },
+    {
+      "english": "What’s your usual type, like, in real life?",
+      "french": "C’est quoi, ton style, en vrai ?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287787"
+    },
+    {
+      "english": "Are you more coffee dates, or drinks?",
+      "french": "Plutôt café, ou plutôt un verre ?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287790"
+    },
+    {
+      "english": "How do you like to be asked out?",
+      "french": "Tu aimes qu’on te propose un date comment ?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287793"
+    },
+    {
+      "english": "If we click, you’re down to meet again?",
+      "french": "Si on accroche, tu es partant(e) ?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287796"
+    },
+    {
+      "english": "What makes you feel really comfortable?",
+      "french": "Qu’est-ce qui te met à l’aise, toi ?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287799"
+    },
+    {
+      "english": "Do you like bold moves, or slow vibes?",
+      "french": "Tu préfères les gestes audacieux, ou doux ?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287802"
+    },
+    {
+      "english": "How was your day, honestly?",
+      "french": "Franchement, ta journée, elle était comment ?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287805"
+    },
+    {
+      "english": "What’s the best conversation topic for you?",
+      "french": "Tu aimes parler de quoi, le plus ?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287808"
+    },
+    {
+      "english": "Are you looking for something serious, or fun?",
+      "french": "Tu cherches du sérieux, ou du fun ?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287811"
+    },
+    {
+      "english": "What’s your love language, in simple terms?",
+      "french": "Ton langage de l’amour, c’est quoi ?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287814"
+    },
+    {
+      "english": "Do you mind, if I ask something personal?",
+      "french": "Ça te dérange, si je te demande quelque chose de perso ?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287817"
+    },
+    {
+      "english": "What’s your go-to plan for a date night?",
+      "french": "Ton plan préféré pour un date, c’est quoi ?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287820"
+    },
+    {
+      "english": "Would you rather meet somewhere quiet?",
+      "french": "Tu préfères qu’on se voie dans un endroit calme ?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287822"
+    },
+    {
+      "english": "How do you feel about public dates?",
+      "french": "Tu penses quoi des sorties en public ?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287825"
+    },
+    {
+      "english": "What’s your biggest green flag?",
+      "french": "C’est quoi, ton plus gros green flag ?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287828"
+    },
+    {
+      "english": "Can I steal a minute to talk?",
+      "french": "Je peux te voler une minute ?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287830"
+    },
+    {
+      "english": "Are you into movies, or more outdoor stuff?",
+      "french": "Tu aimes les films, ou plutôt dehors ?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287833"
+    },
+    {
+      "english": "What’s your comfort level with flirting?",
+      "french": "Tu tolères le flirt, jusqu’où ?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287836"
+    },
+    {
+      "english": "If I text, what time do you prefer?",
+      "french": "Si je t’écris, à quelle heure tu préfères ?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287839"
+    },
+    {
+      "english": "What should I know about you first?",
+      "french": "Je devrais savoir quoi sur toi, d’abord ?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287841"
+    },
+    {
+      "english": "Do you like honesty, even early on?",
+      "french": "Tu aimes l’honnêteté, même au début ?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287844"
+    },
+    {
+      "english": "Are you dating apps, or more offline?",
+      "french": "Tu utilises des apps, ou tu rencontres autrement ?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287846"
+    },
+    {
+      "english": "What’s the vibe you want, tonight?",
+      "french": "Ce soir, tu veux quelle ambiance ?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287850"
+    },
+    {
+      "english": "Should we plan, or just go with it?",
+      "french": "On planifie, ou on improvise ?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287852"
+    },
+    {
+      "english": "What’s a perfect Sunday for you?",
+      "french": "Ton dimanche idéal, c’est comment ?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287857"
+    },
+    {
+      "english": "How would you like me to show interest?",
+      "french": "Tu veux que je montre mon intérêt comment ?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287860"
+    },
+    {
+      "english": "Take it slow, you’re doing great, seriously",
+      "french": "Prends ça tranquillement, tu gères, vraiment",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287863"
+    },
+    {
+      "english": "Your confidence will show, even without trying",
+      "french": "Ta confiance va se voir, même sans forcer",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287866"
+    },
+    {
+      "english": "Say what you feel, it’s attractive",
+      "french": "Dis ce que tu ressens, c’est attirant",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287869"
+    },
+    {
+      "english": "You’re not too much, you’re just real",
+      "french": "T’es pas trop, t’es juste vrai",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287873"
+    },
+    {
+      "english": "Let curiosity lead, not fear, always",
+      "french": "Laisse la curiosité guider, pas la peur, toujours",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287876"
+    },
+    {
+      "english": "Nice energy, keep it coming, okay?",
+      "french": "Belle énergie, continue comme ça, d’accord ?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287881"
+    },
+    {
+      "english": "Trust yourself, you’ll find your person",
+      "french": "Fais confiance en toi, tu trouveras",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287885"
+    },
+    {
+      "english": "Compliments work, be kind, then breathe",
+      "french": "Les compliments marchent, sois gentil, puis respire",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287887"
+    },
+    {
+      "english": "You don’t need perfect, just be present",
+      "french": "T’as pas besoin d’être parfait, sois juste là",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287891"
+    },
+    {
+      "english": "A good mood opens doors, keep going",
+      "french": "Une bonne vibe ouvre des portes, continue",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287894"
+    },
+    {
+      "english": "Your boundaries are attractive, protect them",
+      "french": "Tes limites sont attirantes, protège-les",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287897"
+    },
+    {
+      "english": "If it’s meant, it’ll feel easy",
+      "french": "Si c’est pour toi, ça va sembler facile",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287900"
+    },
+    {
+      "english": "You’re learning, that’s the win, right?",
+      "french": "Tu apprends, et ça, c’est la victoire, hein ?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287904"
+    },
+    {
+      "english": "Be honest, but stay respectful, always",
+      "french": "Sois honnête, mais reste respectueux, toujours",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287907"
+    },
+    {
+      "english": "Smile first, it changes the whole vibe",
+      "french": "Souris d’abord, ça change tout",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287909"
+    },
+    {
+      "english": "Let rejection teach you, not break you",
+      "french": "La déception te guide, elle ne te casse pas",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287912"
+    },
+    {
+      "english": "You deserve love, period, don’t forget",
+      "french": "Tu mérites l’amour, point, n’oublie pas",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287915"
+    },
+    {
+      "english": "Keep your heart open, but your eyes too",
+      "french": "Garde le cœur ouvert, mais garde aussi tes yeux",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287918"
+    },
+    {
+      "english": "Say yes to good energy, skip doubt",
+      "french": "Dis oui à la bonne énergie, oublie le doute",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287923"
+    },
+    {
+      "english": "Confidence is quiet, and it’s yours",
+      "french": "La confiance est discrète, et elle est à toi",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287926"
+    },
+    {
+      "english": "Celebrate small wins, they add up fast",
+      "french": "Célèbre les petites victoires, ça s’additionne vite",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287929"
+    },
+    {
+      "english": "Your pace is valid, don’t rush yourself",
+      "french": "Ton rythme est valable, ne te presse pas",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287932"
+    },
+    {
+      "english": "Focus on connection, not on impressing",
+      "french": "Concentre-toi sur la connexion, pas sur l’impression",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287934"
+    },
+    {
+      "english": "Good things come when you stay you",
+      "french": "Les bonnes choses arrivent quand tu restes toi",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287937"
+    },
+    {
+      "english": "Give warmth first, you’ll feel the difference",
+      "french": "Donne de la chaleur d’abord, tu verras",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287940"
+    },
+    {
+      "english": "It’s okay to want more, speak up",
+      "french": "C’est normal d’en vouloir plus, dis-le",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287944"
+    },
+    {
+      "english": "You can be nervous, and still charming",
+      "french": "Tu peux être stressé, et rester charmant",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287946"
+    },
+    {
+      "english": "Choose calm over overthinking, every time",
+      "french": "Choisis le calme plutôt que trop réfléchir",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287949"
+    },
+    {
+      "english": "Trust the process, romance takes time",
+      "french": "Fais confiance au processus, l’amour prend du temps",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287952"
+    },
+    {
+      "english": "You’re building your best love story, now",
+      "french": "Tu construis ton histoire d’amour, là, maintenant",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287955"
+    },
+    {
+      "english": "I feel safe talking to you, honestly",
+      "french": "Je me sens en sécurité avec toi, franchement",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287958"
+    },
+    {
+      "english": "I’m trying to be real, not perfect",
+      "french": "J’essaie d’être vrai, pas parfait",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287961"
+    },
+    {
+      "english": "I think slow, because feelings need time",
+      "french": "Je réfléchis doucement, les sentiments prennent du temps",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287963"
+    },
+    {
+      "english": "Sometimes I overthink, then I breathe",
+      "french": "Parfois je rumine, puis je respire",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287966"
+    },
+    {
+      "english": "I want honesty, even when it’s hard",
+      "french": "Je veux de la sincérité, même quand c’est dur",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287971"
+    },
+    {
+      "english": "Your words land softly, and I notice",
+      "french": "Tes mots touchent doucement, et je remarque",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287974"
+    },
+    {
+      "english": "I’m learning your pace, without pressure",
+      "french": "J’apprends ton rythme, sans pression",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287979"
+    },
+    {
+      "english": "I appreciate your patience, it matters",
+      "french": "J’apprécie ta patience, ça compte",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287982"
+    },
+    {
+      "english": "I don’t need shortcuts, I need closeness",
+      "french": "Je ne veux pas de raccourci, je veux la proximité",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287985"
+    },
+    {
+      "english": "When I miss you, I admit it",
+      "french": "Quand tu me manques, je le dis",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287987"
+    },
+    {
+      "english": "I’m okay with silence, if we connect",
+      "french": "Je m’en sors bien avec le silence, si on se rejoint",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287990"
+    },
+    {
+      "english": "I’m not rushing, I’m listening to you",
+      "french": "Je ne me presse pas, je t’écoute",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287994"
+    },
+    {
+      "english": "My heart is cautious, but curious",
+      "french": "Mon cœur est prudent, mais curieux",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.287996"
+    },
+    {
+      "english": "I want to build trust, one day at a time",
+      "french": "Je veux construire la confiance, jour après jour",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.288001"
+    },
+    {
+      "english": "I like you, and I’m saying it gently",
+      "french": "Je t’aime bien, et je te le dis doucement",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.288004"
+    },
+    {
+      "english": "Sometimes I need reassurance, not games",
+      "french": "Parfois j’ai besoin de rassurance, pas de jeux",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.288007"
+    },
+    {
+      "english": "I respect your space, and I mean it",
+      "french": "Je respecte ton espace, et je le pense",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.288010"
+    },
+    {
+      "english": "Let’s be kind, even when we’re unsure",
+      "french": "Soyons gentils, même quand on hésite",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.288013"
+    },
+    {
+      "english": "I’m honest about my feelings, at my pace",
+      "french": "Je suis honnête sur mes sentiments, à mon rythme",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.288016"
+    },
+    {
+      "english": "Your calm makes me feel less alone",
+      "french": "Ton calme me fait moins me sentir seul",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.288018"
+    },
+    {
+      "english": "I notice small efforts, they speak loud",
+      "french": "Je remarque les petites attentions, elles parlent fort",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.288021"
+    },
+    {
+      "english": "I’m open to us, slowly, step by step",
+      "french": "Je suis ouvert à nous deux, doucement, pas à pas",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.288024"
+    },
+    {
+      "english": "I don’t pretend, I show up as I am",
+      "french": "Je fais pas semblant, je me montre comme je suis",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.288027"
+    },
+    {
+      "english": "When you ask, I feel heard, truly",
+      "french": "Quand tu demandes, je me sens écouté, vraiment",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.288030"
+    },
+    {
+      "english": "I’m learning what love looks like for us",
+      "french": "J’apprends à quoi ressemble l’amour pour nous",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.288046"
+    },
+    {
+      "english": "I choose patience, because I care",
+      "french": "Je choisis la patience, parce que je tiens à toi",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.288049"
+    },
+    {
+      "english": "If something hurts, I’ll say it clearly",
+      "french": "Si ça fait mal, je vais te le dire clairement",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.288053"
+    },
+    {
+      "english": "I feel better when we talk honestly",
+      "french": "Je me sens mieux quand on parle vrai",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.288055"
+    },
+    {
+      "english": "I’m not perfect, but my intentions are clean",
+      "french": "Je ne suis pas parfait, mais mes intentions sont claires",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.288059"
+    },
+    {
+      "english": "I’m ready for depth, not just chemistry",
+      "french": "Je suis prêt pour du sérieux, pas juste l’alchimie",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.288062"
+    },
+    {
+      "english": "First date tip, smile, then ask something",
+      "french": "Premier rendez-vous, souris, puis pose une question",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-07T06:54:37.288065"
     }
   ],
-  "last_updated": "2026-11-06T07:47:21.163056"
+  "last_updated": "2026-11-07T06:54:37.288067"
 }
