@@ -19403,7 +19403,727 @@
       "french": "Premier rendez-vous, souris, puis pose une question",
       "category": "Dating & Romance",
       "generated_at": "2026-11-07T06:54:37.288065"
+    },
+    {
+      "english": "Hi, where is the check-in desk, please?",
+      "french": "Bonjour, où est le comptoir d’enregistrement, s’il vous plaît ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137757"
+    },
+    {
+      "english": "What time does boarding start, exactly?",
+      "french": "À quelle heure commence l’embarquement, exactement ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137771"
+    },
+    {
+      "english": "Is there a self-check-in kiosk, here?",
+      "french": "Il y a une borne d’enregistrement en libre-service, ici ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137774"
+    },
+    {
+      "english": "My flight is delayed, what should I do?",
+      "french": "Mon vol est retardé, je fais quoi ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137777"
+    },
+    {
+      "english": "Excuse me, where are the baggage claim belts?",
+      "french": "Excusez-moi, où sont les tapis à bagages ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137782"
+    },
+    {
+      "english": "Do you have free Wi‑Fi at the airport?",
+      "french": "Vous avez du Wi‑Fi gratuit à l’aéroport ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137785"
+    },
+    {
+      "english": "Is my terminal, gate, correct for this flight?",
+      "french": "Mon terminal, c’est bien celui pour ce vol ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137787"
+    },
+    {
+      "english": "Where is security, can I go now?",
+      "french": "Où se trouve la sécurité, je peux passer ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137792"
+    },
+    {
+      "english": "Do I need to remove my liquids?",
+      "french": "Je dois enlever mes liquides, c’est ça ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137795"
+    },
+    {
+      "english": "Is there a luggage scale nearby, please?",
+      "french": "Il y a une balance pour les valises, ici ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137797"
+    },
+    {
+      "english": "My bag is missing, who do I contact?",
+      "french": "Ma valise n’est pas arrivée, je contacte qui ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137800"
+    },
+    {
+      "english": "Sorry, I lost my boarding pass.",
+      "french": "Désolé, j’ai perdu ma carte d’embarquement.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137802"
+    },
+    {
+      "english": "Can I change my seat, if possible?",
+      "french": "Je peux changer de siège, si possible ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137805"
+    },
+    {
+      "english": "Is there a place to charge my phone?",
+      "french": "Je peux recharger mon téléphone, il y a des prises ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137807"
+    },
+    {
+      "english": "Thanks, that helps a lot, seriously.",
+      "french": "Merci, ça m’aide beaucoup, vraiment.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137809"
+    },
+    {
+      "english": "Wow, it’s packed here, isn’t it?",
+      "french": "Oh là là, c’est bondé ici, non ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137813"
+    },
+    {
+      "english": "I’m in a hurry, please be quick.",
+      "french": "Je suis pressé, s’il vous plaît, dépêchez-vous.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137816"
+    },
+    {
+      "english": "Calm down, we still have time.",
+      "french": "Calmez-vous, on a encore du temps.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137818"
+    },
+    {
+      "english": "What’s the cheapest option for Wi‑Fi?",
+      "french": "C’est quoi l’option la moins chère pour le Wi‑Fi ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137821"
+    },
+    {
+      "english": "Where can I buy water nearby?",
+      "french": "Où je peux acheter de l’eau, près d’ici ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137823"
+    },
+    {
+      "english": "Is this line for international flights?",
+      "french": "Cette file, c’est pour les vols internationaux ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137825"
+    },
+    {
+      "english": "Do you accept contactless payments, please?",
+      "french": "Vous prenez le sans contact, s’il vous plaît ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137827"
+    },
+    {
+      "english": "I think my gate changed, right?",
+      "french": "Je crois que la porte a changé, c’est ça ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137829"
+    },
+    {
+      "english": "Where is the passport control, please?",
+      "french": "Où est le contrôle des passeports, s’il vous plaît ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137831"
+    },
+    {
+      "english": "Great, my suitcase is here, finally!",
+      "french": "Super, ma valise est là, enfin !",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137834"
+    },
+    {
+      "english": "I need help with my baggage, please.",
+      "french": "J’ai besoin d’aide pour mes bagages, s’il vous plaît.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137836"
+    },
+    {
+      "english": "I’m sorry, I don’t understand, can you repeat?",
+      "french": "Désolé, je ne comprends pas, vous pouvez répéter ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137839"
+    },
+    {
+      "english": "Which documents should I bring, passport only?",
+      "french": "Quels documents dois-je apporter, juste le passeport ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137841"
+    },
+    {
+      "english": "How do I get to my gate, please?",
+      "french": "Comment je vais à mon porte, s’il vous plaît ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137844"
+    },
+    {
+      "english": "Is this the right bus, to the terminal?",
+      "french": "C’est le bon bus, pour le terminal ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137846"
+    },
+    {
+      "english": "Do I need a visa, for this destination?",
+      "french": "J’ai besoin d’un visa, pour cette destination ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137849"
+    },
+    {
+      "english": "Can you recommend a quiet café, nearby?",
+      "french": "Vous me conseillez un café calme, ici ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137852"
+    },
+    {
+      "english": "Where can I print my boarding pass?",
+      "french": "Où puis-je imprimer ma carte d’embarquement ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137854"
+    },
+    {
+      "english": "Is there a help desk, for travelers?",
+      "french": "Il y a un comptoir d’aide, pour les voyageurs ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137856"
+    },
+    {
+      "english": "Do I go through security now, or later?",
+      "french": "Je passe par la sécurité maintenant, ou plus tard ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137858"
+    },
+    {
+      "english": "What’s the quickest way, to baggage drop?",
+      "french": "C’est quoi le chemin le plus rapide, pour le dépôt bagages ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137861"
+    },
+    {
+      "english": "Is there a luggage storage, for a few hours?",
+      "french": "Vous avez un service de consigne, quelques heures ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137863"
+    },
+    {
+      "english": "Can I get a boarding pass confirmation, please?",
+      "french": "Je peux avoir une confirmation d’embarquement, s’il vous plaît ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137866"
+    },
+    {
+      "english": "Which line is for the airline check, exactly?",
+      "french": "C’est quelle file, pour le contrôle de la compagnie ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137868"
+    },
+    {
+      "english": "If I’m late, what should I say?",
+      "french": "Si je suis en retard, je dis quoi ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137871"
+    },
+    {
+      "english": "Do you have any forms, for customs questions?",
+      "french": "Vous avez des formulaires, pour la douane ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137876"
+    },
+    {
+      "english": "Is the baggage drop open, right now?",
+      "french": "Le dépôt des bagages est ouvert, là, maintenant ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137878"
+    },
+    {
+      "english": "Could you point me, to the right exit?",
+      "french": "Vous pouvez me montrer la bonne sortie ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137881"
+    },
+    {
+      "english": "Do you speak English, just to confirm?",
+      "french": "Vous parlez anglais, juste pour confirmer ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137882"
+    },
+    {
+      "english": "Is there a kiosk, for passport checks?",
+      "french": "Il y a un kiosque, pour le contrôle des passeports ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137885"
+    },
+    {
+      "english": "What’s the best seat, near the exit?",
+      "french": "Vous conseillez quel siège, près de la sortie ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137889"
+    },
+    {
+      "english": "Do I need to re-check my bag, here?",
+      "french": "Je dois ré-enregistrer mon bagage, ici ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137892"
+    },
+    {
+      "english": "Can I get a trolley, for my luggage?",
+      "french": "Je peux avoir un chariot, pour mes bagages ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137894"
+    },
+    {
+      "english": "How late can I change my flight, usually?",
+      "french": "En général, jusqu’à quand on peut changer ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137896"
+    },
+    {
+      "english": "If my gate changes, where should I look?",
+      "french": "Si mon porte change, je regarde où ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137898"
+    },
+    {
+      "english": "Is there a place to stretch, near gates?",
+      "french": "Il y a un endroit pour s’étirer, près des portes ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137900"
+    },
+    {
+      "english": "What’s your suggestion, for arriving early?",
+      "french": "Vous conseillez d’arriver à quelle heure ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137905"
+    },
+    {
+      "english": "Do I keep my phone in the tray?",
+      "french": "Je laisse mon téléphone dans le bac ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137907"
+    },
+    {
+      "english": "How do I contact you, if I have issues?",
+      "french": "Comment je vous contacte, si j’ai un souci ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137909"
+    },
+    {
+      "english": "Can you tell me, where to find my airline?",
+      "french": "Vous pouvez me dire, où trouver mon agence ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137912"
+    },
+    {
+      "english": "Should I tip the staff, at the airport?",
+      "french": "Je dois donner un pourboire, à l’aéroport ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137914"
+    },
+    {
+      "english": "One more thing, where is the smoking area?",
+      "french": "Encore une chose, où est la zone fumeurs ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137917"
+    },
+    {
+      "english": "You’ve got this, breathe, and keep moving.",
+      "french": "T’as ça, respire, et continue.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137919"
+    },
+    {
+      "english": "Small steps, big trip, you’re on track.",
+      "french": "Petits pas, grand voyage, tu es sur la bonne voie.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137922"
+    },
+    {
+      "english": "Stay calm, you’re doing great, step by step.",
+      "french": "Reste calme, tu gères, étape par étape.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137925"
+    },
+    {
+      "english": "Trust yourself, questions are part of travel.",
+      "french": "Fais-toi confiance, les questions, ça fait partie du voyage.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137929"
+    },
+    {
+      "english": "You’re closer than you think, keep going.",
+      "french": "Tu es plus proche que tu ne crois, avance.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137932"
+    },
+    {
+      "english": "Plan once, then go with the flow.",
+      "french": "Planifie une fois, puis va avec le rythme.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137934"
+    },
+    {
+      "english": "Say it clearly, you’ll get faster answers.",
+      "french": "Parle clairement, tu auras des réponses plus vite.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137937"
+    },
+    {
+      "english": "Nice work, you found the right spot.",
+      "french": "Bravo, tu as trouvé le bon endroit.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137939"
+    },
+    {
+      "english": "Good job, check your info, then move.",
+      "french": "Bien joué, vérifie les infos, puis avance.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137942"
+    },
+    {
+      "english": "No stress, you’ll sort it out quickly.",
+      "french": "Pas de stress, tu vas t’en sortir vite.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137945"
+    },
+    {
+      "english": "Today’s plan, just stay flexible and positive.",
+      "french": "Aujourd’hui, garde le cap, sois flexible et positif.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137948"
+    },
+    {
+      "english": "You’re learning fast, every trip teaches you.",
+      "french": "Tu apprends vite, chaque voyage te forme.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137951"
+    },
+    {
+      "english": "Be confident, your French will improve here.",
+      "french": "Sois sûr de toi, ton français va s’améliorer.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137953"
+    },
+    {
+      "english": "Take a moment, then ask your question.",
+      "french": "Prends une seconde, puis pose ta question.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137955"
+    },
+    {
+      "english": "You’re doing better than yesterday, keep at it.",
+      "french": "Tu fais mieux qu’hier, continue.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137958"
+    },
+    {
+      "english": "Even delays can work out for you.",
+      "french": "Même un retard peut tourner à ton avantage.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137961"
+    },
+    {
+      "english": "Remember, preparation plus calm wins today.",
+      "french": "Souviens-toi, préparation plus calme, ça gagne.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137963"
+    },
+    {
+      "english": "You’re allowed to feel nervous, then breathe.",
+      "french": "T’as le droit d’être stressé, puis respire.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137966"
+    },
+    {
+      "english": "Say “merci”, it opens doors and smiles.",
+      "french": "Dis “merci”, ça ouvre des portes et des sourires.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137969"
+    },
+    {
+      "english": "You’ve got time, stay focused, don’t rush.",
+      "french": "Tu as du temps, reste concentré, sans te presser.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137972"
+    },
+    {
+      "english": "Keep your head up, you’ll reach your gate.",
+      "french": "Garde la tête haute, tu vas arriver à ton porte.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137974"
+    },
+    {
+      "english": "Positive mindset, you handle surprises like a pro.",
+      "french": "Mentalité positive, tu gères les imprévus comme un pro.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137977"
+    },
+    {
+      "english": "You’re not alone, travelers understand each other.",
+      "french": "Tu n’es pas seul, les voyageurs se comprennent.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137979"
+    },
+    {
+      "english": "Everything will fall into place, trust that.",
+      "french": "Tout va s’aligner, fais confiance.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137981"
+    },
+    {
+      "english": "Nice focus, follow the signs, stay confident.",
+      "french": "Bien joué, suis les panneaux, reste confiant.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137984"
+    },
+    {
+      "english": "Be brave, you’re practicing real-life French now.",
+      "french": "Sois courageux, tu pratiques le français dans la vraie vie.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137987"
+    },
+    {
+      "english": "Quick check, you’re set, enjoy the trip.",
+      "french": "Petit check, c’est bon, profite du voyage.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137991"
+    },
+    {
+      "english": "You can do this, one step at a time.",
+      "french": "Tu peux y arriver, un pas après l’autre.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137993"
+    },
+    {
+      "english": "When in doubt, ask kindly, then move.",
+      "french": "En cas de doute, demande gentiment, puis avance.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137995"
+    },
+    {
+      "english": "I’m a bit nervous, but I’ll manage.",
+      "french": "Je suis un peu stressé, mais je vais gérer.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.137998"
+    },
+    {
+      "english": "Honestly, I need time to calm down.",
+      "french": "Franchement, j’ai besoin de temps pour me calmer.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.138002"
+    },
+    {
+      "english": "Waiting feels long, so I breathe slowly.",
+      "french": "Attendre me paraît long, alors je respire doucement.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.138005"
+    },
+    {
+      "english": "I keep reminding myself, it’s just travel.",
+      "french": "Je me le répète, c’est juste un voyage.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.138007"
+    },
+    {
+      "english": "I want to do things right, today.",
+      "french": "Je veux faire les choses bien, aujourd’hui.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.138010"
+    },
+    {
+      "english": "If I get lost, I’ll ask without shame.",
+      "french": "Si je me perds, je demanderai sans honte.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.138012"
+    },
+    {
+      "english": "I’m learning, so mistakes don’t scare me.",
+      "french": "J’apprends, donc les erreurs ne me font pas peur.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.138015"
+    },
+    {
+      "english": "I notice my heart racing, then relax.",
+      "french": "Je remarque mon cœur qui s’emballe, puis je me détends.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.138017"
+    },
+    {
+      "english": "Travel teaches patience, even at airports.",
+      "french": "Le voyage apprend la patience, même à l’aéroport.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.138019"
+    },
+    {
+      "english": "I’m trying to stay present, not worry.",
+      "french": "J’essaie de rester présent, pas inquiet.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.138087"
+    },
+    {
+      "english": "I’ll go step by step, no rush.",
+      "french": "Je vais y aller doucement, sans me presser.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.138089"
+    },
+    {
+      "english": "I know it’s normal, to feel overwhelmed.",
+      "french": "Je sais que c’est normal, de se sentir dépassé.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.138092"
+    },
+    {
+      "english": "Right now, I just need clear words.",
+      "french": "Là, j’ai surtout besoin de mots clairs.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.138094"
+    },
+    {
+      "english": "I keep my focus, on the next sign.",
+      "french": "Je garde mon attention, sur le prochain panneau.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.138096"
+    },
+    {
+      "english": "I’m not perfect, but I’m moving forward.",
+      "french": "Je ne suis pas parfait, mais j’avance.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.138099"
+    },
+    {
+      "english": "Sometimes I doubt myself, then I breathe.",
+      "french": "Parfois je doute, puis je respire.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.138101"
+    },
+    {
+      "english": "This airport is loud, but I stay kind.",
+      "french": "Cet aéroport est bruyant, mais je reste bienveillant.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.138104"
+    },
+    {
+      "english": "I want honest answers, even if slow.",
+      "french": "Je veux des réponses honnêtes, même si c’est long.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.138106"
+    },
+    {
+      "english": "I’m okay waiting, I’m just listening.",
+      "french": "Je vais bien en attendant, je prends juste note.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.138109"
+    },
+    {
+      "english": "I feel better when I understand calmly.",
+      "french": "Je me sens mieux quand je comprends tranquillement.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.138113"
+    },
+    {
+      "english": "I remind myself, I can ask twice.",
+      "french": "Je me dis, je peux demander deux fois.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.138115"
+    },
+    {
+      "english": "It’s okay to pause, before speaking French.",
+      "french": "C’est normal de faire une pause, avant de parler.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.138120"
+    },
+    {
+      "english": "I’m grateful, even for small help today.",
+      "french": "Je suis reconnaissant, même pour un petit coup de main.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.138122"
+    },
+    {
+      "english": "If something changes, I’ll adapt politely.",
+      "french": "Si ça change, je m’adapte avec politesse.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.138125"
+    },
+    {
+      "english": "I’m not late, I’m just earlier than plans.",
+      "french": "Je ne suis pas en retard, je suis en avance.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.138127"
+    },
+    {
+      "english": "I take the moment, to breathe and smile.",
+      "french": "Je prends un instant, pour respirer et sourire.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.138130"
+    },
+    {
+      "english": "I trust the process, even with delays.",
+      "french": "Je fais confiance au processus, même en cas de retard.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.138132"
+    },
+    {
+      "english": "My goal is simple, understand and continue.",
+      "french": "Mon objectif est simple, comprendre et continuer.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.138134"
+    },
+    {
+      "english": "I’ll be patient, because travel needs time.",
+      "french": "Je serai patient, parce que voyager demande du temps.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.138137"
+    },
+    {
+      "english": "Excuse me, where is the baggage drop?",
+      "french": "Excusez-moi, où se trouve le dépôt bagages ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.138141"
+    },
+    {
+      "english": "Do I need to print my ticket?",
+      "french": "Je dois imprimer mon billet, ou c’est mobile ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.138143"
+    },
+    {
+      "english": "Is this line for security or boarding?",
+      "french": "Cette file, c’est pour la sécurité ou l’embarquement ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.138146"
+    },
+    {
+      "english": "I’m looking for the passport control desk.",
+      "french": "Je cherche le guichet du contrôle passeport.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.138148"
+    },
+    {
+      "english": "My flight is delayed, what’s the update?",
+      "french": "Mon vol est retardé, vous avez des infos ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-08T07:00:57.138151"
     }
   ],
-  "last_updated": "2026-11-07T06:54:37.288067"
+  "last_updated": "2026-11-08T07:00:57.138153"
 }
