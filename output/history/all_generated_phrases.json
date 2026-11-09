@@ -20123,7 +20123,727 @@
       "french": "Mon vol est retardé, vous avez des infos ?",
       "category": "Travel & Airport",
       "generated_at": "2026-11-08T07:00:57.138151"
+    },
+    {
+      "english": "Morning, I’m up, coffee first, always",
+      "french": "Le matin, je me lève, café d’abord, toujours",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831323"
+    },
+    {
+      "english": "Already up? Nice, let’s go then",
+      "french": "Déjà debout ? Pas mal, on y va",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831338"
+    },
+    {
+      "english": "Hold on, I’m almost ready",
+      "french": "Attends, je suis presque prêt",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831340"
+    },
+    {
+      "english": "Wait, I forgot my keys, seriously",
+      "french": "Attends, j’ai oublié mes clés, carrément",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831342"
+    },
+    {
+      "english": "Be right back, don’t move",
+      "french": "Je reviens tout de suite, bouge pas",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831344"
+    },
+    {
+      "english": "Quick shower, then I’m out",
+      "french": "Douche rapide, après je file",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831346"
+    },
+    {
+      "english": "I’m running late, sorry, for real",
+      "french": "Je suis en retard, désolé, franchement",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831348"
+    },
+    {
+      "english": "I wake up, check my phone, okay",
+      "french": "Je me réveille, je regarde mon tel, ça va",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831352"
+    },
+    {
+      "english": "Alarm again, ugh, not today",
+      "french": "Encore l’alarme, pfff, pas aujourd’hui",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831354"
+    },
+    {
+      "english": "Let’s grab breakfast, quickly",
+      "french": "On prend un petit dej’, vite",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831357"
+    },
+    {
+      "english": "I can’t focus today, too much noise",
+      "french": "Je me concentre pas, y’a trop de bruit",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831359"
+    },
+    {
+      "english": "Okay, I’m starting now, breathe",
+      "french": "Bon, je m’y mets, on respire",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831361"
+    },
+    {
+      "english": "I’m getting dressed, don’t bother me",
+      "french": "Je m’habille, ne me dérange pas",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831362"
+    },
+    {
+      "english": "What’s next, coffee or messages?",
+      "french": "Et après, café ou messages ?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831365"
+    },
+    {
+      "english": "I’m fine, just tired, that’s all",
+      "french": "Ça va, je suis juste fatigué, c’est tout",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831368"
+    },
+    {
+      "english": "Good morning, are you up yet?",
+      "french": "Bonjour, t’es déjà debout ?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831370"
+    },
+    {
+      "english": "I’m back, everything’s sorted",
+      "french": "Je reviens, c’est réglé",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831372"
+    },
+    {
+      "english": "Oops, spilled it, my bad",
+      "french": "Oups, j’ai renversé, pardon",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831374"
+    },
+    {
+      "english": "Not gonna lie, I forgot again",
+      "french": "Je vais pas mentir, j’ai encore oublié",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831375"
+    },
+    {
+      "english": "Just a minute, I’m finishing up",
+      "french": "Juste une minute, je termine",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831377"
+    },
+    {
+      "english": "I’m heading out now, see you",
+      "french": "Je pars maintenant, à tout à l’heure",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831380"
+    },
+    {
+      "english": "No worries, we can do it later",
+      "french": "T’inquiète pas, on verra plus tard",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831382"
+    },
+    {
+      "english": "That’s it, I’m done for today",
+      "french": "C’est bon, j’arrête là, pour aujourd’hui",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831383"
+    },
+    {
+      "english": "Dinner first, then we talk",
+      "french": "D’abord le dîner, après on discute",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831385"
+    },
+    {
+      "english": "I need a snack, I’m starving",
+      "french": "J’ai besoin d’un truc, j’ai trop faim",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831386"
+    },
+    {
+      "english": "Lights out, goodnight, sleep well",
+      "french": "Extinction, bonne nuit, dors bien",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831389"
+    },
+    {
+      "english": "Seriously, it’s already so late",
+      "french": "Franchement, il est déjà tard",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831393"
+    },
+    {
+      "english": "Whew, that was close",
+      "french": "Ouf, c’était limite",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831394"
+    },
+    {
+      "english": "Let me check real quick",
+      "french": "Je vérifie, juste une seconde",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831395"
+    },
+    {
+      "english": "What time do you usually start work?",
+      "french": "À quelle heure tu commences le travail d’habitude ?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831397"
+    },
+    {
+      "english": "Do you have a morning routine, like me?",
+      "french": "Tu as une routine le matin, comme moi ?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831399"
+    },
+    {
+      "english": "Can I ask you, what’s your next step?",
+      "french": "Je peux te demander, c’est quoi la suite ?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831401"
+    },
+    {
+      "english": "Between gym and work, what wins today?",
+      "french": "Entre la salle de sport et le boulot, tu fais quoi ?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831403"
+    },
+    {
+      "english": "How do you stay motivated in the morning?",
+      "french": "Comment tu restes motivé le matin ?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831404"
+    },
+    {
+      "english": "Should I pack my lunch, or order?",
+      "french": "Je prépare mon déjeuner, ou on commande ?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831406"
+    },
+    {
+      "english": "What do you do after breakfast, tell me?",
+      "french": "Tu fais quoi après le petit-déj, dis-moi ?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831408"
+    },
+    {
+      "english": "Quick question, do you commute by metro?",
+      "french": "Petite question, tu prends le métro ou pas ?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831409"
+    },
+    {
+      "english": "Where do you keep your keys, exactly?",
+      "french": "Tu mets tes clés où, exactement ?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831411"
+    },
+    {
+      "english": "Do you really check messages first thing?",
+      "french": "Tu regardes vraiment tes messages dès le matin ?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831413"
+    },
+    {
+      "english": "I’m trying to wake up earlier, any tips?",
+      "french": "J’essaie de me lever plus tôt, t’as des conseils ?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831415"
+    },
+    {
+      "english": "What’s your go-to playlist for getting moving?",
+      "french": "Ta playlist préférée pour te lancer ?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831418"
+    },
+    {
+      "english": "Do you take a break before you start?",
+      "french": "Tu prends une pause avant de commencer ?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831419"
+    },
+    {
+      "english": "Be honest, is your routine actually fun?",
+      "french": "Franchement, ta routine elle est vraiment cool ?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831421"
+    },
+    {
+      "english": "Can I borrow your schedule for today?",
+      "french": "Je peux copier ton planning pour aujourd’hui ?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831422"
+    },
+    {
+      "english": "What time do you usually eat lunch?",
+      "french": "Tu manges vers quelle heure, à midi ?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831423"
+    },
+    {
+      "english": "When you’re busy, how do you manage chores?",
+      "french": "Quand t’es débordé, tu gères les tâches comment ?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831425"
+    },
+    {
+      "english": "Should I do laundry now, or later?",
+      "french": "Je fais la lessive maintenant, ou après ?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831427"
+    },
+    {
+      "english": "Do you exercise at home or outside?",
+      "french": "Tu fais du sport à la maison, ou dehors ?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831429"
+    },
+    {
+      "english": "What’s your trick for avoiding distractions?",
+      "french": "Tu as une méthode pour éviter les distractions ?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831430"
+    },
+    {
+      "english": "Can we plan your evening together, quickly?",
+      "french": "On planifie ton soir ensemble, vite fait ?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831432"
+    },
+    {
+      "english": "After work, what do you do to relax?",
+      "french": "Après le boulot, tu te détends comment ?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831433"
+    },
+    {
+      "english": "Do you prefer cooking, or ordering food?",
+      "french": "Tu cuisines, ou tu commandes à manger ?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831435"
+    },
+    {
+      "english": "Any advice for a calmer bedtime routine?",
+      "french": "Tu as des conseils pour une routine du coucher ?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831437"
+    },
+    {
+      "english": "Before sleeping, what do you do, usually?",
+      "french": "Avant de dormir, tu fais quoi d’habitude ?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831438"
+    },
+    {
+      "english": "Can I text you after my workout?",
+      "french": "Je peux te envoyer un message après mon entraînement ?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831440"
+    },
+    {
+      "english": "How’s your day going, honestly?",
+      "french": "Honnêtement, ta journée se passe comment ?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831442"
+    },
+    {
+      "english": "What should I prepare so I don’t stress?",
+      "french": "Tu me conseilles quoi pour éviter le stress ?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831444"
+    },
+    {
+      "english": "Do you want to switch routines with me?",
+      "french": "Tu veux qu’on échange nos routines ?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831447"
+    },
+    {
+      "english": "Where can we meet before your next thing?",
+      "french": "On se retrouve où, avant ta prochaine activité ?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831448"
+    },
+    {
+      "english": "Small progress counts, even when it’s quiet",
+      "french": "Le petit progrès compte, même en silence",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831451"
+    },
+    {
+      "english": "Today, choose calm, you’ll thank yourself later",
+      "french": "Aujourd’hui, choisis le calme, t’en remercieras",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831453"
+    },
+    {
+      "english": "Breathe, reset, and keep going confidently",
+      "french": "Respire, remets-toi, et avance avec confiance",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831455"
+    },
+    {
+      "english": "Give yourself credit, you showed up again",
+      "french": "Fais-toi plaisir, t’es encore là",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831456"
+    },
+    {
+      "english": "Your routine is a promise to yourself",
+      "french": "Ta routine, c’est une promesse à toi",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831458"
+    },
+    {
+      "english": "Focus on now, not on what-ifs",
+      "french": "Concentre-toi sur maintenant, pas sur les si",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831460"
+    },
+    {
+      "english": "Tell yourself, “I handle it,” and start",
+      "french": "Dis-toi, « je gère », et commence",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831463"
+    },
+    {
+      "english": "Set one simple goal, then you’re winning",
+      "french": "Fixe-toi un objectif simple, et tu gagnes",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831465"
+    },
+    {
+      "english": "You’re not behind, you’re building momentum",
+      "french": "T’as pas de retard, tu construis l’élan",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831467"
+    },
+    {
+      "english": "Celebrate the boring parts, that’s discipline",
+      "french": "Célèbre les moments simples, c’est la discipline",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831469"
+    },
+    {
+      "english": "Choose progress over perfection, always",
+      "french": "Choisis le progrès plutôt que la perfection",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831470"
+    },
+    {
+      "english": "If it’s messy, it’s still a start",
+      "french": "Si c’est chaotique, c’est quand même un départ",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831474"
+    },
+    {
+      "english": "Be kind to your brain, it’s learning",
+      "french": "Sois gentil avec ton cerveau, il apprend",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831476"
+    },
+    {
+      "english": "You can restart anytime, no drama",
+      "french": "Tu peux recommencer quand tu veux, sans drame",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831478"
+    },
+    {
+      "english": "Small routines, big energy, trust me",
+      "french": "Petites routines, grosse énergie, crois-moi",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831479"
+    },
+    {
+      "english": "When motivation drops, use habits instead",
+      "french": "Quand la motivation baisse, appuie-toi sur les habitudes",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831481"
+    },
+    {
+      "english": "You’ve already done the hardest part",
+      "french": "Tu as déjà fait la partie la plus dure",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831483"
+    },
+    {
+      "english": "Say “good job,” then move on",
+      "french": "Dis « bravo », puis continue",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831486"
+    },
+    {
+      "english": "Keep it simple, your future self loves it",
+      "french": "Garde ça simple, ton futur soi te remercie",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831488"
+    },
+    {
+      "english": "No need to rush, just stay consistent",
+      "french": "Pas besoin de courir, reste régulier",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831489"
+    },
+    {
+      "english": "Make your bed, that’s your first win",
+      "french": "Fais ton lit, c’est ta première victoire",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831491"
+    },
+    {
+      "english": "Positive thoughts, practical actions, daily",
+      "french": "Pensées positives, actions concrètes, tous les jours",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831493"
+    },
+    {
+      "english": "You’re building a life, not just a schedule",
+      "french": "Tu construis ta vie, pas juste un planning",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831496"
+    },
+    {
+      "english": "If you slip, forgive yourself, start again",
+      "french": "Si tu dérapes, pardonne-toi, recommence",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831497"
+    },
+    {
+      "english": "Make today lighter, one small task at a time",
+      "french": "Rends la journée plus légère, une tâche à la fois",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831499"
+    },
+    {
+      "english": "Keep your head up, you’re doing great",
+      "french": "Garde la tête haute, tu gères",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831501"
+    },
+    {
+      "english": "Each morning, choose gratitude, then act",
+      "french": "Chaque matin, choisis la gratitude, puis agis",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831503"
+    },
+    {
+      "english": "Be proud of yourself, you’re growing",
+      "french": "Sois fier de toi, tu progresses",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831504"
+    },
+    {
+      "english": "Honestly, I feel calmer after my walk.",
+      "french": "Honnêtement, je me sens plus calme après ma marche.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831506"
+    },
+    {
+      "english": "I keep it simple, even when I’m tired.",
+      "french": "Je fais simple, même quand je suis fatigué.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831508"
+    },
+    {
+      "english": "I notice my mood improves, one coffee later.",
+      "french": "Je remarque que mon humeur s’améliore, après mon café.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831511"
+    },
+    {
+      "english": "I don’t rush, I just breathe and continue.",
+      "french": "Je ne me presse pas, je respire et je continue.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831513"
+    },
+    {
+      "english": "I’m learning patience, slow mornings included.",
+      "french": "J’apprends la patience, même avec des matins lents.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831515"
+    },
+    {
+      "english": "Some days, I’m emotional, I still show up.",
+      "french": "Il y a des jours où je suis émotif, je continue quand même.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831517"
+    },
+    {
+      "english": "I write it down, my thoughts stop spiraling.",
+      "french": "J’écris, mes pensées se calment.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831519"
+    },
+    {
+      "english": "I forgive myself, then I restart gently.",
+      "french": "Je me pardonne, puis je repars doucement.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831520"
+    },
+    {
+      "english": "My goals feel heavier, so I break them down.",
+      "french": "Mes objectifs pèsent lourd, donc je les découpe.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831522"
+    },
+    {
+      "english": "I talk to myself, it’s honestly comforting.",
+      "french": "Je me parle à moi-même, c’est vraiment rassurant.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831524"
+    },
+    {
+      "english": "Even on bad days, I keep moving quietly.",
+      "french": "Même quand c’est dur, je bouge quand même.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831526"
+    },
+    {
+      "english": "I reflect a bit, then I choose action.",
+      "french": "Je réfléchis un peu, puis je choisis d’agir.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831527"
+    },
+    {
+      "english": "I’m not perfect, but my routine helps.",
+      "french": "Je ne suis pas parfaite, mais ma routine aide.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831529"
+    },
+    {
+      "english": "I let myself feel it, before fixing anything.",
+      "french": "Je me permets de le ressentir, avant de tout corriger.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831531"
+    },
+    {
+      "english": "When I get anxious, I slow my steps.",
+      "french": "Quand je deviens anxieux, je ralentis mes pas.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831533"
+    },
+    {
+      "english": "I’m proud of my effort, not the outcome.",
+      "french": "Je suis fier de mon effort, pas du résultat.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831535"
+    },
+    {
+      "english": "Today, I admit I need a break.",
+      "french": "Aujourd’hui, je reconnais que j’ai besoin d’une pause.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831536"
+    },
+    {
+      "english": "I set boundaries, so my mind relaxes.",
+      "french": "Je pose des limites, pour que mon esprit respire.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831538"
+    },
+    {
+      "english": "I journal my worries, then I let go.",
+      "french": "J’écris mes soucis, puis je les lâche.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831540"
+    },
+    {
+      "english": "I’m learning to be consistent, not harsh.",
+      "french": "J’apprends à être régulier, pas sévère.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831541"
+    },
+    {
+      "english": "I forgive the delay, progress still counts.",
+      "french": "Je pardonne le retard, ça avance quand même.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831545"
+    },
+    {
+      "english": "My routine feels like a gentle reset.",
+      "french": "Ma routine me fait un reset tout doux.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831546"
+    },
+    {
+      "english": "I’m honest, some mornings feel like a fight.",
+      "french": "Je suis honnête, certains matins ressemblent à un combat.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831548"
+    },
+    {
+      "english": "I keep my promises, even to myself.",
+      "french": "Je tiens mes promesses, même envers moi-même.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831550"
+    },
+    {
+      "english": "I slow down, so my brain feels safe.",
+      "french": "Je ralentis, pour que mon cerveau se sente en sécurité.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831551"
+    },
+    {
+      "english": "I choose reflection, not scrolling, for once.",
+      "french": "Je choisis la réflexion, pas le scroll, une fois.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831553"
+    },
+    {
+      "english": "Even when it’s quiet, I’m still growing.",
+      "french": "Même quand c’est calme, je grandis quand même.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831555"
+    },
+    {
+      "english": "I accept the day, then do what matters.",
+      "french": "J’accepte la journée, puis je fais l’essentiel.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831557"
+    },
+    {
+      "english": "My heart needs peace, so I plan gently.",
+      "french": "Mon cœur a besoin de paix, donc je planifie doucement.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831559"
+    },
+    {
+      "english": "Quick check-in, how’s your day really going?",
+      "french": "Petit check-in, comment ça se passe vraiment aujourd’hui ?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831561"
+    },
+    {
+      "english": "Before coffee, breathe, then pick one task.",
+      "french": "Avant le café, respire, puis choisis une tâche.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831563"
+    },
+    {
+      "english": "Text me later, don’t forget to eat.",
+      "french": "Tu m’appelles plus tard, n’oublie pas de manger.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831569"
+    },
+    {
+      "english": "I’m running late, but I’ll be polite.",
+      "french": "Je suis en retard, mais je reste poli.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-09T07:45:29.831571"
     }
   ],
-  "last_updated": "2026-11-08T07:00:57.138153"
+  "last_updated": "2026-11-09T07:45:29.831574"
 }
