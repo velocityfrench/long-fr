@@ -20843,7 +20843,727 @@
       "french": "Je suis en retard, mais je reste poli.",
       "category": "Daily Routine",
       "generated_at": "2026-11-09T07:45:29.831571"
+    },
+    {
+      "english": "Joy, I’m so happy right now, seriously",
+      "french": "Joie, je suis tellement content(e) là, franchement",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.477709"
+    },
+    {
+      "english": "Hey, you’re smiling, it’s making my day",
+      "french": "Hé, tu souris, ça me met de bonne humeur",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.477727"
+    },
+    {
+      "english": "Wait, come here, I have good news",
+      "french": "Attends, viens par là, j’ai une bonne nouvelle",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.477730"
+    },
+    {
+      "english": "Okay, that was cute, I’m impressed",
+      "french": "D’accord, c’était trop mignon, je suis impressionné(e)",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.477733"
+    },
+    {
+      "english": "Yes! Tell me everything, I’m listening",
+      "french": "Oui ! Dis-moi tout, je t’écoute",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.477736"
+    },
+    {
+      "english": "Hold on, I’m grinning, this is fun",
+      "french": "Attends, je souris, c’est trop drôle",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.477738"
+    },
+    {
+      "english": "Honestly, you’re my favorite vibe today",
+      "french": "Franchement, t’es mon meilleur vibe aujourd’hui",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.477742"
+    },
+    {
+      "english": "That laugh, oh wow, I needed it",
+      "french": "Ce rire, oh là là, j’en avais besoin",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.477748"
+    },
+    {
+      "english": "Let’s go, I’m ready, let’s do it",
+      "french": "On y va, je suis prêt(e), allez, c’est parti",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.477751"
+    },
+    {
+      "english": "No way, that’s actually perfect",
+      "french": "Pas possible, c’est carrément parfait",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.477754"
+    },
+    {
+      "english": "I’m warmed up, this feels so good",
+      "french": "Je suis en forme, ça fait vraiment du bien",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.477757"
+    },
+    {
+      "english": "Quick check, did you see that smile?",
+      "french": "Petite question, tu l’as vu, ce sourire ?",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.477760"
+    },
+    {
+      "english": "Wow, you totally nailed it, respect",
+      "french": "Wahou, t’as géré, je te respecte",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.477762"
+    },
+    {
+      "english": "Okay, I’m obsessed, that’s my thing",
+      "french": "Bon, je suis accro, c’est mon délire",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.477765"
+    },
+    {
+      "english": "Come on, say yes, I’m rooting for you",
+      "french": "Allez, dis oui, je suis de tout cœur",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.477840"
+    },
+    {
+      "english": "I’m proud, you did it, for real",
+      "french": "Je suis fier/fière, t’as réussi, vraiment",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.477843"
+    },
+    {
+      "english": "That moment, it’s pure happiness",
+      "french": "Ce moment-là, c’est du bonheur pur",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.477845"
+    },
+    {
+      "english": "No stress, we’ll figure it out, together",
+      "french": "Pas de stress, on va gérer, ensemble",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.477848"
+    },
+    {
+      "english": "You’re killing it, I’m smiling nonstop",
+      "french": "Tu assures, je souris sans arrêt",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.477851"
+    },
+    {
+      "english": "Wait, that’s adorable, where did you get it?",
+      "french": "Attends, c’est trop mignon, tu l’as trouvé où ?",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.477853"
+    },
+    {
+      "english": "I’m hyped, let’s celebrate this right now",
+      "french": "Je suis trop motivé(e), on fête ça maintenant",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.477856"
+    },
+    {
+      "english": "Seriously, you make everything lighter",
+      "french": "Vraiment, tu rends tout plus léger",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.477858"
+    },
+    {
+      "english": "If you knew, you’d be smiling too",
+      "french": "Si tu savais, tu sourirais aussi",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.477861"
+    },
+    {
+      "english": "Yes, that’s it, keep that energy",
+      "french": "Oui, voilà, garde cette énergie",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.477863"
+    },
+    {
+      "english": "I can’t help it, I’m laughing already",
+      "french": "J’y peux rien, je rigole déjà",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.477866"
+    },
+    {
+      "english": "That’s a vibe, let me stay, please",
+      "french": "C’est une ambiance, je veux rester, s’il te plaît",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.477868"
+    },
+    {
+      "english": "Good, you’re here, this is perfect timing",
+      "french": "Parfait, t’es là, c’est le bon moment",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.477871"
+    },
+    {
+      "english": "I’ll take that, thank you, I’m delighted",
+      "french": "Je prends, merci, je suis ravi(e)",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.477874"
+    },
+    {
+      "english": "Can I ask you something, real quick?",
+      "french": "Je peux te demander un truc, vite fait ?",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.477876"
+    },
+    {
+      "english": "What’s the best way to say this?",
+      "french": "Tu dirais ça comment, toi ?",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.477878"
+    },
+    {
+      "english": "How do you like it, honestly?",
+      "french": "Franchement, tu en penses quoi ?",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.477881"
+    },
+    {
+      "english": "Do you want to talk about it now?",
+      "french": "Tu veux en parler maintenant ?",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.477883"
+    },
+    {
+      "english": "Could you help me, I’m stuck?",
+      "french": "Tu peux m’aider, j’suis coincé ?",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.477886"
+    },
+    {
+      "english": "Where do I find the right words?",
+      "french": "Je les trouve où, les bons mots ?",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.477888"
+    },
+    {
+      "english": "Wait, what did you mean by that?",
+      "french": "Attends, tu veux dire quoi ?",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.477891"
+    },
+    {
+      "english": "Is this how natives say it?",
+      "french": "C’est comme ça qu’on dit, chez vous ?",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.477892"
+    },
+    {
+      "english": "Any tips for sounding more natural?",
+      "french": "Tu aurais des conseils, pour être plus naturel ?",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.477894"
+    },
+    {
+      "english": "Should I use ‘tu’ or ‘vous’?",
+      "french": "Je dis “tu” ou “vous” ?",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.477897"
+    },
+    {
+      "english": "What’s your go-to phrase for this?",
+      "french": "Ta phrase préférée, c’est laquelle ?",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.477900"
+    },
+    {
+      "english": "Would you explain it again, please?",
+      "french": "Tu peux me le réexpliquer, s’il te plaît ?",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.477903"
+    },
+    {
+      "english": "Can we practice a short dialogue?",
+      "french": "On s’entraîne à un mini dialogue ?",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.477905"
+    },
+    {
+      "english": "I have a question, don’t laugh!",
+      "french": "J’ai une question, t’inquiète pas !",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.477907"
+    },
+    {
+      "english": "What would you do in my place?",
+      "french": "Tu ferais quoi à ma place ?",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.477910"
+    },
+    {
+      "english": "Is it too much, or perfect?",
+      "french": "C’est trop, ou c’est parfait ?",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.477911"
+    },
+    {
+      "english": "Tell me, what’s the vibe here?",
+      "french": "Dis-moi, c’est quoi l’ambiance ?",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.477914"
+    },
+    {
+      "english": "Should I answer now, or later?",
+      "french": "Je réponds maintenant, ou plus tard ?",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.477916"
+    },
+    {
+      "english": "Can you slow down, I’m learning?",
+      "french": "Tu peux parler plus lentement ?",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.477918"
+    },
+    {
+      "english": "What does this word mean, exactly?",
+      "french": "Ça veut dire quoi, exactement ?",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.477920"
+    },
+    {
+      "english": "How do you say ‘I agree’ naturally?",
+      "french": "Tu dis “je suis d’accord” comment ?",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.477922"
+    },
+    {
+      "english": "If I say this, will it sound okay?",
+      "french": "Si je dis ça, ça sonne bien ?",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.477924"
+    },
+    {
+      "english": "Can I get your opinion, quick?",
+      "french": "Je peux avoir ton avis, vite ?",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.477926"
+    },
+    {
+      "english": "What’s one thing you’d change?",
+      "french": "Tu changerais quoi, toi, une seule chose ?",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.477928"
+    },
+    {
+      "english": "Do you have a favorite expression?",
+      "french": "Tu as une expression préférée ?",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.477930"
+    },
+    {
+      "english": "Can we do it like this, together?",
+      "french": "On le fait comme ça, ensemble ?",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.477932"
+    },
+    {
+      "english": "Should I pronounce this differently?",
+      "french": "Je prononce ça comment, au juste ?",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.477934"
+    },
+    {
+      "english": "Are you free later, to chat?",
+      "french": "Tu es dispo plus tard, pour discuter ?",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.477936"
+    },
+    {
+      "english": "What if we try another answer?",
+      "french": "On tente autre chose, tu veux ?",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.477938"
+    },
+    {
+      "english": "Breathe in, then speak, you’re ready",
+      "french": "Respire, puis parle, t’es prêt(e)",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.477942"
+    },
+    {
+      "english": "Small progress counts, I’m proud of you",
+      "french": "Chaque petit progrès compte, je suis fier/fière",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.477944"
+    },
+    {
+      "english": "Keep going, joy finds you in practice",
+      "french": "Continue, la joie te trouve avec la pratique",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.477946"
+    },
+    {
+      "english": "Today, say it anyway, even imperfectly",
+      "french": "Aujourd’hui, dis-le quand même, même imparfait",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.477949"
+    },
+    {
+      "english": "That effort matters, trust the process",
+      "french": "Ton effort compte, fais confiance au processus",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.477951"
+    },
+    {
+      "english": "You’re learning fast, look at you",
+      "french": "Tu progresses vite, regarde comme tu y arrives",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.477953"
+    },
+    {
+      "english": "Go easy on yourself, you’re doing great",
+      "french": "Sois indulgent(e) avec toi, tu assures",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.477955"
+    },
+    {
+      "english": "Joy starts now, not after you’re perfect",
+      "french": "La joie commence maintenant, pas après la perfection",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.477958"
+    },
+    {
+      "english": "Say it with a smile, it helps a lot",
+      "french": "Dis-le avec un sourire, ça aide vraiment",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.477960"
+    },
+    {
+      "english": "You’re brave, even when it feels hard",
+      "french": "Tu es courageux/courageuse, même quand c’est dur",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.477962"
+    },
+    {
+      "english": "Celebrate mistakes, they’re part of getting better",
+      "french": "Célèbre tes erreurs, elles t’aident à progresser",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.477965"
+    },
+    {
+      "english": "Stay curious, every answer brings new joy",
+      "french": "Reste curieux/curieuse, chaque réponse apporte de la joie",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.477967"
+    },
+    {
+      "english": "Trust your brain, it’s working every day",
+      "french": "Fais confiance à ton cerveau, il travaille chaque jour",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.477969"
+    },
+    {
+      "english": "You can pause, then continue, no pressure",
+      "french": "Tu peux faire une pause, puis continuer, sans pression",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.477971"
+    },
+    {
+      "english": "That’s progress, not a setback, keep going",
+      "french": "C’est un progrès, pas un échec, continue",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.477974"
+    },
+    {
+      "english": "Give yourself credit, you’re improving for real",
+      "french": "Fais-toi confiance, tu t’améliores vraiment",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.477976"
+    },
+    {
+      "english": "Make it fun, your French will follow",
+      "french": "Rends ça fun, ton français te suivra",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.477979"
+    },
+    {
+      "english": "You don’t need perfect, just keep moving",
+      "french": "Tu n’as pas besoin d’être parfait, avance",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.477981"
+    },
+    {
+      "english": "I love your energy, keep it coming",
+      "french": "J’adore ton énergie, continue comme ça",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.477983"
+    },
+    {
+      "english": "That was brave, and it sounded better",
+      "french": "C’était courageux, et ça sonnait mieux",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.477985"
+    },
+    {
+      "english": "Choose joy, then speak, you’ll be fine",
+      "french": "Choisis la joie, puis parle, tu seras bien",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.477987"
+    },
+    {
+      "english": "You’re allowed to be a beginner, enjoy it",
+      "french": "Tu as le droit d’être débutant(e), profite",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.477991"
+    },
+    {
+      "english": "Smile first, words come easier after",
+      "french": "Souris d’abord, les mots viennent plus facilement",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.477993"
+    },
+    {
+      "english": "Every try is a win, don’t stop",
+      "french": "Chaque tentative est une victoire, n’arrête pas",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.477995"
+    },
+    {
+      "english": "Say what you can, joy will expand",
+      "french": "Dis ce que tu peux, la joie s’agrandit",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.477997"
+    },
+    {
+      "english": "Your progress is real, I can see it",
+      "french": "Tes progrès sont réels, je les vois",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.478000"
+    },
+    {
+      "english": "Be proud, your French is waking up",
+      "french": "Sois fier/fière, ton français s’éveille",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.478002"
+    },
+    {
+      "english": "Honestly, I felt nervous, but I said it.",
+      "french": "Honnêtement, j'étais nerveux, mais je l'ai dit.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.478004"
+    },
+    {
+      "english": "I’m choosing calm, even when I don’t know.",
+      "french": "Je choisis le calme, même quand je ne sais pas.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.478007"
+    },
+    {
+      "english": "Some days, I just speak, no overthinking.",
+      "french": "Parfois, je parle juste, sans trop réfléchir.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.478010"
+    },
+    {
+      "english": "It’s okay to be weird, I mean it.",
+      "french": "Ça va d’être bizarre, je le pense.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.478012"
+    },
+    {
+      "english": "I’ll be patient, my brain needs time.",
+      "french": "Je vais être patient, mon cerveau a besoin de temps.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.478015"
+    },
+    {
+      "english": "Right now, I’m proud of trying.",
+      "french": "Là, je suis fier d’essayer.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.478018"
+    },
+    {
+      "english": "I don’t fake confidence, I build it slowly.",
+      "french": "Je ne fais pas semblant, je la construis doucement.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.478020"
+    },
+    {
+      "english": "My heart says yes, even if words slip.",
+      "french": "Mon cœur dit oui, même si les mots glissent.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.478022"
+    },
+    {
+      "english": "I’m learning to love the awkward moments.",
+      "french": "J’apprends à aimer les moments gênants.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.478025"
+    },
+    {
+      "english": "Wait, I’m feeling it, then I respond.",
+      "french": "Attends, je le sens, puis je réponds.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.478027"
+    },
+    {
+      "english": "I’m not behind, I’m just leveling up.",
+      "french": "Je ne suis pas en retard, je monte de niveau.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.478030"
+    },
+    {
+      "english": "Sometimes I pause, it’s part of my rhythm.",
+      "french": "Parfois je fais une pause, c’est mon rythme.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.478034"
+    },
+    {
+      "english": "I’m smiling, because frustration can chill too.",
+      "french": "Je souris, parce que la frustration peut se calmer.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.478037"
+    },
+    {
+      "english": "Let it be messy, I’m still growing.",
+      "french": "Qu’il soit un peu brouillon, je grandis quand même.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.478039"
+    },
+    {
+      "english": "I admit it, my brain gets tired sometimes.",
+      "french": "Je l’avoue, mon cerveau fatigue parfois.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.478041"
+    },
+    {
+      "english": "I speak from the heart, not from panic.",
+      "french": "Je parle du cœur, pas de la panique.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.478043"
+    },
+    {
+      "english": "Even my mistakes sound like progress, seriously.",
+      "french": "Même mes erreurs ressemblent à des progrès, vraiment.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.478046"
+    },
+    {
+      "english": "If I stumble, I breathe, then continue.",
+      "french": "Si je trébuche, je respire, puis je continue.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.478048"
+    },
+    {
+      "english": "I feel lighter when I keep it simple.",
+      "french": "Je me sens plus léger, quand c’est simple.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.478050"
+    },
+    {
+      "english": "This is my honest joy, not perfection.",
+      "french": "C’est ma joie honnête, pas la perfection.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.478052"
+    },
+    {
+      "english": "I’m learning to trust myself, step by step.",
+      "french": "J’apprends à me faire confiance, pas à pas.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.478065"
+    },
+    {
+      "english": "I can be tired, and still learn today.",
+      "french": "Je peux être fatigué, et apprendre quand même.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.478068"
+    },
+    {
+      "english": "When I hesitate, I remember: it’s practice.",
+      "french": "Quand je doute, je me rappelle, c’est de l’entraînement.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.478071"
+    },
+    {
+      "english": "I’m proud of my patience, it’s a skill.",
+      "french": "Je suis fier de ma patience, c’est une compétence.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.478074"
+    },
+    {
+      "english": "My joy grows when I stay real.",
+      "french": "Ma joie grandit quand je reste authentique.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.478076"
+    },
+    {
+      "english": "I don’t need a perfect sentence, ever.",
+      "french": "Je n’ai pas besoin d’une phrase parfaite, jamais.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.478078"
+    },
+    {
+      "english": "I’m okay with “almost,” it still counts.",
+      "french": "J’accepte le “presque”, ça compte quand même.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.478081"
+    },
+    {
+      "english": "I say my feelings first, then the words.",
+      "french": "Je dis ce que je ressens, puis les mots.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.478084"
+    },
+    {
+      "english": "Today I choose honesty, even if I’m awkward.",
+      "french": "Aujourd’hui, je choisis l’honnêteté, même si je suis maladroit.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.478086"
+    },
+    {
+      "english": "If it hurts a bit, I don’t quit.",
+      "french": "Si ça fait un peu mal, je n’abandonne pas.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.478089"
+    },
+    {
+      "english": "Quick question, how do I get there?",
+      "french": "Petite question, comment j’y vais ?",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.478091"
+    },
+    {
+      "english": "I’ll repeat slowly, sorry, my French.",
+      "french": "Je répète doucement, désolé, mon français.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.478093"
+    },
+    {
+      "english": "Where’s the nearest metro, please?",
+      "french": "C’est où, le métro le plus proche, s’il vous plaît ?",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.478096"
+    },
+    {
+      "english": "I’m looking for this address, can you help?",
+      "french": "Je cherche cette adresse, vous pouvez m’aider ?",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.478099"
+    },
+    {
+      "english": "I’ll try, even if I’m not sure.",
+      "french": "J’essaie, même si je ne suis pas sûr.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.478101"
+    },
+    {
+      "english": "Can we say it simpler, please?",
+      "french": "On peut le dire plus simplement, s’il vous plaît ?",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:06:17.478103"
     }
   ],
-  "last_updated": "2026-11-09T07:45:29.831574"
+  "last_updated": "2026-11-10T08:06:17.478105"
 }
