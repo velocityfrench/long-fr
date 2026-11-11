@@ -21563,7 +21563,727 @@
       "french": "On peut le dire plus simplement, s’il vous plaît ?",
       "category": "Joy",
       "generated_at": "2026-11-10T08:06:17.478103"
+    },
+    {
+      "english": "Hi, we have a reservation, right?",
+      "french": "Bonjour, nous avons une réservation, c’est ça ?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317415"
+    },
+    {
+      "english": "Could we check in now, please?",
+      "french": "On peut s’enregistrer maintenant, s’il vous plaît ?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317430"
+    },
+    {
+      "english": "Do you have free rooms for tonight?",
+      "french": "Vous avez des chambres libres pour ce soir ?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317433"
+    },
+    {
+      "english": "Where’s the front desk, please?",
+      "french": "Où est la réception, s’il vous plaît ?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317436"
+    },
+    {
+      "english": "Can I get the Wi‑Fi password?",
+      "french": "Je peux avoir le mot de passe Wi‑Fi ?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317438"
+    },
+    {
+      "english": "Is breakfast included in the price?",
+      "french": "Le petit-déjeuner est inclus, dans le prix ?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317440"
+    },
+    {
+      "english": "What time is breakfast, exactly?",
+      "french": "C’est à quelle heure, le petit-déjeuner ?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317441"
+    },
+    {
+      "english": "Is parking available on-site?",
+      "french": "Le parking est disponible sur place ?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317445"
+    },
+    {
+      "english": "Do I need to pay now, or later?",
+      "french": "Je paye maintenant, ou après ?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317447"
+    },
+    {
+      "english": "We need an extra towel, please.",
+      "french": "On a besoin d’une serviette en plus, s’il vous plaît.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317450"
+    },
+    {
+      "english": "Could we have two keys, please?",
+      "french": "On peut avoir deux clés, s’il vous plaît ?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317451"
+    },
+    {
+      "english": "The room smells a bit strange.",
+      "french": "La chambre sent un peu bizarre.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317453"
+    },
+    {
+      "english": "Sorry, is this the right room?",
+      "french": "Désolé, c’est bien la bonne chambre ?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317454"
+    },
+    {
+      "english": "How do I use the air conditioner?",
+      "french": "Comment on règle la climatisation ?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317456"
+    },
+    {
+      "english": "The heater isn’t working, please help.",
+      "french": "Le chauffage ne marche pas, s’il vous plaît.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317459"
+    },
+    {
+      "english": "Where’s the elevator, and is it near?",
+      "french": "Où se trouve l’ascenseur, il est proche ?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317461"
+    },
+    {
+      "english": "Can we get a late check-out?",
+      "french": "On peut avoir un départ tardif, s’il vous plaît ?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317462"
+    },
+    {
+      "english": "We’ll be back in an hour.",
+      "french": "On revient dans une heure.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317464"
+    },
+    {
+      "english": "Please don’t disturb, we’re resting.",
+      "french": "Ne pas déranger, on se repose.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317467"
+    },
+    {
+      "english": "Could you clean the room now?",
+      "french": "Vous pouvez nettoyer la chambre, maintenant ?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317468"
+    },
+    {
+      "english": "Do you have room service, by chance?",
+      "french": "Vous avez le service en chambre, par hasard ?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317470"
+    },
+    {
+      "english": "We’d like coffee, two cups, please.",
+      "french": "On voudrait deux cafés, s’il vous plaît.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317472"
+    },
+    {
+      "english": "Is there a lift to the rooms?",
+      "french": "Il y a un ascenseur pour les chambres ?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317473"
+    },
+    {
+      "english": "How far is the city center from here?",
+      "french": "Le centre-ville est à quelle distance, d’ici ?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317476"
+    },
+    {
+      "english": "Can you call a taxi for us?",
+      "french": "Vous pouvez appeler un taxi, pour nous ?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317478"
+    },
+    {
+      "english": "I’m locked out, what should I do?",
+      "french": "Je suis dehors, je fais quoi ?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317480"
+    },
+    {
+      "english": "Thanks, that helps a lot, really.",
+      "french": "Merci, ça aide beaucoup, vraiment.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317481"
+    },
+    {
+      "english": "Is there a wake-up call option?",
+      "french": "Vous proposez un réveil téléphonique ?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317483"
+    },
+    {
+      "english": "Do you have rooms quieter, if possible?",
+      "french": "Vous auriez une chambre plus calme, si possible ?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317485"
+    },
+    {
+      "english": "Is there a place to store luggage?",
+      "french": "Vous avez un endroit pour laisser les bagages ?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317487"
+    },
+    {
+      "english": "What’s the wifi like, is it stable?",
+      "french": "Le Wi-Fi, c’est stable, en général ?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317489"
+    },
+    {
+      "english": "Do I need an access card for the room?",
+      "french": "Il faut une carte pour entrer dans la chambre ?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317491"
+    },
+    {
+      "english": "Can I ask for a room on higher floors?",
+      "french": "Je peux demander une chambre plus en hauteur ?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317492"
+    },
+    {
+      "english": "Is there a minibar, or just drinks vending?",
+      "french": "Il y a un minibar, ou seulement une machine ?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317494"
+    },
+    {
+      "english": "What time does the reception open?",
+      "french": "À quelle heure ouvre la réception ?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317496"
+    },
+    {
+      "english": "How late can we stay in the lobby?",
+      "french": "On peut rester au lobby jusqu’à quelle heure ?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317498"
+    },
+    {
+      "english": "Do you have an iron and ironing board?",
+      "french": "Vous avez un fer à repasser, et une planche ?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317500"
+    },
+    {
+      "english": "Is there a washer, or laundry service here?",
+      "french": "Vous avez une laverie, ou un service de pressing ?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317502"
+    },
+    {
+      "english": "Can I get a wake-up call, please?",
+      "french": "Je peux avoir un réveil, s’il vous plaît ?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317503"
+    },
+    {
+      "english": "What’s the best way to get to downtown?",
+      "french": "C’est quoi le meilleur moyen pour aller au centre ?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317505"
+    },
+    {
+      "english": "Is there a pharmacy nearby, just in case?",
+      "french": "Il y a une pharmacie près d’ici, au cas où ?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317507"
+    },
+    {
+      "english": "Do you offer breakfast for early birds?",
+      "french": "Vous proposez le petit-déjeuner tôt, s’il vous plaît ?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317509"
+    },
+    {
+      "english": "Are there towels included, or extra cost?",
+      "french": "Les serviettes sont incluses, ou c’est en plus ?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317510"
+    },
+    {
+      "english": "Is the room quiet at night?",
+      "french": "La chambre est calme la nuit, en général ?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317512"
+    },
+    {
+      "english": "Do you allow late arrivals, by any chance?",
+      "french": "Vous acceptez les arrivées tardives, par hasard ?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317514"
+    },
+    {
+      "english": "What’s your policy for cancellations?",
+      "french": "Vous avez quelle politique pour annuler ?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317516"
+    },
+    {
+      "english": "If I change plans, can I reschedule?",
+      "french": "Si je change d’avis, je peux reprogrammer ?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317517"
+    },
+    {
+      "english": "Do you have parking options for guests?",
+      "french": "Vous avez une place de parking pour les clients ?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317519"
+    },
+    {
+      "english": "Is parking free for how long, exactly?",
+      "french": "Le parking est gratuit pour combien de temps ?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317522"
+    },
+    {
+      "english": "Can I store my bike somewhere safe?",
+      "french": "Je peux garer mon vélo, dans un endroit sûr ?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317524"
+    },
+    {
+      "english": "Are pets allowed, or is it not possible?",
+      "french": "Les animaux sont acceptés, ou pas du tout ?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317526"
+    },
+    {
+      "english": "Do you have rooms for families?",
+      "french": "Vous avez des chambres pour les familles ?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317529"
+    },
+    {
+      "english": "Is the bathroom shared, or private?",
+      "french": "La salle de bain est partagée, ou privée ?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317531"
+    },
+    {
+      "english": "Where can I get a map of the area?",
+      "french": "Je peux trouver une carte ici, s’il vous plaît ?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317533"
+    },
+    {
+      "english": "Could you recommend a nice local restaurant?",
+      "french": "Vous me conseillez un bon resto du coin ?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317535"
+    },
+    {
+      "english": "Do you have an evening shuttle service?",
+      "french": "Il y a un service de navette le soir ?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317538"
+    },
+    {
+      "english": "What’s the quietest room option you have?",
+      "french": "C’est quelle option la plus silencieuse ?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317539"
+    },
+    {
+      "english": "Can we meet housekeeping for anything extra?",
+      "french": "On peut voir le personnel si besoin, pour plus ?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317542"
+    },
+    {
+      "english": "Today, we rest easy, thanks to this place.",
+      "french": "Aujourd’hui, on se repose tranquille, grâce à cet endroit.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317544"
+    },
+    {
+      "english": "You’ve got this, one check-in at a time.",
+      "french": "T’inquiète, un check-in après l’autre, et c’est bon.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317546"
+    },
+    {
+      "english": "Smile, the room is waiting for you.",
+      "french": "Souris, la chambre t’attend.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317548"
+    },
+    {
+      "english": "No stress, today is for good vibes only.",
+      "french": "Pas de stress, aujourd’hui, que du bon.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317550"
+    },
+    {
+      "english": "Breathe in, you’re exactly where you should be.",
+      "french": "Respire, tu es exactement à ta place.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317553"
+    },
+    {
+      "english": "This stay will feel smooth, trust me.",
+      "french": "Ce séjour va être fluide, t’inquiète.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317554"
+    },
+    {
+      "english": "Small steps, and your trip is already winning.",
+      "french": "Petits pas, et ton voyage commence bien.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317556"
+    },
+    {
+      "english": "Nice job, you booked the right spot.",
+      "french": "Bravo, t’as réservé le bon endroit.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317558"
+    },
+    {
+      "english": "Give yourself credit, you made it here.",
+      "french": "Fais-toi plaisir, t’y es arrivé.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317561"
+    },
+    {
+      "english": "Let the day go, tonight will be calm.",
+      "french": "Laisse la journée partir, ce soir c’est tranquille.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317563"
+    },
+    {
+      "english": "Good energy in, good sleep out.",
+      "french": "Bonne énergie, et dodo tranquille.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317565"
+    },
+    {
+      "english": "You’re safe here, everything is under control.",
+      "french": "T’es tranquille ici, y a rien à craindre.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317568"
+    },
+    {
+      "english": "Keep it simple, enjoy the moment right now.",
+      "french": "Reste simple, profite maintenant.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317570"
+    },
+    {
+      "english": "Confidence looks good on you, always.",
+      "french": "La confiance, ça te va bien.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317572"
+    },
+    {
+      "english": "Take your time, you’ll figure it out.",
+      "french": "Prends ton temps, tu vas t’en sortir.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317574"
+    },
+    {
+      "english": "Tonight’s plan, relax, then explore tomorrow.",
+      "french": "Ce soir, relax, et demain on explore.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317577"
+    },
+    {
+      "english": "You deserve comfort, don’t settle for less.",
+      "french": "Tu mérites le confort, ne baisse pas la tête.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317579"
+    },
+    {
+      "english": "I love this vibe, it feels welcoming.",
+      "french": "J’adore cette ambiance, c’est super accueillant.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317580"
+    },
+    {
+      "english": "Be proud, you’re treating yourself well.",
+      "french": "Sois fier, tu te fais plaisir.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317582"
+    },
+    {
+      "english": "Calm down, you’re not alone in this trip.",
+      "french": "Tout va bien, t’es pas tout seul.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317584"
+    },
+    {
+      "english": "Say “merci,” you’ll get smoother service.",
+      "french": "Dis “merci,” ça rend les choses plus faciles.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317587"
+    },
+    {
+      "english": "Keep going, your best days are ahead.",
+      "french": "Continue, tes meilleurs jours arrivent.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317588"
+    },
+    {
+      "english": "You’re doing great, enjoy every little detail.",
+      "french": "T’assures, profite de chaque petit détail.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317591"
+    },
+    {
+      "english": "Let it be easy, this place has your back.",
+      "french": "Fais simple, ici on te couvre.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317593"
+    },
+    {
+      "english": "Tonight, we take it slow, no rush.",
+      "french": "Ce soir, on prend son temps, sans se presser.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317594"
+    },
+    {
+      "english": "You’ll wake up fresh, trust the routine.",
+      "french": "Tu te lèveras frais, fais confiance.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317596"
+    },
+    {
+      "english": "Respect the vibe, and the stay goes smoothly.",
+      "french": "Respecte l’ambiance, et tout roule.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317598"
+    },
+    {
+      "english": "Great choice, this hotel gets it right.",
+      "french": "Super choix, cet hôtel comprend tout.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317600"
+    },
+    {
+      "english": "Stay positive, even small things feel better.",
+      "french": "Garde le moral, les petites choses comptent.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317604"
+    },
+    {
+      "english": "You made it, now enjoy the pause.",
+      "french": "T’y es arrivé, maintenant profites de la pause.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317605"
+    },
+    {
+      "english": "Honestly, I feel really comfortable here.",
+      "french": "Franchement, je me sens vraiment à l’aise ici.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317607"
+    },
+    {
+      "english": "After a long day, I needed quiet.",
+      "french": "Après une longue journée, j’avais besoin de calme.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317609"
+    },
+    {
+      "english": "I’m relieved, the room feels safe.",
+      "french": "Je respire, la chambre me paraît sûre.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317611"
+    },
+    {
+      "english": "I’m trying not to stress, really.",
+      "french": "J’essaie de ne pas stresser, vraiment.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317613"
+    },
+    {
+      "english": "This place feels warm, not just practical.",
+      "french": "Ici, c’est chaleureux, pas seulement pratique.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317615"
+    },
+    {
+      "english": "I appreciate the calm, it helps me reset.",
+      "french": "J’apprécie le calme, ça m’aide à repartir.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317616"
+    },
+    {
+      "english": "I’m thankful, everything is simple here.",
+      "french": "Je suis reconnaissant, tout est simple ici.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317618"
+    },
+    {
+      "english": "Can I be honest, I love this vibe.",
+      "french": "Je peux être honnête, j’adore l’ambiance.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317620"
+    },
+    {
+      "english": "I’m patient, the check-in will happen.",
+      "french": "Je suis patient, le check-in se fera.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317622"
+    },
+    {
+      "english": "I don’t need much, just comfort and ease.",
+      "french": "J’ai pas besoin de grand-chose, juste du confort.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317625"
+    },
+    {
+      "english": "Tonight, I want to breathe and recharge.",
+      "french": "Ce soir, j’ai envie de respirer, de recharger.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317627"
+    },
+    {
+      "english": "I feel better already, thanks for that.",
+      "french": "Je me sens mieux déjà, merci pour ça.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317628"
+    },
+    {
+      "english": "I’m cautious, so I like clear rules.",
+      "french": "Je suis prudent, j’aime quand c’est clair.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317630"
+    },
+    {
+      "english": "I’d rather sleep early, I’m exhausted.",
+      "french": "Je préfère dormir tôt, je suis crevé.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317632"
+    },
+    {
+      "english": "This place makes me slow down inside.",
+      "french": "Ici, je ralentis à l’intérieur.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317634"
+    },
+    {
+      "english": "I’m looking for comfort, not perfection.",
+      "french": "Je cherche du confort, pas la perfection.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317636"
+    },
+    {
+      "english": "Honestly, the staff’s kindness matters to me.",
+      "french": "Franchement, la gentillesse du personnel compte.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317639"
+    },
+    {
+      "english": "I’ll be patient, I know it takes time.",
+      "french": "Je vais attendre, je sais que ça prend du temps.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317641"
+    },
+    {
+      "english": "I feel grateful, this helps me unwind.",
+      "french": "Je suis reconnaissant, ça m’aide à décompresser.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317642"
+    },
+    {
+      "english": "I want to be comfortable, that’s all.",
+      "french": "Je veux être à l’aise, c’est tout.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317644"
+    },
+    {
+      "english": "The silence here really calms me down.",
+      "french": "Le silence ici me calme vraiment.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317646"
+    },
+    {
+      "english": "I’m trying to keep it positive, today.",
+      "french": "J’essaie de rester positif, aujourd’hui.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317648"
+    },
+    {
+      "english": "I appreciate the effort, it shows.",
+      "french": "J’apprécie l’effort, on le voit.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317650"
+    },
+    {
+      "english": "I feel safe, even when I’m traveling alone.",
+      "french": "Je me sens en sécurité, même en voyage seul.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317657"
+    },
+    {
+      "english": "I’ll take my time, no need to rush.",
+      "french": "Je prends mon temps, t’inquiète, pas de rush.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317659"
+    },
+    {
+      "english": "This is my little reset, I needed it.",
+      "french": "C’est mon petit reset, j’en avais besoin.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317661"
+    },
+    {
+      "english": "I’m honestly moved by the welcome.",
+      "french": "Je suis vraiment touché par l’accueil.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317663"
+    },
+    {
+      "english": "I want peace tonight, that’s my priority.",
+      "french": "Je veux de la paix ce soir, c’est ma priorité.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317665"
+    },
+    {
+      "english": "I’m not asking for much, just respect.",
+      "french": "Je demande pas grand-chose, juste du respect.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317668"
+    },
+    {
+      "english": "When I feel understood, I relax completely.",
+      "french": "Quand je me sens compris, je me détends complètement.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317670"
+    },
+    {
+      "english": "Quick check-in, what’s the Wi‑Fi password?",
+      "french": "Check-in rapide, c’est quoi le mot de passe Wi‑Fi ?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317673"
+    },
+    {
+      "english": "Could you show me where breakfast is?",
+      "french": "Vous pouvez me montrer où se trouve le petit-déjeuner ?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-11T07:35:58.317675"
     }
   ],
-  "last_updated": "2026-11-10T08:06:17.478105"
+  "last_updated": "2026-11-11T07:35:58.317676"
 }
