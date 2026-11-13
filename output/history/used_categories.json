@@ -83,7 +83,39 @@
     {
       "category": "Hotel & Accommodation",
       "date": "2020-01-21"
+    },
+    {
+      "category": "Asking for Directions",
+      "date": "2026-11-13"
+    },
+    {
+      "category": "Courage",
+      "date": "2026-11-13"
+    },
+    {
+      "category": "Public Transportation",
+      "date": "2026-11-13"
+    },
+    {
+      "category": "Celebrations & Parties",
+      "date": "2026-11-13"
+    },
+    {
+      "category": "Inner Peace",
+      "date": "2026-11-13"
+    },
+    {
+      "category": "Positive Life",
+      "date": "2026-11-13"
+    },
+    {
+      "category": "Sports & Fitness",
+      "date": "2026-11-13"
+    },
+    {
+      "category": "Coffee Shop & Bakery",
+      "date": "2026-11-13"
     }
   ],
-  "last_updated": "2026-11-12T11:24:35.303787"
+  "last_updated": "2026-11-13T12:51:48.444410"
 }

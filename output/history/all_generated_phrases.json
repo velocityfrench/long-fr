@@ -22283,7 +22283,399 @@
       "french": "Vous pouvez me montrer où se trouve le petit-déjeuner ?",
       "category": "Hotel & Accommodation",
       "generated_at": "2026-11-11T07:35:58.317675"
+    },
+    {
+      "english": "How do I get to the museum?",
+      "french": "Comment je peux aller au musée ?",
+      "transliteration": "ko-man zhuh pweh al-eh oh mü-zeh",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-13T12:51:48.424156"
+    },
+    {
+      "english": "Is this the right way to downtown?",
+      "french": "C’est le bon chemin pour le centre-ville ?",
+      "transliteration": "seh leh bon shuh-men pour leh san-truh-veel",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-13T12:51:48.424156"
+    },
+    {
+      "english": "Can you show me on the map?",
+      "french": "Vous pouvez me montrer sur la carte ?",
+      "transliteration": "vu puh-vay muh mon-tray sur la kart",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-13T12:51:48.424156"
+    },
+    {
+      "english": "Which street is closest to here?",
+      "french": "Quelle rue est la plus proche d’ici ?",
+      "transliteration": "keh-luh rü eh lah plus prohsh dEE-see",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-13T12:51:48.424156"
+    },
+    {
+      "english": "Do I go straight or turn?",
+      "french": "Je continue tout droit, ou je tourne ?",
+      "transliteration": "zhuh kon-tin-yoo toot drwaht, oo zhuh turn",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-13T12:51:48.424156"
+    },
+    {
+      "english": "Where can I catch the bus?",
+      "french": "Où est l’arrêt de bus le plus proche ?",
+      "transliteration": "ü-eh lar-RET de bus leh plus prohsh",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-13T12:51:48.424156"
+    },
+    {
+      "english": "How far is it from here?",
+      "french": "C’est à combien de minutes d’ici ?",
+      "transliteration": "seh ta kom-byen de mi-NOOT dEE-see",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-13T12:51:48.424156"
+    },
+    {
+      "english": "Courage means trying, even imperfectly.",
+      "french": "Avoir du courage, c’est essayer, même imparfaitement.",
+      "transliteration": "AVOIR du COU-ra-ge, c’est es-say-er, mê-me im-par-FAI-te-ment.",
+      "category": "Courage",
+      "generated_at": "2026-11-13T12:51:48.424156"
+    },
+    {
+      "english": "Ask for help, that takes strength.",
+      "french": "Demander de l’aide, ça demande du courage.",
+      "transliteration": "de-MAN-der de L’ai-de, ça deMAN-de du COU-ra-ge.",
+      "category": "Courage",
+      "generated_at": "2026-11-13T12:51:48.424156"
+    },
+    {
+      "english": "Walk anyway, even with butterflies.",
+      "french": "Avance quand même, même avec des papillons dans le ventre.",
+      "transliteration": "a-VAN-ce quand mê-me, mê-me a-vec des PA-pil-lons dans le VEN-tre.",
+      "category": "Courage",
+      "generated_at": "2026-11-13T12:51:48.424156"
+    },
+    {
+      "english": "Say no kindly, and mean it.",
+      "french": "Savoir dire non, avec gentillesse, et le penser vraiment.",
+      "transliteration": "sa-VOIR di-re non, a-vec gen-tiL-lesse, et le pen-ser vRAI-ment.",
+      "category": "Courage",
+      "generated_at": "2026-11-13T12:51:48.424156"
+    },
+    {
+      "english": "Protect your peace, choose boundaries.",
+      "french": "Protège ta paix, pose des limites avec calme.",
+      "transliteration": "pro-TÈ-ge ta PAix, pose des LI-mi-tes a-vec CAL-me.",
+      "category": "Courage",
+      "generated_at": "2026-11-13T12:51:48.424156"
+    },
+    {
+      "english": "Keep your promises, even small ones.",
+      "french": "Tiens tes promesses, même les petites.",
+      "transliteration": "tIens tes pro-MESES, mê-me les PE-ti-tes.",
+      "category": "Courage",
+      "generated_at": "2026-11-13T12:51:48.424156"
+    },
+    {
+      "english": "Courage is showing up, late or early.",
+      "french": "Le courage, c’est se présenter, même en retard ou en avance.",
+      "transliteration": "le COU-ra-ge, c’est se PRÉ-sen-ter, mê-me en re-tARD ou en a-VAn-ce.",
+      "category": "Courage",
+      "generated_at": "2026-11-13T12:51:48.424156"
+    },
+    {
+      "english": "Where can I buy a ticket?",
+      "french": "Où je peux acheter un ticket, s’il vous plaît ?",
+      "transliteration": "Où je peux aSHETer un tike, si vous plait ?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-13T12:51:48.424156"
+    },
+    {
+      "english": "Do you take contactless cards?",
+      "french": "Vous acceptez les paiements sans contact ?",
+      "transliteration": "Vous aCÉptez le péiements san kONtak ?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-13T12:51:48.424156"
+    },
+    {
+      "english": "What time is the next metro?",
+      "french": "À quelle heure passe le prochain métro ?",
+      "transliteration": "À quelle HEUR passe le proCHAIN métro ?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-13T12:51:48.424156"
+    },
+    {
+      "english": "Which line goes to the airport?",
+      "french": "Quelle ligne va à l’aéroport ?",
+      "transliteration": "Quelle ligne va à lÉroport ?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-13T12:51:48.424156"
+    },
+    {
+      "english": "Is this stop the one for downtown?",
+      "french": "Cet arrêt, c’est bien le centre-ville ?",
+      "transliteration": "Cet aRÊT, c’est bien le santr vil ?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-13T12:51:48.424156"
+    },
+    {
+      "english": "Does the tram run on Sundays?",
+      "french": "Le tram circule le dimanche ?",
+      "transliteration": "Le tram sirKYl le diMANCH ?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-13T12:51:48.424156"
+    },
+    {
+      "english": "Is there a direct bus to there?",
+      "french": "Il y a un bus direct pour y aller ?",
+      "transliteration": "Il y a un bus diRÈKT pour y aLÉ ?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-13T12:51:48.424156"
+    },
+    {
+      "english": "Can we bring a dessert?",
+      "french": "On peut apporter un dessert, s'il vous plaît ?",
+      "transliteration": "On PEUT aPPORT-er un desSERT, s'il vous PLAIT ?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-13T12:51:48.424156"
+    },
+    {
+      "english": "What time does the party start?",
+      "french": "À quelle heure commence la fête ?",
+      "transliteration": "À QUELLE heuRE comMENCE la FÊTE ?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-13T12:51:48.424156"
+    },
+    {
+      "english": "Do you need help with setup?",
+      "french": "Tu veux que je t'aide à installer ?",
+      "transliteration": "Tu VEUx que je t'AIDE à insTALler ?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-13T12:51:48.424156"
+    },
+    {
+      "english": "Let’s toast to a great night.",
+      "french": "On lève notre verre pour passer une excellente soirée.",
+      "transliteration": "On LÈVE noTRE verre pour pasSER une EXCEL-lente SOI-rée.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-13T12:51:48.424156"
+    },
+    {
+      "english": "I brought champagne, is that okay?",
+      "french": "J'ai apporté du champagne, ça te va ?",
+      "transliteration": "J'ai aPPORTé du chamPAGNE, ça te VA ?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-13T12:51:48.424156"
+    },
+    {
+      "english": "There’s music, finally!",
+      "french": "Il y a de la musique, enfin !",
+      "transliteration": "Il y a de la MU-siQUE, ENFIN !",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-13T12:51:48.424156"
+    },
+    {
+      "english": "Can we dance together later?",
+      "french": "Tu veux danser avec moi plus tard ?",
+      "transliteration": "Tu VEUx DAN-ser aVEC moi plus TARD ?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-13T12:51:48.424156"
+    },
+    {
+      "english": "Unclench your jaw, soften your shoulders",
+      "french": "Desserre la mâchoire, relâche les épaules",
+      "transliteration": "deserRE la ma-CHOIRE, re-LÂCHE les EPauleS",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-13T12:51:48.424156"
+    },
+    {
+      "english": "Let your worries get smaller",
+      "french": "Fais rapetisser tes soucis",
+      "transliteration": "fais ra-pet-is-ER tes SOUcis",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-13T12:51:48.424156"
+    },
+    {
+      "english": "Choose kindness in the next moment",
+      "french": "Choisis la gentillesse, juste pour ce moment",
+      "transliteration": "SHOisis la jen-tilles, JUSTE pour ce MOMent",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-13T12:51:48.424156"
+    },
+    {
+      "english": "Say no, protect your peace",
+      "french": "Sais dire non, pour protéger ta paix",
+      "transliteration": "sais dire non, pour proTÉger ta paix",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-13T12:51:48.424156"
+    },
+    {
+      "english": "Slow down, then speak calmly",
+      "french": "Ralentis, puis parle calmement",
+      "transliteration": "ra-LENTIS, puis parLE cal-meMÂN",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-13T12:51:48.424156"
+    },
+    {
+      "english": "Turn down the inner noise",
+      "french": "Baisse le volume dans ta tête",
+      "transliteration": "bais-ES le VO-lum dans ta TÊTE",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-13T12:51:48.424156"
+    },
+    {
+      "english": "Make room for a quiet yes",
+      "french": "Fais de la place à un oui tranquille",
+      "transliteration": "fais de la PLASS a un oui tran-QUIL",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-13T12:51:48.424156"
+    },
+    {
+      "english": "Start with gratitude, right now.",
+      "french": "Commence par la gratitude, tout de suite.",
+      "transliteration": "komans par la GRATitude, tout de suite",
+      "category": "Positive Life",
+      "generated_at": "2026-11-13T12:51:48.424156"
+    },
+    {
+      "english": "Let go, and feel lighter today.",
+      "french": "Lâche-prise, et respire, tu te sens plus léger.",
+      "transliteration": "LACHEPRISE, et RESPIRE, tu te sens plus LEG-er",
+      "category": "Positive Life",
+      "generated_at": "2026-11-13T12:51:48.424156"
+    },
+    {
+      "english": "Speak to yourself with kindness.",
+      "french": "Parle-toi avec gentillesse, vraiment.",
+      "transliteration": "parl-toi avek GENtillesse, vrai-ment",
+      "category": "Positive Life",
+      "generated_at": "2026-11-13T12:51:48.424156"
+    },
+    {
+      "english": "Turn problems into lessons, quietly.",
+      "french": "Transforme tes problèmes en leçons, en douceur.",
+      "transliteration": "transFORme tes pro-BLEmes an le-sons, an DOu-ceur",
+      "category": "Positive Life",
+      "generated_at": "2026-11-13T12:51:48.424156"
+    },
+    {
+      "english": "Say yes to small healthy habits.",
+      "french": "Dis oui à de petites habitudes saines.",
+      "transliteration": "dis oui a de PEH-tites ha-biTUDES saines",
+      "category": "Positive Life",
+      "generated_at": "2026-11-13T12:51:48.424156"
+    },
+    {
+      "english": "Breathe in hope, breathe out stress.",
+      "french": "Inspire l’espoir, et expire le stress.",
+      "transliteration": "inSPIre l’esPOIR, et exPIre le STRES",
+      "category": "Positive Life",
+      "generated_at": "2026-11-13T12:51:48.424156"
+    },
+    {
+      "english": "Make room for joy, daily.",
+      "french": "Fais de la place pour la joie, chaque jour.",
+      "transliteration": "fais de la plass pour la JOie, CHAque jour",
+      "category": "Positive Life",
+      "generated_at": "2026-11-13T12:51:48.424156"
+    },
+    {
+      "english": "I’m starting slow, no pressure today.",
+      "french": "Je commence doucement, sans pression aujourd’hui.",
+      "transliteration": "zhə COMMENCE dou-cement, san pre-SYON oh-ZHURD-hui.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-13T12:51:48.424156"
+    },
+    {
+      "english": "Could you show me proper form?",
+      "french": "Tu peux me montrer la bonne technique ?",
+      "transliteration": "tu peuh mə mon-tray la bonnə tehk-NEEK?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-13T12:51:48.424156"
+    },
+    {
+      "english": "I need new running shoes soon.",
+      "french": "J’ai besoin de nouvelles chaussures de course bientôt.",
+      "transliteration": "zhay BEH-zwən də NOU-vell chaus-sure də kuurs soon-tôt.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-13T12:51:48.424156"
+    },
+    {
+      "english": "Let’s cool down with a slow walk.",
+      "french": "On se calme avec une marche lente.",
+      "transliteration": "on sə kalm avɛk yn maRSH lent.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-13T12:51:48.424156"
+    },
+    {
+      "english": "My back feels tight after sitting.",
+      "french": "Mon dos est raide après avoir beaucoup assis.",
+      "transliteration": "mõn DOZ ayt rayd ap-RÈZ avwar bo-koo a-SEE.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-13T12:51:48.424156"
+    },
+    {
+      "english": "That gym is always packed at lunch.",
+      "french": "Cette salle est toujours bondée à l’heure du déjeuner.",
+      "transliteration": "sehTET sal ay tooshoor bon-day ə lheur dy due-ZhƏ-nay.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-13T12:51:48.424156"
+    },
+    {
+      "english": "I’m going to beat my personal record.",
+      "french": "Je vais battre mon record personnel.",
+      "transliteration": "zhə vay bat-tr mon re-kord per-so-nel.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-13T12:51:48.424156"
+    },
+    {
+      "english": "Hi, do you have fresh croissants?",
+      "french": "Bonjour, vous avez des croissants tout juste sortis du four ?",
+      "transliteration": "BonJOUR, vouz AVEZ des CROISsants tout jus TE sortis du four ?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-13T12:51:48.424156"
+    },
+    {
+      "english": "Could I get a latte to go?",
+      "french": "Je peux avoir un latte à emporter, s’il vous plaît ?",
+      "transliteration": "Je PEUX aVOIR un LATte à emPORter, s’il VOUS plAÎT ?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-13T12:51:48.424156"
+    },
+    {
+      "english": "What’s today’s soup, any vegetarian option?",
+      "french": "C’est quoi la soupe du jour, il y a une option végétarienne ?",
+      "transliteration": "C’est quoi la SOUpe du JOUr, il y A une opTion véGÉTA rienne ?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-13T12:51:48.424156"
+    },
+    {
+      "english": "I’d like a ham and cheese sandwich.",
+      "french": "Je voudrais un sandwich jambon et fromage.",
+      "transliteration": "Je vouDRAIS un SANdwich JAMBON et FROMage.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-13T12:51:48.424156"
+    },
+    {
+      "english": "Do you have soy milk for coffee?",
+      "french": "Vous proposez du lait de soja pour le café ?",
+      "transliteration": "VouZ proPOseZ du LAIT de SOja pour le CAfé ?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-13T12:51:48.424156"
+    },
+    {
+      "english": "Can I pay by card here?",
+      "french": "Vous acceptez la carte bancaire ici ?",
+      "transliteration": "VouZ aCEmPtez la CARte banCAire iCI ?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-13T12:51:48.424156"
+    },
+    {
+      "english": "How much is the apple tart?",
+      "french": "Le tarte aux pommes, ça coûte combien ?",
+      "transliteration": "Le TARte aux POMmes, ça côUTE comBIEN ?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-13T12:51:48.424156"
     }
   ],
-  "last_updated": "2026-11-11T07:35:58.317676"
+  "last_updated": "2026-11-13T12:51:48.424156"
 }
