@@ -22675,7 +22675,399 @@
       "transliteration": "Le TARte aux POMmes, ça côUTE comBIEN ?",
       "category": "Coffee Shop & Bakery",
       "generated_at": "2026-11-13T12:51:48.424156"
+    },
+    {
+      "english": "Let’s pick a time this week.",
+      "french": "On se choisit un moment cette semaine, d’accord ?",
+      "transliteration": "on se CHOI sit un MO ment CET te SE mai ne, d'ac cord ?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-14T11:57:42.935750"
+    },
+    {
+      "english": "I want to plan tonight.",
+      "french": "Je veux faire des projets ce soir, tranquille.",
+      "transliteration": "je VEUX faire des pro jets ce SOIR, tran quille",
+      "category": "Making Plans",
+      "generated_at": "2026-11-14T11:57:42.935750"
+    },
+    {
+      "english": "Can we book it now?",
+      "french": "Tu peux le réserver maintenant ?",
+      "transliteration": "tu peux le re SER ver MA in tenant ?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-14T11:57:42.935750"
+    },
+    {
+      "english": "Let’s make a quick itinerary.",
+      "french": "On se fait un petit programme pour demain, d’accord ?",
+      "transliteration": "on se fait un pe tit pro gramme pour de main, d'ac cord ?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-14T11:57:42.935750"
+    },
+    {
+      "english": "I’m flexible, just tell me dates.",
+      "french": "Je suis flexible, dis-moi juste les dates.",
+      "transliteration": "je suis FLE si ble, DIS moi jus te les DA tes",
+      "category": "Making Plans",
+      "generated_at": "2026-11-14T11:57:42.935750"
+    },
+    {
+      "english": "What’s the next step for us?",
+      "french": "Quelle est la prochaine étape pour nous ?",
+      "transliteration": "QUELle est la pro CHA ine e TA pe pour nous ?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-14T11:57:42.935750"
+    },
+    {
+      "english": "Let’s check prices before deciding.",
+      "french": "On regarde les prix avant de décider.",
+      "transliteration": "on re GARde les PRIX a vant de de CI der",
+      "category": "Making Plans",
+      "generated_at": "2026-11-14T11:57:42.935750"
+    },
+    {
+      "english": "Choose peace over being right.",
+      "french": "Choisis la paix plutôt que d’avoir raison.",
+      "transliteration": "Choisis la PAIX plutôt que d’aVoiR RAIson.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-14T11:57:42.935750"
+    },
+    {
+      "english": "Your anger is a signal, not a verdict.",
+      "french": "Ta colère est un signal, pas un verdict.",
+      "transliteration": "Ta COlére est un SIGnal, pas un VERdict.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-14T11:57:42.935750"
+    },
+    {
+      "english": "Say no kindly, you’ll feel lighter.",
+      "french": "Dis non avec douceur, tu te sentiras plus léger.",
+      "transliteration": "Dis NON aVec DOUceur, tu te senTIRas plus LÉger.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-14T11:57:42.935750"
+    },
+    {
+      "english": "Forgive fast, but protect your heart.",
+      "french": "Pardonne vite, mais protège ton cœur.",
+      "transliteration": "ParDONne viTE, mais PROtège ton CŒur.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-14T11:57:42.935750"
+    },
+    {
+      "english": "Before reacting, breathe for three seconds.",
+      "french": "Avant de réagir, respire trois secondes.",
+      "transliteration": "A VANt de réA Gir, RESpire trois SECondes.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-14T11:57:42.935750"
+    },
+    {
+      "english": "The present holds the real answers.",
+      "french": "Le présent contient les vraies réponses.",
+      "transliteration": "Le PRÉsent conTIENT les VRAies Réponses.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-14T11:57:42.935750"
+    },
+    {
+      "english": "Help one person today, then exhale.",
+      "french": "Aide une personne aujourd’hui, puis respire.",
+      "transliteration": "AiDe une PERsonne au jourD’hui, puis resPIRE.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-14T11:57:42.935750"
+    },
+    {
+      "english": "Try one weird question today.",
+      "french": "Pose une question bizarre aujourd’hui, et observe.",
+      "transliteration": "POZ une QUES-tion BIZ-arre au-jourD’HUI, et ob-serve.",
+      "category": "Creativity",
+      "generated_at": "2026-11-14T11:57:42.935750"
+    },
+    {
+      "english": "Rewrite it, but keep the meaning.",
+      "french": "Réécris la phrase autrement, sans perdre le sens.",
+      "transliteration": "re-E-CRIS la PHRASE au-tre-ment, sans per-dre le sens.",
+      "category": "Creativity",
+      "generated_at": "2026-11-14T11:57:42.935750"
+    },
+    {
+      "english": "Steal inspiration from everyday life.",
+      "french": "Pille l’inspiration dans la vie quotidienne.",
+      "transliteration": "PIl l’in-sPI-ra-tion dans la vie quoti-DIEN-ne.",
+      "category": "Creativity",
+      "generated_at": "2026-11-14T11:57:42.935750"
+    },
+    {
+      "english": "Sketch first, perfect later.",
+      "french": "Fais un croquis d’abord, parfait plus tard.",
+      "transliteration": "FAIS un kRO-kis d’a-bord, par-FAIT plus TARD.",
+      "category": "Creativity",
+      "generated_at": "2026-11-14T11:57:42.935750"
+    },
+    {
+      "english": "Mix two styles, see what happens.",
+      "french": "Mêle deux styles, et regarde le résultat.",
+      "transliteration": "MEL deux STYLES, et reGAR-de le re-SUL-tat.",
+      "category": "Creativity",
+      "generated_at": "2026-11-14T11:57:42.935750"
+    },
+    {
+      "english": "Break the rules, then write again.",
+      "french": "Casse les règles, puis réécris tout à neuf.",
+      "transliteration": "CAS-se les rè-GLES, puis re-E-CRIS tout à neuf.",
+      "category": "Creativity",
+      "generated_at": "2026-11-14T11:57:42.935750"
+    },
+    {
+      "english": "Record ideas fast, no judging.",
+      "french": "Note tes idées vite, sans les juger.",
+      "transliteration": "NOT tes i-DEES vi-te, sans les ju-GER.",
+      "category": "Creativity",
+      "generated_at": "2026-11-14T11:57:42.935750"
+    },
+    {
+      "english": "Schedule one win, then another",
+      "french": "Planifie une petite victoire, puis une autre.",
+      "transliteration": "Planifie une PETITE victoire, puis une AUTRE.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-14T11:57:42.935750"
+    },
+    {
+      "english": "Ask, what do I want today?",
+      "french": "Demande-toi, qu est-ce que je veux vraiment aujourd hui.",
+      "transliteration": "Demande-toi, qu est-CE que je veux VRAIMENT aujourd HUI.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-14T11:57:42.935750"
+    },
+    {
+      "english": "Write it down, feel it move",
+      "french": "Note-le, puis regarde-le avancer, mot après mot.",
+      "transliteration": "Note-le, puis reGARDe-le adVANcer, MOT après MOT.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-14T11:57:42.935750"
+    },
+    {
+      "english": "Turn guilt into a kinder plan",
+      "french": "Transforme ta culpabilité en un plan plus doux.",
+      "transliteration": "TRANSforme ta culpabilité en un plan plus DOUx.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-14T11:57:42.935750"
+    },
+    {
+      "english": "Stop, stretch, reset your posture",
+      "french": "Pause, étire-toi, et retrouve une posture plus stable.",
+      "transliteration": "PAUSE, éTIre-toi, et reTROuve une posTURE plus STABLE.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-14T11:57:42.935750"
+    },
+    {
+      "english": "Choose progress over staying comfortable",
+      "french": "Choisis le progrès plutôt que le confort.",
+      "transliteration": "CHoisis le proGRÈS plutôt que le conFORT.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-14T11:57:42.935750"
+    },
+    {
+      "english": "Journal three lines, no perfection",
+      "french": "Écris trois lignes dans ton journal, sans chercher la perfection.",
+      "transliteration": "Écris TROIS lignes dans ton jourNAL, sans cherCHER la PERfection.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-14T11:57:42.935750"
+    },
+    {
+      "english": "You always make time for me.",
+      "french": "Tu trouves toujours du temps pour moi.",
+      "transliteration": "Tu TROUVES touJOURS du TEMPS pour MOI.",
+      "category": "Friendship",
+      "generated_at": "2026-11-14T11:57:42.935750"
+    },
+    {
+      "english": "When I'm stuck, you help me think.",
+      "french": "Quand je bloque, tu m’aides à réfléchir.",
+      "transliteration": "Quand je BLOC, tu m’aIDES a REFLEchir.",
+      "category": "Friendship",
+      "generated_at": "2026-11-14T11:57:42.935750"
+    },
+    {
+      "english": "We text memes, then we talk for hours.",
+      "french": "On s’envoie des mèmes, puis on discute des heures.",
+      "transliteration": "On S’ENvoie des MEMES, puis on DIScute des HEURES.",
+      "category": "Friendship",
+      "generated_at": "2026-11-14T11:57:42.935750"
+    },
+    {
+      "english": "Your support feels steady, not loud.",
+      "french": "Ton soutien est là, tranquille et solide.",
+      "transliteration": "Ton souTIEN est LA, tranQUille et SOliD.",
+      "category": "Friendship",
+      "generated_at": "2026-11-14T11:57:42.935750"
+    },
+    {
+      "english": "Good friends know when to step in.",
+      "french": "Les bons amis savent quand intervenir.",
+      "transliteration": "Les BONS aMIS saVENT quand inTERvenir.",
+      "category": "Friendship",
+      "generated_at": "2026-11-14T11:57:42.935750"
+    },
+    {
+      "english": "We celebrate each other’s wins, big or small.",
+      "french": "On fête tes victoires, même les petites.",
+      "transliteration": "On FÊte tes VICtoiRES, mêME les PEtiTES.",
+      "category": "Friendship",
+      "generated_at": "2026-11-14T11:57:42.935750"
+    },
+    {
+      "english": "You bring calm when I’m stressed.",
+      "french": "Tu me rends calme quand je suis stressé.",
+      "transliteration": "Tu me RENDs CALME quand je SUIS STRESSÉ.",
+      "category": "Friendship",
+      "generated_at": "2026-11-14T11:57:42.935750"
+    },
+    {
+      "english": "I need help right now, please.",
+      "french": "J’ai besoin d’aide tout de suite, s’il vous plaît.",
+      "transliteration": "zhay bn-zwen D AID tout de SWIT, sil vous plait",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-14T11:57:42.935750"
+    },
+    {
+      "english": "Call 15 for an ambulance.",
+      "french": "Appelez le 15 pour une ambulance.",
+      "transliteration": "a-puh-lay luh quinze puhr une am-byu-LANS",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-14T11:57:42.935750"
+    },
+    {
+      "english": "Where is the nearest emergency room?",
+      "french": "Où se trouve la salle d’urgence la plus proche ?",
+      "transliteration": "oo suh TROUV la sall d UR-zhanss la plyus prohsh",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-14T11:57:42.935750"
+    },
+    {
+      "english": "Is the doctor on call today?",
+      "french": "Le médecin de garde est là aujourd’hui ?",
+      "transliteration": "luh may-deh-sin duh GAR a e LA oh-zhur-DWEE",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-14T11:57:42.935750"
+    },
+    {
+      "english": "I think I’m having a heart problem.",
+      "french": "Je pense que j’ai un problème de cœur.",
+      "transliteration": "zhuh pahnss keh zhay un pro-blaym duh kur",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-14T11:57:42.935750"
+    },
+    {
+      "english": "Chest pain, it won’t go away.",
+      "french": "J’ai mal à la poitrine, ça ne passe pas.",
+      "transliteration": "zhay mal a la pwah-trin, sa nuh pas",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-14T11:57:42.935750"
+    },
+    {
+      "english": "I’m choking, I can’t breathe.",
+      "french": "Je m’étouffe, je n’arrive pas à respirer.",
+      "transliteration": "zhuh met-ouf, zhuh na-reev pah a ray-spi-RAY",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-14T11:57:42.935750"
+    },
+    {
+      "english": "Thanks for taking the time",
+      "french": "Merci d’avoir pris le temps, vraiment.",
+      "transliteration": "mehr-see dah-vwar préez luh tsahn, vrah-mee.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-14T11:57:42.935750"
+    },
+    {
+      "english": "I appreciate your steady support",
+      "french": "Je t’apprécie pour ton soutien constant, merci.",
+      "transliteration": "zhuh tap-pray-see pour ton soo-tee-ehn kon-stahn, mehr-see.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-14T11:57:42.935750"
+    },
+    {
+      "english": "You made it easier for me",
+      "french": "Tu m’as rendu les choses plus faciles, merci.",
+      "transliteration": "too mah ruhn-doo lay shoz plews fah-ss-ills, mehr-see.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-14T11:57:42.935750"
+    },
+    {
+      "english": "I’m thankful you stayed kind",
+      "french": "Je suis reconnaissant que tu restes gentil.",
+      "transliteration": "zhuh swee ray-koh-nay-sahn tee tu res-tes zhan-teel.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-14T11:57:42.935750"
+    },
+    {
+      "english": "Thanks for listening so closely",
+      "french": "Merci d’avoir vraiment écouté, je l’ai senti.",
+      "transliteration": "mehr-see dah-vwar vrah-mee ay-koo-tay, zhuh lay sehhn-tee.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-14T11:57:42.935750"
+    },
+    {
+      "english": "I owe you one, seriously",
+      "french": "Je te dois une fière chandelle, vraiment.",
+      "transliteration": "zhuh tuh dwah oon feer shan-dell, vrah-mee.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-14T11:57:42.935750"
+    },
+    {
+      "english": "Thank you for the quick reply",
+      "french": "Merci pour ta réponse rapide, c’est apprécié.",
+      "transliteration": "mehr-see pour tah ray-pohns ra-pid, say tap-pray-syay.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-14T11:57:42.935750"
+    },
+    {
+      "english": "Nice weather today, isn't it?",
+      "french": "Il fait beau aujourd'hui, n'est-ce pas ?",
+      "transliteration": "Il fait BEAU aujourd'hui, n'est-ce PAS ?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-14T11:57:42.935750"
+    },
+    {
+      "english": "Is it going to rain later?",
+      "french": "Tu crois qu'il va pleuvoir plus tard ?",
+      "transliteration": "Tu CROIS qu'il va pleuvoir plus TARD ?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-14T11:57:42.935750"
+    },
+    {
+      "english": "The wind is really picking up.",
+      "french": "Le vent se lève, on dirait.",
+      "transliteration": "Le VENT se LÈVE, on DIRait.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-14T11:57:42.935750"
+    },
+    {
+      "english": "It's chilly, I should grab a jacket.",
+      "french": "Il fait frais, je vais prendre une veste.",
+      "transliteration": "Il FAIT frais, je vais PRENDre une VESTE.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-14T11:57:42.935750"
+    },
+    {
+      "english": "Did you hear the storm is coming?",
+      "french": "On dit qu'une tempête arrive.",
+      "transliteration": "On DIT qu'une TEMpête ARrive.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-14T11:57:42.935750"
+    },
+    {
+      "english": "Looks like clear skies for now.",
+      "french": "On dirait que le ciel est dégagé pour l'instant.",
+      "transliteration": "On dirait que le CIEL est déGAGÉ pour l'insTANT.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-14T11:57:42.935750"
+    },
+    {
+      "english": "Are you taking an umbrella today?",
+      "french": "Tu prends un parapluie aujourd'hui ?",
+      "transliteration": "Tu PRENDS un paRApluie aujourd'hui ?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-14T11:57:42.935750"
     }
   ],
-  "last_updated": "2026-11-13T12:51:48.424156"
+  "last_updated": "2026-11-14T11:57:42.935750"
 }
