@@ -147,7 +147,39 @@
     {
       "category": "Weather & Small Talk",
       "date": "2026-11-14"
+    },
+    {
+      "category": "Phone Calls & Messages",
+      "date": "2026-11-15"
+    },
+    {
+      "category": "Love",
+      "date": "2026-11-15"
+    },
+    {
+      "category": "Shopping & Prices",
+      "date": "2026-11-15"
+    },
+    {
+      "category": "Banking & Money",
+      "date": "2026-11-15"
+    },
+    {
+      "category": "Doctor & Pharmacy",
+      "date": "2026-11-15"
+    },
+    {
+      "category": "Feelings & Emotions",
+      "date": "2026-11-15"
+    },
+    {
+      "category": "Agreeing & Disagreeing",
+      "date": "2026-11-15"
+    },
+    {
+      "category": "Forgiveness",
+      "date": "2026-11-15"
     }
   ],
-  "last_updated": "2026-11-14T11:57:42.955753"
+  "last_updated": "2026-11-15T12:30:22.142809"
 }
