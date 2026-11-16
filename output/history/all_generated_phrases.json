@@ -23459,7 +23459,399 @@
       "transliteration": "Par DON, j’ai raTÉ l’es SEN TI EL.",
       "category": "Forgiveness",
       "generated_at": "2026-11-15T12:30:22.129217"
+    },
+    {
+      "english": "I can learn this, step by step.",
+      "french": "Je peux apprendre ça, pas à pas.",
+      "transliteration": "je peUX ap-prendrE sa, pas a pas",
+      "category": "Confidence",
+      "generated_at": "2026-11-16T13:21:32.360176"
+    },
+    {
+      "english": "My pace is enough for today.",
+      "french": "Mon rythme me suffit pour aujourd’hui.",
+      "transliteration": "mon Rythme me suffIt pour au-jourdhui",
+      "category": "Confidence",
+      "generated_at": "2026-11-16T13:21:32.360176"
+    },
+    {
+      "english": "I trust my preparation, not perfection.",
+      "french": "Je fais confiance à ma préparation, pas à la perfection.",
+      "transliteration": "je fais con-fianCe a ma pre-pa-ra-tion, pas a la per-feK-sion",
+      "category": "Confidence",
+      "generated_at": "2026-11-16T13:21:32.360176"
+    },
+    {
+      "english": "I won’t shrink when it’s hard.",
+      "french": "Je ne rapetisse pas quand c’est difficile.",
+      "transliteration": "je ne ra-pe-tisse pas quand c’est di-f-fi-cile",
+      "category": "Confidence",
+      "generated_at": "2026-11-16T13:21:32.360176"
+    },
+    {
+      "english": "I’m allowed to take up space.",
+      "french": "J’ai le droit de prendre ma place.",
+      "transliteration": "jai le DROIT de pren-dre ma plAse",
+      "category": "Confidence",
+      "generated_at": "2026-11-16T13:21:32.360176"
+    },
+    {
+      "english": "One clear sentence at a time.",
+      "french": "Une phrase claire à la fois.",
+      "transliteration": "une FRASE claire a la FOIS",
+      "category": "Confidence",
+      "generated_at": "2026-11-16T13:21:32.360176"
+    },
+    {
+      "english": "I choose calm, and I speak.",
+      "french": "Je choisis le calme, et je parle.",
+      "transliteration": "je choi-sis le calME, e je par-lE",
+      "category": "Confidence",
+      "generated_at": "2026-11-16T13:21:32.360176"
+    },
+    {
+      "english": "I’m broke, I need cash.",
+      "french": "Je suis fauché, j’ai besoin de cash.",
+      "transliteration": "Je suis fauché, j’ai besoin de cash.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-16T13:21:32.360176"
+    },
+    {
+      "english": "That plan is a total mess.",
+      "french": "Ton plan, c’est du grand n’importe quoi.",
+      "transliteration": "Ton plan, c’est du GRAND n’importe quoi.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-16T13:21:32.360176"
+    },
+    {
+      "english": "Stop stressing, it’s chill.",
+      "french": "Laisse tomber, c’est tranquille.",
+      "transliteration": "Laisse tomber, c’est TRANQUILLE.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-16T13:21:32.360176"
+    },
+    {
+      "english": "We dipped out early.",
+      "french": "On est partis en douce.",
+      "transliteration": "On est partis en DOUCE.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-16T13:21:32.360176"
+    },
+    {
+      "english": "He’s always flexing on us.",
+      "french": "Il nous fait le cake tout le temps.",
+      "transliteration": "Il nous fait le CAKE tout le TEMPS.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-16T13:21:32.360176"
+    },
+    {
+      "english": "No way, you’re kidding me.",
+      "french": "T’as pas osé, j’y crois pas.",
+      "transliteration": "T’as pas O SÉ, j’y CROIS pas.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-16T13:21:32.360176"
+    },
+    {
+      "english": "I’m down for that later.",
+      "french": "Ça me va, on voit ça plus tard.",
+      "transliteration": "Ça me VA, on voit ça plus TARD.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-16T13:21:32.360176"
+    },
+    {
+      "english": "Use their name with respect, today.",
+      "french": "Utilise son prénom avec respect, aujourd’hui.",
+      "transliteration": "U-tilise son PRE-nom avec RES-pect, au-jour-d’hui.",
+      "category": "Kindness",
+      "generated_at": "2026-11-16T13:21:32.360176"
+    },
+    {
+      "english": "Make room for their opinions, calmly.",
+      "french": "Fais de la place à ses opinions, calmement.",
+      "transliteration": "Fais de la place à SES O-pi-nions, CAL-me-ment.",
+      "category": "Kindness",
+      "generated_at": "2026-11-16T13:21:32.360176"
+    },
+    {
+      "english": "Cheer up the room, not just them.",
+      "french": "Mets de la lumière dans la pièce, pas seulement sur elle.",
+      "transliteration": "Mets de la LU-mière dans la PI-èce, pas seu-lement sur el-le.",
+      "category": "Kindness",
+      "generated_at": "2026-11-16T13:21:32.360176"
+    },
+    {
+      "english": "Tell the truth kindly, no harsh edge.",
+      "french": "Dis la vérité avec douceur, sans dureté.",
+      "transliteration": "Dis la VÉ-ri-té avec DOU-ceur, sans DU-re-té.",
+      "category": "Kindness",
+      "generated_at": "2026-11-16T13:21:32.360176"
+    },
+    {
+      "english": "Thank their effort, even when small.",
+      "french": "Remercie ses efforts, même quand ils sont petits.",
+      "transliteration": "Re-mer-Cie ses EF-forts, mê-me quand ils sont pe-tits.",
+      "category": "Kindness",
+      "generated_at": "2026-11-16T13:21:32.360176"
+    },
+    {
+      "english": "Say yes to one request this week.",
+      "french": "Dis oui à une demande cette semaine.",
+      "transliteration": "Dis oui à u-ne de-man-de CET-te se-maine.",
+      "category": "Kindness",
+      "generated_at": "2026-11-16T13:21:32.360176"
+    },
+    {
+      "english": "Offer a fresh start after a rough day.",
+      "french": "Donne-lui une nouvelle chance après une journée difficile.",
+      "transliteration": "Don-ne-lui u-ne nou-vel-le CHAN-ce après u-ne JOUR-née dif-fi-cile.",
+      "category": "Kindness",
+      "generated_at": "2026-11-16T13:21:32.360176"
+    },
+    {
+      "english": "I’m picking up the kids today.",
+      "french": "Je vais chercher les enfants aujourd’hui.",
+      "transliteration": "zhuh vay shayrshay layn-fan oh-zhoor-dyoo-ee",
+      "category": "Family & Home",
+      "generated_at": "2026-11-16T13:21:32.360176"
+    },
+    {
+      "english": "We all eat together most nights.",
+      "french": "On mange tous ensemble la plupart des soirs.",
+      "transliteration": "ohn mahng toh-oo zan-san-bleh lah preh-mee-ay day sohr",
+      "category": "Family & Home",
+      "generated_at": "2026-11-16T13:21:32.360176"
+    },
+    {
+      "english": "Dinner’s in the oven, don’t wait.",
+      "french": "Le dîner est au four, ne fais pas attendre.",
+      "transliteration": "luh dee-nay ay oh foohr, neh fay pah an-tan-dre",
+      "category": "Family & Home",
+      "generated_at": "2026-11-16T13:21:32.360176"
+    },
+    {
+      "english": "Can I borrow your vacuum cleaner?",
+      "french": "Je peux emprunter ton aspirateur, s’il te plaît ?",
+      "transliteration": "zhuh puh ez-poron-tay ton as-pee-rah-teur, s’il tuh play",
+      "category": "Family & Home",
+      "generated_at": "2026-11-16T13:21:32.360176"
+    },
+    {
+      "english": "The house is quiet right now.",
+      "french": "La maison est calme en ce moment.",
+      "transliteration": "lah may-zon ay kahlm ahn suh moh-mahn",
+      "category": "Family & Home",
+      "generated_at": "2026-11-16T13:21:32.360176"
+    },
+    {
+      "english": "My sister moved nearby last month.",
+      "french": "Ma sœur a déménagé tout près le mois dernier.",
+      "transliteration": "mah sehr ah day-may-nah-zhe toot preh luh mwah der-nyay-e",
+      "category": "Family & Home",
+      "generated_at": "2026-11-16T13:21:32.360176"
+    },
+    {
+      "english": "We need to fix the broken faucet.",
+      "french": "Il faut réparer le robinet qui fuit.",
+      "transliteration": "eel fo repah-ray luh roh-bee-noh kee fwy",
+      "category": "Family & Home",
+      "generated_at": "2026-11-16T13:21:32.360176"
+    },
+    {
+      "english": "Stay steady, even when plans change",
+      "french": "Reste calme, même quand les plans changent.",
+      "transliteration": "Re STE calme, MEˆme quand les plans CHANGE nt.",
+      "category": "Patience",
+      "generated_at": "2026-11-16T13:21:32.360176"
+    },
+    {
+      "english": "Listen first, then respond slowly",
+      "french": "Écoute d’abord, puis réponds lentement.",
+      "transliteration": "E KHOUT d’abord, puiS re PONs len te ment.",
+      "category": "Patience",
+      "generated_at": "2026-11-16T13:21:32.360176"
+    },
+    {
+      "english": "Give it time, not force",
+      "french": "Donne-lui du temps, pas de la force.",
+      "transliteration": "DONne-lui du TEMPS, pas de la FORCE.",
+      "category": "Patience",
+      "generated_at": "2026-11-16T13:21:32.360176"
+    },
+    {
+      "english": "Let your pace be kind to you",
+      "french": "Laisse ton rythme te respecter, doucement.",
+      "transliteration": "Laisse ton RYTHme te res PECTer, DOUce ment.",
+      "category": "Patience",
+      "generated_at": "2026-11-16T13:21:32.360176"
+    },
+    {
+      "english": "Tough moment, breathe and soften",
+      "french": "Dans les moments durs, respire et adoucis-toi.",
+      "transliteration": "Dans les MOments durs, re SPIre e adou CIS toi.",
+      "category": "Patience",
+      "generated_at": "2026-11-16T13:21:32.360176"
+    },
+    {
+      "english": "Trust the process, not the clock",
+      "french": "Fais confiance au processus, pas à l’horloge.",
+      "transliteration": "Fais CONfiance au pro CESsus, pas à lOR loge.",
+      "category": "Patience",
+      "generated_at": "2026-11-16T13:21:32.360176"
+    },
+    {
+      "english": "Slow your speech, calm follows",
+      "french": "Parle plus lentement, la paix suit.",
+      "transliteration": "PARle plU s len te ment, la PAIX SUIT.",
+      "category": "Patience",
+      "generated_at": "2026-11-16T13:21:32.360176"
+    },
+    {
+      "english": "Could you clarify that for me?",
+      "french": "Peux-tu me clarifier ça, s’il te plaît ?",
+      "transliteration": "PUU TUH muh kla-REE-fyahr sah, seel tuh pleh",
+      "category": "Work & Office",
+      "generated_at": "2026-11-16T13:21:32.360176"
+    },
+    {
+      "english": "I need this by tomorrow morning.",
+      "french": "J’en ai besoin d’ici demain matin.",
+      "transliteration": "Zhアン uh duh-BWAH deh-see deh-MAIN mah-tin",
+      "category": "Work & Office",
+      "generated_at": "2026-11-16T13:21:32.360176"
+    },
+    {
+      "english": "Let’s align on priorities today.",
+      "french": "On s’aligne sur les priorités aujourd’hui.",
+      "transliteration": "OHN sah-LEEN sur lay pree-or-ee-TAY oh-ZHOORD-wee",
+      "category": "Work & Office",
+      "generated_at": "2026-11-16T13:21:32.360176"
+    },
+    {
+      "english": "I’ll handle it, you focus on that.",
+      "french": "Je m’en occupe, toi tu te concentres sur ça.",
+      "transliteration": "ZHuh mON oh-KUP, twah tyuh tuh con-san-truh sur sah",
+      "category": "Work & Office",
+      "generated_at": "2026-11-16T13:21:32.360176"
+    },
+    {
+      "english": "Can we jump on a quick call?",
+      "french": "On peut faire un appel rapide, s’il te plaît ?",
+      "transliteration": "On puh fair un ah-pel ra-peed, seel tuh pleh",
+      "category": "Work & Office",
+      "generated_at": "2026-11-16T13:21:32.360176"
+    },
+    {
+      "english": "This meeting could have been an email.",
+      "french": "Cette réunion aurait pu tenir dans un email.",
+      "transliteration": "Suh-tuh reu-nyon a-uh-RAY puh tuh-NEHR dAhN uh-n  ee-mehl",
+      "category": "Work & Office",
+      "generated_at": "2026-11-16T13:21:32.360176"
+    },
+    {
+      "english": "I’m stuck on the next step.",
+      "french": "Je bloque sur l’étape suivante.",
+      "transliteration": "zhuh BLOHK sur lay-TAHP suh-VEH-nt",
+      "category": "Work & Office",
+      "generated_at": "2026-11-16T13:21:32.360176"
+    },
+    {
+      "english": "I give myself space to breathe",
+      "french": "Je me laisse de l’espace, pour respirer.",
+      "transliteration": "Je me laisse de l’ESPACE, pour resPIrer.",
+      "category": "Balance",
+      "generated_at": "2026-11-16T13:21:32.360176"
+    },
+    {
+      "english": "I pause before I answer.",
+      "french": "Je fais une pause avant de répondre.",
+      "transliteration": "Je fais une PAUSE aVANT de rePONDre.",
+      "category": "Balance",
+      "generated_at": "2026-11-16T13:21:32.360176"
+    },
+    {
+      "english": "My body knows when to slow down.",
+      "french": "Mon corps sait quand ralentir.",
+      "transliteration": "Mon CORPS sait quand raLENTir.",
+      "category": "Balance",
+      "generated_at": "2026-11-16T13:21:32.360176"
+    },
+    {
+      "english": "I choose steady, not constant urgency.",
+      "french": "Je choisis le stable, pas l’urgence permanente.",
+      "transliteration": "Je choiSIS le STAble, pas l’URGENce perMAneNTE.",
+      "category": "Balance",
+      "generated_at": "2026-11-16T13:21:32.360176"
+    },
+    {
+      "english": "I set one boundary, then exhale.",
+      "french": "Je pose une limite, puis j’expire.",
+      "transliteration": "Je POse une LImite, puis j’exPIre.",
+      "category": "Balance",
+      "generated_at": "2026-11-16T13:21:32.360176"
+    },
+    {
+      "english": "Today, I do one thing fully.",
+      "french": "Aujourd’hui, je fais une seule chose, à fond.",
+      "transliteration": "AuJOURd’hui, je fais une SEule chose, a FOND.",
+      "category": "Balance",
+      "generated_at": "2026-11-16T13:21:32.360176"
+    },
+    {
+      "english": "I drink water, and my mood shifts.",
+      "french": "Je bois de l’eau, et ça change mon humeur.",
+      "transliteration": "Je BOIS de l’EAU, et ça CHANge mon huMEur.",
+      "category": "Balance",
+      "generated_at": "2026-11-16T13:21:32.360176"
+    },
+    {
+      "english": "Celebrate small wins, they compound fast.",
+      "french": "Célèbre les petites victoires, elles s'accumulent vite.",
+      "transliteration": "CeLÈbre les peTItes VIctorES, elS s'akCuMUlent vite.",
+      "category": "Success",
+      "generated_at": "2026-11-16T13:21:32.360176"
+    },
+    {
+      "english": "I followed through, even when tired.",
+      "french": "J'ai tenu bon, même quand j'étais épuisé.",
+      "transliteration": "Zhay tenu bon, mêem kuand zétais é-pui-zé.",
+      "category": "Success",
+      "generated_at": "2026-11-16T13:21:32.360176"
+    },
+    {
+      "english": "Today I choose progress over perfection.",
+      "french": "Aujourd'hui, je choisis le progrès plutôt que la perfection.",
+      "transliteration": "Au jourdhui, zhə SHoisis le PROgrès plUtôt ku la per-fek-sion.",
+      "category": "Success",
+      "generated_at": "2026-11-16T13:21:32.360176"
+    },
+    {
+      "english": "My effort is paying off now.",
+      "french": "Mes efforts portent leurs fruits maintenant.",
+      "transliteration": "MÈz efForts porT nur FRUi mantenAnt.",
+      "category": "Success",
+      "generated_at": "2026-11-16T13:21:32.360176"
+    },
+    {
+      "english": "I did the work, plain and simple.",
+      "french": "J'ai fait le travail, simplement.",
+      "transliteration": "Zhay fè la travai, sim-plè-ment.",
+      "category": "Success",
+      "generated_at": "2026-11-16T13:21:32.360176"
+    },
+    {
+      "english": "I set goals, then I acted.",
+      "french": "Je me fixe des objectifs, puis j'agis.",
+      "transliteration": "Zhə mə fix des obZek-tiV, püi zhaz.",
+      "category": "Success",
+      "generated_at": "2026-11-16T13:21:32.360176"
+    },
+    {
+      "english": "Consistency looks good on me.",
+      "french": "La régularité me va très bien.",
+      "transliteration": "la reGu-laRi-té mə va trÈz bien.",
+      "category": "Success",
+      "generated_at": "2026-11-16T13:21:32.360176"
     }
   ],
-  "last_updated": "2026-11-15T12:30:22.129217"
+  "last_updated": "2026-11-16T13:21:32.360176"
 }
