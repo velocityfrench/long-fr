@@ -23851,7 +23851,399 @@
       "transliteration": "la reGu-laRi-té mə va trÈz bien.",
       "category": "Success",
       "generated_at": "2026-11-16T13:21:32.360176"
+    },
+    {
+      "english": "What goal are you chasing today?",
+      "french": "Quel objectif poursuis-tu aujourd’hui ?",
+      "transliteration": "Quel OB-jectif POUR-suiv-tu au-jourd’hui ?",
+      "category": "Purpose",
+      "generated_at": "2026-11-17T14:07:19.665008"
+    },
+    {
+      "english": "Your next milestone, what is it?",
+      "french": "Quel est ton prochain jalon, concrètement ?",
+      "transliteration": "Quel est ton pro-chain JA-lon, KON-krè-te-ment ?",
+      "category": "Purpose",
+      "generated_at": "2026-11-17T14:07:19.665008"
+    },
+    {
+      "english": "Where do you want to be in six months?",
+      "french": "Où veux-tu en être dans six mois ?",
+      "transliteration": "Où veux-tu en ÊTRE dans six MOIS ?",
+      "category": "Purpose",
+      "generated_at": "2026-11-17T14:07:19.665008"
+    },
+    {
+      "english": "What do you refuse to compromise on?",
+      "french": "Qu’est-ce que tu refuses de négocier ?",
+      "transliteration": "Qu’est-ce que tu re-fuSES de né-go-ci-er ?",
+      "category": "Purpose",
+      "generated_at": "2026-11-17T14:07:19.665008"
+    },
+    {
+      "english": "How will you measure success this time?",
+      "french": "Comment vas-tu mesurer ton succès, cette fois ?",
+      "transliteration": "Com-MENT vas-tu me-SU-rer ton suc-CÈS, cet-te fois ?",
+      "category": "Purpose",
+      "generated_at": "2026-11-17T14:07:19.665008"
+    },
+    {
+      "english": "What’s the one thing you’re building?",
+      "french": "C’est quoi, la chose unique que tu construis ?",
+      "transliteration": "C’est quoi, la cho-se U-ni-que que tu cons-tru-is ?",
+      "category": "Purpose",
+      "generated_at": "2026-11-17T14:07:19.665008"
+    },
+    {
+      "english": "Choose one priority, then breathe.",
+      "french": "Choisis une priorité, puis respire.",
+      "transliteration": "Choisis u-ne prio-ri-TÉ, puis res-Pi-re.",
+      "category": "Purpose",
+      "generated_at": "2026-11-17T14:07:19.665008"
+    },
+    {
+      "english": "Hope, even in messy moments.",
+      "french": "L’espoir, même dans les moments compliqués.",
+      "transliteration": "lespoir, meme dans les MOMENTS comPLIQues",
+      "category": "Hope",
+      "generated_at": "2026-11-17T14:07:19.665008"
+    },
+    {
+      "english": "I can handle this, one step.",
+      "french": "Je peux gérer ça, un pas à la fois.",
+      "transliteration": "je peux GEReR ça, un pas a la FOIS",
+      "category": "Hope",
+      "generated_at": "2026-11-17T14:07:19.665008"
+    },
+    {
+      "english": "Let’s keep going, together.",
+      "french": "On continue, ensemble.",
+      "transliteration": "on CONTiNUE, enSEMble",
+      "category": "Hope",
+      "generated_at": "2026-11-17T14:07:19.665008"
+    },
+    {
+      "english": "Today might be hard, still hopeful.",
+      "french": "Aujourd’hui peut être dur, mais plein d’espoir.",
+      "transliteration": "aujourDHUI peut etre dur, mais PLEIN desPOIR",
+      "category": "Hope",
+      "generated_at": "2026-11-17T14:07:19.665008"
+    },
+    {
+      "english": "Hope lives in what I do next.",
+      "french": "L’espoir, c’est ce que je fais après.",
+      "transliteration": "lespoir, c’est ce que je fais APRES",
+      "category": "Hope",
+      "generated_at": "2026-11-17T14:07:19.665008"
+    },
+    {
+      "english": "I choose optimism, despite doubts.",
+      "french": "Je choisis l’optimisme, malgré les doutes.",
+      "transliteration": "je choiSIS lOPtimisme, malGRE les DOUTES",
+      "category": "Hope",
+      "generated_at": "2026-11-17T14:07:19.665008"
+    },
+    {
+      "english": "Small hope today, big change later.",
+      "french": "Un peu d’espoir aujourd’hui, un grand changement demain.",
+      "transliteration": "un peu dESpoir aujourDHUI, un grand chanGEMENT deMAIN",
+      "category": "Hope",
+      "generated_at": "2026-11-17T14:07:19.665008"
+    },
+    {
+      "english": "I love how they greet each other",
+      "french": "J’adore la façon dont ils se saluent",
+      "transliteration": "JADORE la FAdon dont ils se SALUENT",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-17T14:07:19.665008"
+    },
+    {
+      "english": "This feast feels like real community",
+      "french": "Ce repas me donne vraiment l’impression de communauté",
+      "transliteration": "CE repas me DONNE vrAiment l’impression de COMMUNAUTé",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-17T14:07:19.665008"
+    },
+    {
+      "english": "Can I join the celebration with you?",
+      "french": "Je peux me joindre à la fête avec vous, s’il vous plaît",
+      "transliteration": "je PEUX me JOUINDRE a la FEte avec VOUS, si vous plait",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-17T14:07:19.665008"
+    },
+    {
+      "english": "Their music makes the street come alive",
+      "french": "Leur musique fait vibrer la rue",
+      "transliteration": "LEUR MUsique fait VIBrer la RUE",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-17T14:07:19.665008"
+    },
+    {
+      "english": "Please tell me the story behind this",
+      "french": "Dites-moi l’histoire derrière cette tradition",
+      "transliteration": "DITE-moi l’HIStoIr derrière cette TRADition",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-17T14:07:19.665008"
+    },
+    {
+      "english": "I’ll bring something small to share",
+      "french": "Je vais apporter quelque chose de simple à partager",
+      "transliteration": "je vAIS apPORTer quelQUe chose de SIMple a PARTager",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-17T14:07:19.665008"
+    },
+    {
+      "english": "Watch how they toast, it’s heartfelt",
+      "french": "Regardez comment ils portent un toast, c’est sincère",
+      "transliteration": "reGARdez comMent ils PORtent un TOAST, c’est SINcerE",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-17T14:07:19.665008"
+    },
+    {
+      "english": "I carry calm under pressure.",
+      "french": "Je garde mon calme sous la pression.",
+      "transliteration": "zhuh gard mon calm SOUS la preh-sy-yon",
+      "category": "Strength",
+      "generated_at": "2026-11-17T14:07:19.665008"
+    },
+    {
+      "english": "I choose courage over comfort.",
+      "french": "Je choisis le courage plutôt que le confort.",
+      "transliteration": "zhuh shwah-zee luh KOR-zh zhuh pluh-tot keuh luh kon-fort",
+      "category": "Strength",
+      "generated_at": "2026-11-17T14:07:19.665008"
+    },
+    {
+      "english": "My willpower gets me through days.",
+      "french": "Ma volonté me fait traverser les jours difficiles.",
+      "transliteration": "mah volon-tay meh fay traver-say lay zhoor dee-fee-sihl",
+      "category": "Strength",
+      "generated_at": "2026-11-17T14:07:19.665008"
+    },
+    {
+      "english": "I act, even when I doubt.",
+      "french": "J’agis, même quand je doute.",
+      "transliteration": "zha-jeez, meh-meh khon zhuh dout",
+      "category": "Strength",
+      "generated_at": "2026-11-17T14:07:19.665008"
+    },
+    {
+      "english": "I set boundaries, and I respect them.",
+      "french": "Je pose des limites, et je les respecte.",
+      "transliteration": "zhuh po-zay day lee-mee- tay zhuh les reh-sphehkht",
+      "category": "Strength",
+      "generated_at": "2026-11-17T14:07:19.665008"
+    },
+    {
+      "english": "I recover fast after setbacks.",
+      "french": "Je me relève vite après un échec.",
+      "transliteration": "zhuh muh ruh-lev vayt ah-preh un ay-shayk",
+      "category": "Strength",
+      "generated_at": "2026-11-17T14:07:19.665008"
+    },
+    {
+      "english": "I stand up for what matters.",
+      "french": "Je me tiens debout pour ce qui compte.",
+      "transliteration": "zhuh muh tyenn duh-boo poor suh kee konpt",
+      "category": "Strength",
+      "generated_at": "2026-11-17T14:07:19.665008"
+    },
+    {
+      "english": "Steal ideas, then make them yours.",
+      "french": "Inspire-toi, puis rends-le vraiment à toi.",
+      "transliteration": "InspiRe-toi, puiS rends-le vraIment à toi.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-17T14:07:19.665008"
+    },
+    {
+      "english": "Follow curiosity, not the crowd.",
+      "french": "Suis ta curiosité, pas la foule.",
+      "transliteration": "SuIs ta curiOSité, pas la Foule.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-17T14:07:19.665008"
+    },
+    {
+      "english": "Write one line, let it breathe.",
+      "french": "Écris une seule ligne, laisse respirer.",
+      "transliteration": "Ecris une SUEle ligne, laIsse resPiRe.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-17T14:07:19.665008"
+    },
+    {
+      "english": "Make space for inspiration today.",
+      "french": "Fais de la place à l’inspiration, aujourd’hui.",
+      "transliteration": "Fais de la pLACE à l’inspiRAtion, auJOURd’hui.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-17T14:07:19.665008"
+    },
+    {
+      "english": "Small sparks can change your day.",
+      "french": "Un petit feu peut changer ta journée.",
+      "transliteration": "Un peTit feu peut chanGer ta jourNÉe.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-17T14:07:19.665008"
+    },
+    {
+      "english": "Let music guide your mood.",
+      "french": "Laisse la musique guider ton humeur.",
+      "transliteration": "Laisse la muSIque guiDer ton huMEur.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-17T14:07:19.665008"
+    },
+    {
+      "english": "Ask, then listen to the answer.",
+      "french": "Demande, puis écoute la réponse.",
+      "transliteration": "DeMANde, puiS éCOUte la rePONSE.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-17T14:07:19.665008"
+    },
+    {
+      "english": "I reset with a long walk",
+      "french": "Je me ressource avec une longue marche, dehors.",
+      "transliteration": "Je me re-ssource av ec une longue marche, de-hors.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-17T14:07:19.665008"
+    },
+    {
+      "english": "I cook something just for pleasure",
+      "french": "Je cuisine quelque chose juste pour le plaisir, tranquille.",
+      "transliteration": "Je cui-sine quel-que cho-se jus-te pour le plai-sir, tran-qui-lle.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-17T14:07:19.665008"
+    },
+    {
+      "english": "My evenings belong to music",
+      "french": "Le soir, la musique prend ma place.",
+      "transliteration": "Le soir, la mu-sique prend ma pla-ce.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-17T14:07:19.665008"
+    },
+    {
+      "english": "I sketch to clear my head",
+      "french": "Je dessine un peu, juste pour vider ma tête.",
+      "transliteration": "Je des-sine un peu, jus-te pour vi-der ma tê-te.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-17T14:07:19.665008"
+    },
+    {
+      "english": "I read a chapter, then breathe",
+      "french": "Je lis un chapitre, puis je respire vraiment.",
+      "transliteration": "Je lis un cha-pi-tre, puis je res-pi-re vrai-ment.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-17T14:07:19.665008"
+    },
+    {
+      "english": "I garden for calm satisfaction",
+      "french": "Je jardine, ça me donne une joie simple et calme.",
+      "transliteration": "Je jar-dine, ça me don-ne une joie sim-ple et cal-me.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-17T14:07:19.665008"
+    },
+    {
+      "english": "I join a class, no pressure",
+      "french": "Je vais à un cours, sans me mettre la pression.",
+      "transliteration": "Je vais à un cours, sans me met-tre la pres-sion.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-17T14:07:19.665008"
+    },
+    {
+      "english": "You’ve got this, keep showing up.",
+      "french": "Tu peux le faire, continue à te présenter.",
+      "transliteration": "Tu peux le faire, CON-ti-NUE a te PRESEN-ter.",
+      "category": "Motivation",
+      "generated_at": "2026-11-17T14:07:19.665008"
+    },
+    {
+      "english": "Make it fun, not just homework.",
+      "french": "Fais-le amusant, pas seulement un devoir.",
+      "transliteration": "Fais-le a-MU-zant, pas seu-le-ment un de-VOIR.",
+      "category": "Motivation",
+      "generated_at": "2026-11-17T14:07:19.665008"
+    },
+    {
+      "english": "Try one new sentence right now.",
+      "french": "Essaie une nouvelle phrase tout de suite.",
+      "transliteration": "ES-saye u-ne NOU-ve-le PHRASE tout de SUITE.",
+      "category": "Motivation",
+      "generated_at": "2026-11-17T14:07:19.665008"
+    },
+    {
+      "english": "Speak even when you feel unsure.",
+      "french": "Parle même quand tu n’es pas sûr.",
+      "transliteration": "PARLE meME quand tu n’es pas SUR.",
+      "category": "Motivation",
+      "generated_at": "2026-11-17T14:07:19.665008"
+    },
+    {
+      "english": "Tiny routines beat big bursts.",
+      "french": "De petites routines gagnent sur les gros efforts.",
+      "transliteration": "De pe-ti tes RU-ti nes ga-nent sur les gros eF-for-ts.",
+      "category": "Motivation",
+      "generated_at": "2026-11-17T14:07:19.665008"
+    },
+    {
+      "english": "Choose French over scrolling for ten minutes.",
+      "french": "Choisis le français plutôt que de scroller dix minutes.",
+      "transliteration": "CHOisis le FRAN-sais plu-tôt que de scrol-ler dix MI-nu-tes.",
+      "category": "Motivation",
+      "generated_at": "2026-11-17T14:07:19.665008"
+    },
+    {
+      "english": "Track your progress, don’t just guess.",
+      "french": "Note tes progrès, ne fais pas juste des suppositions.",
+      "transliteration": "NoTE tes PRO-grès, ne fais pas JUS-te des su-ppo-SI-tons.",
+      "category": "Motivation",
+      "generated_at": "2026-11-17T14:07:19.665008"
+    },
+    {
+      "english": "I’m choosing joy, again today.",
+      "french": "Je choisis la joie, encore aujourd’hui.",
+      "transliteration": "zhuh CHWA-ziss luh JWA-yuh, an-KOR oh-zhur-DYOU-ee",
+      "category": "Happiness",
+      "generated_at": "2026-11-17T14:07:19.665008"
+    },
+    {
+      "english": "Savoring this silence feels amazing.",
+      "french": "Savourer ce silence, c’est vraiment doux.",
+      "transliteration": "sa-VOO-reh suh suh-leess, say vray-mahn DOO",
+      "category": "Happiness",
+      "generated_at": "2026-11-17T14:07:19.665008"
+    },
+    {
+      "english": "My body feels lighter right now.",
+      "french": "Mon corps se sent plus léger, là.",
+      "transliteration": "mawn KORP suh sant pluu lay-zhay, la",
+      "category": "Happiness",
+      "generated_at": "2026-11-17T14:07:19.665008"
+    },
+    {
+      "english": "I notice good things more easily.",
+      "french": "Je remarque le bon, bien plus facilement.",
+      "transliteration": "zhuh ruh-MARk luh bon, byan pluu fa-sil-MAN",
+      "category": "Happiness",
+      "generated_at": "2026-11-17T14:07:19.665008"
+    },
+    {
+      "english": "A warm shower reset my mood.",
+      "french": "Une douche chaude m’a remis d’aplomb.",
+      "transliteration": "u-n doosh kHOH-td m-ah reh-MEE dez-ap-lonb",
+      "category": "Happiness",
+      "generated_at": "2026-11-17T14:07:19.665008"
+    },
+    {
+      "english": "A simple yes feels so good.",
+      "french": "Un simple oui, ça fait du bien.",
+      "transliteration": "uhn SIMPLE oo-ee, sa fai du byan",
+      "category": "Happiness",
+      "generated_at": "2026-11-17T14:07:19.665008"
+    },
+    {
+      "english": "I’m letting go of that worry.",
+      "french": "Je lâche cette inquiétude, maintenant.",
+      "transliteration": "zhuh LA-shuh suh- tehn ek-kyuh-TEWD, now-tan",
+      "category": "Happiness",
+      "generated_at": "2026-11-17T14:07:19.665008"
     }
   ],
-  "last_updated": "2026-11-16T13:21:32.360176"
+  "last_updated": "2026-11-17T14:07:19.665008"
 }
