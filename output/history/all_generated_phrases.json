@@ -24243,7 +24243,399 @@
       "transliteration": "zhuh LA-shuh suh- tehn ek-kyuh-TEWD, now-tan",
       "category": "Happiness",
       "generated_at": "2026-11-17T14:07:19.665008"
+    },
+    {
+      "english": "I soften my shoulders right now",
+      "french": "Je détends mes épaules tout de suite,",
+      "transliteration": "zhuh detandh meh epoles toot de suite",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-18T13:41:16.660903"
+    },
+    {
+      "english": "Notice my body, no need to fix",
+      "french": "Je remarque mon corps, sans rien corriger,",
+      "transliteration": "zhuh remahrk mon korps, san ryan korrizhe",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-18T13:41:16.660903"
+    },
+    {
+      "english": "Let my breath lead the rhythm",
+      "french": "Que ma respiration guide le rythme,",
+      "transliteration": "keh ma res-pi-ra-syon gid le reetm",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-18T13:41:16.660903"
+    },
+    {
+      "english": "I choose kindness toward myself today",
+      "french": "Je choisis la bienveillance envers moi aujourd’hui,",
+      "transliteration": "zhuh shwayz lah bye-van-nansh an-vair mwah oh-zhoor-dwee",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-18T13:41:16.660903"
+    },
+    {
+      "english": "Pause before I react, breathe",
+      "french": "Je m’arrête avant de réagir, je respire,",
+      "transliteration": "zhuh mar-RET ah-van duh reh-ah-gir, zhuh res-pir",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-18T13:41:16.660903"
+    },
+    {
+      "english": "Thoughts come, feelings move, then I smile",
+      "french": "Les pensées passent, les émotions bougent, puis je souris,",
+      "transliteration": "lay pehn-seh pass, lay eh-moh-syon boo-jh, pwee zhuh sou-ris",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-18T13:41:16.660903"
+    },
+    {
+      "english": "What do I feel in my hands?",
+      "french": "Qu’est-ce que je ressens dans mes mains,",
+      "transliteration": "kesh-kuh zhuh reh-sahn dahn meh men",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-18T13:41:16.660903"
+    },
+    {
+      "english": "What’s the house specialty tonight?",
+      "french": "C’est quoi la spécialité de la maison ce soir ?",
+      "transliteration": "C’est quoi la specialité de la maisON ce SOir ?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-18T13:41:16.660903"
+    },
+    {
+      "english": "I need it dairy-free, if possible.",
+      "french": "J’ai besoin que ce soit sans produits laitiers, si possible.",
+      "transliteration": "J’ai beSOin que ce soit san proDUits LAitiers, si posSIBle.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-18T13:41:16.660903"
+    },
+    {
+      "english": "Any spicy option, but not too hot?",
+      "french": "Il y a une option relevée, mais pas trop forte ?",
+      "transliteration": "Il y a une opTION releVEE, mais pas trop FORte ?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-18T13:41:16.660903"
+    },
+    {
+      "english": "Could we add extra sauce on the side?",
+      "french": "On peut avoir la sauce en plus à part ?",
+      "transliteration": "On peut aVOIR la sauce en plUS a PARt ?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-18T13:41:16.660903"
+    },
+    {
+      "english": "I’m in the mood for something crunchy.",
+      "french": "J’ai envie de quelque chose de croustillant.",
+      "transliteration": "J’ai enVIe de quelQ’choze de crouSTiLLant.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-18T13:41:16.660903"
+    },
+    {
+      "english": "What do you recommend for a light dinner?",
+      "french": "Vous recommandez quoi pour un dîner léger ?",
+      "transliteration": "Vous recomMANdez quoi pouR un diNer LEger ?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-18T13:41:16.660903"
+    },
+    {
+      "english": "Can I get the water sparkling?",
+      "french": "Je peux avoir de l’eau pétillante, s’il vous plaît ?",
+      "transliteration": "Je peux aVOIR de l’eau peTIlLante, sil vous pLait ?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-18T13:41:16.660903"
+    },
+    {
+      "english": "I keep going, even imperfectly.",
+      "french": "Je continue, même imparfaitement.",
+      "transliteration": "jə KONTIN, MEM IMPERFETMAN",
+      "category": "Perseverance",
+      "generated_at": "2026-11-18T13:41:16.660903"
+    },
+    {
+      "english": "One small step, then another.",
+      "french": "Un petit pas, puis un autre.",
+      "transliteration": "œN PETI PAS, puish œN OTRE",
+      "category": "Perseverance",
+      "generated_at": "2026-11-18T13:41:16.660903"
+    },
+    {
+      "english": "I finish the next thing.",
+      "french": "Je termine la prochaine chose.",
+      "transliteration": "jə tERMIN la PROCHAIN SHOZ",
+      "category": "Perseverance",
+      "generated_at": "2026-11-18T13:41:16.660903"
+    },
+    {
+      "english": "I don’t negotiate with quitting.",
+      "french": "Je ne discute pas avec l’abandon.",
+      "transliteration": "jə nə diskyt pa avek labANdON",
+      "category": "Perseverance",
+      "generated_at": "2026-11-18T13:41:16.660903"
+    },
+    {
+      "english": "I show up, rain or shine.",
+      "french": "Je me présente, sous la pluie comme au soleil.",
+      "transliteration": "jə mə PREZANt, sus la PLUI KOM om sɔlɛj",
+      "category": "Perseverance",
+      "generated_at": "2026-11-18T13:41:16.660903"
+    },
+    {
+      "english": "I swap excuses for action.",
+      "french": "Je remplace les excuses par l’action.",
+      "transliteration": "jə rəmPLAS leZ ekSKYUZ par lakSIÕ",
+      "category": "Perseverance",
+      "generated_at": "2026-11-18T13:41:16.660903"
+    },
+    {
+      "english": "I keep my promises to myself.",
+      "french": "Je tiens mes promesses envers moi-même.",
+      "transliteration": "jə tYƐ̃ ME proMƐS ãvɛʁ mwa-MÊm",
+      "category": "Perseverance",
+      "generated_at": "2026-11-18T13:41:16.660903"
+    },
+    {
+      "english": "Hi, I m glad you said hello.",
+      "french": "Salut, je suis content que tu aies dit bonjour.",
+      "transliteration": "Salut, je suis CONTENT que tu aies dit bonjour.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-18T13:41:16.660903"
+    },
+    {
+      "english": "I m here, tell me about you.",
+      "french": "Je suis là, raconte-moi ce que tu aimes.",
+      "transliteration": "Je suis LA, raconte-MOI ce que tu AIMES.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-18T13:41:16.660903"
+    },
+    {
+      "english": "What do you do, in plain terms?",
+      "french": "Tu fais quoi, concrètement, dans la vie ?",
+      "transliteration": "Tu fais QUOI, CONCRÈTEMENT, dans la vie ?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-18T13:41:16.660903"
+    },
+    {
+      "english": "How should I say your name?",
+      "french": "Comment tu prononces ton prénom ?",
+      "transliteration": "ComMENT tu proNONCES ton préNOM ?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-18T13:41:16.660903"
+    },
+    {
+      "english": "I ll start simple, then we chat.",
+      "french": "Je commence simple, puis on discute.",
+      "transliteration": "Je comMENce SIMple, puis on disCUte.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-18T13:41:16.660903"
+    },
+    {
+      "english": "Thanks for meeting me, really.",
+      "french": "Merci de m avoir rencontré, vraiment.",
+      "transliteration": "MERci de m avoir reNCONtré, vraIMENT.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-18T13:41:16.660903"
+    },
+    {
+      "english": "You seem friendly, so I ll relax.",
+      "french": "Tu as l air sympa, je me détends.",
+      "transliteration": "Tu aS l AIR SYMPA, je me déTENDS.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-18T13:41:16.660903"
+    },
+    {
+      "english": "I’m learning at my own pace.",
+      "french": "J’apprends à mon rythme, tranquillement.",
+      "transliteration": "ZHAPprends a mon RYTHM, tran-QUIL-lement.",
+      "category": "Growth",
+      "generated_at": "2026-11-18T13:41:16.660903"
+    },
+    {
+      "english": "Today I’ll keep showing up.",
+      "french": "Aujourd’hui, je reviens encore, encore.",
+      "transliteration": "OZHURD·hui, zhə Rəviens en-CORE, en-CORE.",
+      "category": "Growth",
+      "generated_at": "2026-11-18T13:41:16.660903"
+    },
+    {
+      "english": "I practice even when it’s messy.",
+      "french": "Je pratique même quand c’est le bazar.",
+      "transliteration": "ZHə PRAK-tikə em-Ën KËn se lə BA-zar.",
+      "category": "Growth",
+      "generated_at": "2026-11-18T13:41:16.660903"
+    },
+    {
+      "english": "Small wins, big momentum.",
+      "french": "Petites victoires, grande élan.",
+      "transliteration": "Pə-TITES viK-TWAHR, GRANd e-LAN.",
+      "category": "Growth",
+      "generated_at": "2026-11-18T13:41:16.660903"
+    },
+    {
+      "english": "I ask one question, then move.",
+      "french": "Je pose une seule question, puis j’avance.",
+      "transliteration": "ZHə pOZ une SEL question, pwi zhə vanSS.",
+      "category": "Growth",
+      "generated_at": "2026-11-18T13:41:16.660903"
+    },
+    {
+      "english": "I notice progress in my listening.",
+      "french": "Je remarque mes progrès quand j’écoute.",
+      "transliteration": "ZHə reMAHRKə mə pre-GRÈS kaNn zhə KOUT.",
+      "category": "Growth",
+      "generated_at": "2026-11-18T13:41:16.660903"
+    },
+    {
+      "english": "My confidence grows from repetition.",
+      "french": "Ma confiance grandit grâce à la répétition.",
+      "transliteration": "Ma KON-fi-ans gran-DIT grahs a la re-pe-ti-SYON.",
+      "category": "Growth",
+      "generated_at": "2026-11-18T13:41:16.660903"
+    },
+    {
+      "english": "I like talking with you, a lot.",
+      "french": "J’aime beaucoup discuter avec toi, vraiment.",
+      "transliteration": "ZHEm-boke boku DIS-ku-te a-vek twi, vray-mAn",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-18T13:41:16.660903"
+    },
+    {
+      "english": "Can we meet again this week?",
+      "french": "On se voit encore cette semaine ?",
+      "transliteration": "On suh vyauw-an-kor suh-te suh-MEN",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-18T13:41:16.660903"
+    },
+    {
+      "english": "I’m not playing games with you.",
+      "french": "Je ne joue pas à des jeux avec toi.",
+      "transliteration": "ZHuh nuh zhway pah ah dez zhuh a-vek twi",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-18T13:41:16.660903"
+    },
+    {
+      "english": "Your smile changes my whole mood.",
+      "french": "Ton sourire change complètement mon humeur.",
+      "transliteration": "Ton soo-riR shahnj kom-pleh-t’mon uh-MOOR",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-18T13:41:16.660903"
+    },
+    {
+      "english": "I’d love to hold your hand.",
+      "french": "J’aimerais te tenir la main.",
+      "transliteration": "Zhe-meh-ree te tuh-NEER la main",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-18T13:41:16.660903"
+    },
+    {
+      "english": "Tell me what you’re feeling right now.",
+      "french": "Dis-moi ce que tu ressens là, maintenant.",
+      "transliteration": "Dis-mwah suh kuh tyuh ruh-SAN lah, nal-ten-an",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-18T13:41:16.660903"
+    },
+    {
+      "english": "Let’s laugh, not overanalyze everything.",
+      "french": "Rions un peu, sans tout analyser.",
+      "transliteration": "RyohN an phew, san too na-li-za",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-18T13:41:16.660903"
+    },
+    {
+      "english": "Excuse me, where is check-in?",
+      "french": "Excusez-moi, où se trouve l’enregistrement ?",
+      "transliteration": "EkSYOoz-mwa, oo se TROUV lAN-skreES-mang",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-18T13:41:16.660903"
+    },
+    {
+      "english": "Is this line for passport control?",
+      "french": "C’est bien la file pour le contrôle des passeports ?",
+      "transliteration": "Say BYEN la fil poor luh kohn-trol day passe-por",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-18T13:41:16.660903"
+    },
+    {
+      "english": "My gate changed, can you confirm?",
+      "french": "Mon quai a changé, vous pouvez confirmer ?",
+      "transliteration": "Mon kway ah shanh-zhe, voo pooh-veh kon-FER-me",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-18T13:41:16.660903"
+    },
+    {
+      "english": "Where do I collect my baggage?",
+      "french": "Où récupère-t-on les bagages ici ?",
+      "transliteration": "Oo reh-koo-pehr-t-on lay ba-gaZH ee-see",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-18T13:41:16.660903"
+    },
+    {
+      "english": "I have a connecting flight.",
+      "french": "J’ai une correspondance.",
+      "transliteration": "Zhey une koreSpondans",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-18T13:41:16.660903"
+    },
+    {
+      "english": "Please speak slowly, I’m listening.",
+      "french": "Parlez lentement, je vous écoute.",
+      "transliteration": "Par-lay lahn-tuh-mahn, zhuh voo Zeh-kooht",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-18T13:41:16.660903"
+    },
+    {
+      "english": "Do you accept cash or card?",
+      "french": "Vous prenez l’argent en liquide ou par carte ?",
+      "transliteration": "Voo prannnng lAR-zhahn an lee-keed oo par kart",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-18T13:41:16.660903"
+    },
+    {
+      "english": "I make my bed, then I breathe.",
+      "french": "Je fais mon lit, puis je respire.",
+      "transliteration": "je fais mon lit, puis je RESPire",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-18T13:41:16.660903"
+    },
+    {
+      "english": "I drink water before scrolling.",
+      "french": "Je bois de l’eau avant de scroller.",
+      "transliteration": "je BOIS de l’EAU avant de SCROLLER",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-18T13:41:16.660903"
+    },
+    {
+      "english": "I choose one simple breakfast.",
+      "french": "Je choisis un petit-déjeuner simple.",
+      "transliteration": "je CHOISIS un PETIT-DEJEUNER SIMPLE",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-18T13:41:16.660903"
+    },
+    {
+      "english": "I lay out my clothes the night before.",
+      "french": "Je prépare mes vêtements la veille.",
+      "transliteration": "je PREPARE mes VETEMENTS la VEILLE",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-18T13:41:16.660903"
+    },
+    {
+      "english": "I take a deep breath before leaving.",
+      "french": "Je prends une grande inspiration avant de partir.",
+      "transliteration": "je PRENDS une GRANDE inspiRATION avant de PARtir",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-18T13:41:16.660903"
+    },
+    {
+      "english": "I brush my teeth, no rush.",
+      "french": "Je me brosse les dents, sans me presser.",
+      "transliteration": "je me BROSSE les DENTS, sans me PRESSER",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-18T13:41:16.660903"
+    },
+    {
+      "english": "I check the day, then pick priority.",
+      "french": "Je regarde la journée, puis je choisis la priorité.",
+      "transliteration": "je REGARDE la JOURnee, puis je CHOISIS la PRIOrite",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-18T13:41:16.660903"
     }
   ],
-  "last_updated": "2026-11-17T14:07:19.665008"
+  "last_updated": "2026-11-18T13:41:16.660903"
 }
