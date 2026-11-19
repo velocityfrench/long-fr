@@ -24635,7 +24635,399 @@
       "transliteration": "je REGARDE la JOURnee, puis je CHOISIS la PRIOrite",
       "category": "Daily Routine",
       "generated_at": "2026-11-18T13:41:16.660903"
+    },
+    {
+      "english": "Joy is in small brave moments.",
+      "french": "La joie est dans de petits moments courageux.",
+      "transliteration": "La joie est dans de petits MOments couRAgeux.",
+      "category": "Joy",
+      "generated_at": "2026-11-19T14:07:42.399168"
+    },
+    {
+      "english": "I choose wonder, even on tough days.",
+      "french": "Je choisis l’émerveillement, même les jours difficiles.",
+      "transliteration": "Je choisis l’eMErveillement, même les jours diffiCILES.",
+      "category": "Joy",
+      "generated_at": "2026-11-19T14:07:42.399168"
+    },
+    {
+      "english": "Right now, I let gratitude lead.",
+      "french": "En ce moment, je laisse la gratitude me guider.",
+      "transliteration": "En ce MOment, je laisse la graTI tude me guiDER.",
+      "category": "Joy",
+      "generated_at": "2026-11-19T14:07:42.399168"
+    },
+    {
+      "english": "I laugh at my own language mixups.",
+      "french": "Je ris de mes mélanges de langue.",
+      "transliteration": "Je RIS de mes MÉlanges de lanGUE.",
+      "category": "Joy",
+      "generated_at": "2026-11-19T14:07:42.399168"
+    },
+    {
+      "english": "My joy arrives when I share, not hide.",
+      "french": "Ma joie arrive quand je partage, pas quand je cache.",
+      "transliteration": "Ma joie arRIve quand je PARtage, pas quand je caCHE.",
+      "category": "Joy",
+      "generated_at": "2026-11-19T14:07:42.399168"
+    },
+    {
+      "english": "I’m proud of how I recover fast.",
+      "french": "Je suis fier de ma façon de rebondir vite.",
+      "transliteration": "Je suis fiER de ma façon de reBONdir VITE.",
+      "category": "Joy",
+      "generated_at": "2026-11-19T14:07:42.399168"
+    },
+    {
+      "english": "A warm walk gives my brain joy.",
+      "french": "Une marche au soleil donne de la joie à mon esprit.",
+      "transliteration": "Une MARche au SOLEIL donne de la JOie à mon esPRIT.",
+      "category": "Joy",
+      "generated_at": "2026-11-19T14:07:42.399168"
+    },
+    {
+      "english": "Where is the nearest parking entrance?",
+      "french": "Où est l’entrée du parking le plus proche ?",
+      "transliteration": "OU est l'entré du parkiNG le plus PROCHE ?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-19T14:07:42.399168"
+    },
+    {
+      "english": "Could I get a late checkout?",
+      "french": "Je peux avoir un départ tardif, s’il vous plaît ?",
+      "transliteration": "Je peux avoir un déPAR tardif, s'il VOUS plaît ?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-19T14:07:42.399168"
+    },
+    {
+      "english": "Is breakfast included in my rate?",
+      "french": "Le petit déjeuner est-il inclus dans mon tarif ?",
+      "transliteration": "Le petit DEJENE est-il inCLUS dans mon TArif ?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-19T14:07:42.399168"
+    },
+    {
+      "english": "Do you have rooms on a quiet floor?",
+      "french": "Vous avez des chambres à l’étage le plus calme ?",
+      "transliteration": "VouS avez des CHAMBres à l'éTAGE le plus CALe ?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-19T14:07:42.399168"
+    },
+    {
+      "english": "Can I leave my bag here?",
+      "french": "Je peux laisser mes bagages ici, avant de partir ?",
+      "transliteration": "Je peux LAISser mes baGAges iCI, aVANT de PARTIR ?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-19T14:07:42.399168"
+    },
+    {
+      "english": "Is there an elevator in the building?",
+      "french": "L’immeuble a-t-il un ascenseur ?",
+      "transliteration": "L'IMmeuble a-t-il un aSCENSEUR ?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-19T14:07:42.399168"
+    },
+    {
+      "english": "My room is too warm, please.",
+      "french": "Ma chambre est trop chaude, s’il vous plaît.",
+      "transliteration": "Ma CHAMbre est trop CHAUDE, s'il VOUS plaît.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-19T14:07:42.399168"
+    },
+    {
+      "english": "Where am I right now?",
+      "french": "Où suis-je exactement ?",
+      "transliteration": "Où SUI-je exacTÈMEnt ?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-19T14:07:42.399168"
+    },
+    {
+      "english": "How long does it take to walk?",
+      "french": "Ça prend combien de temps à pied ?",
+      "transliteration": "Ça PREND comBIEN de TEMPS à PIED ?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-19T14:07:42.399168"
+    },
+    {
+      "english": "Can I get there by tram?",
+      "french": "On peut y aller en tram ?",
+      "transliteration": "On peut y ALler en TRAM ?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-19T14:07:42.399168"
+    },
+    {
+      "english": "What landmark should I look for?",
+      "french": "Quel repère dois-je chercher ?",
+      "transliteration": "Quel RE-père dois-JE cherCHER ?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-19T14:07:42.399168"
+    },
+    {
+      "english": "Do I need to cross the street?",
+      "french": "Je dois traverser la rue ?",
+      "transliteration": "Je dois traVERSER la rue ?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-19T14:07:42.399168"
+    },
+    {
+      "english": "Is this area safe at night?",
+      "french": "C’est sûr ici la nuit ?",
+      "transliteration": "C’est SÛR iCI la NUIT ?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-19T14:07:42.399168"
+    },
+    {
+      "english": "How do I find the entrance?",
+      "french": "Je cherche l’entrée, s’il vous plaît.",
+      "transliteration": "Je CHERche l’enTRÉE, s’il vous PLAÎT.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-19T14:07:42.399168"
+    },
+    {
+      "english": "Small steps still move my life forward.",
+      "french": "De petits pas me font avancer quand même.",
+      "transliteration": "De peTITS pas me font aVANcer quand MÊME.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-19T14:07:42.399168"
+    },
+    {
+      "english": "I can handle this, one breath at a time.",
+      "french": "Je peux gérer ça, un souffle après l’autre.",
+      "transliteration": "Je PEUX géRER ça, un SOUffle aPRÈS l’auTRE.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-19T14:07:42.399168"
+    },
+    {
+      "english": "Grateful is my default setting today.",
+      "french": "La gratitude, c’est mon réglage par défaut aujourd’hui.",
+      "transliteration": "La graTItude, c’est mon réglage par déFAULT auJOURd’hui.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-19T14:07:42.399168"
+    },
+    {
+      "english": "I let go, and my mind relaxes.",
+      "french": "Je lâche prise, et mon esprit se détend.",
+      "transliteration": "Je LÂche priSe, et mon esPRIT se déTEND.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-19T14:07:42.399168"
+    },
+    {
+      "english": "I find warmth in ordinary moments.",
+      "french": "Je trouve de la chaleur dans les moments ordinaires.",
+      "transliteration": "Je TROuve de la chaLEUR dans les MOMents ORdiNAIres.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-19T14:07:42.399168"
+    },
+    {
+      "english": "My boundaries protect my peace.",
+      "french": "Mes limites protègent ma paix.",
+      "transliteration": "Mes LImites proTÈgent ma PAIX.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-19T14:07:42.399168"
+    },
+    {
+      "english": "I’m allowed to rest without guilt.",
+      "french": "J’ai le droit de me reposer sans culpabilité.",
+      "transliteration": "J’ai le DROIT de me rePOser sans culPAbilITÉ.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-19T14:07:42.399168"
+    },
+    {
+      "english": "Breathe low, soften your gaze.",
+      "french": "Respire plus bas, adoucis ton regard.",
+      "transliteration": "ResPIRE plus BAS, aDOUcis ton reGARD.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-19T14:07:42.399168"
+    },
+    {
+      "english": "Let your shoulders drop, right now.",
+      "french": "Laisse tes épaules s’abaisser, tout de suite.",
+      "transliteration": "Laisse tes ÉPAules s'aBaisSer, tout de SUITE.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-19T14:07:42.399168"
+    },
+    {
+      "english": "Choose one calm thing to do.",
+      "french": "Choisis une seule chose calme à faire.",
+      "transliteration": "CHoisis une SEule chose CALme a faiRE.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-19T14:07:42.399168"
+    },
+    {
+      "english": "Speak less, listen more, inside.",
+      "french": "Parle moins, écoute plus, en toi.",
+      "transliteration": "PARle moins, eCOUte plus, en toi.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-19T14:07:42.399168"
+    },
+    {
+      "english": "Wash the day off your mind.",
+      "french": "Lave la journée de ton esprit.",
+      "transliteration": "Lave la JOURnée de ton esPRIT.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-19T14:07:42.399168"
+    },
+    {
+      "english": "I can handle this, quietly.",
+      "french": "Je peux gérer ça, calmement.",
+      "transliteration": "Je peux GÉrer ça, CALmeMENT.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-19T14:07:42.399168"
+    },
+    {
+      "english": "When stuck, change your posture.",
+      "french": "Si tu bloques, change de posture.",
+      "transliteration": "Si tu BLOques, change de POSture.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-19T14:07:42.399168"
+    },
+    {
+      "english": "Courage starts with a shaky yes",
+      "french": "Le courage commence par un oui tremblant,",
+      "transliteration": "Le COUR-age comMENCE par un oui tremBLANT,",
+      "category": "Courage",
+      "generated_at": "2026-11-19T14:07:42.399168"
+    },
+    {
+      "english": "I can do this, even scared",
+      "french": "Je peux y arriver, même avec la peur,",
+      "transliteration": "Je peux y arRI-ver, mêME aVEC la PEUR,",
+      "category": "Courage",
+      "generated_at": "2026-11-19T14:07:42.399168"
+    },
+    {
+      "english": "Tell the truth, then breathe",
+      "french": "Dis la vérité, puis respire,",
+      "transliteration": "Dis la véRIté, puis resPIRE,",
+      "category": "Courage",
+      "generated_at": "2026-11-19T14:07:42.399168"
+    },
+    {
+      "english": "Ask once, and let go",
+      "french": "Demande une fois, puis lâche prise,",
+      "transliteration": "DeMANde une fois, puis LÂ-che prise,",
+      "category": "Courage",
+      "generated_at": "2026-11-19T14:07:42.399168"
+    },
+    {
+      "english": "Walk into it, not around it",
+      "french": "Avance dedans, pas sur le côté,",
+      "transliteration": "A-van-ce dEDANS, pas sur le CÔTÉ,",
+      "category": "Courage",
+      "generated_at": "2026-11-19T14:07:42.399168"
+    },
+    {
+      "english": "Keep your promise to yourself",
+      "french": "Tiens ta promesse envers toi-même,",
+      "transliteration": "Tiens ta proMESSE en-VERS toi-MÊME,",
+      "category": "Courage",
+      "generated_at": "2026-11-19T14:07:42.399168"
+    },
+    {
+      "english": "Choose the hard right, today",
+      "french": "Choisis le bon difficile, aujourd’hui,",
+      "transliteration": "Choisis le bon difFIcile, auJOUR-d’hui,",
+      "category": "Courage",
+      "generated_at": "2026-11-19T14:07:42.399168"
+    },
+    {
+      "english": "Are you registered for the invite list?",
+      "french": "Tu es bien inscrit sur la liste des invités, ou pas ?",
+      "transliteration": "Tu ES bien IN-scrit sur la LIS-te des in-VI-tés, ou pas ?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-19T14:07:42.399168"
+    },
+    {
+      "english": "I can bring cheese and crackers.",
+      "french": "Je peux apporter du fromage et des crackers.",
+      "transliteration": "Je peux aPPO-rter du fro-mage et des CRAK-ers.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-19T14:07:42.399168"
+    },
+    {
+      "english": "Where do I put my coat?",
+      "french": "On met les manteaux où, s’il te plaît ?",
+      "transliteration": "On met les man-teaux OU, s’il te PLAÎT ?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-19T14:07:42.399168"
+    },
+    {
+      "english": "Do you need a hand with drinks?",
+      "french": "Tu as besoin d’aide pour les boissons ?",
+      "transliteration": "Tu as BE-soin d’ai-de pour les BOI-sons ?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-19T14:07:42.399168"
+    },
+    {
+      "english": "I love your decorations, they’re so bright!",
+      "french": "J’adore ta déco, elle est trop lumineuse !",
+      "transliteration": "Ja-DOR ta DE-co, elLE est trop lu-mi-NEUZ !",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-19T14:07:42.399168"
+    },
+    {
+      "english": "Should we do a photo outside first?",
+      "french": "On fait une photo dehors d’abord, ou tout de suite ?",
+      "transliteration": "On fait u-ne fo-to de-HORS d’abord, ou tout de SUITE ?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-19T14:07:42.399168"
+    },
+    {
+      "english": "Is there a restroom we can use?",
+      "french": "Il y a des toilettes disponibles pour nous ?",
+      "transliteration": "Il y a des toi-LEttes dis-po-NI-bles pour NOUS ?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-19T14:07:42.399168"
+    },
+    {
+      "english": "Is the wifi password on the counter?",
+      "french": "Le mot de passe du Wi-Fi est sur le comptoir ?",
+      "transliteration": "luh mot duh PASS deh loo-FEE ey sur luh komp-TWAR ?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-19T14:07:42.399168"
+    },
+    {
+      "english": "Do you have gluten-free bread?",
+      "french": "Vous avez du pain sans gluten ?",
+      "transliteration": "voo ZAVE doo PEN san glou-TEN ?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-19T14:07:42.399168"
+    },
+    {
+      "english": "What time do you bake fresh bread?",
+      "french": "À quelle heure vous faites le pain frais ?",
+      "transliteration": "a KOELL OHR voo FET luh pen freh ?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-19T14:07:42.399168"
+    },
+    {
+      "english": "Can I get a small cappuccino?",
+      "french": "Je peux avoir un petit cappuccino, s’il vous plaît ?",
+      "transliteration": "zhuh peuh ZHAVOIR un puh-TEE cap-poo-CHEE-noh, seel voo PLAYT ?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-19T14:07:42.399168"
+    },
+    {
+      "english": "Do you have oat milk today?",
+      "french": "Vous avez du lait d’avoine aujourd’hui ?",
+      "transliteration": "voo ZAVE doo lay ta-VOINE oh-zhour-DHWEE ?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-19T14:07:42.399168"
+    },
+    {
+      "english": "Is this croissant butter or chocolate?",
+      "french": "C’est une viennoiserie au beurre ou au chocolat ?",
+      "transliteration": "seh-t une vee-en-wah-zuh-REE oh ber-ruh oo oh shoh-koh-LA ?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-19T14:07:42.399168"
+    },
+    {
+      "english": "Could I try your almond tart?",
+      "french": "Je peux goûter votre tarte aux amandes ?",
+      "transliteration": "zhuh peuh GOUT-ay vo-Truh tart oh mahn-DASS ?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-19T14:07:42.399168"
     }
   ],
-  "last_updated": "2026-11-18T13:41:16.660903"
+  "last_updated": "2026-11-19T14:07:42.399168"
 }
