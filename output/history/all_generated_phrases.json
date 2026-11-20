@@ -25027,7 +25027,399 @@
       "transliteration": "zhuh peuh GOUT-ay vo-Truh tart oh mahn-DASS ?",
       "category": "Coffee Shop & Bakery",
       "generated_at": "2026-11-19T14:07:42.399168"
+    },
+    {
+      "english": "Where is the metro entrance?",
+      "french": "Où se trouve l’entrée du métro ?",
+      "transliteration": "Où se TROUve l’enTRÉe du méTRÔ ?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-20T13:50:02.171972"
+    },
+    {
+      "english": "How much is a day pass?",
+      "french": "C’est combien pour un pass journée ?",
+      "transliteration": "C’est comBIen pour un pass JOURnée ?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-20T13:50:02.171972"
+    },
+    {
+      "english": "I need to validate my ticket.",
+      "french": "Je dois composter mon billet.",
+      "transliteration": "Je dois comPOSTer mon bilLET.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-20T13:50:02.171972"
+    },
+    {
+      "english": "Does this bus have Wi-Fi?",
+      "french": "Ce bus a-t-il du Wi-Fi ?",
+      "transliteration": "Ce bus a-t-IL du wi-FI ?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-20T13:50:02.171972"
+    },
+    {
+      "english": "Is there step-free access here?",
+      "french": "Il y a une entrée sans marches ici ?",
+      "transliteration": "Il y a une enTRÉe sans MARches iCI ?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-20T13:50:02.171972"
+    },
+    {
+      "english": "How do I reach platform two?",
+      "french": "Je vais au quai deux, comment ?",
+      "transliteration": "Je vais au quai DEUX, comMENT ?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-20T13:50:02.171972"
+    },
+    {
+      "english": "Does this line go toward downtown?",
+      "french": "Cette ligne va vers le centre-ville ?",
+      "transliteration": "Cet te LIGne va vers le cen tre-VILle ?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-20T13:50:02.171972"
+    },
+    {
+      "english": "What class is best for beginners?",
+      "french": "Quelle séance est la meilleure pour débuter, s’il vous plaît ?",
+      "transliteration": "KEL SEANSS est la MAYEUR pour debi-tay, s-il VOOPLAY ?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-20T13:50:02.171972"
+    },
+    {
+      "english": "I’m sore, can we stretch?",
+      "french": "Je suis courbaturé, on peut s’étirer un peu ?",
+      "transliteration": "zhU-ee SWEE kurba-too-ray, on peuh say-TEER-eer uh p’u ?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-20T13:50:02.171972"
+    },
+    {
+      "english": "How long is the warm-up?",
+      "french": "La mise en route dure combien de temps ?",
+      "transliteration": "la miz on roootyur DOOR kombyén de tan ?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-20T13:50:02.171972"
+    },
+    {
+      "english": "Can you spot me on squats?",
+      "french": "Tu peux me guider sur les squats, s’il te plaît ?",
+      "transliteration": "tyoo peuh muh gyoo-dayr sur lay skwats, s-il tuh PLAY ?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-20T13:50:02.171972"
+    },
+    {
+      "english": "My knee feels unstable today.",
+      "french": "Mon genou me paraît instable aujourd’hui.",
+      "transliteration": "mon j’NOU muh parr-teh en-sta-ble oozhoor-dweee ?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-20T13:50:02.171972"
+    },
+    {
+      "english": "I’m tracking my steps today.",
+      "french": "Je compte mes pas aujourd’hui.",
+      "transliteration": "zhuh kompht muh pah oozhoor-dweee.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-20T13:50:02.171972"
+    },
+    {
+      "english": "Which belt is best for lifting?",
+      "french": "Tu me conseilles quelle ceinture pour soulever des poids ?",
+      "transliteration": "tyoo muh kon-sey-yehl kell suh-yn-tyur pour soo-luh-vay day pwa ?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-20T13:50:02.171972"
+    },
+    {
+      "english": "Text me when you’re free.",
+      "french": "Tu peux me textER quand t’es libre ?",
+      "transliteration": "Tu peux me TEXTER quand t’es LIBRE ?",
+      "category": "Friendship",
+      "generated_at": "2026-11-20T13:50:02.171972"
+    },
+    {
+      "english": "Send memes, then tell me everything.",
+      "french": "Envoie des memes, puis dis-moi tout.",
+      "transliteration": "Envoie des MEMES, puis dis-moi TOUT.",
+      "category": "Friendship",
+      "generated_at": "2026-11-20T13:50:02.171972"
+    },
+    {
+      "english": "We check in, no matter what.",
+      "french": "On se checke, quoi qu’il arrive.",
+      "transliteration": "On se CHECKE, quoi qu’il ARRIVE.",
+      "category": "Friendship",
+      "generated_at": "2026-11-20T13:50:02.171972"
+    },
+    {
+      "english": "Your advice always feels honest.",
+      "french": "Tes conseils me semblent toujours sincères.",
+      "transliteration": "Tes CONSEILS me SEMBLENT toujours SINCIÈRES.",
+      "category": "Friendship",
+      "generated_at": "2026-11-20T13:50:02.171972"
+    },
+    {
+      "english": "Let’s grab coffee and catch up.",
+      "french": "On se prend un café, et on rattrape le temps perdu.",
+      "transliteration": "On se PREND un CAFE, et on RATTrape le TEMPS perdu.",
+      "category": "Friendship",
+      "generated_at": "2026-11-20T13:50:02.171972"
+    },
+    {
+      "english": "When life gets messy, you show up.",
+      "french": "Quand la vie devient compliquée, tu es là.",
+      "transliteration": "Quand la VIE devient COMPLIQUÉE, tu es LÀ.",
+      "category": "Friendship",
+      "generated_at": "2026-11-20T13:50:02.171972"
+    },
+    {
+      "english": "I’m proud of you, just because.",
+      "french": "Je suis fier de toi, juste comme ça.",
+      "transliteration": "Je suis FIer de toi, juste COMME ça.",
+      "category": "Friendship",
+      "generated_at": "2026-11-20T13:50:02.171972"
+    },
+    {
+      "english": "What should we do after lunch?",
+      "french": "On fait quoi après le déjeuner ?",
+      "transliteration": "On fAIT quoi aprèS le déJEuner ?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-20T13:50:02.171972"
+    },
+    {
+      "english": "Let s choose a meeting spot",
+      "french": "On se retrouve où, exactement ?",
+      "transliteration": "On se retROuve où, EXActement ?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-20T13:50:02.171972"
+    },
+    {
+      "english": "I need a day that works for you",
+      "french": "J ai besoin d un jour qui te convient.",
+      "transliteration": "J ai beZoin d un JOur qui te CONvient.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-20T13:50:02.171972"
+    },
+    {
+      "english": "Can you send me a schedule?",
+      "french": "Tu peux m envoyer un planning, s il te plaît ?",
+      "transliteration": "Tu peux m enVOyer un PLAning, s il te PLAit ?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-20T13:50:02.171972"
+    },
+    {
+      "english": "Let s plan around your work hours",
+      "french": "On adapte ça à tes horaires.",
+      "transliteration": "On adAPte ça à tes oRIaires.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-20T13:50:02.171972"
+    },
+    {
+      "english": "Do you want the early train?",
+      "french": "Tu préfères le train de bonne heure ?",
+      "transliteration": "Tu préFÈres le trAIN de BONne HEUre ?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-20T13:50:02.171972"
+    },
+    {
+      "english": "I m going to bring my passport",
+      "french": "Je vais prendre mon passeport, au cas où.",
+      "transliteration": "Je vais preNDre mon paSsport, au kaS où.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-20T13:50:02.171972"
+    },
+    {
+      "english": "Start with a mess, refine later",
+      "french": "Commence avec le désordre, puis peaufine",
+      "transliteration": "KOMANS saVek luh deZORR, pui peufIN",
+      "category": "Creativity",
+      "generated_at": "2026-11-20T13:50:02.171972"
+    },
+    {
+      "english": "Make mistakes, learn fast, repeat",
+      "french": "Fais des erreurs, apprends vite, recommence",
+      "transliteration": "Fè deZ eh-rrer, a-PREN vîT, reKOMANS",
+      "category": "Creativity",
+      "generated_at": "2026-11-20T13:50:02.171972"
+    },
+    {
+      "english": "Steal time, then think differently",
+      "french": "Prends un peu de temps, et pense autrement",
+      "transliteration": "Pran un puh duh TAWN, e pan o-TRMANT",
+      "category": "Creativity",
+      "generated_at": "2026-11-20T13:50:02.171972"
+    },
+    {
+      "english": "Talk it out, ideas arrive",
+      "french": "En parle à voix haute, les idées viennent",
+      "transliteration": "an par-luh a VOI ossT, luh zee-dez vYE-nn",
+      "category": "Creativity",
+      "generated_at": "2026-11-20T13:50:02.171972"
+    },
+    {
+      "english": "Choose one constraint, surprise yourself",
+      "french": "Pose une contrainte, et laisse la surprise faire",
+      "transliteration": "POZ yn kohn-TRÈNT, e lès-luh sur-PREZ fèr",
+      "category": "Creativity",
+      "generated_at": "2026-11-20T13:50:02.171972"
+    },
+    {
+      "english": "Use silence, let thoughts bloom",
+      "french": "Garde un moment de silence, et tes idées fleurissent",
+      "transliteration": "GARd un muh-mohn duh silans, e tès i- d e- fLY-ris",
+      "category": "Creativity",
+      "generated_at": "2026-11-20T13:50:02.171972"
+    },
+    {
+      "english": "Turn one memory into a story",
+      "french": "Transforme un souvenir en petite histoire",
+      "transliteration": "traNSFòrmm un soo-VE-nir an puh-tit is-TWAr",
+      "category": "Creativity",
+      "generated_at": "2026-11-20T13:50:02.171972"
+    },
+    {
+      "english": "Trade worry for one clear action",
+      "french": "Transforme l’inquiétude en une action claire.",
+      "transliteration": "trAnsfOrm inquIEtude an yn AKsion klAIR.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-20T13:50:02.171972"
+    },
+    {
+      "english": "Be kind, especially when you're tired",
+      "french": "Sois gentil, surtout quand tu es fatigué.",
+      "transliteration": "soi jENtil, surtou kAnd ty es fatiGUé.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-20T13:50:02.171972"
+    },
+    {
+      "english": "Ask, then listen for the truth",
+      "french": "Demande, puis écoute la vérité.",
+      "transliteration": "demaNde, puis ekut la verITE.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-20T13:50:02.171972"
+    },
+    {
+      "english": "Choose honesty, even if it's awkward",
+      "french": "Choisis la sincérité, même si c’est gênant.",
+      "transliteration": "shOazi la sincErité, mEm si c’est jENant.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-20T13:50:02.171972"
+    },
+    {
+      "english": "Rest your body, steady your mind",
+      "french": "Repose ton corps, apaise ton esprit.",
+      "transliteration": "rəPOZ ton KOR, apEz ton EspRIT.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-20T13:50:02.171972"
+    },
+    {
+      "english": "You can start again, right now",
+      "french": "Tu peux recommencer, dès maintenant.",
+      "transliteration": "ty pOO re-komAnsE, dès mAnteNAn.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-20T13:50:02.171972"
+    },
+    {
+      "english": "Small boundaries protect big dreams",
+      "french": "Des limites douces protègent tes grands rêves.",
+      "transliteration": "de lIMITS dous protèj tes grAn drƏm.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-20T13:50:02.171972"
+    },
+    {
+      "english": "Thanks for picking up the slack.",
+      "french": "Merci d’avoir pris le relais, quand j’en avais besoin.",
+      "transliteration": "mehr-ss-ee dah-vwar pree- le ruh-lay, kan zahn ah-vay buh-zwan",
+      "category": "Gratitude",
+      "generated_at": "2026-11-20T13:50:02.171972"
+    },
+    {
+      "english": "I appreciate your calm, it helped a lot.",
+      "french": "J’ai vraiment apprécié ton calme, ça m’a beaucoup aidé.",
+      "transliteration": "zhai vrai-man ap-pray-see ton kahlm, sa may bo-koo aid-ay",
+      "category": "Gratitude",
+      "generated_at": "2026-11-20T13:50:02.171972"
+    },
+    {
+      "english": "Thank you for checking in on me.",
+      "french": "Merci de m’avoir demandé des nouvelles.",
+      "transliteration": "mehr-ss-ee duh mah-voar day-mahn-day day-new-vell",
+      "category": "Gratitude",
+      "generated_at": "2026-11-20T13:50:02.171972"
+    },
+    {
+      "english": "Thanks for making things feel lighter.",
+      "french": "Merci d’avoir rendu les choses plus légères.",
+      "transliteration": "mehr-ss-ee dah-vwar ruhn-doo lay shoz proolyay-zhehr",
+      "category": "Gratitude",
+      "generated_at": "2026-11-20T13:50:02.171972"
+    },
+    {
+      "english": "Your kindness showed up at the right time.",
+      "french": "Ta gentillesse est arrivée au bon moment.",
+      "transliteration": "ta zhan-tee-yess ehz ah-rree-vay oh bon moh-mahn",
+      "category": "Gratitude",
+      "generated_at": "2026-11-20T13:50:02.171972"
+    },
+    {
+      "english": "I’m thankful you remembered the details.",
+      "french": "Je te remercie d’avoir gardé ça en tête.",
+      "transliteration": "zhuh tuh ruh-mehr-see dah-vwar gar-day sahn-tet",
+      "category": "Gratitude",
+      "generated_at": "2026-11-20T13:50:02.171972"
+    },
+    {
+      "english": "Thank you for handling that so quickly.",
+      "french": "Merci d’avoir géré ça si vite.",
+      "transliteration": "mehr-ss-ee dah-vwar zhay-ray sa see veet",
+      "category": "Gratitude",
+      "generated_at": "2026-11-20T13:50:02.171972"
+    },
+    {
+      "english": "Clean your space, clear your mind",
+      "french": "Rangez votre espace, clarifiez votre esprit",
+      "transliteration": "Ran-jEZ vo-tre es-PAce, kla-ri-fiez vo-tre es-Prit",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-20T13:50:02.171972"
+    },
+    {
+      "english": "Do it messy, just begin",
+      "french": "Faites-le imparfait, commencez quand même",
+      "transliteration": "Fé-zEZ-le im-par-fait, com-men-cez quand MÉME",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-20T13:50:02.171972"
+    },
+    {
+      "english": "Plan a hard task first",
+      "french": "Commencez par la tâche la plus difficile",
+      "transliteration": "Com-men-cez par la TÂ-che la plus dif-fi-CILE",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-20T13:50:02.171972"
+    },
+    {
+      "english": "Reward effort, not just results",
+      "french": "Récompensez l’effort, pas seulement le résultat",
+      "transliteration": "Ré-com-pensez L’ef-FORT, pas seU-le-ment le ré-ZUL-tat",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-20T13:50:02.171972"
+    },
+    {
+      "english": "Ask for feedback, then adjust",
+      "french": "Demandez un retour, puis ajustez",
+      "transliteration": "De-man-dez un re-tOUR, puis a-just-ES",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-20T13:50:02.171972"
+    },
+    {
+      "english": "Turn one habit into a ritual",
+      "french": "Transformez une habitude en rituel",
+      "transliteration": "Trans-for-mez u-ne a-bi-TUDE en ri-TU-el",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-20T13:50:02.171972"
+    },
+    {
+      "english": "Make time for movement today",
+      "french": "Prévoyez du mouvement aujourd’hui",
+      "transliteration": "Pré-vo-yez du mou-ve-ment au-jourD’HUI",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-20T13:50:02.171972"
     }
   ],
-  "last_updated": "2026-11-19T14:07:42.399168"
+  "last_updated": "2026-11-20T13:50:02.171972"
 }
