@@ -339,7 +339,39 @@
     {
       "category": "Self Improvement",
       "date": "2026-11-20"
+    },
+    {
+      "category": "Emergency & Health",
+      "date": "2026-11-21"
+    },
+    {
+      "category": "Weather & Small Talk",
+      "date": "2026-11-21"
+    },
+    {
+      "category": "Feelings & Emotions",
+      "date": "2026-11-21"
+    },
+    {
+      "category": "Forgiveness",
+      "date": "2026-11-21"
+    },
+    {
+      "category": "Love",
+      "date": "2026-11-21"
+    },
+    {
+      "category": "Phone Calls & Messages",
+      "date": "2026-11-21"
+    },
+    {
+      "category": "Banking & Money",
+      "date": "2026-11-21"
+    },
+    {
+      "category": "Agreeing & Disagreeing",
+      "date": "2026-11-21"
     }
   ],
-  "last_updated": "2026-11-20T13:50:02.187648"
+  "last_updated": "2026-11-21T13:15:07.498598"
 }

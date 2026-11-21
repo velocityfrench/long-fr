@@ -25419,7 +25419,399 @@
       "transliteration": "Pré-vo-yez du mou-ve-ment au-jourD’HUI",
       "category": "Self Improvement",
       "generated_at": "2026-11-20T13:50:02.171972"
+    },
+    {
+      "english": "I cut my hand, it won t stop",
+      "french": "Je me suis coupé la main, ça ne s arrête pas",
+      "transliteration": "zhuh muh swee kuh-tay lah man, sah nah s arret pah",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-21T13:15:07.475969"
+    },
+    {
+      "english": "Someone fainted, please send help",
+      "french": "Quelqu un s est évanoui, envoyez de l aide",
+      "transliteration": "kel-keun set ay-vah-nwee, an-vwah-ay deh-l aid",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-21T13:15:07.475969"
+    },
+    {
+      "english": "I swallowed something wrong, it hurts",
+      "french": "J ai avalé quelque chose, ça fait très mal",
+      "transliteration": "zheh ay ah-vah-lay kel-k suhsh, sah fay treh mal",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-21T13:15:07.475969"
+    },
+    {
+      "english": "My breathing is wheezing, I feel bad",
+      "french": "Je respire mal, je siffle, appelez une aide",
+      "transliteration": "zhuh reh-spyrr mal, zhuh syffl, a-puh-lay uneed aid",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-21T13:15:07.475969"
+    },
+    {
+      "english": "My arm is numb, it s spreading",
+      "french": "Mon bras est engourdi, ça s étend",
+      "transliteration": "mon brah ayn-gour-dee, sah say-tond",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-21T13:15:07.475969"
+    },
+    {
+      "english": "I have severe allergy, my throat tightens",
+      "french": "J ai une forte allergie, ma gorge se serre",
+      "transliteration": "zhay oon fort ahl-er-jee, mah gorj suh sehr",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-21T13:15:07.475969"
+    },
+    {
+      "english": "My face is swelling, I need help",
+      "french": "Mon visage gonfle, j ai besoin d aide",
+      "transliteration": "mon vee-zhahzh gonfl, zheh ay b’zw-uhn dayde",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-21T13:15:07.475969"
+    },
+    {
+      "english": "Is the sun coming out soon?",
+      "french": "Le soleil va revenir bientôt ?",
+      "transliteration": "Le SO-leil va re-ve-nir BIE-ntôt ?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-21T13:15:07.475969"
+    },
+    {
+      "english": "It’s humid, isn’t it?",
+      "french": "C’est très humide, non ?",
+      "transliteration": "C’est TRÈS hu-MIDE, NON ?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-21T13:15:07.475969"
+    },
+    {
+      "english": "Clouds are hanging low today.",
+      "french": "Les nuages restent bien bas aujourd’hui.",
+      "transliteration": "Les NU-a-ges res-tent BIEN BAS au-jourD’HUI.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-21T13:15:07.475969"
+    },
+    {
+      "english": "Hope it stays dry for shopping.",
+      "french": "J’espère que ça reste sec pour les courses.",
+      "transliteration": "J’es-père QUE ça reste SEC pour les COUR-ses.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-21T13:15:07.475969"
+    },
+    {
+      "english": "Do you feel that breeze?",
+      "french": "Tu sens cette petite brise ?",
+      "transliteration": "Tu SENs cet-te PE-ti-te bRISE ?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-21T13:15:07.475969"
+    },
+    {
+      "english": "The forecast said light rain.",
+      "french": "La météo annonçait de la petite pluie.",
+      "transliteration": "La ME-té-o an-on-SAIt de la PE-ti-te PLUIE.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-21T13:15:07.475969"
+    },
+    {
+      "english": "How’s it looking outside, really?",
+      "french": "On dirait quoi dehors, en vrai ?",
+      "transliteration": "On DI-rait quoi de-HORS, en VRAI ?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-21T13:15:07.475969"
+    },
+    {
+      "english": "I’m excited to start fresh tomorrow.",
+      "french": "Je suis ravi de recommencer demain.",
+      "transliteration": "Je suis raVI de reCOMmencer deMAIN.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-21T13:15:07.475969"
+    },
+    {
+      "english": "I feel calm after that long walk.",
+      "french": "Je me sens serein après cette longue marche.",
+      "transliteration": "Je me sens seREIN après cette lonGUE MARche.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-21T13:15:07.475969"
+    },
+    {
+      "english": "I’m irritated by all these delays.",
+      "french": "Je suis agacé par tous ces retards.",
+      "transliteration": "Je suis aGAcé par tous ces reTARs.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-21T13:15:07.475969"
+    },
+    {
+      "english": "I’m worried, but I’ll handle it.",
+      "french": "Je m’inquiète, mais je vais gérer.",
+      "transliteration": "Je m’INquiète, mais je vais GÉrer.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-21T13:15:07.475969"
+    },
+    {
+      "english": "I’m proud I stuck with it.",
+      "french": "Je suis fier d’avoir tenu bon.",
+      "transliteration": "Je suis FIer d’aVOIR teNU bon.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-21T13:15:07.475969"
+    },
+    {
+      "english": "I feel lonely when everyone leaves.",
+      "french": "Je me sens seul quand tout le monde part.",
+      "transliteration": "Je me sens SEUL quand tout le MONde part.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-21T13:15:07.475969"
+    },
+    {
+      "english": "I’m touched by your message today.",
+      "french": "Ton message m’a touché aujourd’hui.",
+      "transliteration": "Ton mesSAGE m’a touCHÉ aujourD’HUI.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-21T13:15:07.475969"
+    },
+    {
+      "english": "Sorry, I spoke too fast, forgive me",
+      "french": "Désolé, j ai parlé trop vite, pardon",
+      "transliteration": "DeSAO-lé, j ai par-lé trop viTE, parDON",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-21T13:15:07.475969"
+    },
+    {
+      "english": "My bad, I misunderstood your meaning",
+      "french": "Pardon, j ai mal compris ce que tu voulais dire",
+      "transliteration": "ParDON, j ai mal com-PREH ce que tu vou-LAIS diR",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-21T13:15:07.475969"
+    },
+    {
+      "english": "I’m sorry, that came out wrong",
+      "french": "Pardon, ça a mal tourné, je m excuse",
+      "transliteration": "ParDON, sa a mal TUR-né, je m ex-CUS-e",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-21T13:15:07.475969"
+    },
+    {
+      "english": "Sorry, I mixed you up with someone",
+      "french": "Pardon, je t ai confondu avec quelqu un",
+      "transliteration": "ParDON, je t ai con-FON-du avec quel-qu un",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-21T13:15:07.475969"
+    },
+    {
+      "english": "I didn’t mean it like that, pardon",
+      "french": "Je ne voulais pas dire ça, pardon",
+      "transliteration": "Je ne vou-LAIS pas diR sa, parDON",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-21T13:15:07.475969"
+    },
+    {
+      "english": "Sorry, I jumped in without listening",
+      "french": "Pardon, je suis intervenu sans t écouter",
+      "transliteration": "ParDON, je suis in-ter-VEN-u san t eCou-TER",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-21T13:15:07.475969"
+    },
+    {
+      "english": "My mistake, I grabbed the wrong file",
+      "french": "Pardon, j ai pris le mauvais fichier",
+      "transliteration": "ParDON, j ai priS le mau-vAIS fi-CHER",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-21T13:15:07.475969"
+    },
+    {
+      "english": "I choose you, today and always.",
+      "french": "Je te choisis, aujourd’hui et toujours.",
+      "transliteration": "Je te CHOisis, auJOURd’hui et TOUJours.",
+      "category": "Love",
+      "generated_at": "2026-11-21T13:15:07.475969"
+    },
+    {
+      "english": "Your love makes my mornings softer.",
+      "french": "Ton amour rend mes matins plus doux.",
+      "transliteration": "Ton aMOUR rend mes maTINS plus doux.",
+      "category": "Love",
+      "generated_at": "2026-11-21T13:15:07.475969"
+    },
+    {
+      "english": "When life is loud, you’re quiet.",
+      "french": "Quand tout devient bruyant, tu es calme.",
+      "transliteration": "Quand tout deVINT bruYA-nT, tu es calME.",
+      "category": "Love",
+      "generated_at": "2026-11-21T13:15:07.475969"
+    },
+    {
+      "english": "Stay close, I love your presence.",
+      "french": "Reste près de moi, j’aime ta présence.",
+      "transliteration": "RES-te près de moi, j’aime ta PRÉSence.",
+      "category": "Love",
+      "generated_at": "2026-11-21T13:15:07.475969"
+    },
+    {
+      "english": "With you, I want to grow.",
+      "french": "Avec toi, j’ai envie de grandir.",
+      "transliteration": "aVec toi, j’ai enVIE de GRANdir.",
+      "category": "Love",
+      "generated_at": "2026-11-21T13:15:07.475969"
+    },
+    {
+      "english": "You understand me without explanations.",
+      "french": "Tu me comprends sans explications.",
+      "transliteration": "tu me comPREND sans ex pLI-caTIONS.",
+      "category": "Love",
+      "generated_at": "2026-11-21T13:15:07.475969"
+    },
+    {
+      "english": "We’re better together, seriously.",
+      "french": "Ensemble, c’est mieux, vraiment.",
+      "transliteration": "enSEMble, c’est MIEUX, vraIment.",
+      "category": "Love",
+      "generated_at": "2026-11-21T13:15:07.475969"
+    },
+    {
+      "english": "Can you confirm you got my voicemail?",
+      "french": "Vous pouvez me confirmer que vous avez reçu mon message vocal ?",
+      "transliteration": "voo pouv-eh meh kon-FIR-may que vooz ay-say ruh-ssu mon muh-sazh vo-KAL",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-21T13:15:07.475969"
+    },
+    {
+      "english": "Thanks, I received it just now",
+      "french": "Merci, je viens juste de recevoir votre message.",
+      "transliteration": "mehr- see, zhuh vyehn zhust deuh ruh-siv- war vo-tre muh-sazh",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-21T13:15:07.475969"
+    },
+    {
+      "english": "We’ll talk in a moment, ok?",
+      "french": "On se parle dans un instant, d’accord ?",
+      "transliteration": "on suh parl dahn un in-STAN, da-kor",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-21T13:15:07.475969"
+    },
+    {
+      "english": "I’m on my way, ETA fifteen minutes",
+      "french": "Je suis en route, j’arrive dans quinze minutes.",
+      "transliteration": "zhuh swee ohn-root, zha-riv dahn kinz minutes",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-21T13:15:07.475969"
+    },
+    {
+      "english": "Can we keep it short, please",
+      "french": "On peut faire court, s’il vous plaît ?",
+      "transliteration": "on peuh fer kor, seel voo pleh",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-21T13:15:07.475969"
+    },
+    {
+      "english": "I couldn’t reach you, sorry again",
+      "french": "Je n’arrivais pas à vous joindre, désolé.",
+      "transliteration": "zhuh nah-ree- vyay pah ah voo zwon-dre, deh-zoh-leh",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-21T13:15:07.475969"
+    },
+    {
+      "english": "Your number looks unfamiliar, is this right?",
+      "french": "Votre numéro me semble différent, c’est bien vous ?",
+      "transliteration": "vo-tre nu-may-roh meh san- bluh dee-fay-ran, ehh behn voo",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-21T13:15:07.475969"
+    },
+    {
+      "english": "Can I pay contactless here?",
+      "french": "Je peux payer sans contact, ici ?",
+      "transliteration": "zhuh peuh pay-ay sahn kon-takt, ee-see",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-21T13:15:07.475969"
+    },
+    {
+      "english": "I want to open a bank account.",
+      "french": "Je voudrais ouvrir un compte bancaire.",
+      "transliteration": "zhuh voo-dree oo-vrir un konpht ban-kair",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-21T13:15:07.475969"
+    },
+    {
+      "english": "Do you offer a student account?",
+      "french": "Vous proposez un compte étudiant ?",
+      "transliteration": "voo pro-po-zay un konpht ay-tyou-dee-ant",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-21T13:15:07.475969"
+    },
+    {
+      "english": "How do I top up my card?",
+      "french": "Comment recharger ma carte ?",
+      "transliteration": "koh-mahn ruh-shahrzhe ma kart",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-21T13:15:07.475969"
+    },
+    {
+      "english": "Where can I deposit cash?",
+      "french": "Où puis-je déposer de l’argent en espèces ?",
+      "transliteration": "oo pwee-zhuh day-po-zay duh lahr-zhahn on-spays",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-21T13:15:07.475969"
+    },
+    {
+      "english": "My PIN doesn’t work, again.",
+      "french": "Mon code PIN ne marche pas, encore.",
+      "transliteration": "mon kohd peen nuh mahrsh pah, ahn-kor",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-21T13:15:07.475969"
+    },
+    {
+      "english": "Can I see my account balance?",
+      "french": "Je peux voir le solde de mon compte ?",
+      "transliteration": "zhuh peuh vwar luh sohl-day duh mon konpht",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-21T13:15:07.475969"
+    },
+    {
+      "english": "Totally, I feel the same way",
+      "french": "Carrément, je ressens pareil",
+      "transliteration": "carreMENT, je ressens paReil",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-21T13:15:07.475969"
+    },
+    {
+      "english": "I agree, that's the sensible option",
+      "french": "Je suis d'accord, c'est la solution la plus logique",
+      "transliteration": "je suis dACcord, c'est la soluTION la plus LOgique",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-21T13:15:07.475969"
+    },
+    {
+      "english": "Absolutely not, that won’t work for me",
+      "french": "Pas du tout, ça ne me conviendra pas",
+      "transliteration": "pas du TOUT, ça ne me conviENDra pas",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-21T13:15:07.475969"
+    },
+    {
+      "english": "I'm not sure, I see your point",
+      "french": "Je ne suis pas sûr, je vois ce que tu veux dire",
+      "transliteration": "je ne suis pas SÛR, je vois ce que tu veux DIre",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-21T13:15:07.475969"
+    },
+    {
+      "english": "That sounds right to me",
+      "french": "Ça me paraît juste",
+      "transliteration": "ça me paRaît JUSte",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-21T13:15:07.475969"
+    },
+    {
+      "english": "I disagree, but I respect your view",
+      "french": "Je ne suis pas d'accord, mais je respecte ton avis",
+      "transliteration": "je ne suis pas dACcord, mais je resPECTe ton aVIS",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-21T13:15:07.475969"
+    },
+    {
+      "english": "Maybe, but let's be realistic",
+      "french": "Peut-être, mais soyons réalistes",
+      "transliteration": "peut-ÊTRE, mais SOYons raLIStes",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-21T13:15:07.475969"
     }
   ],
-  "last_updated": "2026-11-20T13:50:02.171972"
+  "last_updated": "2026-11-21T13:15:07.475969"
 }
