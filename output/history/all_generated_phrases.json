@@ -25811,7 +25811,399 @@
       "transliteration": "peut-ÊTRE, mais SOYons raLIStes",
       "category": "Agreeing & Disagreeing",
       "generated_at": "2026-11-21T13:15:07.475969"
+    },
+    {
+      "english": "I feel dizzy, can you help?",
+      "french": "Je me sens étourdi, vous pouvez m’aider ?",
+      "transliteration": "zhuh muh sans ay-toor-dee, voo poh-kay m-ay-deh ?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-22T13:03:56.356809"
+    },
+    {
+      "english": "I have a fever since morning",
+      "french": "J’ai de la fièvre depuis ce matin.",
+      "transliteration": "zhey deh lah fyèv-ray de-pwee suh muh-tan.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-22T13:03:56.356809"
+    },
+    {
+      "english": "Can I get an appointment today?",
+      "french": "Je peux avoir un rendez-vous aujourd’hui, s’il vous plaît ?",
+      "transliteration": "zhuh pyeux a-vwar un ruhn-day voo oh-zhoor-dwee, seel voo plait ?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-22T13:03:56.356809"
+    },
+    {
+      "english": "I need antibiotics for my throat",
+      "french": "J’ai besoin d’antibiotiques pour ma gorge.",
+      "transliteration": "zhei buh-swan d an-tee-byo-teek poohr mah gorsh.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-22T13:03:56.356809"
+    },
+    {
+      "english": "Is this medicine safe for adults?",
+      "french": "Ce médicament est-il sûr pour les adultes ?",
+      "transliteration": "suh muh-dee-kah-mahn ay-til soor poor lay adwalt ?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-22T13:03:56.356809"
+    },
+    {
+      "english": "Where can I get my blood test?",
+      "french": "Où peut-on faire une prise de sang ?",
+      "transliteration": "oo puh-tahn fair un prys duh sang ?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-22T13:03:56.356809"
+    },
+    {
+      "english": "My child needs a check-up",
+      "french": "Mon enfant a besoin d’un contrôle médical.",
+      "transliteration": "mon an-fon ah buh-swan d un kohn-trol may-dee-kal.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-22T13:03:56.356809"
+    },
+    {
+      "english": "Can I try this on, please?",
+      "french": "Je peux l'essayer, s'il vous plaît ?",
+      "transliteration": "Je peux l'ESSAYER, s'il VOUS PLAÎT ?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-22T13:03:56.356809"
+    },
+    {
+      "english": "I need a receipt, please.",
+      "french": "Je voudrais un reçu, s'il vous plaît.",
+      "transliteration": "Je voudrais un REÇU, s'il VOUS PLAÎT.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-22T13:03:56.356809"
+    },
+    {
+      "english": "What’s included in the price?",
+      "french": "Qu'est-ce qui est inclus dans le prix ?",
+      "transliteration": "Qu'est-CE qui EST inCLUS dans le PRIX ?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-22T13:03:56.356809"
+    },
+    {
+      "english": "Can I return it if it doesn’t fit?",
+      "french": "Je peux le retourner si ça ne me va pas ?",
+      "transliteration": "Je peux le reTOURNER si ça ne me VA pas ?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-22T13:03:56.356809"
+    },
+    {
+      "english": "Is there free delivery today?",
+      "french": "La livraison est gratuite aujourd'hui ?",
+      "transliteration": "La LIVRAISON est GRAtuite AUJOURD'hui ?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-22T13:03:56.356809"
+    },
+    {
+      "english": "How long is the warranty?",
+      "french": "La garantie dure combien de temps ?",
+      "transliteration": "La GA RANtie DURE comBIEN de TEMPS ?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-22T13:03:56.356809"
+    },
+    {
+      "english": "Do you have a smaller size?",
+      "french": "Vous l'avez en taille plus petite ?",
+      "transliteration": "Vous l'AVEZ en TAILLE plus PETITE ?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-22T13:03:56.356809"
+    },
+    {
+      "english": "Compliment their work, not their look.",
+      "french": "Complimente leur travail, pas leur apparence.",
+      "transliteration": "KOM-plimente leur trah-vail, pah leur ap-par-anse.",
+      "category": "Kindness",
+      "generated_at": "2026-11-22T13:03:56.356809"
+    },
+    {
+      "english": "Ask how they truly feel today.",
+      "french": "Demande comment ils se sentent vraiment aujourd’hui.",
+      "transliteration": "de-MAN-de com-ment il se san-tent vRAI-ment au-jour-d’hui.",
+      "category": "Kindness",
+      "generated_at": "2026-11-22T13:03:56.356809"
+    },
+    {
+      "english": "Hold the door, even late.",
+      "french": "Tenez la porte, même tard.",
+      "transliteration": "tenez la POR-te, mê-me tahrd.",
+      "category": "Kindness",
+      "generated_at": "2026-11-22T13:03:56.356809"
+    },
+    {
+      "english": "Thank the barista, every time.",
+      "french": "Remercie le",
+      "transliteration": "re-MER-siye le/ la ba-RIS-ta, a CHAK-e fois.",
+      "category": "Kindness",
+      "generated_at": "2026-11-22T13:03:56.356809"
+    },
+    {
+      "english": "Quietly include them in the plan.",
+      "french": "Inclue-les discrètement dans le plan.",
+      "transliteration": "in-KLUZ-les dis-KRÈ-te-ment dans le plan.",
+      "category": "Kindness",
+      "generated_at": "2026-11-22T13:03:56.356809"
+    },
+    {
+      "english": "Offer to carry the heavier bag.",
+      "french": "Propose de porter le sac le plus lourd.",
+      "transliteration": "pro-POZ de POR-te le sak le plis LOURD.",
+      "category": "Kindness",
+      "generated_at": "2026-11-22T13:03:56.356809"
+    },
+    {
+      "english": "Give space, then check in gently.",
+      "french": "Laisse de la place, puis reviens doucement aux nouvelles.",
+      "transliteration": "lèss de la plas, puis re-vien dou-CHE-ment aux nou-vel.",
+      "category": "Kindness",
+      "generated_at": "2026-11-22T13:03:56.356809"
+    },
+    {
+      "english": "Can you watch the baby tonight?",
+      "french": "Tu peux garder le bébé ce soir, s'il te plaît ?",
+      "transliteration": "Tu PEUX gar-DER le BÉBÉ ce SOIR, s'il te PLÂÎT ?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-22T13:03:56.356809"
+    },
+    {
+      "english": "I’m making lunch boxes right now.",
+      "french": "Je prépare les boîtes à déjeuner tout de suite.",
+      "transliteration": "Je pré-PARE les BOîTES à dé-JEU-ner tout de SUITE.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-22T13:03:56.356809"
+    },
+    {
+      "english": "Your mom called, can I reply?",
+      "french": "Ta mère a appelé, je peux répondre ?",
+      "transliteration": "Ta MÉRE a AP-PELÉ, je peux ré-PONDRE ?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-22T13:03:56.356809"
+    },
+    {
+      "english": "We’re hosting brunch at our place.",
+      "french": "On reçoit pour un brunch chez nous, demain.",
+      "transliteration": "On reÇOIT pour un BRUNCH chez NOUS, de-MAIN.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-22T13:03:56.356809"
+    },
+    {
+      "english": "The kids need clean clothes today.",
+      "french": "Les enfants ont besoin de vêtements propres aujourd'hui.",
+      "transliteration": "Les en-FANTS ont be-SOIN de VÊ-te-ments pro-PRES au-JOUR-D'HUI.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-22T13:03:56.356809"
+    },
+    {
+      "english": "I’m picking up milk on my way.",
+      "french": "Je passe acheter du lait en rentrant.",
+      "transliteration": "Je PASse a-chè-TER du LAIT en REN-trant.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-22T13:03:56.356809"
+    },
+    {
+      "english": "Can we open the windows, please?",
+      "french": "On ouvre les fenêtres, s'il te plaît ?",
+      "transliteration": "On OU-vre les FÊNêtres, s'il te PLAÎT ?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-22T13:03:56.356809"
+    },
+    {
+      "english": "That s sketchy, I m out.",
+      "french": "C est louche, je m en vais.",
+      "transliteration": "Seh LOUCH, zhuh man VAISE",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-22T13:03:56.356809"
+    },
+    {
+      "english": "You re talking big, but meh.",
+      "french": "Tu parles fort, mais bon.",
+      "transliteration": "Tu PARL FOR, meh bon",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-22T13:03:56.356809"
+    },
+    {
+      "english": "Stop being dramatic, chill.",
+      "french": "Arrête d en faire tout un drame, calme-toi.",
+      "transliteration": "ar-RET dEN fair TOU zohn DRAM, ka-ML-toi",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-22T13:03:56.356809"
+    },
+    {
+      "english": "I m broke again, seriously.",
+      "french": "J ai encore le portefeuille vide.",
+      "transliteration": "zheh ahn-KOR luh pohr-Too-fey VEE-D",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-22T13:03:56.356809"
+    },
+    {
+      "english": "That deal sounds too good.",
+      "french": "Ce deal sent l arnaque.",
+      "transliteration": "seh dal sahn TAR-Nyak",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-22T13:03:56.356809"
+    },
+    {
+      "english": "I need a minute, sorry.",
+      "french": "Laisse-moi deux minutes, désolé.",
+      "transliteration": "LAISE-mwa deu mi-NUT, deh-zoh-LAY",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-22T13:03:56.356809"
+    },
+    {
+      "english": "We re gonna wing it tonight.",
+      "french": "On improvisera ce soir.",
+      "transliteration": "on im-pro-vee-ZAY suh SWAR",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-22T13:03:56.356809"
+    },
+    {
+      "english": "I can pause, no rush",
+      "french": "Je peux faire une pause, sans me presser.",
+      "transliteration": "Je peux faire une PAU-ze, sans me pres-ser.",
+      "category": "Patience",
+      "generated_at": "2026-11-22T13:03:56.356809"
+    },
+    {
+      "english": "Hold your tongue, breathe slowly",
+      "french": "Garde ta langue, respire doucement.",
+      "transliteration": "GAR-de ta lan-gue, reSPI-re dou-ce-ment.",
+      "category": "Patience",
+      "generated_at": "2026-11-22T13:03:56.356809"
+    },
+    {
+      "english": "Be kind to your timing",
+      "french": "Sois bienveillant avec ton rythme.",
+      "transliteration": "Sois bien-VEIL-lant a-vec ton RYTH-me.",
+      "category": "Patience",
+      "generated_at": "2026-11-22T13:03:56.356809"
+    },
+    {
+      "english": "Calm first, then ask your question",
+      "french": "Calme-toi d’abord, puis pose ta question.",
+      "transliteration": "Calme-toi dABord, puis PO-se ta ques-tion.",
+      "category": "Patience",
+      "generated_at": "2026-11-22T13:03:56.356809"
+    },
+    {
+      "english": "Let it be messy at first",
+      "french": "Laisse un peu d’imperfection au début.",
+      "transliteration": "Lais-se un peu d’im-per-FEC-tion au DE-buT.",
+      "category": "Patience",
+      "generated_at": "2026-11-22T13:03:56.356809"
+    },
+    {
+      "english": "I can repeat, learning takes time",
+      "french": "Je peux recommencer, ça prend du temps.",
+      "transliteration": "Je peux re-com-men-cer, ça prend du TEMPS.",
+      "category": "Patience",
+      "generated_at": "2026-11-22T13:03:56.356809"
+    },
+    {
+      "english": "Stay open, answers come",
+      "french": "Reste ouvert, les réponses arrivent.",
+      "transliteration": "Res-te OU-verT, les rePON-ses ar-rIvent.",
+      "category": "Patience",
+      "generated_at": "2026-11-22T13:03:56.356809"
+    },
+    {
+      "english": "I can handle this, no panic",
+      "french": "Je peux gérer ça, sans paniquer.",
+      "transliteration": "Je peux GER-er sa, san pa-ni-KÉ.",
+      "category": "Confidence",
+      "generated_at": "2026-11-22T13:03:56.356809"
+    },
+    {
+      "english": "My calm voice is my power",
+      "french": "Ma voix calme, c est ma force.",
+      "transliteration": "Ma voix calme, c est ma FORCE.",
+      "category": "Confidence",
+      "generated_at": "2026-11-22T13:03:56.356809"
+    },
+    {
+      "english": "I trust my timing today",
+      "french": "Je fais confiance à mon timing aujourd hui.",
+      "transliteration": "Je fais conFI-anse à mon TIM-ing au-jourD HUI.",
+      "category": "Confidence",
+      "generated_at": "2026-11-22T13:03:56.356809"
+    },
+    {
+      "english": "Ask, listen, then speak confidently",
+      "french": "Je demande, j écoute, puis je parle avec assurance.",
+      "transliteration": "Je de-MAN-de, j é-COU-te, puis je par-le a-vec a-SU-rance.",
+      "category": "Confidence",
+      "generated_at": "2026-11-22T13:03:56.356809"
+    },
+    {
+      "english": "I choose progress over proving",
+      "french": "Je choisis le progrès plutôt que de prouver.",
+      "transliteration": "Je choi-SIS le pro-GRÈS plu-TÔT que de prou-ver.",
+      "category": "Confidence",
+      "generated_at": "2026-11-22T13:03:56.356809"
+    },
+    {
+      "english": "My mistakes teach me, fast",
+      "french": "Mes erreurs m apprennent, et vite.",
+      "transliteration": "Mes é-REUR m ap-pren-NENT, et VI-te.",
+      "category": "Confidence",
+      "generated_at": "2026-11-22T13:03:56.356809"
+    },
+    {
+      "english": "I belong here, right now",
+      "french": "J ai ma place ici, maintenant.",
+      "transliteration": "J ai ma place i-ci, maIN-tenant.",
+      "category": "Confidence",
+      "generated_at": "2026-11-22T13:03:56.356809"
+    },
+    {
+      "english": "I’m proud I kept my word",
+      "french": "Je suis fier d avoir tenu ma parole.",
+      "transliteration": "Je suis FIER d aVOIR teNU ma PAROLE.",
+      "category": "Success",
+      "generated_at": "2026-11-22T13:03:56.356809"
+    },
+    {
+      "english": "My confidence is growing every week",
+      "french": "Ma confiance grandit chaque semaine, doucement mais sûrement.",
+      "transliteration": "Ma CONFiance GRANdit CHAque seMAINE, douceMENT mais SÛR.",
+      "category": "Success",
+      "generated_at": "2026-11-22T13:03:56.356809"
+    },
+    {
+      "english": "I handled it, even under pressure",
+      "french": "J ai géré la situation, même sous pression.",
+      "transliteration": "J AI geRÉ la SItuation, mêME SOUS PRESsion.",
+      "category": "Success",
+      "generated_at": "2026-11-22T13:03:56.356809"
+    },
+    {
+      "english": "I celebrate effort, not just results",
+      "french": "Je célèbre les efforts, pas seulement les résultats.",
+      "transliteration": "Je céLÈBRE les EFforts, pas seuLÈment les RÉSultats.",
+      "category": "Success",
+      "generated_at": "2026-11-22T13:03:56.356809"
+    },
+    {
+      "english": "Small routines are building my success",
+      "french": "Mes petites routines construisent mon succès, jour après jour.",
+      "transliteration": "Mes peTItes rouTIneS CONstruiSent mon SÛCCÈS, jour aPRÈS jour.",
+      "category": "Success",
+      "generated_at": "2026-11-22T13:03:56.356809"
+    },
+    {
+      "english": "I’m learning to finish what I start",
+      "french": "J apprends à terminer ce que je commence.",
+      "transliteration": "J aPPRÈNDS à TERmiNER ce que je COMmence.",
+      "category": "Success",
+      "generated_at": "2026-11-22T13:03:56.356809"
+    },
+    {
+      "english": "I trusted my plan and moved forward",
+      "french": "J ai cru en mon plan, puis j ai avancé.",
+      "transliteration": "J ai CRU en mon plan, puis j ai aVANCÉ.",
+      "category": "Success",
+      "generated_at": "2026-11-22T13:03:56.356809"
     }
   ],
-  "last_updated": "2026-11-21T13:15:07.475969"
+  "last_updated": "2026-11-22T13:03:56.356809"
 }
