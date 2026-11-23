@@ -26203,7 +26203,399 @@
       "transliteration": "J ai CRU en mon plan, puis j ai aVANCÉ.",
       "category": "Success",
       "generated_at": "2026-11-22T13:03:56.356809"
+    },
+    {
+      "english": "I slow down to reset.",
+      "french": "Je ralentis pour me remettre d'aplomb.",
+      "transliteration": "zhuh rah-LAN-neh pohr muh re-met-tr ez-DAPLÔM",
+      "category": "Balance",
+      "generated_at": "2026-11-23T15:41:58.863890"
+    },
+    {
+      "english": "I breathe, then choose my next step.",
+      "french": "Je respire, puis je choisis mon prochain pas.",
+      "transliteration": "zhuh ruh-SPIR, pweezh zhuh SHWA-zee mon pro-SHEN pah",
+      "category": "Balance",
+      "generated_at": "2026-11-23T15:41:58.863890"
+    },
+    {
+      "english": "My pace matches my capacity today.",
+      "french": "Mon rythme suit ma capacité du jour.",
+      "transliteration": "mon RYTM swit mah kah-pah-SEE-du zhoor",
+      "category": "Balance",
+      "generated_at": "2026-11-23T15:41:58.863890"
+    },
+    {
+      "english": "I stop overthinking and feel my body.",
+      "french": "J'arrête de trop réfléchir, et j'écoute mon corps.",
+      "transliteration": "zhar-RET duh troh reh-FLEH-sheer, eh zhon-TEWK mohn kor",
+      "category": "Balance",
+      "generated_at": "2026-11-23T15:41:58.863890"
+    },
+    {
+      "english": "I balance effort and ease.",
+      "french": "Je cherche un équilibre entre effort et légèreté.",
+      "transliteration": "zhuh SHERSH un ek-lee-bre AHN-tr effor eh leh-zheh-reh-teh",
+      "category": "Balance",
+      "generated_at": "2026-11-23T15:41:58.863890"
+    },
+    {
+      "english": "I let tension drop from my shoulders.",
+      "french": "Je laisse la tension tomber de mes épaules.",
+      "transliteration": "zhuh lehhs la ten-syohn tom-bay duh meh eh-pohls",
+      "category": "Balance",
+      "generated_at": "2026-11-23T15:41:58.863890"
+    },
+    {
+      "english": "I give myself permission to pause.",
+      "french": "Je m'autorise à faire une pause.",
+      "transliteration": "zhuh mah-tohr-eez ah fair une pahz",
+      "category": "Balance",
+      "generated_at": "2026-11-23T15:41:58.863890"
+    },
+    {
+      "english": "Where should I start today?",
+      "french": "Par quoi je commence aujourd’hui, à ton avis ?",
+      "transliteration": "Par kWOI zhuh komMSANSh au zhordHWEE, ah ton aVIS",
+      "category": "Work & Office",
+      "generated_at": "2026-11-23T15:41:58.863890"
+    },
+    {
+      "english": "I’ll update the file in an hour.",
+      "french": "Je mets le document à jour dans une heure.",
+      "transliteration": "Zhuh met luh doo-kuh-MON ah zhoor dahns een uhR",
+      "category": "Work & Office",
+      "generated_at": "2026-11-23T15:41:58.863890"
+    },
+    {
+      "english": "What’s the priority for this task?",
+      "french": "Quelle est la priorité pour cette tâche ?",
+      "transliteration": "Kel est la prehORite pour set tACH",
+      "category": "Work & Office",
+      "generated_at": "2026-11-23T15:41:58.863890"
+    },
+    {
+      "english": "Let’s keep this moving, please.",
+      "french": "On garde le rythme, s’il te plaît, sans trop traîner.",
+      "transliteration": "On gard luh rYTm, seel te pleh, san trop trein-ay",
+      "category": "Work & Office",
+      "generated_at": "2026-11-23T15:41:58.863890"
+    },
+    {
+      "english": "I’m available for a quick sync.",
+      "french": "Je suis dispo pour une petite synchro, là maintenant.",
+      "transliteration": "Zhuh swee dehZPOO pour un pe-TEET synKRO, lah nahn-teNANT",
+      "category": "Work & Office",
+      "generated_at": "2026-11-23T15:41:58.863890"
+    },
+    {
+      "english": "Can we get feedback on this draft?",
+      "french": "Tu peux me donner ton avis sur ce brouillon ?",
+      "transliteration": "Tyoo peuh mAHNAY ton aVIS sur suh broo-yoN",
+      "category": "Work & Office",
+      "generated_at": "2026-11-23T15:41:58.863890"
+    },
+    {
+      "english": "I need the latest numbers, ASAP.",
+      "french": "J’ai besoin des derniers chiffres, au plus vite.",
+      "transliteration": "Zhay buh-zwan deh deRnye syF, oh ploo VEE-t",
+      "category": "Work & Office",
+      "generated_at": "2026-11-23T15:41:58.863890"
+    },
+    {
+      "english": "Send one email, then pause.",
+      "french": "Envoie juste un email, puis respire.",
+      "transliteration": "anvoie just un emaïl, puis res-pi-re",
+      "category": "Inspiration",
+      "generated_at": "2026-11-23T15:41:58.863890"
+    },
+    {
+      "english": "Open a blank page, trust it.",
+      "french": "Ouvre une page blanche, fais-lui confiance.",
+      "transliteration": "ouvre une paj blan- che, fais-lui kon-fians",
+      "category": "Inspiration",
+      "generated_at": "2026-11-23T15:41:58.863890"
+    },
+    {
+      "english": "Let a walk clear your mind.",
+      "french": "Fais une marche, laisse ton esprit se clarifier.",
+      "transliteration": "fèz une mar-ch, lèss ton es-pri se kla-ri-fié",
+      "category": "Inspiration",
+      "generated_at": "2026-11-23T15:41:58.863890"
+    },
+    {
+      "english": "Watch sunsets, they recharge you.",
+      "french": "Regarde le coucher du soleil, ça te recharge.",
+      "transliteration": "re-gard le kou- she du so-leil, sa te re- charj",
+      "category": "Inspiration",
+      "generated_at": "2026-11-23T15:41:58.863890"
+    },
+    {
+      "english": "Ask why, then act on it.",
+      "french": "Demande-toi pourquoi, puis agis.",
+      "transliteration": "de-man-de-toi pour-koi, puis a-jis",
+      "category": "Inspiration",
+      "generated_at": "2026-11-23T15:41:58.863890"
+    },
+    {
+      "english": "Save scraps of ideas for later.",
+      "french": "Garde des bribes d’idées pour plus tard.",
+      "transliteration": "gar-dé de bri-bes di-dé pour plu tar",
+      "category": "Inspiration",
+      "generated_at": "2026-11-23T15:41:58.863890"
+    },
+    {
+      "english": "Change one small detail today.",
+      "french": "Change juste un petit détail aujourd’hui.",
+      "transliteration": "chanj jus-te un pe-ti dé-teil au-jour-d hui",
+      "category": "Inspiration",
+      "generated_at": "2026-11-23T15:41:58.863890"
+    },
+    {
+      "english": "Your goal, simple and real",
+      "french": "Ton objectif, simple et concret",
+      "transliteration": "ton O BJEC tif sim ple et con CRET",
+      "category": "Purpose",
+      "generated_at": "2026-11-23T15:41:58.863890"
+    },
+    {
+      "english": "What outcome do you want by Friday?",
+      "french": "Quel résultat veux-tu avoir d’ici vendredi ?",
+      "transliteration": "Quel RÉ SUl tat veux-tu a VOIR d’i ci ven dRE di",
+      "category": "Purpose",
+      "generated_at": "2026-11-23T15:41:58.863890"
+    },
+    {
+      "english": "Make it measurable, then move",
+      "french": "Rends-le mesurable, puis avance",
+      "transliteration": "rends-le me SU ra ble, puis a VAN ce",
+      "category": "Purpose",
+      "generated_at": "2026-11-23T15:41:58.863890"
+    },
+    {
+      "english": "Choose progress over perfect",
+      "french": "Choisis les progrès plutôt que la perfection",
+      "transliteration": "choisis les pro GRÈS plû tôt que la per fec TION",
+      "category": "Purpose",
+      "generated_at": "2026-11-23T15:41:58.863890"
+    },
+    {
+      "english": "Set one clear target today",
+      "french": "Fixe un seul objectif clair aujourd’hui",
+      "transliteration": "FIXe un SEUL ob JEC tif clair au jourd’hui",
+      "category": "Purpose",
+      "generated_at": "2026-11-23T15:41:58.863890"
+    },
+    {
+      "english": "Turn your intention into action",
+      "french": "Transforme ton intention en action",
+      "transliteration": "trans FORME ton in TEN tion an ak SYON",
+      "category": "Purpose",
+      "generated_at": "2026-11-23T15:41:58.863890"
+    },
+    {
+      "english": "What does success look like today?",
+      "french": "À quoi ressemble le succès, aujourd’hui ?",
+      "transliteration": "a quoi res SEMble le SUC cès, au jourd’hui",
+      "category": "Purpose",
+      "generated_at": "2026-11-23T15:41:58.863890"
+    },
+    {
+      "english": "Tell me what this ceremony means.",
+      "french": "Dis-moi ce que signifie cette cérémonie, s’il te plaît.",
+      "transliteration": "Di-moi ce que siGNI fie seTTE sé mon, seel te ple.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-23T15:41:58.863890"
+    },
+    {
+      "english": "I love the way families gather.",
+      "french": "J’adore la façon dont les familles se rassemblent.",
+      "transliteration": "ZaDORE la faÇON dont le faMILL se ramBLAnt.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-23T15:41:58.863890"
+    },
+    {
+      "english": "Do you dress traditionally for this?",
+      "french": "Tu t’habilles de façon traditionnelle pour ça ?",
+      "transliteration": "Tu taBIy de faSÓN traDI si on nel pouR sa.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-23T15:41:58.863890"
+    },
+    {
+      "english": "Handshakes are different here, isn’t it?",
+      "french": "Ici, les salutations changent selon les gens, non ?",
+      "transliteration": "I si, le sa lu ta sjo change selon le jÏ, non.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-23T15:41:58.863890"
+    },
+    {
+      "english": "Let’s watch the procession together.",
+      "french": "On regarde la procession ensemble, d’accord ?",
+      "transliteration": "On re GARd la pro seSJÕ an sanBLe, dar KÖR.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-23T15:41:58.863890"
+    },
+    {
+      "english": "What do they do before singing?",
+      "french": "Que font-ils avant de chanter, exactement ?",
+      "transliteration": "Ke fon til aVAN de chan te, ekzak t'man.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-23T15:41:58.863890"
+    },
+    {
+      "english": "I’ll try the blessing words with you.",
+      "french": "Je vais essayer de dire la bénédiction avec vous.",
+      "transliteration": "Je VÉ e tesSAY er de diR la bé ne dik sjõ avEk vou.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-23T15:41:58.863890"
+    },
+    {
+      "english": "I slow down, and breathe",
+      "french": "Je ralentis, et je respire.",
+      "transliteration": "Je re-lan-sis, et je res-pi-re.",
+      "category": "Happiness",
+      "generated_at": "2026-11-23T15:41:58.863890"
+    },
+    {
+      "english": "Gratitude comes in small everyday moments",
+      "french": "La gratitude arrive dans les petites choses du quotidien.",
+      "transliteration": "La gra-ti-tude ar-ri-ve dans les pe-ti-tes cho-ses du quo-ti-dien.",
+      "category": "Happiness",
+      "generated_at": "2026-11-23T15:41:58.863890"
+    },
+    {
+      "english": "I choose curiosity over judgment",
+      "french": "Je choisis la curiosité plutôt que le jugement.",
+      "transliteration": "Je choi-sis la cu-ri-o-si-té plu-tôt que le ju-ge-ment.",
+      "category": "Happiness",
+      "generated_at": "2026-11-23T15:41:58.863890"
+    },
+    {
+      "english": "My laughter breaks the heavy mood",
+      "french": "Mon rire casse la lourdeur.",
+      "transliteration": "Mon ri-re cas-se la lour-deur.",
+      "category": "Happiness",
+      "generated_at": "2026-11-23T15:41:58.863890"
+    },
+    {
+      "english": "I forgive myself, and move forward",
+      "french": "Je me pardonne, et j’avance.",
+      "transliteration": "Je me par-don-ne, et j’a-vance.",
+      "category": "Happiness",
+      "generated_at": "2026-11-23T15:41:58.863890"
+    },
+    {
+      "english": "I let good news land in me",
+      "french": "Je laisse la bonne nouvelle me toucher.",
+      "transliteration": "Je lais-se la bon-ne nou-vel-le me tou-cher.",
+      "category": "Happiness",
+      "generated_at": "2026-11-23T15:41:58.863890"
+    },
+    {
+      "english": "I talk to my future self kindly",
+      "french": "Je parle à mon futur moi avec gentillesse.",
+      "transliteration": "Je par-le à mon fu-tur moi a-vec gen-til-les-se.",
+      "category": "Happiness",
+      "generated_at": "2026-11-23T15:41:58.863890"
+    },
+    {
+      "english": "I save time for reading",
+      "french": "Je garde du temps pour lire.",
+      "transliteration": "Zhuh garde duh tahn purr leeur",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-23T15:41:58.863890"
+    },
+    {
+      "english": "I do crosswords on weekends",
+      "french": "Je fais des mots croisés le week-end.",
+      "transliteration": "Zhuh feh deh moh kroy-zay luh week-end",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-23T15:41:58.863890"
+    },
+    {
+      "english": "I go for a bike ride",
+      "french": "Je pars faire un tour à vélo, tranquille.",
+      "transliteration": "Zhuh par fair un tour ah VEH-loh, treen-KEE",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-23T15:41:58.863890"
+    },
+    {
+      "english": "I cook a comfort meal today",
+      "french": "Ce soir, je cuisine un plat réconfortant.",
+      "transliteration": "Suh swar, zhuh kwee-zin un plah ray-kon-for-tahn",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-23T15:41:58.863890"
+    },
+    {
+      "english": "I play music while I clean",
+      "french": "J’écoute de la musique pendant que je range.",
+      "transliteration": "zheh-kooht duh lah MOO-zik pahn-dahn kuh zhuh rahng",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-23T15:41:58.863890"
+    },
+    {
+      "english": "I call a friend and chat",
+      "french": "Je passe un coup de fil à un ami, juste pour rire.",
+      "transliteration": "Zhuh pas un koop duh feel ah un ah-mee, zhyst for reeer",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-23T15:41:58.863890"
+    },
+    {
+      "english": "I try painting, even messy",
+      "french": "Je m’y mets à la peinture, sans viser parfait.",
+      "transliteration": "Zhuh meeteh ah lah payn-tyuhr, sans veez-ay par-fay",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-23T15:41:58.863890"
+    },
+    {
+      "english": "Hold on, better days are brewing.",
+      "french": "Accroche-toi, de meilleurs jours arrivent.",
+      "transliteration": "Ah KRO-che-toi, de meuh-ill-eurs jours ar-REEV.",
+      "category": "Hope",
+      "generated_at": "2026-11-23T15:41:58.863890"
+    },
+    {
+      "english": "Hope is a choice, right now.",
+      "french": "L’espoir est un choix, maintenant.",
+      "transliteration": "L’ES-poir eh un shwohs, maIN-ten-ant.",
+      "category": "Hope",
+      "generated_at": "2026-11-23T15:41:58.863890"
+    },
+    {
+      "english": "I’ll take one brave step forward.",
+      "french": "Je vais faire un pas courageux, en avant.",
+      "transliteration": "Zhuh vay fair un pahs KOU-ra-juh, an ah-VAN.",
+      "category": "Hope",
+      "generated_at": "2026-11-23T15:41:58.863890"
+    },
+    {
+      "english": "When fear hits, I choose hope.",
+      "french": "Quand la peur arrive, je choisis l’espoir.",
+      "transliteration": "KOHN dahl P EUH a-REEV, zhuh shwah-ziss l’ES-poir.",
+      "category": "Hope",
+      "generated_at": "2026-11-23T15:41:58.863890"
+    },
+    {
+      "english": "Even silence can feel hopeful.",
+      "french": "Même le silence peut sembler plein d’espoir.",
+      "transliteration": "MEHM luh si-lans puh saym-bleh plin dehs-POIR.",
+      "category": "Hope",
+      "generated_at": "2026-11-23T15:41:58.863890"
+    },
+    {
+      "english": "I’m not there yet, but I’m coming.",
+      "french": "Je n’y suis pas encore, mais j’y vais.",
+      "transliteration": "Zhuh ny swee pah ahn-kor, may zhy vay.",
+      "category": "Hope",
+      "generated_at": "2026-11-23T15:41:58.863890"
+    },
+    {
+      "english": "Let your heart keep listening for light.",
+      "french": "Laisse ton cœur écouter la lumière.",
+      "transliteration": "LESS se ton k eur ekOUT-ay la LY-mee-ur.",
+      "category": "Hope",
+      "generated_at": "2026-11-23T15:41:58.863890"
     }
   ],
-  "last_updated": "2026-11-22T13:03:56.356809"
+  "last_updated": "2026-11-23T15:41:58.863890"
 }
