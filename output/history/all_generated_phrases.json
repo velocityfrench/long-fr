@@ -26987,7 +26987,399 @@
       "transliteration": "zhuh rem-ark, zhuh nuh pour-soo-eeen",
       "category": "Mindfulness",
       "generated_at": "2026-11-24T15:31:52.649993"
+    },
+    {
+      "english": "I can do this calmly, one step.",
+      "french": "Je peux y arriver calmement, une étape.",
+      "transliteration": "Je peUX y aRriVer calMEment, uNE eTAPE.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-25T15:18:37.088355"
+    },
+    {
+      "english": "Which documents should I keep handy?",
+      "french": "Quels documents dois-je garder sous la main ?",
+      "transliteration": "Quels doCuMents dois-je GARder sous la main ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-25T15:18:37.088355"
+    },
+    {
+      "english": "Where is the ATM or cash machine?",
+      "french": "Où se trouve le distributeur de billets ?",
+      "transliteration": "OÙ se trouVE le disTRIbuTEur de BILlets ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-25T15:18:37.088355"
+    },
+    {
+      "english": "Is there a quieter area to sit?",
+      "french": "Y a-t-il un endroit plus calme pour s’asseoir ?",
+      "transliteration": "Y a-t-IL un enDROit plus calME pour s’ASseoir ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-25T15:18:37.088355"
+    },
+    {
+      "english": "My suitcase won’t open, can you check?",
+      "french": "Ma valise ne s’ouvre pas, vous pouvez regarder ?",
+      "transliteration": "Ma vaLISE ne s’ouVRE pas, vous pouVez reGARder ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-25T15:18:37.088355"
+    },
+    {
+      "english": "How long is boarding usually from now?",
+      "french": "En général, l’embarquement commence quand ?",
+      "transliteration": "En GÉNÉral, l’emBARqueMENT comMEnce quand ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-25T15:18:37.088355"
+    },
+    {
+      "english": "Can you show me where to go?",
+      "french": "Vous pouvez me montrer où aller ?",
+      "transliteration": "Vous pouVez me MONtrer où alER ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-25T15:18:37.088355"
+    },
+    {
+      "english": "I keep my promises, even tiny.",
+      "french": "Je tiens mes promesses, même toutes petites.",
+      "transliteration": "Je tiens mes PROMesses, même toutes petites.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-25T15:18:37.088355"
+    },
+    {
+      "english": "I breathe, then choose the next task.",
+      "french": "Je respire, puis je choisis la prochaine tâche.",
+      "transliteration": "Je RESpire, puis je choisis la proCHAINE tâche.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-25T15:18:37.088355"
+    },
+    {
+      "english": "Mistakes happen, I adjust and go.",
+      "french": "Les erreurs arrivent, je m’ajuste et j’avance.",
+      "transliteration": "Les erREURS arriVENT, je m’ajusTE et j’AVance.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-25T15:18:37.088355"
+    },
+    {
+      "english": "Small progress counts today, not someday.",
+      "french": "Le petit progrès compte aujourd’hui, pas demain.",
+      "transliteration": "Le petit proGRES compte auJOURd’hui, pas deMAIN.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-25T15:18:37.088355"
+    },
+    {
+      "english": "I can be frustrated and still work.",
+      "french": "Je peux être frustré, et quand même travailler.",
+      "transliteration": "Je peux être frusTRÉ, et quand même traVAIller.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-25T15:18:37.088355"
+    },
+    {
+      "english": "When I quit, I start over.",
+      "french": "Quand j’ai envie d’arrêter, je recommence.",
+      "transliteration": "Quand j’ai enVIe d’ARrêter, je reCOMmence.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-25T15:18:37.088355"
+    },
+    {
+      "english": "I do it scared, then it eases.",
+      "french": "Je le fais quand j’ai peur, puis ça se calme.",
+      "transliteration": "Je le FAI quand j’ai PEUR, puis ça se CALME.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-25T15:18:37.088355"
+    },
+    {
+      "english": "Is there free Wi‑Fi in the room?",
+      "french": "Le Wi‑Fi est gratuit dans la chambre ?",
+      "transliteration": "Le WI-fi eST graTUIT dans la SHAM-bre ?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-25T15:18:37.088355"
+    },
+    {
+      "english": "Where can I grab coffee in the morning?",
+      "french": "Où puis-je prendre un café le matin ?",
+      "transliteration": "Ou peUI-je PREN-dre un ka-FE le ma-TIN ?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-25T15:18:37.088355"
+    },
+    {
+      "english": "I’d love a quiet room, away from stairs.",
+      "french": "Je voudrais une chambre calme, loin des escaliers.",
+      "transliteration": "Je vouDRAIS une SHAM-bre KA-lm, loin des es-kal-YE",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-25T15:18:37.088355"
+    },
+    {
+      "english": "Do you offer airport shuttle service?",
+      "french": "Vous avez un service de navette pour l’aéroport ?",
+      "transliteration": "Vous aVez un ser-VIS de naVET-te pour la-er-POHR ?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-25T15:18:37.088355"
+    },
+    {
+      "english": "Is breakfast vegetarian friendly?",
+      "french": "Le petit-déjeuner est adapté aux végétariens ?",
+      "transliteration": "Le p’tit- deJU-neh eST aDAP-té oX ve-je-taRians ?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-25T15:18:37.088355"
+    },
+    {
+      "english": "Could I have an extra towel, please?",
+      "french": "Je peux avoir une serviette en plus, s’il vous plaît ?",
+      "transliteration": "Je peUX a-VOIR une ser-vyeT en plus, sil vous plait ?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-25T15:18:37.088355"
+    },
+    {
+      "english": "The room smells fresh, thank you.",
+      "french": "La chambre sent bon, merci.",
+      "transliteration": "La SHAM-bre sant BON, MER-si",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-25T15:18:37.088355"
+    },
+    {
+      "english": "I saved you a seat, okay?",
+      "french": "Je t'ai gardé une place, d'accord ?",
+      "transliteration": "je TA-gé une PLAS, dar-KORD ?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-25T15:18:37.088355"
+    },
+    {
+      "english": "Where should we park our car?",
+      "french": "Où garer la voiture, s'il te plaît ?",
+      "transliteration": "OU ga-RÉ la VWA-tur, s'il te plait ?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-25T15:18:37.088355"
+    },
+    {
+      "english": "Could we make a quick entrance?",
+      "french": "On peut faire une petite entrée ?",
+      "transliteration": "on pe pour-FAY une pe-TIT enTREE ?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-25T15:18:37.088355"
+    },
+    {
+      "english": "The vibe is amazing tonight, wow.",
+      "french": "L'ambiance est incroyable ce soir, wow.",
+      "transliteration": "lan-BI-ans est in-CROY-a-ble sə SWAR, woua.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-25T15:18:37.088355"
+    },
+    {
+      "english": "Do you want me to bring ice?",
+      "french": "Tu veux que j'apporte de la glace ?",
+      "transliteration": "tu VEUX ke ja-POR-tə de la glas ?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-25T15:18:37.088355"
+    },
+    {
+      "english": "I made a playlist for the party.",
+      "french": "J'ai fait une playlist spéciale pour la fête.",
+      "transliteration": "jai FET une play-LIST spé-CIALE pour la fɛt.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-25T15:18:37.088355"
+    },
+    {
+      "english": "Can I help with the playlist?",
+      "french": "Je peux t'aider pour la playlist ?",
+      "transliteration": "je PEUX taider pur la play-LIST ?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-25T15:18:37.088355"
+    },
+    {
+      "english": "I return to my breath, softly.",
+      "french": "Je reviens à ma respiration, doucement.",
+      "transliteration": "je reviens a ma RESPIRaTION, DOUCEment.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-25T15:18:37.088355"
+    },
+    {
+      "english": "Let your mind unclutter itself today.",
+      "french": "Laisse ton esprit se désencombrer aujourd’hui.",
+      "transliteration": "laisse ton esprit se DESENCOMBRER aujourd’hui.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-25T15:18:37.088355"
+    },
+    {
+      "english": "Inhale courage, exhale pressure.",
+      "french": "Inspire le courage, expire la pression.",
+      "transliteration": "inSPIre le COURage, exPIRE la PRESSION.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-25T15:18:37.088355"
+    },
+    {
+      "english": "I don’t chase, I center myself.",
+      "french": "Je ne poursuis pas, je me recentre.",
+      "transliteration": "je ne pourSUIS pas, je me RECenTRE.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-25T15:18:37.088355"
+    },
+    {
+      "english": "Choose a kinder inner voice now.",
+      "french": "Choisis une voix intérieure plus gentille, maintenant.",
+      "transliteration": "choisis une voix inteRIEure plus GENtille, MAINTenant.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-25T15:18:37.088355"
+    },
+    {
+      "english": "I can be okay with uncertainty.",
+      "french": "Je peux être en paix avec l’incertitude.",
+      "transliteration": "je peux etre en PAIX avec l’inCERtitude.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-25T15:18:37.088355"
+    },
+    {
+      "english": "My pace is allowed to be slower.",
+      "french": "Mon rythme a le droit d’être plus lent.",
+      "transliteration": "mon RYTHme a le DROIT d’ETRE plus LENT.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-25T15:18:37.088355"
+    },
+    {
+      "english": "Courage is doing it while nervous",
+      "french": "Le courage, c est le faire quand on est nerveux",
+      "transliteration": "Le COUR-age, c est le FAI-re quand on est NE-veUX",
+      "category": "Courage",
+      "generated_at": "2026-11-25T15:18:37.088355"
+    },
+    {
+      "english": "Say what you mean, calmly",
+      "french": "Dis ce que tu veux dire, calmement",
+      "transliteration": "Dis ce que tu VEUx diRe, calMEment",
+      "category": "Courage",
+      "generated_at": "2026-11-25T15:18:37.088355"
+    },
+    {
+      "english": "Take the risk, then adjust",
+      "french": "Prends le risque, puis ajuste",
+      "transliteration": "Prends le RISque, puis AJus-te",
+      "category": "Courage",
+      "generated_at": "2026-11-25T15:18:37.088355"
+    },
+    {
+      "english": "You can back up, not quit",
+      "french": "Tu peux reculer, mais pas abandonner",
+      "transliteration": "Tu peux re-CU-ler, mais pas a-bAN-don-ner",
+      "category": "Courage",
+      "generated_at": "2026-11-25T15:18:37.088355"
+    },
+    {
+      "english": "Let fear ride in the car",
+      "french": "Laisse la peur voyager avec toi",
+      "transliteration": "Laisse la PEUR voya-ger aVEC toi",
+      "category": "Courage",
+      "generated_at": "2026-11-25T15:18:37.088355"
+    },
+    {
+      "english": "Ask for clarity, not perfection",
+      "french": "Demande des explications, pas la perfection",
+      "transliteration": "De-MANde des ex-pli-ca-tions, pas la per-FEC-tion",
+      "category": "Courage",
+      "generated_at": "2026-11-25T15:18:37.088355"
+    },
+    {
+      "english": "Choose honesty when it costs something",
+      "french": "Choisis la vérité, même si ça coûte",
+      "transliteration": "CHOi-sis la véri-té, mê-me si ça KOUte",
+      "category": "Courage",
+      "generated_at": "2026-11-25T15:18:37.088355"
+    },
+    {
+      "english": "I celebrate small wins all day",
+      "french": "Je célèbre mes petites victoires tout au long de la journée.",
+      "transliteration": "Je céLÈbre mes peTItes vicTOIres tout au long de la JOURnée.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-25T15:18:37.088355"
+    },
+    {
+      "english": "My mind is my safe place",
+      "french": "Mon esprit devient mon refuge, quand ça déborde.",
+      "transliteration": "Mon ESprit deVient mon reFUGE, quand ça déBORde.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-25T15:18:37.088355"
+    },
+    {
+      "english": "Let gratitude change how I see",
+      "french": "La gratitude change ma façon de voir.",
+      "transliteration": "La graTItude change ma faÇON de VOIR.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-25T15:18:37.088355"
+    },
+    {
+      "english": "Move my body, feel better",
+      "french": "Bouge mon corps, et mon humeur suit.",
+      "transliteration": "BOuge mon CORPS, et mon HUmeur SUIt.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-25T15:18:37.088355"
+    },
+    {
+      "english": "Speak gently to my future self",
+      "french": "Je parle doucement à mon futur moi.",
+      "transliteration": "Je PARle douCEment à mon FUtur moi.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-25T15:18:37.088355"
+    },
+    {
+      "english": "I can restart, any time",
+      "french": "Je peux recommencer, à tout moment.",
+      "transliteration": "Je peux reCOMmencer, à TOUT moMENT.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-25T15:18:37.088355"
+    },
+    {
+      "english": "Today I pick peace, on purpose",
+      "french": "Aujourd'hui, je choisis la paix, exprès.",
+      "transliteration": "aujourdhui, je CHOisis la PAIX, exPRÈS.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-25T15:18:37.088355"
+    },
+    {
+      "english": "Excuse me, where is the train station?",
+      "french": "Excusez-moi, où se trouve la gare ?",
+      "transliteration": "ex-KUZE-moi, OU se TROUV la GAR",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-25T15:18:37.088355"
+    },
+    {
+      "english": "How do I get to the airport?",
+      "french": "Par où je passe pour aller à l’aéroport ?",
+      "transliteration": "par OU je PAS pour alER a lAER-port",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-25T15:18:37.088355"
+    },
+    {
+      "english": "Is there a nearby taxi stand?",
+      "french": "Vous savez s’il y a un arrêt de taxi près d’ici ?",
+      "transliteration": "vu SAVe s’il y A un a-RET de tak-si pres de-SSI",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-25T15:18:37.088355"
+    },
+    {
+      "english": "Which way is the pharmacy, please?",
+      "french": "Dans quel sens est la pharmacie, s’il vous plaît ?",
+      "transliteration": "dans KEL sens e la far-ma-SI, sil vu plait",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-25T15:18:37.088355"
+    },
+    {
+      "english": "Can I walk there from here?",
+      "french": "Je peux y aller à pied depuis ici ?",
+      "transliteration": "je peks ee-alER a PED de-puis i-SSI",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-25T15:18:37.088355"
+    },
+    {
+      "english": "Is it faster by metro?",
+      "french": "C’est plus rapide en métro, ou non ?",
+      "transliteration": "se pli rap-id an ME-tro, OU non",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-25T15:18:37.088355"
+    },
+    {
+      "english": "Do I need tickets for the bus?",
+      "french": "Il faut un ticket pour le bus, s’il vous plaît ?",
+      "transliteration": "il FOT un Tik-et pour le bus, sil vu plait",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-25T15:18:37.088355"
     }
   ],
-  "last_updated": "2026-11-24T15:31:52.649993"
+  "last_updated": "2026-11-25T15:18:37.088355"
 }
