@@ -27379,7 +27379,399 @@
       "transliteration": "il FOT un Tik-et pour le bus, sil vu plait",
       "category": "Asking for Directions",
       "generated_at": "2026-11-25T15:18:37.088355"
+    },
+    {
+      "english": "Do you have fresh baguettes right now?",
+      "french": "Vous avez des baguettes fraîches, là maintenant ?",
+      "transliteration": "VOO-zay day BAH-gyet fraish, lah nahn-tenant ?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-26T14:43:17.990093"
+    },
+    {
+      "english": "Can I get a double espresso?",
+      "french": "Je peux avoir un double espresso, s il vous plaît ?",
+      "transliteration": "zhuh POO-zay ah-vwahr un DOOB-l ehs-PRESS-oh, seel voo playt ?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-26T14:43:17.990093"
+    },
+    {
+      "english": "Is there a vegan pastry today?",
+      "french": "Il y a une pâtisserie vegan aujourd hui ?",
+      "transliteration": "eel yah oon pair-tees-ree VAY-gan oh-zhoor doo-ee ?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-26T14:43:17.990093"
+    },
+    {
+      "english": "What are your best-selling cakes?",
+      "french": "Quels gâteaux vous vendez le plus ici ?",
+      "transliteration": "KELL gah-toh voo VON-day luh pluu ees-ee ?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-26T14:43:17.990093"
+    },
+    {
+      "english": "Do you have a cinnamon roll?",
+      "french": "Vous avez une brioche à la cannelle ?",
+      "transliteration": "voo zah-vay oon bree-osh ah lah kah-nehl ?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-26T14:43:17.990093"
+    },
+    {
+      "english": "Can I order at the counter?",
+      "french": "Je commande au comptoir, c est bien ici ?",
+      "transliteration": "zhuh kom-ahnnd ah ohn kom-pwahr, say byen ee-see ?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-26T14:43:17.990093"
+    },
+    {
+      "english": "Do you warm the sandwich, please?",
+      "french": "Vous pouvez le faire réchauffer, s il vous plaît ?",
+      "transliteration": "voo poo-vay leh fair ray-shof-ay, seel voo playt ?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-26T14:43:17.990093"
+    },
+    {
+      "english": "I’m celebrating tiny wins today.",
+      "french": "Je célèbre mes petites victoires aujourd’hui.",
+      "transliteration": "zhuh selebre may pe-teet vik-toires oh-zhoor-dueey",
+      "category": "Joy",
+      "generated_at": "2026-11-26T14:43:17.990093"
+    },
+    {
+      "english": "Joy feels like a breath, now.",
+      "french": "La joie, c’est comme un souffle, là, maintenant.",
+      "transliteration": "la zhwah, say kom un suhf-le, la, nahn-tenan",
+      "category": "Joy",
+      "generated_at": "2026-11-26T14:43:17.990093"
+    },
+    {
+      "english": "I text back, and I feel lighter.",
+      "french": "Je réponds, et je me sens plus léger.",
+      "transliteration": "zhe ruh-pond, eh zhe muh sens ploo leh-zheh",
+      "category": "Joy",
+      "generated_at": "2026-11-26T14:43:17.990093"
+    },
+    {
+      "english": "I choose kindness over perfect answers.",
+      "french": "Je choisis la gentillesse plutôt que les réponses parfaites.",
+      "transliteration": "zhuh shwah-zee la zhan-tee-yehss pooh-r uh keh leuh ruh-ponss par-fay-t",
+      "category": "Joy",
+      "generated_at": "2026-11-26T14:43:17.990093"
+    },
+    {
+      "english": "Even silence can be joyful.",
+      "french": "Même le silence peut être joyeux.",
+      "transliteration": "meh-muh luh suh-leesz ah peuh-ehtr zhwa-yeuh",
+      "category": "Joy",
+      "generated_at": "2026-11-26T14:43:17.990093"
+    },
+    {
+      "english": "I’m proud of showing up today.",
+      "french": "Je suis fier ou fière de venir, aujourd’hui.",
+      "transliteration": "zhuh swee fee-air oo fee-air de vuh-neer, oh-zhoor-dueey",
+      "category": "Joy",
+      "generated_at": "2026-11-26T14:43:17.990093"
+    },
+    {
+      "english": "My heart learns best in laughter.",
+      "french": "Mon cœur apprend mieux quand on rit.",
+      "transliteration": "mon kœr ah-prann mayo kohn on reet",
+      "category": "Joy",
+      "generated_at": "2026-11-26T14:43:17.990093"
+    },
+    {
+      "english": "Which platform is for line C?",
+      "french": "Quelle voie prend la ligne C ?",
+      "transliteration": "KEL vo-yet prɛn la Liyne SE",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-26T14:43:17.990093"
+    },
+    {
+      "english": "Does this bus stop near my hotel?",
+      "french": "Ce bus s’arrête près de mon hôtel ?",
+      "transliteration": "Sɛ bus s arreht pres de mon otel",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-26T14:43:17.990093"
+    },
+    {
+      "english": "Where do I board, at the front?",
+      "french": "Je monte où, à l’avant ?",
+      "transliteration": "Je mont o, a l avon",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-26T14:43:17.990093"
+    },
+    {
+      "english": "Is there a ticket machine nearby?",
+      "french": "Il y a une machine à billets ici ?",
+      "transliteration": "Il ya yn machin a bi-ye ici",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-26T14:43:17.990093"
+    },
+    {
+      "english": "How often does the tram come?",
+      "french": "À quelle fréquence passe le tram ?",
+      "transliteration": "A kEL frɛ-kwans pas le tram",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-26T14:43:17.990093"
+    },
+    {
+      "english": "Can I buy a ticket at the stop?",
+      "french": "On peut acheter un billet ici, à l’arrêt ?",
+      "transliteration": "On pœ ay-chet un bi-ye ici, a la-ret",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-26T14:43:17.990093"
+    },
+    {
+      "english": "Do I need a ticket for transfer?",
+      "french": "Faut-il un nouveau billet pour correspondance ?",
+      "transliteration": "Fot-il yn nou-vo bi-ye pur kore-spon-dans",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-26T14:43:17.990093"
+    },
+    {
+      "english": "What date works best for you?",
+      "french": "Quelle date vous conviendrait le mieux ?",
+      "transliteration": "KEL date vou konvEindrait le mieU ?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-26T14:43:17.990093"
+    },
+    {
+      "english": "Let s decide the route first.",
+      "french": "On décide d abord l itinéraire.",
+      "transliteration": "On deside d-abord l itinE-rair.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-26T14:43:17.990093"
+    },
+    {
+      "english": "Can we set a firm deadline?",
+      "french": "On fixe une échéance bien précise ?",
+      "transliteration": "On fixe une E-CHÉ-ans bien prE-cise ?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-26T14:43:17.990093"
+    },
+    {
+      "english": "I need a quick budget estimate.",
+      "french": "J ai besoin d une estimation rapide du budget.",
+      "transliteration": "Ja by-zoin d une Es-ti-MA-sion ra-pide du BY-dget.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-26T14:43:17.990093"
+    },
+    {
+      "english": "Let s reserve seats on the spot.",
+      "french": "On peut réserver nos places tout de suite.",
+      "transliteration": "On peU re-ser-VÉ nou pla-s tout de suite.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-26T14:43:17.990093"
+    },
+    {
+      "english": "Do you prefer morning or afternoon?",
+      "french": "Vous préférez plutôt le matin ou l après-midi ?",
+      "transliteration": "Vou pre-fé-re pluto le ma-TIN ou l apres-mi-di ?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-26T14:43:17.990093"
+    },
+    {
+      "english": "Can we check availability together?",
+      "french": "On vérifie la disponibilité ensemble ?",
+      "transliteration": "On vé-ri-fie la dis-po-ni-bi-LI-té an-sembl ?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-26T14:43:17.990093"
+    },
+    {
+      "english": "You speak my language, not just words.",
+      "french": "Tu parles ma langue, pas juste des mots.",
+      "transliteration": "Tu PARLES ma LANGUE, pas JUSTE des MOTS.",
+      "category": "Friendship",
+      "generated_at": "2026-11-26T14:43:17.990093"
+    },
+    {
+      "english": "Thanks for being my safe space.",
+      "french": "Merci d être mon espace en sécurité.",
+      "transliteration": "MERCI d êTRE mon ESPACE en séCUrité.",
+      "category": "Friendship",
+      "generated_at": "2026-11-26T14:43:17.990093"
+    },
+    {
+      "english": "We don t compete, we lift each other.",
+      "french": "On ne se compare pas, on s aide.",
+      "transliteration": "On ne SE comPARE pas, on s AIde.",
+      "category": "Friendship",
+      "generated_at": "2026-11-26T14:43:17.990093"
+    },
+    {
+      "english": "You tell me the truth, gently.",
+      "french": "Tu me dis la vérité, tout doucement.",
+      "transliteration": "Tu me DIS la véRITé, tout douCEmENT.",
+      "category": "Friendship",
+      "generated_at": "2026-11-26T14:43:17.990093"
+    },
+    {
+      "english": "We make room for each other.",
+      "french": "On se fait de la place l un pour l autre.",
+      "transliteration": "On se Fait de la PLACE l un pour l auTRE.",
+      "category": "Friendship",
+      "generated_at": "2026-11-26T14:43:17.990093"
+    },
+    {
+      "english": "Your friendship feels like real presence.",
+      "french": "Ton amitié, c est une vraie présence.",
+      "transliteration": "Ton aMITIé, c EST une VRAI préSENce.",
+      "category": "Friendship",
+      "generated_at": "2026-11-26T14:43:17.990093"
+    },
+    {
+      "english": "When you call, I feel remembered.",
+      "french": "Quand tu appelles, je me sens rappelé.",
+      "transliteration": "Quand tu apPÈLES, je me sens RAPpelé.",
+      "category": "Friendship",
+      "generated_at": "2026-11-26T14:43:17.990093"
+    },
+    {
+      "english": "Pick one fear, face it today",
+      "french": "Choisis une peur, fais-lui face aujourd’hui.",
+      "transliteration": "SHOIZIS une PEUR, fais-lui FACE au-jour-DHUI.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-26T14:43:17.990093"
+    },
+    {
+      "english": "Make room for rest, too",
+      "french": "Fais de la place pour te reposer aussi.",
+      "transliteration": "FEIS de la PLAce pour te re-po-ser AUSSI.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-26T14:43:17.990093"
+    },
+    {
+      "english": "Talk to yourself like a friend",
+      "french": "Parle-toi comme à un ami.",
+      "transliteration": "PARL-TOI comME à un A-mi.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-26T14:43:17.990093"
+    },
+    {
+      "english": "Say no, protect your focus",
+      "french": "Dis non, protège ta concentration.",
+      "transliteration": "DIS non, PRO-tege ta kon-san-tra-SION.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-26T14:43:17.990093"
+    },
+    {
+      "english": "Ask, then do what’s in reach",
+      "french": "Demande-toi, puis fais ce qui est à portée.",
+      "transliteration": "de-MAN-de-toi, PUIS fais ce qui est à POR-tée.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-26T14:43:17.990093"
+    },
+    {
+      "english": "Upgrade your routines, not your mood",
+      "french": "Améliore tes routines, pas seulement ton humeur.",
+      "transliteration": "a-ME-li-ORe tes RO-ti-nes, pas seU-le-ment ton HUM-eur.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-26T14:43:17.990093"
+    },
+    {
+      "english": "Practice gratitude, even for small wins",
+      "french": "Pratique la gratitude, même pour les petites victoires.",
+      "transliteration": "PRA-ti-que la GRA-ti-tude, MEME pour les PE-ti tes vik-toi res.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-26T14:43:17.990093"
+    },
+    {
+      "english": "Thanks for noticing the little things",
+      "french": "Merci d'avoir remarqué les petites choses.",
+      "transliteration": "Merci d'avoir REMARqué les PETites choses.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-26T14:43:17.990093"
+    },
+    {
+      "english": "I really needed your encouragement",
+      "french": "Ton encouragement m'a vraiment aidé.",
+      "transliteration": "Ton enCOURagement m'a vraimen aIDé.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-26T14:43:17.990093"
+    },
+    {
+      "english": "Thank you for the calm support",
+      "french": "Merci pour ton soutien calme.",
+      "transliteration": "Merci pour ton souTIEN calme.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-26T14:43:17.990093"
+    },
+    {
+      "english": "You turned confusion into clarity",
+      "french": "Tu as transformé la confusion en clarté.",
+      "transliteration": "Tu as transFORmé la conFUsion en clarTÉ.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-26T14:43:17.990093"
+    },
+    {
+      "english": "Thanks for being so dependable",
+      "french": "Merci d'être si fiable.",
+      "transliteration": "Merci d'être si FIable.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-26T14:43:17.990093"
+    },
+    {
+      "english": "I’m grateful you checked on me",
+      "french": "Je te remercie d'être venu aux nouvelles.",
+      "transliteration": "Je te reMERcie d'être venu aux nouVelles.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-26T14:43:17.990093"
+    },
+    {
+      "english": "Thank you for covering for me",
+      "french": "Merci d'avoir pris le relais pour moi.",
+      "transliteration": "Merci d'avoir pris le reLAIS pour moi.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-26T14:43:17.990093"
+    },
+    {
+      "english": "Ask what matters, then act.",
+      "french": "Demande ce qui compte, puis agis.",
+      "transliteration": "DeMANDE chE qui COMPTE, puis AGis.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-26T14:43:17.990093"
+    },
+    {
+      "english": "Win with calm, not control.",
+      "french": "Gagne avec calme, pas avec contrôle.",
+      "transliteration": "Gagne avEc calME, pas avEc conTRÔle.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-26T14:43:17.990093"
+    },
+    {
+      "english": "Don’t chase certainty, choose courage.",
+      "french": "Ne cours pas après la certitude, choisis le courage.",
+      "transliteration": "Ne COURs pas aPRès la CERtiTUD, choiSIS le couRAGE.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-26T14:43:17.990093"
+    },
+    {
+      "english": "Say less, listen more deeply.",
+      "french": "Dis moins, écoute plus profondément.",
+      "transliteration": "Dis MOINs, éCOUte plUs proFONdément.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-26T14:43:17.990093"
+    },
+    {
+      "english": "Let shame fade, learn, and move.",
+      "french": "Laisse la honte s’effacer, apprends, puis avance.",
+      "transliteration": "LaisSE la HONte seffAcer, apPRends, puis aVANCE.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-26T14:43:17.990093"
+    },
+    {
+      "english": "Choose the next right step.",
+      "french": "Choisis le prochain bon pas.",
+      "transliteration": "ChoiSIS le proCHAIN bon pas.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-26T14:43:17.990093"
+    },
+    {
+      "english": "Your limits are also your compass.",
+      "french": "Tes limites sont aussi ton boussole.",
+      "transliteration": "Tes LImites sont ausSI ton bouSSolle.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-26T14:43:17.990093"
     }
   ],
-  "last_updated": "2026-11-25T15:18:37.088355"
+  "last_updated": "2026-11-26T14:43:17.990093"
 }
