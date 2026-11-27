@@ -27771,7 +27771,399 @@
       "transliteration": "Tes LImites sont ausSI ton bouSSolle.",
       "category": "Wisdom",
       "generated_at": "2026-11-26T14:43:17.990093"
+    },
+    {
+      "english": "Brainstorm while my coffee cools",
+      "french": "Je brainstorme pendant que mon café refroidit.",
+      "transliteration": "zhuh brain-storm PANDANT kuh mon ka-fay re-froiDIT.",
+      "category": "Creativity",
+      "generated_at": "2026-11-27T14:40:41.763530"
+    },
+    {
+      "english": "I write messy, then I edit",
+      "french": "J'écris sale, puis j'améliore.",
+      "transliteration": "zhay ek-ris sal, pui zhe-mah-lyor.",
+      "category": "Creativity",
+      "generated_at": "2026-11-27T14:40:41.763530"
+    },
+    {
+      "english": "Try one bold word, right now",
+      "french": "Essaie un mot audacieux, tout de suite.",
+      "transliteration": "essai un mot o-da-syeuh, tout duh SWEET.",
+      "category": "Creativity",
+      "generated_at": "2026-11-27T14:40:41.763530"
+    },
+    {
+      "english": "Turn doubts into weird directions",
+      "french": "Je transforme mes doutes en directions bizarres.",
+      "transliteration": "zhuh traaNSFORm mah daywtz ahn dee-rek-syohn bi-zaR.",
+      "category": "Creativity",
+      "generated_at": "2026-11-27T14:40:41.763530"
+    },
+    {
+      "english": "Make it personal, not perfect",
+      "french": "Fais-le personnel, pas parfait.",
+      "transliteration": "fayl dii per-so-NAHL, pah par-fay.",
+      "category": "Creativity",
+      "generated_at": "2026-11-27T14:40:41.763530"
+    },
+    {
+      "english": "Change the setting, change the idea",
+      "french": "Change de décor, et l’idée change aussi.",
+      "transliteration": "shansj duh de-kor, eh lee-dee shange oh-si.",
+      "category": "Creativity",
+      "generated_at": "2026-11-27T14:40:41.763530"
+    },
+    {
+      "english": "I remix yesterday’s notes for today",
+      "french": "Je remixe mes notes d’hier pour aujourd’hui.",
+      "transliteration": "zhuh ray-miks may noht day-yiir pour oh-zhur- dWEE.",
+      "category": "Creativity",
+      "generated_at": "2026-11-27T14:40:41.763530"
+    },
+    {
+      "english": "I want to train smarter, not harder.",
+      "french": "Je veux m’entraîner plus intelligemment, pas plus dur.",
+      "transliteration": "Je veux m'ENTRAINER plus intelligemment, pas plus dur.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-27T14:40:41.763530"
+    },
+    {
+      "english": "How do I choose my resistance level?",
+      "french": "Comment choisir mon niveau de résistance ?",
+      "transliteration": "COMMent choisir mon NIVeau de RESistance ?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-27T14:40:41.763530"
+    },
+    {
+      "english": "Can you help me with my breathing?",
+      "french": "Tu peux m’aider pour ma respiration ?",
+      "transliteration": "Tu peux m'ADer pour ma resPIration ?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-27T14:40:41.763530"
+    },
+    {
+      "english": "I get cramps, what should I do?",
+      "french": "J’ai des crampes, je fais quoi ?",
+      "transliteration": "J'ai des CRAMPES, je fais quoi ?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-27T14:40:41.763530"
+    },
+    {
+      "english": "Is it okay to work out with a cold?",
+      "french": "Je peux m’entraîner même avec un rhume ?",
+      "transliteration": "Je peux m'ENTRAINER même avec un RHUMe ?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-27T14:40:41.763530"
+    },
+    {
+      "english": "Where’s the water station, please?",
+      "french": "Où est la station d’eau, s’il te plaît ?",
+      "transliteration": "OU est la STAtion d'EAU, s'il te plaît ?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-27T14:40:41.763530"
+    },
+    {
+      "english": "I’m sweating, so I need a towel.",
+      "french": "Je transpire, donc il me faut une serviette.",
+      "transliteration": "Je TRANSpire, donc il me FAUT une serVIette.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-27T14:40:41.763530"
+    },
+    {
+      "english": "I need to reach you urgently",
+      "french": "J ai besoin de te joindre en urgence, s il te plaît.",
+      "transliteration": "Je ai BEZOIN de te joindre an URjanss, s il te plait.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-27T14:40:41.763530"
+    },
+    {
+      "english": "Sorry, wrong number, my mistake",
+      "french": "Désolé, numéro incorrect, je me suis trompé.",
+      "transliteration": "DeSOle, NUMEro inkorREKT, je me suis tromPE.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-27T14:40:41.763530"
+    },
+    {
+      "english": "Can you speak now, please?",
+      "french": "Tu peux parler maintenant, s il te plaît ?",
+      "transliteration": "Tu peU PARler mainTEnant, s il te plait ?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-27T14:40:41.763530"
+    },
+    {
+      "english": "Call me when you are free",
+      "french": "Appelle-moi quand tu seras libre.",
+      "transliteration": "A-pel-moi kènd tu seRA li-bre.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-27T14:40:41.763530"
+    },
+    {
+      "english": "I will call you back soon",
+      "french": "Je te rappelle très bientôt, promis.",
+      "transliteration": "Je te raPèlle TRES BIenTOt, promis.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-27T14:40:41.763530"
+    },
+    {
+      "english": "Did you get my message?",
+      "french": "Tu as reçu mon message ?",
+      "transliteration": "Tu a REsu mon mesSAJ ?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-27T14:40:41.763530"
+    },
+    {
+      "english": "Thanks, that helps a lot",
+      "french": "Merci, ça m aide beaucoup.",
+      "transliteration": "MERsi, sa maIDE BOcoup.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-27T14:40:41.763530"
+    },
+    {
+      "english": "Sorry, I was careless.",
+      "french": "Pardon, j’ai été maladroit.",
+      "transliteration": "Par-dON, j’ai-TE MAL-adroit.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-27T14:40:41.763530"
+    },
+    {
+      "english": "Sorry, I didn’t mean to hurt you.",
+      "french": "Pardon, je ne voulais pas te blesser.",
+      "transliteration": "Par-dON, je ne vou-LAI-sais pas te BLESS-er.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-27T14:40:41.763530"
+    },
+    {
+      "english": "My mistake, I read it wrong.",
+      "french": "Pardon, j’ai mal lu.",
+      "transliteration": "Par-dON, j’ai mal LYU.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-27T14:40:41.763530"
+    },
+    {
+      "english": "I’m sorry, that was insensitive.",
+      "french": "Pardon, c’était maladroit et méchant.",
+      "transliteration": "Par-dON, SE-tait MAL-adroit ay MECHANT.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-27T14:40:41.763530"
+    },
+    {
+      "english": "Sorry, I jumped ahead again.",
+      "french": "Pardon, je me suis emballé trop vite.",
+      "transliteration": "Par-dON, je me SUIS an-BAH-lay trop VIT.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-27T14:40:41.763530"
+    },
+    {
+      "english": "Forgive me, I forgot to reply.",
+      "french": "Pardon, j’ai oublié de répondre.",
+      "transliteration": "Par-dON, j’ai ou-BLI-ay de re-PON-dre.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-27T14:40:41.763530"
+    },
+    {
+      "english": "Sorry, I took your words literally.",
+      "french": "Pardon, j’ai pris tes mots au pied de la lettre.",
+      "transliteration": "Par-dON, j’ai PRE-zay tes mots oh pYED de la LET-tr.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-27T14:40:41.763530"
+    },
+    {
+      "english": "I love how you make me feel.",
+      "french": "Je t’aime comme tu me fais sentir.",
+      "transliteration": "Je t'aime COMME tu me fais SEN-tir.",
+      "category": "Love",
+      "generated_at": "2026-11-27T14:40:41.763530"
+    },
+    {
+      "english": "Let’s keep choosing each other.",
+      "french": "Continuons à nous choisir, encore et toujours.",
+      "transliteration": "Con-tiNONS à nous CHOi-sir, en-cor et tou-jours.",
+      "category": "Love",
+      "generated_at": "2026-11-27T14:40:41.763530"
+    },
+    {
+      "english": "In your arms, everything slows down.",
+      "french": "Dans tes bras, tout ralentit.",
+      "transliteration": "Dans TES bras, tout raLEN-tit.",
+      "category": "Love",
+      "generated_at": "2026-11-27T14:40:41.763530"
+    },
+    {
+      "english": "You’re my home, not just a place.",
+      "french": "Tu es mon foyer, pas seulement un endroit.",
+      "transliteration": "Tu es mon FO-yer, pas seu-LE-ment un en-droit.",
+      "category": "Love",
+      "generated_at": "2026-11-27T14:40:41.763530"
+    },
+    {
+      "english": "You calm my mind, instantly.",
+      "french": "Tu apaises mon esprit, tout de suite.",
+      "transliteration": "Tu a-PAi-ses mon eS-prit, tout de SUi-te.",
+      "category": "Love",
+      "generated_at": "2026-11-27T14:40:41.763530"
+    },
+    {
+      "english": "I want your laughter in my days.",
+      "french": "Je veux ton rire dans mes journées.",
+      "transliteration": "Je VEUX ton RI-re dans mes JOUR-nées.",
+      "category": "Love",
+      "generated_at": "2026-11-27T14:40:41.763530"
+    },
+    {
+      "english": "I’d pick you in every season.",
+      "french": "Je te choisirais, peu importe la saison.",
+      "transliteration": "Je te CHOi-siRAIS, peu imPOR-te la SAi-son.",
+      "category": "Love",
+      "generated_at": "2026-11-27T14:40:41.763530"
+    },
+    {
+      "english": "You make a strong point there.",
+      "french": "Tu fais un argument très solide, là.",
+      "transliteration": "Tu fais un aRguMENT TRÈS soLIDE, LA.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-27T14:40:41.763530"
+    },
+    {
+      "english": "I agree, and here’s why.",
+      "french": "Je suis d’accord, et voilà pourquoi.",
+      "transliteration": "Je suis d’acCORD, e VOiLA pourQUOI.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-27T14:40:41.763530"
+    },
+    {
+      "english": "That’s not my experience, though.",
+      "french": "Ce n’est pas mon expérience, pourtant.",
+      "transliteration": "Ce n’est pas mon eXPÉriENCE, pourTANT.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-27T14:40:41.763530"
+    },
+    {
+      "english": "I see it differently, honestly.",
+      "french": "Je le vois autrement, franchement.",
+      "transliteration": "Je le vois auTREment, franCHEment.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-27T14:40:41.763530"
+    },
+    {
+      "english": "Fair enough, let’s compromise.",
+      "french": "D’accord, faisons un compromis.",
+      "transliteration": "D’aCCORD, faISons un comPROMis.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-27T14:40:41.763530"
+    },
+    {
+      "english": "I agree, let’s move forward.",
+      "french": "Je suis d’accord, allons de l’avant.",
+      "transliteration": "Je suis d’acCORD, aLLons de l’aVANT.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-27T14:40:41.763530"
+    },
+    {
+      "english": "I’m not convinced, not yet.",
+      "french": "Je ne suis pas convaincu, pour l’instant.",
+      "transliteration": "Je ne suis pas conVainCU, pour l’insTANT.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-27T14:40:41.763530"
+    },
+    {
+      "english": "I feel hopeful about next week.",
+      "french": "Je me sens plein d'espoir pour la semaine prochaine.",
+      "transliteration": "Je me sens plein d'ESpoir pouR la seMAine proCHAINE.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-27T14:40:41.763530"
+    },
+    {
+      "english": "My heart sinks when I hear that.",
+      "french": "Mon cœur se serre quand j'entends ça.",
+      "transliteration": "Mon COeur se SERre quand j'enTENDS ça.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-27T14:40:41.763530"
+    },
+    {
+      "english": "I’m feeling confident, finally.",
+      "french": "Je me sens enfin confiant.",
+      "transliteration": "Je me sens enFIN conFIant.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-27T14:40:41.763530"
+    },
+    {
+      "english": "I get annoyed by small talk.",
+      "french": "Je m'énerve avec les petites conversations.",
+      "transliteration": "Je m'éNERve avec les peTItes conVerSA ti ons.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-27T14:40:41.763530"
+    },
+    {
+      "english": "I’m kind of embarrassed right now.",
+      "french": "Je suis un peu gêné en ce moment.",
+      "transliteration": "Je suis un peu gENE en ce MOment.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-27T14:40:41.763530"
+    },
+    {
+      "english": "I’m proud of how far you’ve come.",
+      "french": "Je suis fier de tout le chemin que tu as parcouru.",
+      "transliteration": "Je suis fiER de tout le CHEmin que tu as parCOuru.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-27T14:40:41.763530"
+    },
+    {
+      "english": "I’m relieved the call went well.",
+      "french": "Je suis soulagé que l'appel se soit bien passé.",
+      "transliteration": "Je suis souLA gé que l'apPEL se soit bien PASsé.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-27T14:40:41.763530"
+    },
+    {
+      "english": "Lovely sky, isn’t it right now?",
+      "french": "Quel beau ciel, n’est-ce pas, là tout de suite ?",
+      "transliteration": "Kel bo syel, n’est-ce pas, la tou de suite ?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-27T14:40:41.763530"
+    },
+    {
+      "english": "Is it going to snow today?",
+      "french": "Est-ce qu’il va neiger aujourd’hui ?",
+      "transliteration": "Es-ke il va nèjé au-jour-d’hui ?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-27T14:40:41.763530"
+    },
+    {
+      "english": "That sunset looks amazing.",
+      "french": "Ce coucher de soleil a l’air magnifique.",
+      "transliteration": "Se kou-sheh de so-lèy a l’air ma-gnif-ik",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-27T14:40:41.763530"
+    },
+    {
+      "english": "The air feels fresh for once.",
+      "french": "L’air est étonnamment frais aujourd’hui.",
+      "transliteration": "L’air èt eto-nan-mang frais au-jour-d’hui",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-27T14:40:41.763530"
+    },
+    {
+      "english": "Do you hear thunder somewhere?",
+      "french": "Tu entends le tonnerre, quelque part ?",
+      "transliteration": "Tu an-tan-le ton-nèr, quelke part ?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-27T14:40:41.763530"
+    },
+    {
+      "english": "Looks like fog is lifting.",
+      "french": "On dirait que le brouillard se dissipe.",
+      "transliteration": "On di-rè que le brou-yar se dis-si-p",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-27T14:40:41.763530"
+    },
+    {
+      "english": "Is the temperature dropping soon?",
+      "french": "La température baisse bientôt ?",
+      "transliteration": "La te-pèr-a-tyr bèsse bi-en-to",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-27T14:40:41.763530"
     }
   ],
-  "last_updated": "2026-11-26T14:43:17.990093"
+  "last_updated": "2026-11-27T14:40:41.763530"
 }
