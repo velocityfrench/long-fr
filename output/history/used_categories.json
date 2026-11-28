@@ -563,7 +563,39 @@
     {
       "category": "Weather & Small Talk",
       "date": "2026-11-27"
+    },
+    {
+      "category": "Emergency & Health",
+      "date": "2026-11-28"
+    },
+    {
+      "category": "Banking & Money",
+      "date": "2026-11-28"
+    },
+    {
+      "category": "Kindness",
+      "date": "2026-11-28"
+    },
+    {
+      "category": "Doctor & Pharmacy",
+      "date": "2026-11-28"
+    },
+    {
+      "category": "Patience",
+      "date": "2026-11-28"
+    },
+    {
+      "category": "Common Native Slang",
+      "date": "2026-11-28"
+    },
+    {
+      "category": "Confidence",
+      "date": "2026-11-28"
+    },
+    {
+      "category": "Shopping & Prices",
+      "date": "2026-11-28"
     }
   ],
-  "last_updated": "2026-11-27T14:40:41.780029"
+  "last_updated": "2026-11-28T13:52:10.557027"
 }

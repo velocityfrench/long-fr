@@ -28163,7 +28163,399 @@
       "transliteration": "La te-pèr-a-tyr bèsse bi-en-to",
       "category": "Weather & Small Talk",
       "generated_at": "2026-11-27T14:40:41.763530"
+    },
+    {
+      "english": "I feel dizzy, I might pass out.",
+      "french": "Je me sens étourdi, je vais peut-être m évanouir.",
+      "transliteration": "Je me sens éTOURdi, je vais peut-ÊTRE m évaNOUIR.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-28T13:52:10.532167"
+    },
+    {
+      "english": "My lips are turning blue, help.",
+      "french": "Mes lèvres deviennent bleues, aidez-moi.",
+      "transliteration": "Mes lèvres deVIennent bleues, aiDEZ-moi.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-28T13:52:10.532167"
+    },
+    {
+      "english": "My speech is slurred, please.",
+      "french": "Ma parole est difficile, s il vous plaît.",
+      "transliteration": "Ma PArole est difFIcile, s il vous PLAÎT.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-28T13:52:10.532167"
+    },
+    {
+      "english": "One side of my body feels weak.",
+      "french": "J ai une faiblesse d un côté de mon corps.",
+      "transliteration": "J ai une faiBLESse d un CÔTÉ de mon CORPS.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-28T13:52:10.532167"
+    },
+    {
+      "english": "I have sudden severe headache.",
+      "french": "J ai un mal de tête soudain et très violent.",
+      "transliteration": "J ai un mal de TÊte SOUdain et très VIOlent.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-28T13:52:10.532167"
+    },
+    {
+      "english": "My vision is blurry, suddenly.",
+      "french": "Ma vision est trouble d un coup.",
+      "transliteration": "Ma VIsion est TROUble d un COUP.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-28T13:52:10.532167"
+    },
+    {
+      "english": "I have a high fever, can you come?",
+      "french": "J ai une forte fièvre, vous pouvez venir ?",
+      "transliteration": "J ai une FORte fiÈvre, vous pouVEZ veNIR ?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-28T13:52:10.532167"
+    },
+    {
+      "english": "Can I pay by bank transfer?",
+      "french": "Je peux payer par virement bancaire ?",
+      "transliteration": "Je peUX PAY-er par VIRE-mon BAN-Kair",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-28T13:52:10.532167"
+    },
+    {
+      "english": "How do I set up alerts?",
+      "french": "Comment activer les alertes de paiement ?",
+      "transliteration": "Com-MENT ak-ti-VER les a-LERT de pai-ye-MAN",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-28T13:52:10.532167"
+    },
+    {
+      "english": "I think there’s a fraud charge.",
+      "french": "Je crois qu’il y a une opération frauduleuse.",
+      "transliteration": "Je crois kil ya une o-pé-ra-SYON froo-dyoo-LEUZ",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-28T13:52:10.532167"
+    },
+    {
+      "english": "Block my card, please, immediately.",
+      "french": "Bloquez ma carte, s’il vous plaît, tout de suite.",
+      "transliteration": "BLO-ké ma kart, siil vous plait, tout de SWIT",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-28T13:52:10.532167"
+    },
+    {
+      "english": "I lost my card, what now?",
+      "french": "J’ai perdu ma carte, que dois-je faire ?",
+      "transliteration": "Jai per-DYU ma kart, que DOUIS-je FAIR",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-28T13:52:10.532167"
+    },
+    {
+      "english": "Can you send me a new PIN?",
+      "french": "Vous pouvez me renvoyer mon code PIN ?",
+      "transliteration": "Vous pou-VE me ran-vwAYER mon kod PIN",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-28T13:52:10.532167"
+    },
+    {
+      "english": "Do you offer overdraft protection?",
+      "french": "Proposez-vous une protection contre le découvert ?",
+      "transliteration": "Pro-po-ZEZ-vous une pro-teK-syon kontre luh de-kouvair",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-28T13:52:10.532167"
+    },
+    {
+      "english": "Say merci, then mean it",
+      "french": "Dis merci, et tu le penses",
+      "transliteration": "Dis merci, e tu le PENSES",
+      "category": "Kindness",
+      "generated_at": "2026-11-28T13:52:10.532167"
+    },
+    {
+      "english": "Invite them to speak, patiently",
+      "french": "Invite-les à parler, calmement",
+      "transliteration": "inVITE-les a parLer, calMEMENT",
+      "category": "Kindness",
+      "generated_at": "2026-11-28T13:52:10.532167"
+    },
+    {
+      "english": "Ask permission before you touch",
+      "french": "Demande la permission avant de toucher",
+      "transliteration": "DeMANde la perMIsion aVANT de TOUCHER",
+      "category": "Kindness",
+      "generated_at": "2026-11-28T13:52:10.532167"
+    },
+    {
+      "english": "Leave the last seat, always",
+      "french": "Laisse la dernière place, toujours",
+      "transliteration": "Laisse la derNIERE place, TOUJOURS",
+      "category": "Kindness",
+      "generated_at": "2026-11-28T13:52:10.532167"
+    },
+    {
+      "english": "Correct with care, not with blame",
+      "french": "Corrige avec douceur, sans accuser",
+      "transliteration": "CORrige aVec douCEUR, sans acCUser",
+      "category": "Kindness",
+      "generated_at": "2026-11-28T13:52:10.532167"
+    },
+    {
+      "english": "Take notes for a teammate",
+      "french": "Prends des notes pour ton équipe",
+      "transliteration": "Prends des NOtes pour ton EQUIPE",
+      "category": "Kindness",
+      "generated_at": "2026-11-28T13:52:10.532167"
+    },
+    {
+      "english": "Wash their cup, no big deal",
+      "french": "Rince sa tasse, comme si de rien n’était",
+      "transliteration": "RINce sa TASSE, comME si de rien NEtaIT",
+      "category": "Kindness",
+      "generated_at": "2026-11-28T13:52:10.532167"
+    },
+    {
+      "english": "I need to renew my prescription",
+      "french": "Je veux renouveler mon ordonnance, s il vous plaît.",
+      "transliteration": "zhuh vo uhl roh-nyeh-lay mon or-don-nans, sil voo play.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-28T13:52:10.532167"
+    },
+    {
+      "english": "Can you confirm this medication",
+      "french": "Vous pouvez confirmer ce médicament ?",
+      "transliteration": "voo poo-vez kon-FER-may suh may-dee-kah-mohn ?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-28T13:52:10.532167"
+    },
+    {
+      "english": "Can I have the generic version",
+      "french": "Est ce que je peux avoir le générique ?",
+      "transliteration": "ess keh zhuh puh zhoir luh zhay-neh-ree-k ?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-28T13:52:10.532167"
+    },
+    {
+      "english": "How should I take it exactly",
+      "french": "Comment le prendre exactement, svp ?",
+      "transliteration": "koh-mon luh prahn-dre ek-zak-tuh-mohn, say-vay-peu ?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-28T13:52:10.532167"
+    },
+    {
+      "english": "Can you measure my blood pressure",
+      "french": "Vous pouvez me prendre ma tension, s il vous plaît.",
+      "transliteration": "voo poo-vez muh prahn-dre mah tahn-sy-on, sil voo play.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-28T13:52:10.532167"
+    },
+    {
+      "english": "Is this dosage for adults",
+      "french": "Cette dose est pour les adultes ?",
+      "transliteration": "sayt dohz est pour layz ahd-ult ?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-28T13:52:10.532167"
+    },
+    {
+      "english": "I feel worse since yesterday",
+      "french": "Je me sens plus mal qu hier, pouvez vous voir ça ?",
+      "transliteration": "zhuh muh san pwl mal kuh-zheer, poo-vez voo voir sah ?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-28T13:52:10.532167"
+    },
+    {
+      "english": "I can pause without guilt.",
+      "french": "Je peux faire une pause sans culpabiliser.",
+      "transliteration": "Je peux faire une PAUSE sans cul-pabil-i-ZER",
+      "category": "Patience",
+      "generated_at": "2026-11-28T13:52:10.532167"
+    },
+    {
+      "english": "Calm focus beats frantic effort.",
+      "french": "Le calme et la clarté valent mieux que le stress.",
+      "transliteration": "Le CALME et la CLAR-TÉ valent mieux que le STRESS",
+      "category": "Patience",
+      "generated_at": "2026-11-28T13:52:10.532167"
+    },
+    {
+      "english": "I wait, then I choose.",
+      "french": "J’attends, puis je choisis.",
+      "transliteration": "Ja-TENd, puis je CHOIsis",
+      "category": "Patience",
+      "generated_at": "2026-11-28T13:52:10.532167"
+    },
+    {
+      "english": "Rushing backfire, I stay steady.",
+      "french": "Quand je cours, ça se complique, alors je ralentis.",
+      "transliteration": "Quand je COURS, ça se com-Pli-que, a-lors je ra-Len-tis",
+      "category": "Patience",
+      "generated_at": "2026-11-28T13:52:10.532167"
+    },
+    {
+      "english": "Give them time to answer.",
+      "french": "Laisse-leur le temps de répondre.",
+      "transliteration": "Laisse-leur le TEMPS de ré-pondre",
+      "category": "Patience",
+      "generated_at": "2026-11-28T13:52:10.532167"
+    },
+    {
+      "english": "I can repeat this, gently.",
+      "french": "Je peux recommencer, doucement.",
+      "transliteration": "Je peux re-com-MEN-cer, DOU-Ce-MENT",
+      "category": "Patience",
+      "generated_at": "2026-11-28T13:52:10.532167"
+    },
+    {
+      "english": "My pace is still my pace.",
+      "french": "Mon rythme reste mon rythme, même plus lentement.",
+      "transliteration": "Mon RYTHME reste mon RYTHME, même plus len-te-MENT",
+      "category": "Patience",
+      "generated_at": "2026-11-28T13:52:10.532167"
+    },
+    {
+      "english": "That’s not my problem, dude.",
+      "french": "C’est pas mon souci, mec.",
+      "transliteration": "say pah mon soo-CEE, mayk",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-28T13:52:10.532167"
+    },
+    {
+      "english": "I’m broke, like, for real.",
+      "french": "Je suis à sec, vraiment.",
+      "transliteration": "zhuh swee ah sek, vay-rauh-mahn",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-28T13:52:10.532167"
+    },
+    {
+      "english": "Don’t ghost me, please.",
+      "french": "Ne me ghoste pas, s’il te plaît.",
+      "transliteration": "nuh muh ghost pah, seel tuh pleh",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-28T13:52:10.532167"
+    },
+    {
+      "english": "Wait, you’re kidding, right?",
+      "french": "Attends, tu rigoles, là, ou quoi ?",
+      "transliteration": "ah-tahn, too ree-gol, lah, oo kwah",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-28T13:52:10.532167"
+    },
+    {
+      "english": "I’ll hit you back soon.",
+      "french": "Je te recontacte vite.",
+      "transliteration": "zhuh tuh ruh-kohn-TAKT vah-te",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-28T13:52:10.532167"
+    },
+    {
+      "english": "My boss is breathing down me.",
+      "french": "Mon patron me met la pression.",
+      "transliteration": "mohn pah-tron muh may lah preh-see-ohn",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-28T13:52:10.532167"
+    },
+    {
+      "english": "Stop scrolling, come with us.",
+      "french": "Arrête de scroller, viens.",
+      "transliteration": "ah-RET duh skroh-lay, vyEN",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-28T13:52:10.532167"
+    },
+    {
+      "english": "I trust myself to figure it out",
+      "french": "Je me fais confiance, je vais y arriver.",
+      "transliteration": "Je me fais CONFIance, je vais y arRIVer.",
+      "category": "Confidence",
+      "generated_at": "2026-11-28T13:52:10.532167"
+    },
+    {
+      "english": "My voice matters, I say it",
+      "french": "Ma voix compte, je le dis.",
+      "transliteration": "Ma VOIX compte, je le dis.",
+      "category": "Confidence",
+      "generated_at": "2026-11-28T13:52:10.532167"
+    },
+    {
+      "english": "I can handle questions, even awkward ones",
+      "french": "Je gère les questions, même les plus gênantes.",
+      "transliteration": "Je GÈre les QUEStions, même les plus gênANtes.",
+      "category": "Confidence",
+      "generated_at": "2026-11-28T13:52:10.532167"
+    },
+    {
+      "english": "I practice, then I move forward",
+      "french": "Je m’entraîne, puis j’avance.",
+      "transliteration": "Je mENtraîne, puis j’aVANCE.",
+      "category": "Confidence",
+      "generated_at": "2026-11-28T13:52:10.532167"
+    },
+    {
+      "english": "Pause, breathe, then respond clearly",
+      "french": "Je fais une pause, je respire, et je réponds clairement.",
+      "transliteration": "Je fais une PAUSE, je resPIRE, et je réPONDS CLAirement.",
+      "category": "Confidence",
+      "generated_at": "2026-11-28T13:52:10.532167"
+    },
+    {
+      "english": "I deserve respect, I set the tone",
+      "french": "Je mérite le respect, je donne le ton.",
+      "transliteration": "Je MÉrite le resPECT, je DONne le TON.",
+      "category": "Confidence",
+      "generated_at": "2026-11-28T13:52:10.532167"
+    },
+    {
+      "english": "I take feedback, and I stay steady",
+      "french": "Je prends le feedback, et je reste stable.",
+      "transliteration": "Je PRENDS le FEEDback, et je reste STEable.",
+      "category": "Confidence",
+      "generated_at": "2026-11-28T13:52:10.532167"
+    },
+    {
+      "english": "Is there anything cheaper than this?",
+      "french": "Y a-t-il quelque chose de moins cher que ça ?",
+      "transliteration": "ya-til kèlke chose de mõs CHÈR que sa",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-28T13:52:10.532167"
+    },
+    {
+      "english": "Do you accept credit cards?",
+      "french": "Vous prenez les cartes de crédit ?",
+      "transliteration": "vu preNEZ lè kart de KRÉ-di",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-28T13:52:10.532167"
+    },
+    {
+      "english": "Do you have a student discount?",
+      "french": "Vous faites une remise pour étudiants ?",
+      "transliteration": "vu feTẼn ỹ rezim pou es-tya-NYÃ",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-28T13:52:10.532167"
+    },
+    {
+      "english": "What’s the price per item?",
+      "french": "C’est combien pour un article ?",
+      "transliteration": "cè kombiEN pour œ̃ ar-ti-kl",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-28T13:52:10.532167"
+    },
+    {
+      "english": "Is this included with the bundle?",
+      "french": "C’est compris dans le pack ?",
+      "transliteration": "cè kom-Pri dans lə pak",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-28T13:52:10.532167"
+    },
+    {
+      "english": "How fast can I get it?",
+      "french": "Vous pouvez me livrer quand ?",
+      "transliteration": "vu pou-VEZ mœ li-vre KÃ",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-28T13:52:10.532167"
+    },
+    {
+      "english": "Can I see other colors?",
+      "french": "Je peux voir d’autres couleurs ?",
+      "transliteration": "je pe voir d’oTR kOU-leur",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-28T13:52:10.532167"
     }
   ],
-  "last_updated": "2026-11-27T14:40:41.763530"
+  "last_updated": "2026-11-28T13:52:10.532167"
 }
